@@ -3,6 +3,7 @@ import tensorflow as tf
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+from gensim.models import Word2Vec
 
 ques = []
 ans1 = []
@@ -46,29 +47,13 @@ with open('formspring_data.csv') as csv_file:
 
                     line_count += 1
 
-    '''print(ques)
-    print(ans1)
-    print(severity1)
-    print(bully1)
-    print(ans2)
-    print(severity2)
-    print(bully2)
-    print(ans3)
-    print(severity3)
-    print(bully3)'''
-
 ans = ans1+ans2+ans3
 isbully = isbully1+isbully2+isbully3
 severity = severity1+severity2+severity3
 bully = bully1+bully2+bully3
 
-#print(fullans)
-#print(len(ans))
-#print(isbully)
-#print(severity)
-#print(bully)
-
-#preprocessing
+#######################################################################################################
+#preprocessing and cleanup
 
 stop_words = set(stopwords.words('english'))
 punctuations = set(string.punctuation)
@@ -82,7 +67,22 @@ for a in range(len(ans)):
     no_sym = [w for w in no_punc if not w in specialsym] #remove special symbols
     filtered_sentence = [w for w in no_sym if not w in stop_words] #remove stop words
 
-    ans[a] = ' '.join(filtered_sentence)
+    #ans[a] = ' '.join(filtered_sentence)
+    ans[a] = filtered_sentence
 
     #print(ans[a])
 
+for i in range(len(isbully)):
+    if isbully[i] == 'No':
+        isbully[i] = 0
+    elif isbully[i] == 'Yes':
+        isbully[i] = 1
+
+model = Word2Vec(ans, size=100, window=5, min_count=3, workers=3)
+vectors = model.wv
+
+print(vectors.similarity('music','face'))
+print(vectors.most_similar('book'))
+print(vectors['sing'])
+
+#del model
