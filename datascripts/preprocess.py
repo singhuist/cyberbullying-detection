@@ -1,8 +1,10 @@
 import csv
 import tensorflow as tf
+from tensorflow import keras
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+import numpy as np
 #from gensim.models import Word2Vec
 import math
 
@@ -74,10 +76,10 @@ for a in range(len(ans)):
     #print(ans[a])
 
 for i in range(len(isbully)):
-    if isbully[i] == 'No':
-        isbully[i] = 0
-    elif isbully[i] == 'Yes':
+    if isbully[i] == 'Yes':
         isbully[i] = 1
+    else:
+        isbully[i] = 0
 
 """model = Word2Vec(ans, size=100, window=5, min_count=3, workers=3)
 vectors = model.wv
@@ -100,11 +102,66 @@ for a in ans:
             counter = counter + 1
         a[w] = dictionary[word]
 
-print(ans[:5])
 
-train_data = ans[:math.floor(0.8*len(ans))]
-train_label = isbully[:math.floor(0.8*len(isbully))]
+### building the ANN model ###
+# https://www.tensorflow.org/tutorials/keras/basic_text_classification#top_of_page
 
-test_data = ans[len(ans)-100:len(ans)]
-test_label = isbully[len(isbully)-100:len(isbully)]
+train_data = ans[:30000]
+train_label = isbully[:30000]
 
+test_data = ans[30000:]
+test_label = isbully[30000:]
+
+print(train_data[100:110], "yo")
+print(train_label[100:110], "gah")
+print(test_data[100:110], "errr")
+print(test_label[100:110], "eeeh")
+
+train_data = keras.preprocessing.sequence.pad_sequences(train_data,
+                                                        value=0,
+                                                        padding='post',
+                                                        maxlen=100)
+
+test_data = keras.preprocessing.sequence.pad_sequences(test_data,
+                                                       value=0,
+                                                       padding='post',
+                                                       maxlen=100)
+
+#print((len(train_data[0]),len(train_data[1])))
+
+#########################################################################
+## build the model
+# input shape is the vocabulary count used (10,000 words)
+vocab_size = 100000
+
+model = keras.Sequential()
+model.add(keras.layers.Embedding(vocab_size, 16))
+model.add(keras.layers.GlobalAveragePooling1D())
+model.add(keras.layers.Dense(16, activation=tf.nn.relu))
+model.add(keras.layers.Dense(1, activation=tf.nn.sigmoid))
+
+#model.summary()
+
+model.compile(optimizer=tf.train.AdamOptimizer(),
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+
+## validation data
+x_val = train_data[:200]
+partial_x_train = train_data[200:30000]
+
+y_val = train_label[:200]
+partial_y_train = train_label[200:30000]
+
+##train the model
+history = model.fit(partial_x_train,
+                    partial_y_train,
+                    epochs=20,
+                    batch_size=512,
+                    validation_data=(x_val, y_val),
+                    verbose=1)
+
+#evaluate the model
+results = model.evaluate(test_data, test_label)
+
+print(results)
