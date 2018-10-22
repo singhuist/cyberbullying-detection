@@ -3,9 +3,10 @@ import tensorflow as tf
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
-from gensim.models import Word2Vec
+#from gensim.models import Word2Vec
+import math
 
-ques = []
+#ques = []
 ans1 = []
 isbully1 = []
 severity1 = []
@@ -78,11 +79,32 @@ for i in range(len(isbully)):
     elif isbully[i] == 'Yes':
         isbully[i] = 1
 
-model = Word2Vec(ans, size=100, window=5, min_count=3, workers=3)
+"""model = Word2Vec(ans, size=100, window=5, min_count=3, workers=3)
 vectors = model.wv
 
 print(vectors.similarity('music','face'))
 print(vectors.most_similar('book'))
 print(vectors['sing'])
+print(model['book'])
 
-#del model
+#del model"""
+
+#vectorising the sentences and words
+dictionary = {}
+counter = 0
+for a in ans:
+    for w in range(len(a)):
+        word = a[w]
+        if a[w] not in dictionary:
+            dictionary[word] = counter + 1
+            counter = counter + 1
+        a[w] = dictionary[word]
+
+print(ans[:5])
+
+train_data = ans[:math.floor(0.8*len(ans))]
+train_label = isbully[:math.floor(0.8*len(isbully))]
+
+test_data = ans[len(ans)-100:len(ans)]
+test_label = isbully[len(isbully)-100:len(isbully)]
+
