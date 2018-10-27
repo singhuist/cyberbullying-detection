@@ -106,15 +106,15 @@ for a in ans:
 ### building the ANN model ###
 # https://www.tensorflow.org/tutorials/keras/basic_text_classification#top_of_page
 
+train_accuracies = [] #stores the average of different cross validations
+val_accuracies = [] #stores the average of different cross validations
+
+train_losses = [] #stores the average of different cross validations
+val_losses = [] #stores the average of different cross validations
+
+
 #shuffling data and setting up cross-validation
 shuffdata = ShuffleSplit(n_splits=5, test_size=0.25, train_size=0.75) #shuffled data
-
-'''train_data = ans[:30000]
-train_label = isbully[:30000]
-
-test_data = ans[30000:]
-test_label = isbully[30000:]'''
-
 
 for train_index, test_index in shuffdata.split(ans,isbully):
 
@@ -148,9 +148,7 @@ for train_index, test_index in shuffdata.split(ans,isbully):
 
     #model.summary()
 
-    model.compile(optimizer=tf.train.AdamOptimizer(),
-                  loss='binary_crossentropy',
-                  metrics=['accuracy'])
+    model.compile(optimizer=tf.train.AdamOptimizer(),loss='binary_crossentropy',metrics=['accuracy'])
 
     ## validation data
     valsize = len(train_data)-math.floor(0.2*len(train_data))
@@ -161,7 +159,7 @@ for train_index, test_index in shuffdata.split(ans,isbully):
     partial_y_train = train_label[:valsize]
 
     ##train the model
-    history = model.fit(partial_x_train,partial_y_train,epochs=2,batch_size=100,validation_data=(x_val, y_val),verbose=1)
+    history = model.fit(partial_x_train,partial_y_train,epochs=10,batch_size=100,validation_data=(x_val, y_val),verbose=1)
 
     #evaluate the model
     results = model.evaluate(test_data, test_label)
@@ -171,14 +169,15 @@ for train_index, test_index in shuffdata.split(ans,isbully):
     history_dict = history.history
     history_dict.keys()
 
-    import matplotlib.pyplot as plt
+    #import matplotlib.pyplot as plt
 
     acc = history.history['acc']
     val_acc = history.history['val_acc']
     loss = history.history['loss']
     val_loss = history.history['val_loss']
 
-    epochs = range(1, len(acc) + 1)
+    '''epochs = range(1, len(acc) + 1)
+
 
     # "bo" is for "blue dot"
     plt.plot(epochs, loss, 'bo', label='Training loss')
@@ -191,15 +190,31 @@ for train_index, test_index in shuffdata.split(ans,isbully):
 
     plt.show()
 
-    plt.clf()   # clear figure
+    plt.clf()'''   # clear figure
+
     acc_values = history_dict['acc']
     val_acc_values = history_dict['val_acc']
 
-    plt.plot(epochs, acc, 'bo', label='Training acc')
+    '''plt.plot(epochs, acc, 'bo', label='Training acc')
     plt.plot(epochs, val_acc, 'b', label='Validation acc')
     plt.title('Training and validation accuracy')
     plt.xlabel('Epochs')
     plt.ylabel('Accuracy')
     plt.legend()
 
-    plt.show()
+    plt.show()'''
+
+    train_accuracies.append(sum(acc_values)/len(acc_values))
+    val_accuracies.append(sum(val_acc_values)/len(val_acc_values))
+
+
+import matplotlib.pyplot as plt
+kfold = range(1,len(train_accuracies)+1)
+plt.plot(kfold, train_accuracies, 'bo', label='Training acc')
+plt.plot(kfold, val_accuracies, 'b', label='Validation acc')
+plt.title('Training and validation accuracy')
+plt.xlabel('K-Fold')
+plt.ylabel('Accuracy')
+plt.legend()
+
+plt.show()
