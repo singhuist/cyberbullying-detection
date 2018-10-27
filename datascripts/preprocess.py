@@ -4,6 +4,7 @@ from tensorflow import keras
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+from sklearn.model_selection import ShuffleSplit
 import numpy as np
 #from gensim.models import Word2Vec
 import math
@@ -102,97 +103,103 @@ for a in ans:
             counter = counter + 1
         a[w] = dictionary[word]
 
-
 ### building the ANN model ###
 # https://www.tensorflow.org/tutorials/keras/basic_text_classification#top_of_page
 
-train_data = ans[:30000]
+#shuffling data and setting up cross-validation
+shuffdata = ShuffleSplit(n_splits=5, test_size=0.25, train_size=0.75) #shuffled data
+
+'''train_data = ans[:30000]
 train_label = isbully[:30000]
 
 test_data = ans[30000:]
-test_label = isbully[30000:]
+test_label = isbully[30000:]'''
 
-train_data = keras.preprocessing.sequence.pad_sequences(train_data,
-                                                        value=0,
-                                                        padding='post',
-                                                        maxlen=100)
 
-test_data = keras.preprocessing.sequence.pad_sequences(test_data,
-                                                       value=0,
-                                                       padding='post',
-                                                       maxlen=100)
+for train_index, test_index in shuffdata.split(ans,isbully):
 
-#print((len(train_data[0]),len(train_data[1])))
+    train_data = []
+    train_label = []
 
-#########################################################################
-## build the model
-# input shape is the vocabulary count used (10,000 words)
-vocab_size = 100000
+    test_data = []
+    test_label = []
 
-model = keras.Sequential()
-model.add(keras.layers.Embedding(vocab_size, 16))
-model.add(keras.layers.GlobalAveragePooling1D())
-model.add(keras.layers.Dense(16, activation=tf.nn.relu))
-model.add(keras.layers.Dense(1, activation=tf.nn.sigmoid))
+    for tr in train_index:
+        train_data.append(ans[tr])
+        train_label.append(isbully[tr])
 
-#model.summary()
+    for ts in test_index:
+        test_data.append(ans[ts])
+        test_label.append(isbully[ts])
 
-model.compile(optimizer=tf.train.AdamOptimizer(),
-              loss='binary_crossentropy',
-              metrics=['accuracy'])
+    #padding
+    train_data = keras.preprocessing.sequence.pad_sequences(train_data,value=0,padding='post',maxlen=100)
+    test_data = keras.preprocessing.sequence.pad_sequences(test_data,value=0,padding='post',maxlen=100)
 
-## validation data
-x_val = train_data[:200]
-partial_x_train = train_data[200:30000]
+    ## build the model
+    # input shape is the vocabulary count used (10,000 words)
+    vocab_size = 100000
 
-y_val = train_label[:200]
-partial_y_train = train_label[200:30000]
+    model = keras.Sequential()
+    model.add(keras.layers.Embedding(vocab_size, 16))
+    model.add(keras.layers.GlobalAveragePooling1D())
+    model.add(keras.layers.Dense(16, activation=tf.nn.relu))
+    model.add(keras.layers.Dense(1, activation=tf.nn.sigmoid))
 
-##train the model
-history = model.fit(partial_x_train,
-                    partial_y_train,
-                    epochs=50,
-                    batch_size=100,
-                    validation_data=(x_val, y_val),
-                    verbose=1)
+    #model.summary()
 
-#evaluate the model
-results = model.evaluate(test_data, test_label)
+    model.compile(optimizer=tf.train.AdamOptimizer(),
+                  loss='binary_crossentropy',
+                  metrics=['accuracy'])
 
-print(results)
+    ## validation data
+    valsize = len(train_data)-math.floor(0.2*len(train_data))
+    x_val = train_data[valsize:len(train_data)]
+    partial_x_train = train_data[:valsize]
 
-history_dict = history.history
-history_dict.keys()
+    y_val = train_label[valsize:len(train_data)]
+    partial_y_train = train_label[:valsize]
 
-import matplotlib.pyplot as plt
+    ##train the model
+    history = model.fit(partial_x_train,partial_y_train,epochs=2,batch_size=100,validation_data=(x_val, y_val),verbose=1)
 
-acc = history.history['acc']
-val_acc = history.history['val_acc']
-loss = history.history['loss']
-val_loss = history.history['val_loss']
+    #evaluate the model
+    results = model.evaluate(test_data, test_label)
 
-epochs = range(1, len(acc) + 1)
+    print(results)
 
-# "bo" is for "blue dot"
-plt.plot(epochs, loss, 'bo', label='Training loss')
-# b is for "solid blue line"
-plt.plot(epochs, val_loss, 'b', label='Validation loss')
-plt.title('Training and validation loss')
-plt.xlabel('Epochs')
-plt.ylabel('Loss')
-plt.legend()
+    history_dict = history.history
+    history_dict.keys()
 
-plt.show()
+    import matplotlib.pyplot as plt
 
-plt.clf()   # clear figure
-acc_values = history_dict['acc']
-val_acc_values = history_dict['val_acc']
+    acc = history.history['acc']
+    val_acc = history.history['val_acc']
+    loss = history.history['loss']
+    val_loss = history.history['val_loss']
 
-plt.plot(epochs, acc, 'bo', label='Training acc')
-plt.plot(epochs, val_acc, 'b', label='Validation acc')
-plt.title('Training and validation accuracy')
-plt.xlabel('Epochs')
-plt.ylabel('Accuracy')
-plt.legend()
+    epochs = range(1, len(acc) + 1)
 
-plt.show()
+    # "bo" is for "blue dot"
+    plt.plot(epochs, loss, 'bo', label='Training loss')
+    # b is for "solid blue line"
+    plt.plot(epochs, val_loss, 'b', label='Validation loss')
+    plt.title('Training and validation loss')
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.legend()
+
+    plt.show()
+
+    plt.clf()   # clear figure
+    acc_values = history_dict['acc']
+    val_acc_values = history_dict['val_acc']
+
+    plt.plot(epochs, acc, 'bo', label='Training acc')
+    plt.plot(epochs, val_acc, 'b', label='Validation acc')
+    plt.title('Training and validation accuracy')
+    plt.xlabel('Epochs')
+    plt.ylabel('Accuracy')
+    plt.legend()
+
+    plt.show()
