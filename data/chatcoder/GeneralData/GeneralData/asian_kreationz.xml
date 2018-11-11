@@ -1,0 +1,6341 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>David</FIRSTNAME>
+<LASTNAME>Phan</LASTNAME>
+<STATEDNAME>Dave</STATEDNAME>
+<STATEDAGE>19</STATEDAGE>
+<AGE>29</AGE>
+<GENDER>Male</GENDER>
+<RACE>Asian</RACE>
+<CITY>Los Angeles</CITY>
+<STATE>CA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>asian_kreationz</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME></FIRSTNAME>
+<LASTNAME></LASTNAME>
+<STATEDNAME>Jessie</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE>White</RACE>
+<CITY>Riverside</CITY>
+<STATE>CA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>true</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>torn_angel_2005</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>asian_kreationz.emjakubowski.coded.txt</NAME>
+<CODER>emjakubowski</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>january 6, 2007</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:56:13 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT>(always nice when they begin so innocuously)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:57:10 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:57:20 pm)</DATETIME>
+<BODY>hello</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:57:30 pm)</DATETIME>
+<BODY>howu doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:57:36 pm)</DATETIME>
+<BODY>asl?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:57:42 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:57:47 pm)</DATETIME>
+<BODY>13/f/riverside</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:57:48 pm)</DATETIME>
+<BODY>u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:57:59 pm)</DATETIME>
+<BODY>19/m/l.a.</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:58:18 pm)</DATETIME>
+<BODY>too old for u?</BODY>
+<COMMENT>(yep. you should know that though.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:58:31 pm)</DATETIME>
+<BODY>not 4 chat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:59:25 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:59:46 pm)</DATETIME>
+<BODY>wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:59:53 pm)</DATETIME>
+<BODY>nada</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:59:54 pm)</DATETIME>
+<BODY>bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(3:59:56 pm)</DATETIME>
+<BODY>bout u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(3:59:59 pm)</DATETIME>
+<BODY>same</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:00:02 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:00:16 pm)</DATETIME>
+<BODY>kinda warm today huh</BODY>
+<COMMENT>(it actually was really nice weather that winter. i'd just gotten back from there.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:00:41 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:00:48 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:01:30 pm)</DATETIME>
+<BODY>so u chat here alot?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:01:45 pm)</DATETIME>
+<BODY>some</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:01:47 pm)</DATETIME>
+<BODY>u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:01:56 pm)</DATETIME>
+<BODY>sometimes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:02:12 pm)</DATETIME>
+<BODY>u lookin to hook up when u chat here huh?</BODY>
+<COMMENT>(i'm looking to keep pervs away from kids.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:02:16 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:02:23 pm)</DATETIME>
+<BODY>lol never have</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:02:26 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:02:28 pm)</DATETIME>
+<BODY>y u askin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:02:45 pm)</DATETIME>
+<BODY>nuthin, thats what i do sometimes</BODY>
+<COMMENT>(we're going to give him the benefit of the doubt and assume he means with people who are of the age of consent here. k?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:02:46 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:00 pm)</DATETIME>
+<BODY>hey whcih 1 r u in ur prof</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:17 pm)</DATETIME>
+<BODY>which one u like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:21 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:23 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:30 pm)</DATETIME>
+<BODY>on the left sweety</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:33 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:39 pm)</DATETIME>
+<BODY>ur cuter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:39 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:45 pm)</DATETIME>
+<BODY>haha ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:46 pm)</DATETIME>
+<BODY>u only 19?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:51 pm)</DATETIME>
+<BODY>look like 25</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:03:52 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:03:59 pm)</DATETIME>
+<BODY>kewl either way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:05 pm)</DATETIME>
+<BODY>does that turn u on?</BODY>
+<COMMENT>(yeah... it turns the kid on that he looks older than he says he is. i hope that feeling lasts awhile, bucko!)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:17 pm)</DATETIME>
+<BODY>being 25?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:04:19 pm)</DATETIME>
+<BODY>wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:34 pm)</DATETIME>
+<BODY>me lookin older</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:04:38 pm)</DATETIME>
+<BODY>doesnt matter i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:45 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:50 pm)</DATETIME>
+<BODY>u have pic?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:04:55 pm)</DATETIME>
+<BODY>on prof</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:04:59 pm)</DATETIME>
+<BODY>oh ok'</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:05:03 pm)</DATETIME>
+<BODY>but goto homepage</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:05:12 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:05:35 pm)</DATETIME>
+<BODY>dang u look yummy</BODY>
+<COMMENT>(no. i look 13. there's a critical difference there. 13 is not the same as yummy.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:05:37 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:05:40 pm)</DATETIME>
+<BODY>lol ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:05:48 pm)</DATETIME>
+<BODY>cuty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:06:02 pm)</DATETIME>
+<BODY>we should hook up</BODY>
+<COMMENT>(he said it.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:06:05 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:06:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:06:30 pm)</DATETIME>
+<BODY>y wat u wanna do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:06:47 pm)</DATETIME>
+<BODY>anything</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:06:53 pm)</DATETIME>
+<BODY>whats on ur mind?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:07:13 pm)</DATETIME>
+<BODY>i dont kno, just wanan party</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:07:21 pm)</DATETIME>
+<BODY>really?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:07:25 pm)</DATETIME>
+<BODY>mom and dad going to vegas tonite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:07:30 pm)</DATETIME>
+<BODY>lets party</BODY>
+<COMMENT>(he wants to party with a 13 year old. there have got to be better things he can do with his time.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:07:38 pm)</DATETIME>
+<BODY>oic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:07:44 pm)</DATETIME>
+<BODY>poor girl all alone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:07:47 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:08:40 pm)</DATETIME>
+<BODY>dont matter to me we can party if u like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:08:51 pm)</DATETIME>
+<BODY>hey mind if i add ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:08:58 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:09:11 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:09:32 pm)</DATETIME>
+<BODY>so they goin outta town huh?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:10:10 pm)</DATETIME>
+<BODY>yea like 9 or so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:10:13 pm)</DATETIME>
+<BODY>lets do sumthin mthen</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:10:25 pm)</DATETIME>
+<BODY>how far u fomr riverside</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:10:47 pm)</DATETIME>
+<BODY>i live in l.a. sweety</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:11:01 pm)</DATETIME>
+<BODY>i dont mind the drive at all</BODY>
+<COMMENT>(it's not that long a drive, actually.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:11:12 pm)</DATETIME>
+<BODY>bored u know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:11:14 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:11:15 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:11:32 pm)</DATETIME>
+<BODY>wat u wanan do then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:11:47 pm)</DATETIME>
+<BODY>hmm...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:12:07 pm)</DATETIME>
+<BODY>we can drink if u want</BODY>
+<COMMENT>(plying her with alcohol. good job! way to be an upstanding citizen!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:12:19 pm)</DATETIME>
+<BODY>ummm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:12:23 pm)</DATETIME>
+<BODY>u can get beer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:12:27 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:12:29 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:12:37 pm)</DATETIME>
+<BODY>u like beer or liquor?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:12:37 pm)</DATETIME>
+<BODY>or mikes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:12:49 pm)</DATETIME>
+<BODY>u gotta fake id</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:12:56 pm)</DATETIME>
+<BODY>hard lemonade?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:13:01 pm)</DATETIME>
+<BODY>yes i lurve it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:13:10 pm)</DATETIME>
+<BODY>kool i like dat too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:13:41 pm)</DATETIME>
+<BODY>may pal works over at the gas station so yeah....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:13:50 pm)</DATETIME>
+<BODY>coolio</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:13:54 pm)</DATETIME>
+<BODY>yup yup</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:13:59 pm)</DATETIME>
+<BODY>so wats ur name</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:14:02 pm)</DATETIME>
+<BODY><< jessie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:14:13 pm)</DATETIME>
+<BODY>oh sorry.....my name is dave</BODY>
+<COMMENT>(hiya dave.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:14:19 pm)</DATETIME>
+<BODY>nice to meet ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:14:25 pm)</DATETIME>
+<BODY>nict 2 meet u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:14:30 pm)</DATETIME>
+<BODY>ncie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:14:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:14:33 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:14:36 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:14:39 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:15:20 pm)</DATETIME>
+<BODY>yeah we can like drink a lil, chat a lil, and flirt and mack a lil....</BODY>
+<COMMENT>(and we're off! he wants to "mack.")</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:15:24 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:15:48 pm)</DATETIME>
+<BODY>whatcha think?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:16:22 pm)</DATETIME>
+<BODY>lol, u flirting now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:16:37 pm)</DATETIME>
+<BODY>lol...no:-p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:17:10 pm)</DATETIME>
+<BODY>so u be macking wit all the girlz on the net</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:17:40 pm)</DATETIME>
+<BODY>nah, just to a cuty like u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:17:48 pm)</DATETIME>
+<BODY>lol :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:17:53 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:18:20 pm)</DATETIME>
+<BODY>u pretty cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:18:37 pm)</DATETIME>
+<BODY>kinda mature</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:18:44 pm)</DATETIME>
+<BODY>u sure u 13?</BODY>
+<COMMENT>(positive!)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:18:46 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:18:54 pm)</DATETIME>
+<BODY>yes y</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:19:15 pm)</DATETIME>
+<BODY>nuthin u seem more mature than that</BODY>
+<COMMENT>(groomer groomer!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:19:26 pm)</DATETIME>
+<BODY>its a good thing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:19:33 pm)</DATETIME>
+<BODY>lol ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:19:41 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:19:56 pm)</DATETIME>
+<BODY>so where ur b/f?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:20:15 pm)</DATETIME>
+<BODY>no b/f</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:20:19 pm)</DATETIME>
+<BODY>liar</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:20:21 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:20:25 pm)</DATETIME>
+<BODY>serial</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:20:30 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:20:34 pm)</DATETIME>
+<BODY>they all fdorks at my school</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:20:44 pm)</DATETIME>
+<BODY>poor girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:20:57 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:21:02 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:21:29 pm)</DATETIME>
+<BODY>how many b/fs u had?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:21:37 pm)</DATETIME>
+<BODY>just 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:21:40 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:21:51 pm)</DATETIME>
+<BODY>how many g/f u have</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:22:00 pm)</DATETIME>
+<BODY>2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:22:16 pm)</DATETIME>
+<BODY>and a half</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:22:29 pm)</DATETIME>
+<BODY>1/2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:22:44 pm)</DATETIME>
+<BODY>yeah u half</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:22:47 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:22:48 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:22:53 pm)</DATETIME>
+<BODY>kiddin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:23:06 pm)</DATETIME>
+<BODY>thought u dated a midget</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:23:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:23:25 pm)</DATETIME>
+<BODY>not yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:23:30 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:23:34 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:23:40 pm)</DATETIME>
+<BODY>crazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:23:52 pm)</DATETIME>
+<BODY>who me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:24:02 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:24:14 pm)</DATETIME>
+<BODY>nuh uh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:24:19 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:24:22 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:24:32 pm)</DATETIME>
+<BODY>:-p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:24:56 pm)</DATETIME>
+<BODY>hey jess u have cam?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:25:11 pm)</DATETIME>
+<BODY>no mom wont let me get 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:25:13 pm)</DATETIME>
+<BODY>u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:25:23 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:25:58 pm)</DATETIME>
+<BODY>i do but u know how it is when peeps ask to borrow and they suddenly forget where i live</BODY>
+<COMMENT>(i saw this guy's photo. it's probably best that he doesn't have a webcam.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:26:10 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:26:16 pm)</DATETIME>
+<BODY>lol....bastards havent returned it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:26:20 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:26:24 pm)</DATETIME>
+<BODY>sux</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:26:28 pm)</DATETIME>
+<BODY>damn them</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:26:37 pm)</DATETIME>
+<BODY>i know....ptooey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:26:56 pm)</DATETIME>
+<BODY>so.................</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:27:10 pm)</DATETIME>
+<BODY>whats up wid tonite?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:27:21 pm)</DATETIME>
+<BODY>u still down?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:27:31 pm)</DATETIME>
+<BODY>let me check and c wat time they leaving</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:27:41 pm)</DATETIME>
+<BODY>mmkay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:27:46 pm)</DATETIME>
+<BODY>let u kno in couple of hrs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:27:55 pm)</DATETIME>
+<BODY>so i can go get our mikes!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:27:58 pm)</DATETIME>
+<BODY>i could call u or meet back on here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:27:59 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:28:06 pm)</DATETIME>
+<BODY>call me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:28:13 pm)</DATETIME>
+<BODY>k wats ur digits</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:28:16 pm)</DATETIME>
+<BODY>310-815-8191</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:28:22 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:28:24 pm)</DATETIME>
+<BODY>dave rite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:28:31 pm)</DATETIME>
+<BODY>yep yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:28:42 pm)</DATETIME>
+<BODY>so most likely its a go right?</BODY>
+<COMMENT>(molestation for tonight! check! turns out that day was really really really really busy for us. like we were busy breaking records that day. he couldn't make it.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:28:55 pm)</DATETIME>
+<BODY>yep just want to be sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:01 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:05 pm)</DATETIME>
+<BODY>hey wait...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:17 pm)</DATETIME>
+<BODY>they would kill me if a boy shoiwed up and they were home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:20 pm)</DATETIME>
+<BODY>what baout ur older bros and sis?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:21 pm)</DATETIME>
+<BODY>what</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:27 pm)</DATETIME>
+<BODY>i dont have ne</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:29 pm)</DATETIME>
+<BODY>just me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:38 pm)</DATETIME>
+<BODY>hope they dont chase me out with a broom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:43 pm)</DATETIME>
+<BODY>well have the hosue to r sleves</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:29:47 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:49 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:51 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:29:52 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:30:05 pm)</DATETIME>
+<BODY>we coudl do watever we want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:30:10 pm)</DATETIME>
+<BODY>ncie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:30:13 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:30:14 pm)</DATETIME>
+<BODY>cept start a fire in the house</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:30:16 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:30:19 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:30:25 pm)</DATETIME>
+<BODY>not a good idea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:30:27 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:30:40 pm)</DATETIME>
+<BODY>u kewl wit me only being 13</BODY>
+<COMMENT>(gotta make sure!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:30:48 pm)</DATETIME>
+<BODY>i dont wanna get u in trouble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:31:04 pm)</DATETIME>
+<BODY>yeah i'm kool aslong as you cool wid it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:31:28 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:31:38 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:31:52 pm)</DATETIME>
+<BODY>what else should i bring</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:20 pm)</DATETIME>
+<BODY>pizza</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:22 pm)</DATETIME>
+<BODY>movie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:29 pm)</DATETIME>
+<BODY>wat u wanna bring</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:32:34 pm)</DATETIME>
+<BODY>dominoes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:32:47 pm)</DATETIME>
+<BODY>what kinda movie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:48 pm)</DATETIME>
+<BODY>pizza?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:32:51 pm)</DATETIME>
+<BODY>porn?</BODY>
+<COMMENT>(oooo he's offering porn!)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:32:54 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:57 pm)</DATETIME>
+<BODY>u got porn?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:32:59 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:33:04 pm)</DATETIME>
+<BODY>yeah i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:33:15 pm)</DATETIME>
+<BODY>u trying to seduce me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:33:15 pm)</DATETIME>
+<BODY>i'll bring it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:33:19 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:33:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:06 pm)</DATETIME>
+<BODY>nope not seducing u:-$</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:34:10 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:15 pm)</DATETIME>
+<BODY>hahha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:34 pm)</DATETIME>
+<BODY>ok pizzza</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:37 pm)</DATETIME>
+<BODY>check</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:39 pm)</DATETIME>
+<BODY>mikes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:42 pm)</DATETIME>
+<BODY>check</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:48 pm)</DATETIME>
+<BODY>porn</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:34:52 pm)</DATETIME>
+<BODY>double check</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:34:57 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:35:07 pm)</DATETIME>
+<BODY>u guys r always the same</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:35:32 pm)</DATETIME>
+<BODY>i know, but i'm the best of the bunch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:35:41 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:35:48 pm)</DATETIME>
+<BODY>u r huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:02 pm)</DATETIME>
+<BODY>self proclaimed..yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:36:06 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:08 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:33 pm)</DATETIME>
+<BODY>i think we klikin.....should be fun tonite</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:37 pm)</DATETIME>
+<BODY>i hope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:39 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:36:43 pm)</DATETIME>
+<BODY>i hope so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:36:47 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:37:09 pm)</DATETIME>
+<BODY>ur neighbors aint gonna rat you out are they?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:37:14 pm)</DATETIME>
+<BODY>lets hope they leave</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:37:16 pm)</DATETIME>
+<BODY>nah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:37:20 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:37:30 pm)</DATETIME>
+<BODY>did they pack at all?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:37:44 pm)</DATETIME>
+<BODY>i didnt see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:37:48 pm)</DATETIME>
+<BODY>thats usually a good sign</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:37:52 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:37:52 pm)</DATETIME>
+<BODY>true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:38:17 pm)</DATETIME>
+<BODY>lemme get off for a bit and ill c wat i can find out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:38:28 pm)</DATETIME>
+<BODY>okie dokie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:38:32 pm)</DATETIME>
+<BODY>if u aint on ill call ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:38:42 pm)</DATETIME>
+<BODY>mmkay sweety</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(4:38:51 pm)</DATETIME>
+<BODY>bye 4 now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(4:38:55 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:00:02 pm)</DATETIME>
+<BODY>hey bad news</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:00:17 pm)</DATETIME>
+<BODY>man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:00:24 pm)</DATETIME>
+<BODY>they rnt goign til tomorrow</BODY>
+<COMMENT>(we were swamped that weekend. this is the weekend of 49 arrests in three days, mind you, and this was the first day of it which had 22 arrests.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:00:35 pm)</DATETIME>
+<BODY>sowry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:00:35 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:00:42 pm)</DATETIME>
+<BODY>all good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:00:44 pm)</DATETIME>
+<BODY>like noon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:00:49 pm)</DATETIME>
+<BODY>mebbe tom?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:01:01 pm)</DATETIME>
+<BODY>yeah sounds great</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:01:08 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:01:12 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:01:17 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:01:31 pm)</DATETIME>
+<BODY>so what ya up to now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:01:42 pm)</DATETIME>
+<BODY>nothin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:01:49 pm)</DATETIME>
+<BODY>wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:02:33 pm)</DATETIME>
+<BODY>wonderin what you wearing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:02:35 pm)</DATETIME>
+<BODY>ooops</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:02:43 pm)</DATETIME>
+<BODY>i mean not much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:02:47 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:02:48 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:02:52 pm)</DATETIME>
+<BODY>kiddin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:02:59 pm)</DATETIME>
+<BODY>wat u wearin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:00 pm)</DATETIME>
+<BODY>just watchin tv</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:12 pm)</DATETIME>
+<BODY>just shorts</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:18 pm)</DATETIME>
+<BODY>its freakin hot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:03:22 pm)</DATETIME>
+<BODY>i kno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:24 pm)</DATETIME>
+<BODY>bout u?></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:03:26 pm)</DATETIME>
+<BODY>me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:33 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:03:34 pm)</DATETIME>
+<BODY>shorts and a t</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:03:42 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:04:11 pm)</DATETIME>
+<BODY>u lookin good then eh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:04:18 pm)</DATETIME>
+<BODY>alwayz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:04:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:04:28 pm)</DATETIME>
+<BODY>hehe....nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:04:55 pm)</DATETIME>
+<BODY>what kinda shorts?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:04:59 pm)</DATETIME>
+<BODY>denim?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:04 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:08 pm)</DATETIME>
+<BODY>how did u kno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:14 pm)</DATETIME>
+<BODY>u peakin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:05:18 pm)</DATETIME>
+<BODY>i was peekin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:21 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:05:24 pm)</DATETIME>
+<BODY>pervert here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:05:26 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:29 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:34 pm)</DATETIME>
+<BODY>better not b</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:05:51 pm)</DATETIME>
+<BODY>k i'll keep one eye open\</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:05:59 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:06:03 pm)</DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:06:13 pm)</DATETIME>
+<BODY>ur prettty cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:06:30 pm)</DATETIME>
+<BODY>y u say that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:07:08 pm)</DATETIME>
+<BODY>i dunno easy to chat with i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:07:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:07:22 pm)</DATETIME>
+<BODY>if that makes any sesnse</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:07:29 pm)</DATETIME>
+<BODY>i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:07:31 pm)</DATETIME>
+<BODY>u 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:07:46 pm)</DATETIME>
+<BODY>>:d<</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:07:51 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:08:10 pm)</DATETIME>
+<BODY>they go vegas oftgen?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:08:20 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:08:26 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:08:28 pm)</DATETIME>
+<BODY>like once a month</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:08:33 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:08:41 pm)</DATETIME>
+<BODY>u must be tired of it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:08:50 pm)</DATETIME>
+<BODY>nah itz kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:08:57 pm)</DATETIME>
+<BODY>get to chill by myslf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:09:03 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:09:17 pm)</DATETIME>
+<BODY>nat anymore</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:09:44 pm)</DATETIME>
+<BODY>i'll keep u from goin insane being by urself</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:09:54 pm)</DATETIME>
+<BODY>haha kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:09:59 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:11:03 pm)</DATETIME>
+<BODY>so "if" they do go what activities do you have planned?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:11:18 pm)</DATETIME>
+<BODY>for us to do</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:11:26 pm)</DATETIME>
+<BODY>watever u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:11:32 pm)</DATETIME>
+<BODY>dont tell me scrabble</BODY>
+<COMMENT>(doesn't want to play scrabble. got it.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:11:44 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:11:48 pm)</DATETIME>
+<BODY>we got a killer entertinment centre</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:11:51 pm)</DATETIME>
+<BODY>haah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:11:53 pm)</DATETIME>
+<BODY>anything i want?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:12:00 pm)</DATETIME>
+<BODY>oh nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:12:12 pm)</DATETIME>
+<BODY>well nothin too weird</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:12:16 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:12:22 pm)</DATETIME>
+<BODY>wat u want to do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:12:37 pm)</DATETIME>
+<BODY>what do u consider wierd?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:13:02 pm)</DATETIME>
+<BODY>hmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:13:06 pm)</DATETIME>
+<BODY>satanic stuff</BODY>
+<COMMENT>(you know, normal stuff.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:13:12 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:13:17 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:13:25 pm)</DATETIME>
+<BODY>i dotn no mcuh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:13:30 pm)</DATETIME>
+<BODY>u dont gotta worry bout dat then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:14:51 pm)</DATETIME>
+<BODY>i'll just make some moves on ya</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:14:53 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:15:19 pm)</DATETIME>
+<BODY>lol well thats good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:15:27 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:16:08 pm)</DATETIME>
+<BODY>i was expecting my face to have five finger marks across my face</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:16:11 pm)</DATETIME>
+<BODY>or sumthin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:16:25 pm)</DATETIME>
+<BODY>haha y woudl i do that ur hella cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:16:34 pm)</DATETIME>
+<BODY>heehee...oh stop</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:16:42 pm)</DATETIME>
+<BODY>ur cuter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:16:52 pm)</DATETIME>
+<BODY>uh uh u r</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:16:58 pm)</DATETIME>
+<BODY>nuh uh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:17:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:17:14 pm)</DATETIME>
+<BODY>ur funny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:17:15 pm)</DATETIME>
+<BODY>u fione</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:17:19 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:17:30 pm)</DATETIME>
+<BODY>i try to be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:17:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:18:11 pm)</DATETIME>
+<BODY>so i guess u made out with a guy before then</BODY>
+<COMMENT>(history questions! these are fun!)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:18:25 pm)</DATETIME>
+<BODY>couple of times</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:18:30 pm)</DATETIME>
+<BODY>ok kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:18:34 pm)</DATETIME>
+<BODY>have u</BODY>
+<COMMENT>(icarus is such a smartass!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:18:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:18:39 pm)</DATETIME>
+<BODY>pfft</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:18:43 pm)</DATETIME>
+<BODY>ur gross</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:18:47 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:18:49 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:19:13 pm)</DATETIME>
+<BODY>i hope i aint gettin to nosy</BODY>
+<COMMENT>(of course you're not.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:19:20 pm)</DATETIME>
+<BODY>nah its ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:19:27 pm)</DATETIME>
+<BODY>just tryin to get to know ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:19:30 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:19:33 pm)</DATETIME>
+<BODY>ok kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:19:34 pm)</DATETIME>
+<BODY>kinda like 20 quez</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:19:53 pm)</DATETIME>
+<BODY>20 huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:20:27 pm)</DATETIME>
+<BODY>u like me questioning u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:20:33 pm)</DATETIME>
+<BODY>is that what u meant</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:20:35 pm)</DATETIME>
+<BODY>yea its fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:20:38 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:20:40 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:21:01 pm)</DATETIME>
+<BODY>lets see....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:21:25 pm)</DATETIME>
+<BODY>what's ur height?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:21:31 pm)</DATETIME>
+<BODY>4 10</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:21:35 pm)</DATETIME>
+<BODY>how bout u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:21:49 pm)</DATETIME>
+<BODY>are you naturally blond?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:21:56 pm)</DATETIME>
+<BODY>5'7</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:21:58 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:22:02 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:22:24 pm)</DATETIME>
+<BODY>when's the last time u had a drink?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:22:39 pm)</DATETIME>
+<BODY>new years</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:22:42 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:22:43 pm)</DATETIME>
+<BODY>how bout u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:22:47 pm)</DATETIME>
+<BODY>same</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:22:56 pm)</DATETIME>
+<BODY>were you wasted?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:23:07 pm)</DATETIME>
+<BODY>or just buzzin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:23:08 pm)</DATETIME>
+<BODY>yes i was buzzed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:23:14 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:23:45 pm)</DATETIME>
+<BODY>whens the last time you made out?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:23:51 pm)</DATETIME>
+<BODY>lol new years</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:23:53 pm)</DATETIME>
+<BODY>guy or girl dont matter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:00 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:01 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:07 pm)</DATETIME>
+<BODY>hmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:24:10 pm)</DATETIME>
+<BODY>never wit a girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:24:15 pm)</DATETIME>
+<BODY>y u like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:21 pm)</DATETIME>
+<BODY>k, i appreciate the honesty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:37 pm)</DATETIME>
+<BODY>lets just say most guys do</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:24:41 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:24:44 pm)</DATETIME>
+<BODY>haha yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:03 pm)</DATETIME>
+<BODY>hmm...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:17 pm)</DATETIME>
+<BODY>are you a virgin?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:25:19 pm)</DATETIME>
+<BODY>but i dont wana c 2 guys mack</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:26 pm)</DATETIME>
+<BODY>eww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:25:27 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:31 pm)</DATETIME>
+<BODY>so do i</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:35 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:25:40 pm)</DATETIME>
+<BODY>r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:25:45 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:26:06 pm)</DATETIME>
+<BODY>i have experience</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:26:12 pm)</DATETIME>
+<BODY>not much but its thyere</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:26:15 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:26:24 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:26:35 pm)</DATETIME>
+<BODY>i hope dat aint bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:26:56 pm)</DATETIME>
+<BODY>no thats ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:27:01 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:00 pm)</DATETIME>
+<BODY>do you believe in "saving" urself for marriage?</BODY>
+<COMMENT>(this is pervinese for "do i have a chance at molesting you?)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:05 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:28:12 pm)</DATETIME>
+<BODY>nah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:16 pm)</DATETIME>
+<BODY>obviously i didnt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:18 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:28:20 pm)</DATETIME>
+<BODY>just havent found the rite guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:23 pm)</DATETIME>
+<BODY>k kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:30 pm)</DATETIME>
+<BODY>hmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:28:33 pm)</DATETIME>
+<BODY>all the guys my age r dorks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:28:44 pm)</DATETIME>
+<BODY>eew...icky</BODY>
+<COMMENT>(he so called it first.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:29:03 pm)</DATETIME>
+<BODY>u callin me icky?</BODY>
+<COMMENT>(icarus was the one doing the typing here, and this line is just priceless.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:29:35 pm)</DATETIME>
+<BODY>do you like makin out?....and how far have you allowed it to go?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:29:43 pm)</DATETIME>
+<BODY>ya ur icky</BODY>
+<COMMENT>(never before have we had a predator accurately identify the contributor who was busting him in the middle of a chat and still show up. okay, so he wasn't really identifying him but this is a really really great interchange.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:29:47 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:29:50 pm)</DATETIME>
+<BODY>kiddin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:29:59 pm)</DATETIME>
+<BODY>yes i am</BODY>
+<COMMENT>(and here he admits to being icky!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:30:00 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:30:05 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:30:26 pm)</DATETIME>
+<BODY>answer pls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:30:37 pm)</DATETIME>
+<BODY>oh i like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:30:45 pm)</DATETIME>
+<BODY>just touchin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:30:49 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:31:16 pm)</DATETIME>
+<BODY>y wat u thinkin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:31:22 pm)</DATETIME>
+<BODY>whats ur favorite food?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:31:28 pm)</DATETIME>
+<BODY>pie!</BODY>
+<COMMENT>(teehee! pie!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:31:35 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:31:47 pm)</DATETIME>
+<BODY>wats urs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:32:06 pm)</DATETIME>
+<BODY>i like fried rice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:32:07 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:32:10 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:32:12 pm)</DATETIME>
+<BODY>i have lots</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:32:31 pm)</DATETIME>
+<BODY>i like fried rice to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:32:38 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:32:40 pm)</DATETIME>
+<BODY>shrimp n chiken</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:32:45 pm)</DATETIME>
+<BODY>ya!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:34:56 pm)</DATETIME>
+<BODY>oh....to answer ur question i just wanted to know how ya felt about makin.....just in case sumthin happens i dont wanna make a wrong move</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>13</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:34:57 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:35:12 pm)</DATETIME>
+<BODY>just checkin out ur comfort zone</BODY>
+<COMMENT>(yep. classic perv move.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:35:14 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:35:23 pm)</DATETIME>
+<BODY>depends i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:35:29 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:35:40 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:35:47 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:36:07 pm)</DATETIME>
+<BODY>what else ya got planned?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:36:11 pm)</DATETIME>
+<BODY>r u wantin that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:36:45 pm)</DATETIME>
+<BODY>i'm not wantin that, but i like it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:37:06 pm)</DATETIME>
+<BODY>but if u want it, then hell ya i want it to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:37:08 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:37:38 pm)</DATETIME>
+<BODY>i just dont wanna be a slut</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:37:49 pm)</DATETIME>
+<BODY>would u think i was</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:37:51 pm)</DATETIME>
+<BODY>oh nono swweety</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:03 pm)</DATETIME>
+<BODY>absolutely not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:19 pm)</DATETIME>
+<BODY>ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:38:23 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:38:27 pm)</DATETIME>
+<BODY>then mebbe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:31 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:38:42 pm)</DATETIME>
+<BODY>i just never don it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:47 pm)</DATETIME>
+<BODY>but be gentle on me ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:38:55 pm)</DATETIME>
+<BODY>oic i hear ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:38:58 pm)</DATETIME>
+<BODY>lol wat u mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:39:35 pm)</DATETIME>
+<BODY>i was just jokin.......that u would be ruff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:39:41 pm)</DATETIME>
+<BODY>nevermoind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:39:45 pm)</DATETIME>
+<BODY>dumbjoke</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:39:49 pm)</DATETIME>
+<BODY>haha yea id tie u up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:39:53 pm)</DATETIME>
+<BODY>noooooooooooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:39:57 pm)</DATETIME>
+<BODY>haah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:39:58 pm)</DATETIME>
+<BODY>hahahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:40:09 pm)</DATETIME>
+<BODY>handcuf ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:40:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:40:20 pm)</DATETIME>
+<BODY>now i'm having second thoughts</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:40:24 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:40:25 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:40:35 pm)</DATETIME>
+<BODY>hehe ur funny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:40:38 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:40:42 pm)</DATETIME>
+<BODY>and fine</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:40:58 pm)</DATETIME>
+<BODY>ur sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:41:09 pm)</DATETIME>
+<BODY>so wat u do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:41:15 pm)</DATETIME>
+<BODY>u go to school</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:41:27 pm)</DATETIME>
+<BODY>just chillin for now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:41:35 pm)</DATETIME>
+<BODY>restin my small brain</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:41:41 pm)</DATETIME>
+<BODY>haah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:41:43 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:41:59 pm)</DATETIME>
+<BODY>u dont do ne thing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:42:33 pm)</DATETIME>
+<BODY>oh, i work other than that, nuthin spectacular</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:42:55 pm)</DATETIME>
+<BODY>sad huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:43:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:43:03 pm)</DATETIME>
+<BODY>like wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:43:51 pm)</DATETIME>
+<BODY>l.a. county.. garbage man</BODY>
+<COMMENT>(he was lying here)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:44:03 pm)</DATETIME>
+<BODY>does that turn u off?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:44:04 pm)</DATETIME>
+<BODY>taht could be a kewl job</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:44:12 pm)</DATETIME>
+<BODY>u kind kewl struff?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:44:17 pm)</DATETIME>
+<BODY>lmao</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:44:20 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:44:24 pm)</DATETIME>
+<BODY>yeah i suppose</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:44:36 pm)</DATETIME>
+<BODY>ur to sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:44:52 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:45:50 pm)</DATETIME>
+<BODY>ok ok, just do property management stuff</BODY>
+<COMMENT>(i am thinking he means landscaping here, since he's outside so much.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:45:55 pm)</DATETIME>
+<BODY>i</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:46:59 pm)</DATETIME>
+<BODY>get to work outsie tho huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:47:14 pm)</DATETIME>
+<BODY>i suppose</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:47:35 pm)</DATETIME>
+<BODY>so jess tell me about urself.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:47:45 pm)</DATETIME>
+<BODY>lol ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:47:51 pm)</DATETIME>
+<BODY>i'm jessie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:48:13 pm)</DATETIME>
+<BODY>my brithday is 2-14-1992</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:48:23 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:48:29 pm)</DATETIME>
+<BODY>8th grade</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:48:36 pm)</DATETIME>
+<BODY>i like science</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:48:44 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:48:46 pm)</DATETIME>
+<BODY>and jessie mccarthy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:48:59 pm)</DATETIME>
+<BODY>who's that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:49:04 pm)</DATETIME>
+<BODY>singer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:49:12 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:49:15 pm)</DATETIME>
+<BODY>rock?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:49:19 pm)</DATETIME>
+<BODY>pop</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:49:27 pm)</DATETIME>
+<BODY>when ur birtheday</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:49:39 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:49:42 pm)</DATETIME>
+<BODY>phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:49:48 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:51:28 pm)</DATETIME>
+<BODY>sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:51:35 pm)</DATETIME>
+<BODY>tats ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:51:52 pm)</DATETIME>
+<BODY>so im an aquarius</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:51:55 pm)</DATETIME>
+<BODY>wat r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:52:18 pm)</DATETIME>
+<BODY>pisces</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:52:25 pm)</DATETIME>
+<BODY>fishy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:52:34 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:52:37 pm)</DATETIME>
+<BODY>haha and i'm water</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:52:43 pm)</DATETIME>
+<BODY>ur bday valentines day</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:52:45 pm)</DATETIME>
+<BODY>going swimming</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:52:50 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:52:57 pm)</DATETIME>
+<BODY>very cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:53:10 pm)</DATETIME>
+<BODY>kinda unique</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:53:23 pm)</DATETIME>
+<BODY>lotta love on ur bday</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:53:28 pm)</DATETIME>
+<BODY>haah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:53:31 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:53:40 pm)</DATETIME>
+<BODY>when is urs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:53:51 pm)</DATETIME>
+<BODY>2/21</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:53:57 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:53:58 pm)</DATETIME>
+<BODY>few days from urs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:54:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:54:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:54:53 pm)</DATETIME>
+<BODY>so what do u like to do for fun?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:05 pm)</DATETIME>
+<BODY>hang at the mall</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:10 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:12 pm)</DATETIME>
+<BODY>play xbox some</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:21 pm)</DATETIME>
+<BODY>what u play?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:22 pm)</DATETIME>
+<BODY>need some games tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:29 pm)</DATETIME>
+<BODY>oic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:31 pm)</DATETIME>
+<BODY>spongebo lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:38 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:44 pm)</DATETIME>
+<BODY>it came with it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:48 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:55:48 pm)</DATETIME>
+<BODY>got it for xmas</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:55:52 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:56:03 pm)</DATETIME>
+<BODY>i want sims</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:56:20 pm)</DATETIME>
+<BODY>is that new?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:56:29 pm)</DATETIME>
+<BODY>naw</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:56:32 pm)</DATETIME>
+<BODY>i heard its popular</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:56:37 pm)</DATETIME>
+<BODY>just cant buy it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:56:43 pm)</DATETIME>
+<BODY>its m</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:56:49 pm)</DATETIME>
+<BODY>it is?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:56:53 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:56:55 pm)</DATETIME>
+<BODY>didnt know that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:57:14 pm)</DATETIME>
+<BODY>fightng game or sumthin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:57:26 pm)</DATETIME>
+<BODY>naw its got sex n stuff in it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:57:30 pm)</DATETIME>
+<BODY>oic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:57:34 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:57:46 pm)</DATETIME>
+<BODY>naughty game huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:57:57 pm)</DATETIME>
+<BODY>kinda</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:03 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:58:04 pm)</DATETIME>
+<BODY>no its t</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:16 pm)</DATETIME>
+<BODY>cant u get it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:58:18 pm)</DATETIME>
+<BODY>but mom wont buy it for me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:22 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:58:28 pm)</DATETIME>
+<BODY>need some coin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:39 pm)</DATETIME>
+<BODY>coin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:42 pm)</DATETIME>
+<BODY>for what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:58:49 pm)</DATETIME>
+<BODY>to buy it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:58:51 pm)</DATETIME>
+<BODY>like 50 cents</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:59:00 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:59:13 pm)</DATETIME>
+<BODY>hhe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(6:59:13 pm)</DATETIME>
+<BODY>like 40</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(6:59:38 pm)</DATETIME>
+<BODY>das alot \</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:00:12 pm)</DATETIME>
+<BODY>ur parents strict huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:00:20 pm)</DATETIME>
+<BODY>eh sumtimes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:00:34 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:00:58 pm)</DATETIME>
+<BODY>so wat u do for fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:01:11 pm)</DATETIME>
+<BODY>hmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:01:20 pm)</DATETIME>
+<BODY>i like playing madden</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:01:22 pm)</DATETIME>
+<BODY>ps2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:01:37 pm)</DATETIME>
+<BODY>kewl my friends borther has that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:01:42 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:01:43 pm)</DATETIME>
+<BODY>never played it tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:01:49 pm)</DATETIME>
+<BODY>i love that game</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:01 pm)</DATETIME>
+<BODY>i think i'm gonna play it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:02:06 pm)</DATETIME>
+<BODY>they got that for xbox</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:06 pm)</DATETIME>
+<BODY>gotta go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:07 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:02:12 pm)</DATETIME>
+<BODY>lol k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:13 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:20 pm)</DATETIME>
+<BODY>that was messed up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:23 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:02:28 pm)</DATETIME>
+<BODY>u funny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:41 pm)</DATETIME>
+<BODY>:))</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:02:55 pm)</DATETIME>
+<BODY>i'd rather play with u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:03:03 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:12 pm)</DATETIME>
+<BODY>press ur buttons</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:03:17 pm)</DATETIME>
+<BODY>and wat would u do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:03:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:29 pm)</DATETIME>
+<BODY>or remove them instead</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:31 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:03:41 pm)</DATETIME>
+<BODY>remove them</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:44 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:55 pm)</DATETIME>
+<BODY>u can play wid my joystick</BODY>
+<COMMENT>(hardeehar)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:03:58 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:04:00 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:04:06 pm)</DATETIME>
+<BODY>does it wiggler</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:17 pm)</DATETIME>
+<BODY>it vibrates</BODY>
+<COMMENT>(blech. i hate this guy.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:04:23 pm)</DATETIME>
+<BODY>ooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:24 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:30 pm)</DATETIME>
+<BODY>u like eh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:34 pm)</DATETIME>
+<BODY>buzzzzzzz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:37 pm)</DATETIME>
+<BODY>zzzz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:04:39 pm)</DATETIME>
+<BODY>who me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:04:45 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:05:02 pm)</DATETIME>
+<BODY>iam good girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:05:07 pm)</DATETIME>
+<BODY>oh yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:05:21 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:05:29 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:05:35 pm)</DATETIME>
+<BODY>ur a good girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:05:44 pm)</DATETIME>
+<BODY>that too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:05:56 pm)</DATETIME>
+<BODY>o:-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:06:00 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:06:06 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:06:16 pm)</DATETIME>
+<BODY>i thought u had a joystick</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:06:25 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:06:54 pm)</DATETIME>
+<BODY>u can use it if u want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:07:05 pm)</DATETIME>
+<BODY>hmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:07:08 pm)</DATETIME>
+<BODY>feel free</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:07:18 pm)</DATETIME>
+<BODY>i dont mind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:07:57 pm)</DATETIME>
+<BODY>watever shoudl i do wit it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:05 pm)</DATETIME>
+<BODY>make it shoot</BODY>
+<COMMENT>(with this much corniness there's gotta be a stack of cobs around here somewhere.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:08:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:17 pm)</DATETIME>
+<BODY>:))</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:08:34 pm)</DATETIME>
+<BODY>wont it make yhe buttons sticky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:39 pm)</DATETIME>
+<BODY>use ur instinct</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:44 pm)</DATETIME>
+<BODY>it might</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:08:53 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:08:55 pm)</DATETIME>
+<BODY>is it a big stick</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:09:08 pm)</DATETIME>
+<BODY>police issue</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:09:21 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:09:28 pm)</DATETIME>
+<BODY>it may hurt people</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:09:34 pm)</DATETIME>
+<BODY>u goona beat me wit it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:09:38 pm)</DATETIME>
+<BODY>hmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:09:46 pm)</DATETIME>
+<BODY>only if ur naughty</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:09:52 pm)</DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:10:07 pm)</DATETIME>
+<BODY>hmmm wat coudl i do wrong</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:07 pm)</DATETIME>
+<BODY>i think i will beat it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:33 pm)</DATETIME>
+<BODY>nuthing wrong</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:36 pm)</DATETIME>
+<BODY>all right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:42 pm)</DATETIME>
+<BODY>so far</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:10:48 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:10:53 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:11:30 pm)</DATETIME>
+<BODY>it be nice to see ya tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:11:44 pm)</DATETIME>
+<BODY>yes and c u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:11:58 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:12:22 pm)</DATETIME>
+<BODY>u been to l.a.?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:12:35 pm)</DATETIME>
+<BODY>couple of times</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:12:47 pm)</DATETIME>
+<BODY>we moved here last summer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:12:54 pm)</DATETIME>
+<BODY>how far was it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:12:58 pm)</DATETIME>
+<BODY>oic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:13:06 pm)</DATETIME>
+<BODY>like 2 hrs i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:13:13 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:13:21 pm)</DATETIME>
+<BODY>what part of la u at?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:13:36 pm)</DATETIME>
+<BODY>i'm in mira loma</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:13:41 pm)</DATETIME>
+<BODY>near riverside</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:13:42 pm)</DATETIME>
+<BODY>dang thats farther than i thoght</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:13:59 pm)</DATETIME>
+<BODY>i dont rememebr exactly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:14:04 pm)</DATETIME>
+<BODY>i meant where in la did u lve?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:14:15 pm)</DATETIME>
+<BODY>no lived in st louis</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:14:21 pm)</DATETIME>
+<BODY>ohhhhhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:14:28 pm)</DATETIME>
+<BODY>koool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:14:47 pm)</DATETIME>
+<BODY>u like it here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:14:55 pm)</DATETIME>
+<BODY>could have been less</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:14:58 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:15:01 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:15:03 pm)</DATETIME>
+<BODY>no snow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:15:10 pm)</DATETIME>
+<BODY>i see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:15:20 pm)</DATETIME>
+<BODY>pretty mountans</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:15:31 pm)</DATETIME>
+<BODY>here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:15:55 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:15:59 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:16:06 pm)</DATETIME>
+<BODY>here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:16:36 pm)</DATETIME>
+<BODY>so how long will ur parents be gone?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:17:01 pm)</DATETIME>
+<BODY>prolly til sun nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:17:14 pm)</DATETIME>
+<BODY>oh so just one day?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:17:21 pm)</DATETIME>
+<BODY>at least sun afternoon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:17:38 pm)</DATETIME>
+<BODY>they leave when again?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:17:53 pm)</DATETIME>
+<BODY>around 12 or 1 i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:17:55 pm)</DATETIME>
+<BODY>y</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:18:42 pm)</DATETIME>
+<BODY>i was thinkin to spend the night</BODY>
+<COMMENT>(if thats ok with you)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:18:53 pm)</DATETIME>
+<BODY>but they wont be gone that long</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:19:08 pm)</DATETIME>
+<BODY>nah it will be cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:19:26 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:19:39 pm)</DATETIME>
+<BODY>so they leave non sat?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:19:43 pm)</DATETIME>
+<BODY>noon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:19:44 pm)</DATETIME>
+<BODY>yea tom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:19:52 pm)</DATETIME>
+<BODY>aaround</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:00 pm)</DATETIME>
+<BODY>and return sun afternoon</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:20:08 pm)</DATETIME>
+<BODY>or later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:13 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:20:14 pm)</DATETIME>
+<BODY>they usually call</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:25 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:45 pm)</DATETIME>
+<BODY>i do have a whole day with you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:49 pm)</DATETIME>
+<BODY>and night</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:20:52 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:21:00 pm)</DATETIME>
+<BODY>haha watever will we do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:21:20 pm)</DATETIME>
+<BODY>i have no clue....wink, wink</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:21:28 pm)</DATETIME>
+<BODY>tease</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:21:32 pm)</DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:21:52 pm)</DATETIME>
+<BODY>tease and please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:21:58 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:22:04 pm)</DATETIME>
+<BODY>oh yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:22:17 pm)</DATETIME>
+<BODY>hehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:22:29 pm)</DATETIME>
+<BODY>so what ya gonna wear tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:22:49 pm)</DATETIME>
+<BODY>wat u want me to wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:22:59 pm)</DATETIME>
+<BODY>hmm...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:07 pm)</DATETIME>
+<BODY>lingerie</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:09 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:23:18 pm)</DATETIME>
+<BODY>i dont have ne</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:22 pm)</DATETIME>
+<BODY>damn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:24 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:23:27 pm)</DATETIME>
+<BODY>buy me some</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:23:28 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:51 pm)</DATETIME>
+<BODY>lol.....i would feel awkward in that store</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:23:56 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:24:03 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:24:10 pm)</DATETIME>
+<BODY>lets see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:24:26 pm)</DATETIME>
+<BODY>panty and bra just fine</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:24:29 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:24:39 pm)</DATETIME>
+<BODY>nothin else</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:24:53 pm)</DATETIME>
+<BODY>or even nuthin is fine too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:24:57 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:14 pm)</DATETIME>
+<BODY>naw i dunno i was just curious</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:25:15 pm)</DATETIME>
+<BODY>u reall ywant me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:25:19 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:27 pm)</DATETIME>
+<BODY>hell ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:38 pm)</DATETIME>
+<BODY>dream come true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:41 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:25:51 pm)</DATETIME>
+<BODY>mebbe just bra and panty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:54 pm)</DATETIME>
+<BODY>u prolly wouldnt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:25:57 pm)</DATETIME>
+<BODY>ooh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:26:01 pm)</DATETIME>
+<BODY>i dont think i coudl jsut sit there narked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:26:04 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:26:11 pm)</DATETIME>
+<BODY>hehehe ur right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:26:18 pm)</DATETIME>
+<BODY>robe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:26:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:26:37 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:26:47 pm)</DATETIME>
+<BODY>i just mite to freak u out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:26:57 pm)</DATETIME>
+<BODY>cant wait to see that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:26:58 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:27:04 pm)</DATETIME>
+<BODY>freak me baby</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:27:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:27:07 pm)</DATETIME>
+<BODY>wat u gonna do if i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:27:11 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:27:18 pm)</DATETIME>
+<BODY>u'll see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:27:27 pm)</DATETIME>
+<BODY>u'll even like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:27:29 pm)</DATETIME>
+<BODY>heehee</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:28:10 pm)</DATETIME>
+<BODY>wat u gonna wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:28:21 pm)</DATETIME>
+<BODY>what would u like me to do ?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:28:31 pm)</DATETIME>
+<BODY>bra and panty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:28:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:28:40 pm)</DATETIME>
+<BODY>let me borrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:28:43 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:28:46 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:28:47 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:04 pm)</DATETIME>
+<BODY>i like cotton</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:07 pm)</DATETIME>
+<BODY>its cooler</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:12 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:29:29 pm)</DATETIME>
+<BODY>i got cotton pnaties</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:34 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:35 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:29:43 pm)</DATETIME>
+<BODY>but ud strect them</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:47 pm)</DATETIME>
+<BODY>lmao</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:29:47 pm)</DATETIME>
+<BODY>stretch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:29:49 pm)</DATETIME>
+<BODY>meany</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:29:59 pm)</DATETIME>
+<BODY>u gotta joystick</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:30:03 pm)</DATETIME>
+<BODY>i dont</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:30:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:30:07 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:30:22 pm)</DATETIME>
+<BODY>it be hangin on the side</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:30:40 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:30:46 pm)</DATETIME>
+<BODY>peekin out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:30:49 pm)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:31:03 pm)</DATETIME>
+<BODY>i gotta c tha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:31:05 pm)</DATETIME>
+<BODY>t</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:31:17 pm)</DATETIME>
+<BODY>oh u will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:31:18 pm)</DATETIME>
+<BODY>hehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:31:37 pm)</DATETIME>
+<BODY>ur silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:31:46 pm)</DATETIME>
+<BODY>thanks sweetyy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:32:02 pm)</DATETIME>
+<BODY>brb mom is calling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:32:04 pm)</DATETIME>
+<BODY>dont ya just love it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:32:06 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:43:33 pm)</DATETIME>
+<BODY>back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:43:39 pm)</DATETIME>
+<BODY>miss me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:43:43 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:43:48 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:43:57 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:44:12 pm)</DATETIME>
+<BODY>so what u doin later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:44:23 pm)</DATETIME>
+<BODY>i dunoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:44:27 pm)</DATETIME>
+<BODY>maybe get a movie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:44:36 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:44:38 pm)</DATETIME>
+<BODY>wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:44:58 pm)</DATETIME>
+<BODY>hey i gotta log off for a bit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:06 pm)</DATETIME>
+<BODY>im doin laundry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:10 pm)</DATETIME>
+<BODY>ugh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:45:11 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:45:21 pm)</DATETIME>
+<BODY>wash ur panties</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:24 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:25 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:27 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:32 pm)</DATETIME>
+<BODY>cya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(7:45:36 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:45:39 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>january 7, 2007</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:53:16 pm)</DATETIME>
+<BODY>well hello there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:54:10 pm)</DATETIME>
+<BODY>jess?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(7:54:24 pm)</DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(8:12:34 pm)</DATETIME>
+<BODY>what u doing?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(8:21:04 pm)</DATETIME>
+<BODY>yoohoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(8:21:58 pm)</DATETIME>
+<BODY>anyways if i'm not online call me 310-923-8191 ok?</BODY>
+<COMMENT>(got it.)</COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(8:41:17 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(9:41:09 pm)</DATETIME>
+<BODY>yo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:09:43 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:09:52 pm)</DATETIME>
+<BODY>i forgot this was on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:09:53 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:13 pm)</DATETIME>
+<BODY>there u are!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:15 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:10:19 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:24 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:26 pm)</DATETIME>
+<BODY>phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:10:28 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:37 pm)</DATETIME>
+<BODY>dont go away</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:38 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:10:39 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:10:44 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:14:28 pm)</DATETIME>
+<BODY>sorry bout dat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:14:45 pm)</DATETIME>
+<BODY>so how u doin today?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:15:03 pm)</DATETIME>
+<BODY>k n u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:15:13 pm)</DATETIME>
+<BODY>not bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:15:33 pm)</DATETIME>
+<BODY>getting ready to go see narnia wi my friend</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:15:39 pm)</DATETIME>
+<BODY>so are we on for tonite sweety?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:15:45 pm)</DATETIME>
+<BODY>narnia?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:15:53 pm)</DATETIME>
+<BODY>the movie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:15:56 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:16:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:16:17 pm)</DATETIME>
+<BODY>be back like 11 tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:16:23 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:16:40 pm)</DATETIME>
+<BODY>ur parents still there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:16:48 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:16:56 pm)</DATETIME>
+<BODY>they leavin tomorrow?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:16:56 pm)</DATETIME>
+<BODY>they gone til tom night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:17:06 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:17:07 pm)</DATETIME>
+<BODY>y u wanna come over</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:17:16 pm)</DATETIME>
+<BODY>i thought we were gonna hangout tonite</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:17:32 pm)</DATETIME>
+<BODY>i was on earlier n did c u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:17:35 pm)</DATETIME>
+<BODY>ur place is about 50 min from her</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:17:53 pm)</DATETIME>
+<BODY>yeah i was doin errands</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:17:58 pm)</DATETIME>
+<BODY>that ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:18:20 pm)</DATETIME>
+<BODY>i was trying to chat with u like an hr and a half but u were away</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:18:30 pm)</DATETIME>
+<BODY>i forgot i left it on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:18:33 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:18:46 pm)</DATETIME>
+<BODY>so we're not gonna hang out tonite?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:19:06 pm)</DATETIME>
+<BODY>ubless u wanna come late</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:19:16 pm)</DATETIME>
+<BODY>thats fine with me,....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:19:30 pm)</DATETIME>
+<BODY>like 12:30 late</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:19:37 pm)</DATETIME>
+<BODY>just go and enjoy ur movie and then we'll hool up after that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:19:45 pm)</DATETIME>
+<BODY>no not for me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:02 pm)</DATETIME>
+<BODY>are you sure though?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:20:03 pm)</DATETIME>
+<BODY>u want me to call u when i get back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:20:09 pm)</DATETIME>
+<BODY>hell yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:12 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:13 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:28 pm)</DATETIME>
+<BODY>u have a cell?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:20:34 pm)</DATETIME>
+<BODY>no :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:37 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:20:48 pm)</DATETIME>
+<BODY>what time are you going to be home?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:21:03 pm)</DATETIME>
+<BODY>so i can jjust start heading up there ahead of time</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:21:14 pm)</DATETIME>
+<BODY>if u want, say 12:30</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:21:25 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:21:38 pm)</DATETIME>
+<BODY>so i'll leave my house like around 12</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:22:01 pm)</DATETIME>
+<BODY>hey whats ur address so i can use mapquest</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:22:58 pm)</DATETIME>
+<BODY>jess?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:23:06 pm)</DATETIME>
+<BODY>sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:23:11 pm)</DATETIME>
+<BODY>all good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:23:12 pm)</DATETIME>
+<BODY>hit by a bunch of bots</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:23:17 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:23:32 pm)</DATETIME>
+<BODY>so what ur address?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:23:38 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:23:46 pm)</DATETIME>
+<BODY>*address redacted*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:24:05 pm)</DATETIME>
+<BODY>*address redacted*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:24:08 pm)</DATETIME>
+<BODY>*address redacted*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:24:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:24:13 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:24:14 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:24:45 pm)</DATETIME>
+<BODY>k gimme a sec and i'll check to see exactly how long to get there</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:24:49 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:25:05 pm)</DATETIME>
+<BODY>what time u goin to movies?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:25:18 pm)</DATETIME>
+<BODY>in a lil, gotta get ready</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:25:24 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:25:44 pm)</DATETIME>
+<BODY>i going qwith missy, but i can dump her after</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:26:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:26:12 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:03 pm)</DATETIME>
+<BODY>k go ahead and get ready</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:27:12 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:15 pm)</DATETIME>
+<BODY>58 min to ur place</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:27:18 pm)</DATETIME>
+<BODY>u got cell i call u later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:26 pm)</DATETIME>
+<BODY>so u be home by 1230?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:27:30 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:35 pm)</DATETIME>
+<BODY>yeah the number i gave u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>asian_kreationz.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:41 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:27:45 pm)</DATETIME>
+<BODY>well have fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:27:53 pm)</DATETIME>
+<BODY>310-923-8191 ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:27:56 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:28:00 pm)</DATETIME>
+<BODY>yup</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>torn_angel_2005</USERNAME>
+<DATETIME>(10:28:01 pm)</DATETIME>
+<BODY>cya!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>asian_kreationz</USERNAME>
+<DATETIME>(10:28:04 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

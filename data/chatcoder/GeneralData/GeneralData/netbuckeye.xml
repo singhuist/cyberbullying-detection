@@ -1,0 +1,4585 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>John</FIRSTNAME>
+<LASTNAME>Frantz</LASTNAME>
+<STATEDNAME>John</STATEDNAME>
+<STATEDAGE>33</STATEDAGE>
+<AGE>33</AGE>
+<GENDER>Male</GENDER>
+<RACE>White</RACE>
+<CITY>West Milton</CITY>
+<STATE>OH</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>netbuckeye</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Mickey</FIRSTNAME>
+<LASTNAME>Finn</LASTNAME>
+<STATEDNAME>Erika</STATEDNAME>
+<STATEDAGE>14</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY>West Milton</CITY>
+<STATE>OH</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>chickygrrrrl</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>netbuckeye.emjakubowski.coded.txt</NAME>
+<CODER>emjakubowski</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:17:50 pm)</DATETIME>
+<BODY>hola</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:18:08 pm)</DATETIME>
+<BODY>are you really 14?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:18:12 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:18:18 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:18:24 pm)</DATETIME>
+<BODY>no way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:18:29 pm)</DATETIME>
+<BODY>you look older</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:18:30 pm)</DATETIME>
+<BODY>why u say that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:18:38 pm)</DATETIME>
+<BODY>thx i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:18:51 pm)</DATETIME>
+<BODY>its not a bad thing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:18:56 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:19:02 pm)</DATETIME>
+<BODY>except you probably get hit on my older guys</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:19:11 pm)</DATETIME>
+<BODY>yea some</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:19:19 pm)</DATETIME>
+<BODY>but i dont mind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:19:22 pm)</DATETIME>
+<BODY>how old r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:19:39 pm)</DATETIME>
+<BODY>uhm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:19:48 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:19:52 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:19:53 pm)</DATETIME>
+<BODY>uhm?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:19:55 pm)</DATETIME>
+<BODY>exactly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:20:12 pm)</DATETIME>
+<BODY>im just talkin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:20:18 pm)</DATETIME>
+<BODY>relly i dont mind if yur older so just say</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:20:29 pm)</DATETIME>
+<BODY>im 33</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:20:33 pm)</DATETIME>
+<BODY>thats kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:20:38 pm)</DATETIME>
+<BODY>guys my age r dorks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:20:46 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:20:56 pm)</DATETIME>
+<BODY>immature</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:20:56 pm)</DATETIME>
+<BODY>u in oh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:20:59 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:00 pm)</DATETIME>
+<BODY>yea very</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:21:08 pm)</DATETIME>
+<BODY>which department are you with</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:13 pm)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:21:26 pm)</DATETIME>
+<BODY>greenville?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:31 pm)</DATETIME>
+<BODY>department?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:21:38 pm)</DATETIME>
+<BODY>police</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:41 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:46 pm)</DATETIME>
+<BODY>u think im a cop?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:21:53 pm)</DATETIME>
+<BODY>id be stupid not to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:21:58 pm)</DATETIME>
+<BODY>hahahahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:05 pm)</DATETIME>
+<BODY>i cant believe the idiots who keep trying that shit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:22:09 pm)</DATETIME>
+<BODY>yea the cops are hirin 14 year olds now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:19 pm)</DATETIME>
+<BODY>no, they pose as 14 year olds</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:22:23 pm)</DATETIME>
+<BODY>who does?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:22:26 pm)</DATETIME>
+<BODY>cops?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:28 pm)</DATETIME>
+<BODY>cops everywhere</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:29 pm)</DATETIME>
+<BODY>heck yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:22:35 pm)</DATETIME>
+<BODY>i never met no cops here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:35 pm)</DATETIME>
+<BODY>its in the news every other week</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:43 pm)</DATETIME>
+<BODY>of course they're not gonna tell you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:22:50 pm)</DATETIME>
+<BODY>then how u know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:54 pm)</DATETIME>
+<BODY>besides, they're looking to bust pervs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:22:57 pm)</DATETIME>
+<BODY>not you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:04 pm)</DATETIME>
+<BODY>i hear about it on the news</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:12 pm)</DATETIME>
+<BODY>xenia cops do it all the damn time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:23:14 pm)</DATETIME>
+<BODY>well i dont know wat to tell ya, im no cop</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:19 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:23:23 pm)</DATETIME>
+<BODY>never been to xenia</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:24 pm)</DATETIME>
+<BODY>just checkin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:34 pm)</DATETIME>
+<BODY>im in west milton</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:37 pm)</DATETIME>
+<BODY>since you asked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:23:42 pm)</DATETIME>
+<BODY>wheres that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:49 pm)</DATETIME>
+<BODY>hm...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:23:56 pm)</DATETIME>
+<BODY>do you get out of gville much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:24:09 pm)</DATETIME>
+<BODY>its only like 20-25 min away</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:24:21 pm)</DATETIME>
+<BODY>yea i've heard of it just not sure where it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:24:25 pm)</DATETIME>
+<BODY>take 571 east, you run right into it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:24:32 pm)</DATETIME>
+<BODY>jog at mcdonalds</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:24:56 pm)</DATETIME>
+<BODY>kewl so not far</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:25:00 pm)</DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:25:11 pm)</DATETIME>
+<BODY>hicksville just like greenville</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:25:15 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:25:26 pm)</DATETIME>
+<BODY>greenville is hickville big time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:25:31 pm)</DATETIME>
+<BODY>tell me bout it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:25:39 pm)</DATETIME>
+<BODY>big damn belt buckles and boots</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:25:42 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:25:55 pm)</DATETIME>
+<BODY>yea u been here i can see lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:26:03 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:26:26 pm)</DATETIME>
+<BODY>you dont act 14 either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:26:32 pm)</DATETIME>
+<BODY>hows that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:26:48 pm)</DATETIME>
+<BODY>well, your vocabulary and typing skills for one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:27:01 pm)</DATETIME>
+<BODY>too good or too bad lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:05 pm)</DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:27:19 pm)</DATETIME>
+<BODY>nobody ever said that before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:30 pm)</DATETIME>
+<BODY>well they're not too perceptive then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:27:31 pm)</DATETIME>
+<BODY>i chat wit friends all the time an we all type like this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:43 pm)</DATETIME>
+<BODY>i guess thats all you do now isnt it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:46 pm)</DATETIME>
+<BODY>i forget that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:27:52 pm)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:53 pm)</DATETIME>
+<BODY>blog, chat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:27:56 pm)</DATETIME>
+<BODY>ha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:27:57 pm)</DATETIME>
+<BODY>everyone does it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:28:11 pm)</DATETIME>
+<BODY>nah i do more than that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:28:16 pm)</DATETIME>
+<BODY>but yea do a lot of chattin too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:28:35 pm)</DATETIME>
+<BODY>what else...are you in the band</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:28:46 pm)</DATETIME>
+<BODY>school band? nah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:28:49 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:28:53 pm)</DATETIME>
+<BODY>i was jk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:28:58 pm)</DATETIME>
+<BODY>kind of funny though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:29:11 pm)</DATETIME>
+<BODY>play any sports?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:29:20 pm)</DATETIME>
+<BODY>some softball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:29:25 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:29:43 pm)</DATETIME>
+<BODY>how bout u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:29:57 pm)</DATETIME>
+<BODY>basketball, volleyball, softball</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:30:01 pm)</DATETIME>
+<BODY>basketball now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:30:03 pm)</DATETIME>
+<BODY>every week</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:30:17 pm)</DATETIME>
+<BODY>late summer, we play softball</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:30:46 pm)</DATETIME>
+<BODY>i suck at basketball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:30:50 pm)</DATETIME>
+<BODY>i love it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:30:53 pm)</DATETIME>
+<BODY>probably my fave</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:30:58 pm)</DATETIME>
+<BODY>u tall</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:31:05 pm)</DATETIME>
+<BODY>6'</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:31:08 pm)</DATETIME>
+<BODY>how tall are you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:31:13 pm)</DATETIME>
+<BODY>5 4</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:31:34 pm)</DATETIME>
+<BODY>good height</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:31:44 pm)</DATETIME>
+<BODY>too short for bball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:31:53 pm)</DATETIME>
+<BODY>could be a guard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:32:05 pm)</DATETIME>
+<BODY>wat do they do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:32:15 pm)</DATETIME>
+<BODY>handle the ball mainly, outside</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:32:26 pm)</DATETIME>
+<BODY>bring it up the floor, assist</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:32:54 pm)</DATETIME>
+<BODY>too bad you're not older</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:33:00 pm)</DATETIME>
+<BODY>thats wat i say</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:33:20 pm)</DATETIME>
+<BODY>at least you can hold a conversation</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:33:24 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:33:35 pm)</DATETIME>
+<BODY>yea i can talk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:33:43 pm)</DATETIME>
+<BODY>nobody ever acused me of not talkin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:34:16 pm)</DATETIME>
+<BODY>well i gotta go get something to eat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:34:21 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:34:26 pm)</DATETIME>
+<BODY>nice chattin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:34:31 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:34:38 pm)</DATETIME>
+<BODY>holla at me again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:34:44 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(6:34:46 pm)</DATETIME>
+<BODY>later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(6:34:48 pm)</DATETIME>
+<BODY>laterz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:39:27 pm)</DATETIME>
+<BODY>you on?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:39:38 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:39:48 pm)</DATETIME>
+<BODY>hey, whats up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:40:06 pm)</DATETIME>
+<BODY>not much wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:40:30 pm)</DATETIME>
+<BODY>chillin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:41:05 pm)</DATETIME>
+<BODY>u sure you wanna be talkin to a cop ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:41:12 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:41:33 pm)</DATETIME>
+<BODY>u dont relly think im a cop do u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:41:38 pm)</DATETIME>
+<BODY>im not doing anything wrong, why should i care</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:42:05 pm)</DATETIME>
+<BODY>who knows mebbe the fbi come tap your phone or sumthin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:42:17 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:42:35 pm)</DATETIME>
+<BODY>i dont even have a phone they can tap...only a cell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:42:51 pm)</DATETIME>
+<BODY>can they tap those?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:43:12 pm)</DATETIME>
+<BODY>they would have to get it from me, but a bug in it, and get it back without me knowing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:43:24 pm)</DATETIME>
+<BODY>or they could just listen in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:43:33 pm)</DATETIME>
+<BODY>i think they can do that on cell phones</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:43:34 pm)</DATETIME>
+<BODY>guess that be kinda hard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:44:01 pm)</DATETIME>
+<BODY>so you smoke?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:44:20 pm)</DATETIME>
+<BODY>u mean pot or cigs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:44:25 pm)</DATETIME>
+<BODY>either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:44:31 pm)</DATETIME>
+<BODY>lol yea to both</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:44:43 pm)</DATETIME>
+<BODY>you're naughty arent you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:44:55 pm)</DATETIME>
+<BODY>sometimes ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:45:34 pm)</DATETIME>
+<BODY>im not like some big time pot head but i like it now an then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:45:42 pm)</DATETIME>
+<BODY>yeah, ive done it before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:45:45 pm)</DATETIME>
+<BODY>not often</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:45:56 pm)</DATETIME>
+<BODY>im looking at your myspace</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:46:02 pm)</DATETIME>
+<BODY>u like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:46:03 pm)</DATETIME>
+<BODY>hedonist? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:46:09 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:46:09 pm)</DATETIME>
+<BODY>you really are naughty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:46:23 pm)</DATETIME>
+<BODY>yeah i like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:46:31 pm)</DATETIME>
+<BODY>do you have a bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:46:42 pm)</DATETIME>
+<BODY>nah we broke up couple weeks ago</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:47:30 pm)</DATETIME>
+<BODY>i wasnt thinking about having a gf when i was 14</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:47:44 pm)</DATETIME>
+<BODY>relly?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:47:50 pm)</DATETIME>
+<BODY>i dont think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:47:56 pm)</DATETIME>
+<BODY>what grade you in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:48:05 pm)</DATETIME>
+<BODY>8</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:49:09 pm)</DATETIME>
+<BODY>interesting, you have a 35 year old on your myspace friends</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:49:12 pm)</DATETIME>
+<BODY>not everybody i know has gf/bf but i'd say most</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:49:22 pm)</DATETIME>
+<BODY>yea hes kinda a cool dude</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:49:31 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:49:35 pm)</DATETIME>
+<BODY>you met him?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:49:42 pm)</DATETIME>
+<BODY>not yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:49:49 pm)</DATETIME>
+<BODY>going to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:49:54 pm)</DATETIME>
+<BODY>mebbe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:50:06 pm)</DATETIME>
+<BODY>he lives a ways away but was thinkin of stoppin over sometime</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:50:14 pm)</DATETIME>
+<BODY>so you like older guys?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:50:21 pm)</DATETIME>
+<BODY>guys my age are dorks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:50:25 pm)</DATETIME>
+<BODY>well yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:50:30 pm)</DATETIME>
+<BODY>i agree</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:50:59 pm)</DATETIME>
+<BODY>how old r u? i forget</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:51:11 pm)</DATETIME>
+<BODY>33</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:51:31 pm)</DATETIME>
+<BODY>so pretty close to him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:51:43 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:51:52 pm)</DATETIME>
+<BODY>i have more hair</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:51:56 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:51:56 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:52:11 pm)</DATETIME>
+<BODY>yea hes kinda shortchange in that area</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:52:17 pm)</DATETIME>
+<BODY>yeah i see that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:52:36 pm)</DATETIME>
+<BODY>did i show you a pic</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:52:49 pm)</DATETIME>
+<BODY>no got one?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:52:54 pm)</DATETIME>
+<BODY>how you want it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:53:01 pm)</DATETIME>
+<BODY>email i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:53:14 pm)</DATETIME>
+<BODY>let me try to put it on the window</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:53:16 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:53:26 pm)</DATETIME>
+<BODY>or if its on a web somewhere u can just link</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:54:48 pm)</DATETIME>
+<BODY>can you see that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:54:53 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:54:58 pm)</DATETIME>
+<BODY>its tiny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:55:02 pm)</DATETIME>
+<BODY>retarded</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:55:08 pm)</DATETIME>
+<BODY>kewl yur a lot cuter than that other guy :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:55:13 pm)</DATETIME>
+<BODY>lol thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:55:25 pm)</DATETIME>
+<BODY>people say i look better in person too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:55:30 pm)</DATETIME>
+<BODY>i guess thats good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:55:37 pm)</DATETIME>
+<BODY>most people do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:55:38 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:56:09 pm)</DATETIME>
+<BODY>you're cute in the pics</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:56:15 pm)</DATETIME>
+<BODY>thx :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:56:20 pm)</DATETIME>
+<BODY>yw</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:56:26 pm)</DATETIME>
+<BODY>but i gotta get better ones</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:56:41 pm)</DATETIME>
+<BODY>thats terrible lipstick i was wearin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:56:52 pm)</DATETIME>
+<BODY>you're beautiful without any makeup</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:57:00 pm)</DATETIME>
+<BODY>haha thats wat u think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:57:05 pm)</DATETIME>
+<BODY>i can tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:57:12 pm)</DATETIME>
+<BODY>you have good features</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:57:34 pm)</DATETIME>
+<BODY>thx but im fugly without at least a little makeup</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:58:01 pm)</DATETIME>
+<BODY>every girl thinks that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:58:29 pm)</DATETIME>
+<BODY>if it makes you feel more attractive, thats the important thing :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:58:40 pm)</DATETIME>
+<BODY>well mebbe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:58:45 pm)</DATETIME>
+<BODY>but some more true than others</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:58:57 pm)</DATETIME>
+<BODY>a gf of mine looks hot with none at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:59:10 pm)</DATETIME>
+<BODY>but i gotta have a little at least</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:59:35 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:59:40 pm)</DATETIME>
+<BODY>so what is your name?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:59:43 pm)</DATETIME>
+<BODY>erika</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:59:46 pm)</DATETIME>
+<BODY>yurs?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:59:46 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(3:59:49 pm)</DATETIME>
+<BODY>john</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(3:59:51 pm)</DATETIME>
+<BODY>hi john</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:00:04 pm)</DATETIME>
+<BODY>hi erika, nice to meet you ld</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:00:05 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:00:27 pm)</DATETIME>
+<BODY>ld?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:00:38 pm)</DATETIME>
+<BODY>sorry, typo...meant : d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:00:41 pm)</DATETIME>
+<BODY>oooh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:00:43 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:00:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:00:57 pm)</DATETIME>
+<BODY>so what did you do last night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:01:30 pm)</DATETIME>
+<BODY>not much... hung out online a while, tv, booooored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:01:43 pm)</DATETIME>
+<BODY>bored sucks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:01:59 pm)</DATETIME>
+<BODY>i went out with my friend andrew and watched basketball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:02:50 pm)</DATETIME>
+<BODY>are your parents divorced</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:02:52 pm)</DATETIME>
+<BODY>was it fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:02:55 pm)</DATETIME>
+<BODY>yeah it was ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:03:01 pm)</DATETIME>
+<BODY>divorced and remarried</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:03:33 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:03:41 pm)</DATETIME>
+<BODY>whoa! way better pic!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:03:44 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:03:46 pm)</DATETIME>
+<BODY>thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:03:56 pm)</DATETIME>
+<BODY>wow yur hot dude :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:04:13 pm)</DATETIME>
+<BODY>thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:04:26 pm)</DATETIME>
+<BODY>:"></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:05:01 pm)</DATETIME>
+<BODY>u got a myspace page?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:05:06 pm)</DATETIME>
+<BODY>no i dont yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:05:17 pm)</DATETIME>
+<BODY>i have a xanga, but its anonymous</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:05:19 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:05:23 pm)</DATETIME>
+<BODY>i got a bunch more pics but u gotta be signed up to see em</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:05:36 pm)</DATETIME>
+<BODY>hm, i might have to get one then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:05:42 pm)</DATETIME>
+<BODY>oh wait</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:05:49 pm)</DATETIME>
+<BODY>i got em somewheres else hold on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:06:11 pm)</DATETIME>
+<BODY>my bro put em here for me http://www.putfile.com/chickygrrrrl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:06:36 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:07:02 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:08:34 pm)</DATETIME>
+<BODY>nice pics! you're a hottie yourself</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:08:44 pm)</DATETIME>
+<BODY>:"></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:05 pm)</DATETIME>
+<BODY>ive seen that keith guy online before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:06 pm)</DATETIME>
+<BODY>in chat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:09:10 pm)</DATETIME>
+<BODY>relly?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:17 pm)</DATETIME>
+<BODY>yeah, he used to go to the dayton room</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:20 pm)</DATETIME>
+<BODY>and ohio:5 too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:32 pm)</DATETIME>
+<BODY>well, not sure about ohio 5</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:09:37 pm)</DATETIME>
+<BODY>but dayton room for sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:09:48 pm)</DATETIME>
+<BODY>didnt know there was a dayton romm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:10:00 pm)</DATETIME>
+<BODY>there was before they shut down user rooms</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:10:07 pm)</DATETIME>
+<BODY>oh one of those</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:10:09 pm)</DATETIME>
+<BODY>which was totally gay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:10:11 pm)</DATETIME>
+<BODY>yea that sucked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:10:38 pm)</DATETIME>
+<BODY>some of those rooms was relly wierd</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:10:51 pm)</DATETIME>
+<BODY>no doubt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:11:39 pm)</DATETIME>
+<BODY>wow u just full of pics today!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:11:42 pm)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:11:44 pm)</DATETIME>
+<BODY>i like that 1 too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:11:46 pm)</DATETIME>
+<BODY>thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:12:02 pm)</DATETIME>
+<BODY>an yur right, u got more hair than whats his name</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:12:08 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:12:45 pm)</DATETIME>
+<BODY>so how is he planning on stopping by...wont your parents frown on that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>21</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:13:01 pm)</DATETIME>
+<BODY>there gone til sun nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:13:10 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:13:19 pm)</DATETIME>
+<BODY>but we didnt make real plans</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:13:22 pm)</DATETIME>
+<BODY>thats convenient</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:13:23 pm)</DATETIME>
+<BODY>he just sorta mentioned it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:13:51 pm)</DATETIME>
+<BODY>did you tell him you're a cop</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:13:55 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:14:02 pm)</DATETIME>
+<BODY>yea an it relly turned him on lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:14:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:14:27 pm)</DATETIME>
+<BODY>guys always like hot chicks with guns an badges ya know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:14:39 pm)</DATETIME>
+<BODY>i think it might be more about handcuffs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:14:42 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:14:53 pm)</DATETIME>
+<BODY>u got cops on the brain dude!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:15:03 pm)</DATETIME>
+<BODY>im just playin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:15:05 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:15:25 pm)</DATETIME>
+<BODY>my friend just called, wanted to know if i want to go to bw3 and watch basketball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:15:28 pm)</DATETIME>
+<BODY>hmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:15:34 pm)</DATETIME>
+<BODY>besides he didnt say nuthin sexual or nuthin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:15:41 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:15:54 pm)</DATETIME>
+<BODY>so u gonna go watch bball</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:15:58 pm)</DATETIME>
+<BODY>i dont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:16:04 pm)</DATETIME>
+<BODY>i dont really feel like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:16:24 pm)</DATETIME>
+<BODY>so wat u do instead tonite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:16:37 pm)</DATETIME>
+<BODY>i dont know, what you wanna do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:17:00 pm)</DATETIME>
+<BODY>didnt expect that did you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:17:03 pm)</DATETIME>
+<BODY>dunno... was sposed to go partyin wit some gfs but they it fell apart</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:17:25 pm)</DATETIME>
+<BODY>was a little surprising from u yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:17:29 pm)</DATETIME>
+<BODY>how does that work, you cant drive</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:17:40 pm)</DATETIME>
+<BODY>one of them dates an older guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:17:45 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:17:47 pm)</DATETIME>
+<BODY>an hes the one that bailed out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:18:00 pm)</DATETIME>
+<BODY>how old is he</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:18:08 pm)</DATETIME>
+<BODY>like 17 18 i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:18:10 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:18:19 pm)</DATETIME>
+<BODY>senior</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:18:50 pm)</DATETIME>
+<BODY>so is she big stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:19:00 pm)</DATETIME>
+<BODY>the guys think shes hot yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:19:13 pm)</DATETIME>
+<BODY>must be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:19:22 pm)</DATETIME>
+<BODY>troy my ex bf was 19</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:19:30 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:19:35 pm)</DATETIME>
+<BODY>how did you meet him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:19:45 pm)</DATETIME>
+<BODY>at a party with frnds</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:20:42 pm)</DATETIME>
+<BODY>u relly need a myspace for all those pics ya know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:20:53 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:21:01 pm)</DATETIME>
+<BODY>ill get one eventually</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:21:10 pm)</DATETIME>
+<BODY>its easy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:21:13 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:21:19 pm)</DATETIME>
+<BODY>way better than xanga</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:21:34 pm)</DATETIME>
+<BODY>i like the layout of xanga better...myspace is so scattered</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:21:44 pm)</DATETIME>
+<BODY>but i like myspace comments better</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:21:58 pm)</DATETIME>
+<BODY>but xanga seems like its full of little kids</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:22:08 pm)</DATETIME>
+<BODY>like 10 yers old and stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:22:21 pm)</DATETIME>
+<BODY>most people i know on there are my age or maybe mid to upper 20s</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:22:36 pm)</DATETIME>
+<BODY>well mebbe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:22:46 pm)</DATETIME>
+<BODY>just seems like i always saw lots of little kids there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:22:48 pm)</DATETIME>
+<BODY>little kids huh lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:23:04 pm)</DATETIME>
+<BODY>well wuldnt u call 10 a little kid?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:23:09 pm)</DATETIME>
+<BODY>well yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:23:30 pm)</DATETIME>
+<BODY>some people would think you are too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:23:40 pm)</DATETIME>
+<BODY>i guess but they dont know me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:23:49 pm)</DATETIME>
+<BODY>you're right about that much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:24:03 pm)</DATETIME>
+<BODY>it sux bein 14</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:24:03 pm)</DATETIME>
+<BODY>i could swear you're like 19</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:24:22 pm)</DATETIME>
+<BODY>at least</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:24:26 pm)</DATETIME>
+<BODY>people treat u like yur a kid but guys always starin at my butt an stuff lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:24:31 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:24:38 pm)</DATETIME>
+<BODY>so that must mean you have a nice butt</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:24:47 pm)</DATETIME>
+<BODY>so ive been told ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:24:56 pm)</DATETIME>
+<BODY>how did you know thats my weakness</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:25:06 pm)</DATETIME>
+<BODY>lol i didnt til now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:25:12 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:25:24 pm)</DATETIME>
+<BODY>i think i do alright in a pair of jeans</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:25:32 pm)</DATETIME>
+<BODY>now im curious</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:25:50 pm)</DATETIME>
+<BODY>but ill have to take your word for it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:26:20 pm)</DATETIME>
+<BODY>yea sorry i dont have any butt pics :-(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:26:25 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:26:31 pm)</DATETIME>
+<BODY>i didnt mean that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:26:45 pm)</DATETIME>
+<BODY>although i wouldnt complain</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:26:49 pm)</DATETIME>
+<BODY>anyway...so what are you doing tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:26:53 pm)</DATETIME>
+<BODY>wat did u mean?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:26:58 pm)</DATETIME>
+<BODY>in person</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:27:02 pm)</DATETIME>
+<BODY>oooh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:27:18 pm)</DATETIME>
+<BODY>well yur convinced im the fbi anyways lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:27:22 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:27:51 pm)</DATETIME>
+<BODY>dunno wat im gonna do tonite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:27:53 pm)</DATETIME>
+<BODY>any ideas?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:27:57 pm)</DATETIME>
+<BODY>so let me get this straight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:28:07 pm)</DATETIME>
+<BODY>your parents left you there by yourself?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:28:17 pm)</DATETIME>
+<BODY>wit bro but he took off to see his gf in cincy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:28:26 pm)</DATETIME>
+<BODY>how old is he</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:28:33 pm)</DATETIME>
+<BODY>19</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:28:36 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:28:43 pm)</DATETIME>
+<BODY>that makes sense</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:28:47 pm)</DATETIME>
+<BODY>no biggie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:28:53 pm)</DATETIME>
+<BODY>i been stayin by myself a couple years</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:29:15 pm)</DATETIME>
+<BODY>right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:29:27 pm)</DATETIME>
+<BODY>where did they go</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:29:31 pm)</DATETIME>
+<BODY>chicago</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:29:52 pm)</DATETIME>
+<BODY>some conference of my dads so they both went to like have a romantic wekend or sumthin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:29:58 pm)</DATETIME>
+<BODY>ahhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:30:06 pm)</DATETIME>
+<BODY>how nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:30:42 pm)</DATETIME>
+<BODY>i dont throw parties here so they dont mind relly long as i dont end up in jail or nuthin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:30:50 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:31:09 pm)</DATETIME>
+<BODY>bro did that once an dad kicked his ass</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:31:14 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:31:27 pm)</DATETIME>
+<BODY>so do you live with your real mom or dad</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:31:34 pm)</DATETIME>
+<BODY>real mom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:31:53 pm)</DATETIME>
+<BODY>remarried when i was like 6 so he seems like real dad tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:32:00 pm)</DATETIME>
+<BODY>thats good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:32:29 pm)</DATETIME>
+<BODY>real dads in cali so i hardly ever see him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:32:40 pm)</DATETIME>
+<BODY>does that suck or dont you care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:32:50 pm)</DATETIME>
+<BODY>doesnt matter much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:32:53 pm)</DATETIME>
+<BODY>i hardly know him relly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:01 pm)</DATETIME>
+<BODY>yeah, i can understand that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:16 pm)</DATETIME>
+<BODY>my parents are together and i have a really big family</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:23 pm)</DATETIME>
+<BODY>so its hard for me to relate</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:33:27 pm)</DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:33:37 pm)</DATETIME>
+<BODY>kinda rare almost tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:40 pm)</DATETIME>
+<BODY>thats why im asking so many questions</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:42 pm)</DATETIME>
+<BODY>yeah it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:33:46 pm)</DATETIME>
+<BODY>unfortunately</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:34:08 pm)</DATETIME>
+<BODY>shrug</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:34:11 pm)</DATETIME>
+<BODY>it is wat it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:34:14 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:34:32 pm)</DATETIME>
+<BODY>what do you feel like doing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:34:57 pm)</DATETIME>
+<BODY>well......... mainly wish i had a bf to come over an keep me company ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:35:06 pm)</DATETIME>
+<BODY>or a party to go to or sumethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:35:18 pm)</DATETIME>
+<BODY>greenvilles soooo dead</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:35:25 pm)</DATETIME>
+<BODY>watch movies or somethin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:35:30 pm)</DATETIME>
+<BODY>zzzzzzzzz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:35:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:35:45 pm)</DATETIME>
+<BODY>what do you mean then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:35:52 pm)</DATETIME>
+<BODY>cmon u know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:36:09 pm)</DATETIME>
+<BODY>oooh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:36:13 pm)</DATETIME>
+<BODY>but you dont have a bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:36:17 pm)</DATETIME>
+<BODY>no :-(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:36:22 pm)</DATETIME>
+<BODY>sucks for you then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:36:27 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:36:28 pm)</DATETIME>
+<BODY>no kiddin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:37:04 pm)</DATETIME>
+<BODY>wish we lived in dayton or someplace wit sumthin to do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:37:16 pm)</DATETIME>
+<BODY>nothing to do there either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:37:24 pm)</DATETIME>
+<BODY>gotta be more than here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:37:26 pm)</DATETIME>
+<BODY>except maybe oregon district</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:37:28 pm)</DATETIME>
+<BODY>true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:37:48 pm)</DATETIME>
+<BODY>is there a place over there called bumpers or something</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:37:49 pm)</DATETIME>
+<BODY>an this is a big creepy house when yur alone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:38:17 pm)</DATETIME>
+<BODY>awww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:38:44 pm)</DATETIME>
+<BODY>well i wouldnt mind hanging out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:38:46 pm)</DATETIME>
+<BODY>yea i think theres a bar called bumpers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:39:01 pm)</DATETIME>
+<BODY>ok, have you ever heard of a band called gone tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:39:09 pm)</DATETIME>
+<BODY>sounds familar</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:39:19 pm)</DATETIME>
+<BODY>http://www.myspace.com/gonetomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:39:24 pm)</DATETIME>
+<BODY>u wanna hang out? that wuld be kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:39:29 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:40:14 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:40:30 pm)</DATETIME>
+<BODY>i think im going to see them at bumpers on april 15</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:40:41 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:40:41 pm)</DATETIME>
+<BODY>my cousin wants me ot go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:40:43 pm)</DATETIME>
+<BODY>to*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:40:45 pm)</DATETIME>
+<BODY>local even</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:40:46 pm)</DATETIME>
+<BODY>amazing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:40:48 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:41:20 pm)</DATETIME>
+<BODY>so when u wanna hang?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:41:28 pm)</DATETIME>
+<BODY>well i have no plans tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:41:43 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:42:36 pm)</DATETIME>
+<BODY>what time</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:42:41 pm)</DATETIME>
+<BODY>what times good for u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:42:57 pm)</DATETIME>
+<BODY>i just need to get ready, then i can come</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:43:30 pm)</DATETIME>
+<BODY>k lemme call amy an make sure were not on for tonite k? ill be back in 5 or 10</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:43:35 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:50:10 pm)</DATETIME>
+<BODY>k back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:50:17 pm)</DATETIME>
+<BODY>i gotta make a choice here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:50:47 pm)</DATETIME>
+<BODY>u there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:51:09 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:51:15 pm)</DATETIME>
+<BODY>sorry i was in bathroom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:51:20 pm)</DATETIME>
+<BODY>lol sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:51:25 pm)</DATETIME>
+<BODY>so whats your choice :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:51:47 pm)</DATETIME>
+<BODY>amy wants me to go cruisin round wit her</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:51:48 pm)</DATETIME>
+<BODY>but</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:52:01 pm)</DATETIME>
+<BODY>not quite sure how to ask this.............</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:52:07 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:52:42 pm)</DATETIME>
+<BODY>is this going to be bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:52:51 pm)</DATETIME>
+<BODY>like u just wanna watch boring movies an eat popcorn or should i put on a skirt or the good jeans</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:53:33 pm)</DATETIME>
+<BODY>lol sweat pants or jordache?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:53:34 pm)</DATETIME>
+<BODY>you can wear whatever you want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:53:54 pm)</DATETIME>
+<BODY>what do you want to wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:54:06 pm)</DATETIME>
+<BODY>well im kinda shy bout this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:54:33 pm)</DATETIME>
+<BODY>i think yur relly cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:54:39 pm)</DATETIME>
+<BODY>aww, you're sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:54:46 pm)</DATETIME>
+<BODY>kinda more than cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:55:12 pm)</DATETIME>
+<BODY>well you dont have to worry about it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:55:20 pm)</DATETIME>
+<BODY>aww :"></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:55:24 pm)</DATETIME>
+<BODY>you're making me blush</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:55:33 pm)</DATETIME>
+<BODY>i think you are too actually</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:55:36 pm)</DATETIME>
+<BODY>that makes 2 of us</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:56:00 pm)</DATETIME>
+<BODY>but we dont have to figure it all out on here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:56:11 pm)</DATETIME>
+<BODY>no but i gotta decide which im gonna do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:56:27 pm)</DATETIME>
+<BODY>so what would make the decision easier</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:57:00 pm)</DATETIME>
+<BODY>knowin if u like me an wanna do more than just watch tv</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:57:10 pm)</DATETIME>
+<BODY>well i like you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:57:30 pm)</DATETIME>
+<BODY>thx i like u to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:57:40 pm)</DATETIME>
+<BODY>but how will you know until you meet me for sure ;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:57:42 pm)</DATETIME>
+<BODY>and vice versa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:57:53 pm)</DATETIME>
+<BODY>well sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:58:00 pm)</DATETIME>
+<BODY>but...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:58:06 pm)</DATETIME>
+<BODY>well id kinda like it to be more</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:58:17 pm)</DATETIME>
+<BODY>you're cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:58:57 pm)</DATETIME>
+<BODY>not shy either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(4:59:05 pm)</DATETIME>
+<BODY>well sorta yes sort no lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:59:23 pm)</DATETIME>
+<BODY>well i cant make you choose me over amy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(4:59:46 pm)</DATETIME>
+<BODY>but i cant make any promises, other than to say i think you're really cute and i do like talking to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:00:00 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:00:06 pm)</DATETIME>
+<BODY>i didnt expect promises</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:00:12 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:00:20 pm)</DATETIME>
+<BODY>just kinda lookin for wat to expect</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:00:24 pm)</DATETIME>
+<BODY>u know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:00:28 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:00:45 pm)</DATETIME>
+<BODY>i like to know how it will end too, but life sucks lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:00:53 pm)</DATETIME>
+<BODY>like dress hot an add a little perfume or wear sweats an make popcorn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:01:08 pm)</DATETIME>
+<BODY>coz if its popcorn im thinkin goin with amy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:01:15 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:01:34 pm)</DATETIME>
+<BODY>how long will do you do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:01:47 pm)</DATETIME>
+<BODY>u mean be wit amy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:01:51 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:01:56 pm)</DATETIME>
+<BODY>who knows</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:02:02 pm)</DATETIME>
+<BODY>she wants to try an meet some guys she knows</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:02:11 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:02:36 pm)</DATETIME>
+<BODY>hmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:03:12 pm)</DATETIME>
+<BODY>do you have a webcam</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:03:18 pm)</DATETIME>
+<BODY>no wish i did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:03:28 pm)</DATETIME>
+<BODY>moms parnaoid bout it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:03:33 pm)</DATETIME>
+<BODY>why</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:03:45 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:03:49 pm)</DATETIME>
+<BODY>weird</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:03:58 pm)</DATETIME>
+<BODY>thinks ill do strips online or sumthin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:06 pm)</DATETIME>
+<BODY>would you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:07 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:04:09 pm)</DATETIME>
+<BODY>ha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:04:24 pm)</DATETIME>
+<BODY>prolly not im into the real thing not cyber</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:29 pm)</DATETIME>
+<BODY>can you call me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:04:33 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:39 pm)</DATETIME>
+<BODY>238-5759</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:43 pm)</DATETIME>
+<BODY>john john</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:04:49 pm)</DATETIME>
+<BODY>john john?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:50 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:04:53 pm)</DATETIME>
+<BODY>just being silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:05:01 pm)</DATETIME>
+<BODY>john</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:05:17 pm)</DATETIME>
+<BODY>they called jfk jr john john</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:05:31 pm)</DATETIME>
+<BODY>lol ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:06:22 pm)</DATETIME>
+<BODY>you calling</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:06:41 pm)</DATETIME>
+<BODY>i gotta get offline and find my cell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:06:45 pm)</DATETIME>
+<BODY>gimme 5 min k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:06:48 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:08:08 pm)</DATETIME>
+<BODY>hey i accidentally closed the chat window an didnt have you added</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:08:25 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:08:28 pm)</DATETIME>
+<BODY>wats yur number again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:08:33 pm)</DATETIME>
+<BODY>238-5759</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:08:40 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:08:47 pm)</DATETIME>
+<BODY>in a few....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:08:55 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:13:40 pm)</DATETIME>
+<BODY>found it calling :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:13:56 pm)</DATETIME>
+<BODY>k :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:17:53 pm)</DATETIME>
+<BODY>what did you say</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:17:56 pm)</DATETIME>
+<BODY>couldnt hear you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:18:32 pm)</DATETIME>
+<BODY>i asked if we was hanin out like a date</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:18:41 pm)</DATETIME>
+<BODY>do you want to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:18:46 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:18:50 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:19:06 pm)</DATETIME>
+<BODY>are you hungry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:19:07 pm)</DATETIME>
+<BODY>i told u i think yur really hot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:19:27 pm)</DATETIME>
+<BODY>so are you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:19:45 pm)</DATETIME>
+<BODY>so that makes 2 of us ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:19:51 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:20:03 pm)</DATETIME>
+<BODY>when is your brother coming home</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:20:05 pm)</DATETIME>
+<BODY>wanna just bring a pizza over or sumthin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:20:23 pm)</DATETIME>
+<BODY>sure, or does anyone deliver</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:21:21 pm)</DATETIME>
+<BODY>yea we can get delivery</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:21:26 pm)</DATETIME>
+<BODY>thats eaiser</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:21:28 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:21:54 pm)</DATETIME>
+<BODY>i like mikes hard lemonade btw ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:22:01 pm)</DATETIME>
+<BODY>is that so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:22:09 pm)</DATETIME>
+<BODY>just sayin' lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:22:12 pm)</DATETIME>
+<BODY>you're just trying to get me in trouble arent you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:22:15 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:22:17 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:22:44 pm)</DATETIME>
+<BODY>so when do you want me to come</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:23:26 pm)</DATETIME>
+<BODY>hmmm... i need a little time to get ready</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:23:29 pm)</DATETIME>
+<BODY>how bout 8</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:23:35 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:23:41 pm)</DATETIME>
+<BODY>where do you live</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:24:21 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:25:11 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:25:32 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:26:08 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:26:17 pm)</DATETIME>
+<BODY>think u can find it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:26:20 pm)</DATETIME>
+<BODY>so if i get lost, i can call that number?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:26:23 pm)</DATETIME>
+<BODY>yeah i mapped it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:26:49 pm)</DATETIME>
+<BODY>prolly better not to call since parents got this privacy thing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:26:54 pm)</DATETIME>
+<BODY>you're on the east side of greenville, must be in the country</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:26:58 pm)</DATETIME>
+<BODY>if yur late ill call u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:27:03 pm)</DATETIME>
+<BODY>yea kind out in the boonies</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:27:05 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:27:10 pm)</DATETIME>
+<BODY>easy to find tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:27:18 pm)</DATETIME>
+<BODY>i wont call unless you stand me up, then i might lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:27:25 pm)</DATETIME>
+<BODY>ill be here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:27:28 pm)</DATETIME>
+<BODY>ok :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:27:37 pm)</DATETIME>
+<BODY>u like skirts or tight jeans better ? ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:27:51 pm)</DATETIME>
+<BODY>whatever you feel most comfy in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:27:55 pm)</DATETIME>
+<BODY>i like both</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:28:03 pm)</DATETIME>
+<BODY>probably skirt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:28:09 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:28:11 pm)</DATETIME>
+<BODY>good choice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:28:15 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:28:58 pm)</DATETIME>
+<BODY>your brother isnt going to come home while im there is he</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:28:59 pm)</DATETIME>
+<BODY>park on the street</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:29:03 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:29:08 pm)</DATETIME>
+<BODY>nah he wont be home till late tomorow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:29:10 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:29:22 pm)</DATETIME>
+<BODY>park on the street coz the driveways blocked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:29:27 pm)</DATETIME>
+<BODY>bein sealed or somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:29:35 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:30:01 pm)</DATETIME>
+<BODY>come round to the back door, round the left side of the house</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:30:40 pm)</DATETIME>
+<BODY>just so neigbors dont notice the front lites on an all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:30:42 pm)</DATETIME>
+<BODY>im not gonna get bit by a dog am i</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:30:47 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:30:49 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:30:50 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:31:11 pm)</DATETIME>
+<BODY>is there a bell back there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:31:31 pm)</DATETIME>
+<BODY>no just holler or come on in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:31:34 pm)</DATETIME>
+<BODY>doors open</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:31:43 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:31:59 pm)</DATETIME>
+<BODY>you're crazy you know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:32:13 pm)</DATETIME>
+<BODY>ha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:32:16 pm)</DATETIME>
+<BODY>so ive heard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:32:19 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:32:30 pm)</DATETIME>
+<BODY>btw......</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:32:47 pm)</DATETIME>
+<BODY>got any condoms :"></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:33:02 pm)</DATETIME>
+<BODY>what are those</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:33:05 pm)</DATETIME>
+<BODY>jk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:33:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:33:34 pm)</DATETIME>
+<BODY>no worries</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:33:52 pm)</DATETIME>
+<BODY>is that a yes? ;-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:34:36 pm)</DATETIME>
+<BODY>dont worry, im not going to do anything without a condom</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:34:46 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:35:31 pm)</DATETIME>
+<BODY>theres other things to do without ya know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:35:33 pm)</DATETIME>
+<BODY>lets see if yahoo maps got it right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:35:43 pm)</DATETIME>
+<BODY>but having them is kinda good ya know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:35:49 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:36:14 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:36:31 pm)</DATETIME>
+<BODY>odd street names</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:36:48 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:37:10 pm)</DATETIME>
+<BODY>those streets are wrong tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:37:14 pm)</DATETIME>
+<BODY>lemme see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:37:28 pm)</DATETIME>
+<BODY>36 is right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:37:42 pm)</DATETIME>
+<BODY>use this http://local.live.com/</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:37:53 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:39:15 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:41:46 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:42:07 pm)</DATETIME>
+<BODY>yea thats rite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:42:15 pm)</DATETIME>
+<BODY>which side of the street are you on</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:42:37 pm)</DATETIME>
+<BODY>right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:42:39 pm)</DATETIME>
+<BODY>pow flag</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:42:43 pm)</DATETIME>
+<BODY>cant miss it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:42:53 pm)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:43:00 pm)</DATETIME>
+<BODY>dad collects cars</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:43:03 pm)</DATETIME>
+<BODY>damn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:43:08 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:44:13 pm)</DATETIME>
+<BODY>btw 1 thing i relly like is a guy who tells me wat he wants</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:44:24 pm)</DATETIME>
+<BODY>thats good to know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:44:24 pm)</DATETIME>
+<BODY>i like makin my guy happy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:44:30 pm)</DATETIME>
+<BODY>i like to please also</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:45:04 pm)</DATETIME>
+<BODY>wuld u go down on me if i did u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:45:17 pm)</DATETIME>
+<BODY>you're not shy at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:45:22 pm)</DATETIME>
+<BODY>lol told ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:45:23 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:45:29 pm)</DATETIME>
+<BODY>you said you were shy lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:45:37 pm)</DATETIME>
+<BODY>well yes an no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:45:40 pm)</DATETIME>
+<BODY>no shy wit sex</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:45:51 pm)</DATETIME>
+<BODY>shy with what then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:45:59 pm)</DATETIME>
+<BODY>dunno... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:46:02 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:46:42 pm)</DATETIME>
+<BODY>try not to have it all figured out, spontaneous is fun ;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:46:53 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:47:01 pm)</DATETIME>
+<BODY>but it kinda turns me on to talk bout it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:09 pm)</DATETIME>
+<BODY>might be better in your ear</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:47:17 pm)</DATETIME>
+<BODY>wat wuld u say</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:27 pm)</DATETIME>
+<BODY>you are very persistent</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:47:42 pm)</DATETIME>
+<BODY>yuo seen nuthin yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:45 pm)</DATETIME>
+<BODY>wait and see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:50 pm)</DATETIME>
+<BODY>i cant imagine</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:47:51 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:48:09 pm)</DATETIME>
+<BODY>you better get ready</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:48:11 pm)</DATETIME>
+<BODY>cmon a little hint wat yud like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:48:29 pm)</DATETIME>
+<BODY>id rather do it than talk about it, like you said</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:48:33 pm)</DATETIME>
+<BODY>not into cyber at all</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>netbuckeye.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:48:37 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:49:26 pm)</DATETIME>
+<BODY>shuld i wear thong panties or neither</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:49:40 pm)</DATETIME>
+<BODY>i like suprises</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:50:10 pm)</DATETIME>
+<BODY>guys are easy to figure out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:50:15 pm)</DATETIME>
+<BODY>ill go with neither lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:50:17 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:50:25 pm)</DATETIME>
+<BODY>you're not making it hard to figure out either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:50:51 pm)</DATETIME>
+<BODY>anticipation is the sexiest thing there is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:50:57 pm)</DATETIME>
+<BODY>no doubt about that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:51:29 pm)</DATETIME>
+<BODY>oh what kinda car so i can watch for u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:51:38 pm)</DATETIME>
+<BODY>sliver nissan pathfinder</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:51:42 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:51:47 pm)</DATETIME>
+<BODY>ill go get ready now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:51:49 pm)</DATETIME>
+<BODY>8 right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:51:50 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:51:52 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:51:57 pm)</DATETIME>
+<BODY>:-*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:52:01 pm)</DATETIME>
+<BODY>see you then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:52:02 pm)</DATETIME>
+<BODY>>:d<</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:52:21 pm)</DATETIME>
+<BODY>kewl smiley</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:52:27 pm)</DATETIME>
+<BODY>yep yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>chickygrrrrl</USERNAME>
+<DATETIME>(5:52:32 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>netbuckeye</USERNAME>
+<DATETIME>(5:52:36 pm)</DATETIME>
+<BODY>bye erika</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

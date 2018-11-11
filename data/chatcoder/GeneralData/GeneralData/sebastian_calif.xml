@@ -1,0 +1,5064 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Ramin</FIRSTNAME>
+<LASTNAME>Sarajari</LASTNAME>
+<STATEDNAME>Sebastian</STATEDNAME>
+<STATEDAGE>40</STATEDAGE>
+<AGE>42</AGE>
+<GENDER>Male</GENDER>
+<RACE></RACE>
+<CITY>Los Angles</CITY>
+<STATE>CA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>false</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>sebastian_calif</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Xavier</FIRSTNAME>
+<LASTNAME>Von Erck</LASTNAME>
+<STATEDNAME></STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY></CITY>
+<STATE>CA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>decoy name</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>sebastian_calif.almcbride.coded.txt</NAME>
+<CODER>almcbride</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:10:24 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:10:40 pm)</DATETIME>
+<BODY>heya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:11:17 pm)</DATETIME>
+<BODY>where are you from</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:11:29 pm)</DATETIME>
+<BODY>where i from or where i am now? whats ur asl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:11:45 pm)</DATETIME>
+<BODY>where are you now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:11:46 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:11:52 pm)</DATETIME>
+<BODY>m/40/ca</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:12:02 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:12:07 pm)</DATETIME>
+<BODY>right now im in socal 13/f</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:12:30 pm)</DATETIME>
+<BODY>you are 13?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:12:48 pm)</DATETIME>
+<BODY>yeah so?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:13:05 pm)</DATETIME>
+<BODY>we can never meet sadly</BODY>
+<COMMENT>(oh, okay, so how the hell did you get posted here as a conviction then?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:13:09 pm)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:13:31 pm)</DATETIME>
+<BODY>i was hoping to meet someone from ca</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:13:40 pm)</DATETIME>
+<BODY>yeah so whats wrong with me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:13:41 pm)</DATETIME>
+<BODY>but your age is not 18 or above</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:13:56 pm)</DATETIME>
+<BODY>lol oh u all hung up on age thats so silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:14:01 pm)</DATETIME>
+<BODY>do you want me to get in jail dear?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:14:07 pm)</DATETIME>
+<BODY>lol u gonna call the cops?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:14:35 pm)</DATETIME>
+<BODY>so do you want to meet people?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:15:25 pm)</DATETIME>
+<BODY>i dont care if i meet osmeone cool on here why not?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:16:22 pm)</DATETIME>
+<BODY>where in ca?</BODY>
+<COMMENT>(ah, okay, that's why.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:16:30 pm)</DATETIME>
+<BODY>socal by la u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:16:45 pm)</DATETIME>
+<BODY>la</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:16:55 pm)</DATETIME>
+<BODY>do you date?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:17:00 pm)</DATETIME>
+<BODY>you have a bf?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:17:07 pm)</DATETIME>
+<BODY>i had one but i dropped him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:17:35 pm)</DATETIME>
+<BODY>did you also have sex with him?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:17:41 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:17:54 pm)</DATETIME>
+<BODY>so do you masturbate?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:18:07 pm)</DATETIME>
+<BODY>not relaly that borin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:18:20 pm)</DATETIME>
+<BODY>what do you like in sex?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:18:31 pm)</DATETIME>
+<BODY>i only did reg my ex was lazy and stupid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:18:49 pm)</DATETIME>
+<BODY>what do you like?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:18:57 pm)</DATETIME>
+<BODY>i dunno i aint done much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:19:00 pm)</DATETIME>
+<BODY>i told u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:19:05 pm)</DATETIME>
+<BODY>do you have a web cam?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:19:10 pm)</DATETIME>
+<BODY>no i wish</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:19:15 pm)</DATETIME>
+<BODY>you can learn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:19:22 pm)</DATETIME>
+<BODY>yeah it be nice to know more i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:19:34 pm)</DATETIME>
+<BODY>what are you wearing</BODY>
+<COMMENT>(from "you're not eighteen" to what are you wearing... just that quick.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:19:47 pm)</DATETIME>
+<BODY>lol clothes jeans and a tshirt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:20:10 pm)</DATETIME>
+<BODY>sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:20:17 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:20:19 pm)</DATETIME>
+<BODY>panty?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:20:24 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:20:34 pm)</DATETIME>
+<BODY>what color?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:20:40 pm)</DATETIME>
+<BODY>white</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:20:46 pm)</DATETIME>
+<BODY>u gotta pic?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:20:58 pm)</DATETIME>
+<BODY>not on this computer</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:21:04 pm)</DATETIME>
+<BODY>i will send you one</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:21:10 pm)</DATETIME>
+<BODY>oh well email if u find it decoy name@yahoo.com</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:21:18 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:21:31 pm)</DATETIME>
+<BODY>do you like oral?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:21:43 pm)</DATETIME>
+<BODY>i never had it done to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:21:52 pm)</DATETIME>
+<BODY>did you do it ?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:22:24 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:22:37 pm)</DATETIME>
+<BODY>do you like to eat cum?</BODY>
+<COMMENT>(you know you're on the internet when.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:23:11 pm)</DATETIME>
+<BODY>lol i dunno it wasnt like omg great or w/e</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:23:16 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:23:18 pm)</DATETIME>
+<BODY>then again he was lazy so maybe i dunno he sucked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:23:19 pm)</DATETIME>
+<BODY>cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:23:33 pm)</DATETIME>
+<BODY>do you have hair on your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:24:14 pm)</DATETIME>
+<BODY>lil not much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:24:19 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:24:25 pm)</DATETIME>
+<BODY>i like to lick you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:24:45 pm)</DATETIME>
+<BODY>lol u never done it so how u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:24:56 pm)</DATETIME>
+<BODY>i have done it many times</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:25:12 pm)</DATETIME>
+<BODY>do you get wet alot?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:25:32 pm)</DATETIME>
+<BODY>a lil but not like just random or w/e</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:25:52 pm)</DATETIME>
+<BODY>if you play with your pussy now, will you get wet?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:26:01 pm)</DATETIME>
+<BODY>maybe or id get bored lol</BODY>
+<COMMENT>(already bored. damn.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:26:07 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:26:14 pm)</DATETIME>
+<BODY>do you have a nice ass?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:26:26 pm)</DATETIME>
+<BODY>i think its okay its not like super great but it aint bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:26:37 pm)</DATETIME>
+<BODY>i know what you mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:26:48 pm)</DATETIME>
+<BODY>but if i lick you good you can cum alot</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:26:56 pm)</DATETIME>
+<BODY>lol u wouldnt do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:27:08 pm)</DATETIME>
+<BODY>do what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:27:11 pm)</DATETIME>
+<BODY>lick you?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:27:28 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:27:32 pm)</DATETIME>
+<BODY>why not?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:27:46 pm)</DATETIME>
+<BODY>cause he said that too but he never did guys just say that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:28:11 pm)</DATETIME>
+<BODY>i love to lick alot</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:28:25 pm)</DATETIME>
+<BODY>specially if you get on your knees</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:28:34 pm)</DATETIME>
+<BODY>so i can lick your ass and pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:28:42 pm)</DATETIME>
+<BODY>do you think you may like it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:29:15 pm)</DATETIME>
+<BODY>yeah i prob would no doubt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:29:36 pm)</DATETIME>
+<BODY>i like to play with the ass too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:29:59 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:30:28 pm)</DATETIME>
+<BODY>you seem busy</BODY>
+<COMMENT>(no, i'm just letting you lead the conversation)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:30:36 pm)</DATETIME>
+<BODY>what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:30:37 pm)</DATETIME>
+<BODY>where in la are you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:30:38 pm)</DATETIME>
+<BODY>im not busy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:30:43 pm)</DATETIME>
+<BODY>im by la im not in la</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:30:52 pm)</DATETIME>
+<BODY>which town</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:31:09 pm)</DATETIME>
+<BODY>close to la thats all i say until i talk to u and kno u cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:31:16 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:31:31 pm)</DATETIME>
+<BODY>do you have a cell phone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:31:51 pm)</DATETIME>
+<BODY>we gotta house celly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:32:14 pm)</DATETIME>
+<BODY>well do you have any phone i can call you tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:32:18 pm)</DATETIME>
+<BODY>or later tonight</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:32:50 pm)</DATETIME>
+<BODY>i aint havin u call tonight my dad home till sometime 2morrow and even then i aint havin u call cause the stupid thing shows on the bill who call in show that i give number</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:33:08 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:33:13 pm)</DATETIME>
+<BODY>i understand</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:33:23 pm)</DATETIME>
+<BODY>i can call maybe but not this late at night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:33:35 pm)</DATETIME>
+<BODY>do you like to meet sometime?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:33:40 pm)</DATETIME>
+<BODY>maybe u seem cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:33:45 pm)</DATETIME>
+<BODY>thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:33:45 pm)</DATETIME>
+<BODY>wed have to talk more i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:33:50 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:33:55 pm)</DATETIME>
+<BODY>so i know u aint some guy that pretend to be cool but is really a sereal killer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:33:56 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:34:05 pm)</DATETIME>
+<BODY>oh my</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:34:12 pm)</DATETIME>
+<BODY>but do you enjoy sex?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:34:20 pm)</DATETIME>
+<BODY>i liked what i did with my ex</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:34:29 pm)</DATETIME>
+<BODY>what did you do darling</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:34:48 pm)</DATETIME>
+<BODY>just reg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:34:51 pm)</DATETIME>
+<BODY>i told u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:35:04 pm)</DATETIME>
+<BODY>did he play with your ass?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:35:22 pm)</DATETIME>
+<BODY>not really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:35:35 pm)</DATETIME>
+<BODY>use fingure in your ass?</BODY>
+<COMMENT>(it's like the world's worst edition of twenty questions)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:35:43 pm)</DATETIME>
+<BODY>lololol nooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:35:48 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:35:53 pm)</DATETIME>
+<BODY>are you shy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:35:58 pm)</DATETIME>
+<BODY>nah im tough</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:36:14 pm)</DATETIME>
+<BODY>do you have a round ass?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:36:38 pm)</DATETIME>
+<BODY>it kinda round yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:36:44 pm)</DATETIME>
+<BODY>it aint like a booty girl lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:36:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:37:07 pm)</DATETIME>
+<BODY>but will you let me kiss it and lick it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:37:37 pm)</DATETIME>
+<BODY>lol u wouldnt do that why u even ask?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:37:47 pm)</DATETIME>
+<BODY>i promise to do</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:37:56 pm)</DATETIME>
+<BODY>honestly i enjoy doing it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:38:01 pm)</DATETIME>
+<BODY>lol sure id like u do that why not? if it dont hurt it all good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:38:14 pm)</DATETIME>
+<BODY>i am very gentle</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:38:22 pm)</DATETIME>
+<BODY>i lick you everywhere</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:38:26 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:38:30 pm)</DATETIME>
+<BODY>and then you can lick me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:38:38 pm)</DATETIME>
+<BODY>thats cool if u nice to me id be nice back sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:38:47 pm)</DATETIME>
+<BODY>i promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:38:52 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:39:14 pm)</DATETIME>
+<BODY>i like to keep your panty so i can taste you later</BODY>
+<COMMENT>(one of the most creepy things i've had said to me while trolling.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:39:35 pm)</DATETIME>
+<BODY>so wear your panty all day long</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:39:42 pm)</DATETIME>
+<BODY>lol u wouldnt do that u crazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:39:51 pm)</DATETIME>
+<BODY>if i like you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:39:54 pm)</DATETIME>
+<BODY>i will</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:40:03 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:40:17 pm)</DATETIME>
+<BODY>i can cum all over your panty later</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:40:28 pm)</DATETIME>
+<BODY>lol i fu wanted to i dunno that sound weird to me</BODY>
+<COMMENT>(you aren't lying, me.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:40:38 pm)</DATETIME>
+<BODY>cute :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:40:47 pm)</DATETIME>
+<BODY>do you want to see me cum?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:40:54 pm)</DATETIME>
+<BODY>maybe for real i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:40:58 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:41:18 pm)</DATETIME>
+<BODY>like to cum on your lips</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:41:22 pm)</DATETIME>
+<BODY>im sure u would</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:41:31 pm)</DATETIME>
+<BODY>where do you want me to cum baby</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:41:38 pm)</DATETIME>
+<BODY>u aint here so i dont care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:41:45 pm)</DATETIME>
+<BODY>when we meet</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:41:56 pm)</DATETIME>
+<BODY>i dunno not in me i dont wanna get pregs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:42:10 pm)</DATETIME>
+<BODY>on your breast</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:42:15 pm)</DATETIME>
+<BODY>mouth?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:42:22 pm)</DATETIME>
+<BODY>it depend on how nice u were to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:42:29 pm)</DATETIME>
+<BODY>cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:42:32 pm)</DATETIME>
+<BODY>:-*</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:42:38 pm)</DATETIME>
+<BODY>lol kissyface</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:43:04 pm)</DATETIME>
+<BODY>so we have to do this in a hotel i assume</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:43:15 pm)</DATETIME>
+<BODY>lol what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:43:25 pm)</DATETIME>
+<BODY>sex</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:43:35 pm)</DATETIME>
+<BODY>no i aint gonna go to some hotel</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:43:47 pm)</DATETIME>
+<BODY>where do you want to do it baby</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:43:50 pm)</DATETIME>
+<BODY>i dont even gotta car lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:43:54 pm)</DATETIME>
+<BODY>im 13 i cant drive</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:44:04 pm)</DATETIME>
+<BODY>if we did it probs here where i feel safe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:44:11 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:44:28 pm)</DATETIME>
+<BODY>but is your parents home all the time</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:44:44 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:44:48 pm)</DATETIME>
+<BODY>my mom live in nocal my dad in socal</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:44:53 pm)</DATETIME>
+<BODY>my dad go up to see her all the time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:44:57 pm)</DATETIME>
+<BODY>divorce?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:44:59 pm)</DATETIME>
+<BODY>i go up sometimes too we switch off</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:45:07 pm)</DATETIME>
+<BODY>no she gotta biz up there he gotta biz down here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:45:14 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:45:21 pm)</DATETIME>
+<BODY>so yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:45:30 pm)</DATETIME>
+<BODY>when will you be alone soon?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:45:49 pm)</DATETIME>
+<BODY>he go up there this weekend tomorro sometime</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:46:02 pm)</DATETIME>
+<BODY>so you are alone sat ?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:46:13 pm)</DATETIME>
+<BODY>yeah part of tomorrow sat and sun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:46:54 pm)</DATETIME>
+<BODY>do you want to try it this sat</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:47:03 pm)</DATETIME>
+<BODY>if we talk more sure u seem like u aint lazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:47:18 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:47:32 pm)</DATETIME>
+<BODY>but i like you to tell me what things you want me to do for you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:47:43 pm)</DATETIME>
+<BODY>what your fantasy is</BODY>
+<COMMENT>(not talking to you, owning a pez fountain.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:47:58 pm)</DATETIME>
+<BODY>a guy that wants to make me feel good :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:48:06 pm)</DATETIME>
+<BODY>and i dont know what all there is to do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:48:07 pm)</DATETIME>
+<BODY>i only did reg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:48:23 pm)</DATETIME>
+<BODY>i just want a nie guy that is smart not lazy and take charge tough guy kinda</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:48:31 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:48:36 pm)</DATETIME>
+<BODY>ok that is fair</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:48:46 pm)</DATETIME>
+<BODY>i like to please you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:48:52 pm)</DATETIME>
+<BODY>cool that would be nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:48:57 pm)</DATETIME>
+<BODY>if you are sweet and honest and kind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:49:33 pm)</DATETIME>
+<BODY>so tomorrow evening you are alone?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:49:44 pm)</DATETIME>
+<BODY>yeah should be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:49:49 pm)</DATETIME>
+<BODY>im sweet and honest and kind i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:49:52 pm)</DATETIME>
+<BODY>is it safe there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:49:57 pm)</DATETIME>
+<BODY>he does not drop by</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:50:07 pm)</DATETIME>
+<BODY>nah he gonna go up to nocal on plane</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:50:14 pm)</DATETIME>
+<BODY>lol unless he jump outta the plane :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:50:20 pm)</DATETIME>
+<BODY>oh no :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:50:35 pm)</DATETIME>
+<BODY>do you like to talk about sex baby?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:50:43 pm)</DATETIME>
+<BODY>we can talk about it but i aint into fakey stuff u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:50:55 pm)</DATETIME>
+<BODY>faky ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:50:58 pm)</DATETIME>
+<BODY>explain please</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:51:41 pm)</DATETIME>
+<BODY>like cyber stuff like im doin this but the guy aint doin it u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:52:19 pm)</DATETIME>
+<BODY>do you get turn on when you talk about it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:52:35 pm)</DATETIME>
+<BODY>nah talk is talk u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:52:40 pm)</DATETIME>
+<BODY>it dont do me like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:52:45 pm)</DATETIME>
+<BODY>do you like porno?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:52:51 pm)</DATETIME>
+<BODY>i never watched any</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:52:54 pm)</DATETIME>
+<BODY>sexy pics</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:53:02 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:53:19 pm)</DATETIME>
+<BODY>wish i was there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:53:24 pm)</DATETIME>
+<BODY>remove your jeans</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:53:31 pm)</DATETIME>
+<BODY>yeah if u were here but u not right now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:53:41 pm)</DATETIME>
+<BODY>and remove your panty</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:53:46 pm)</DATETIME>
+<BODY>yeah u prob would</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:53:51 pm)</DATETIME>
+<BODY>this is that kinda fakey stuff tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:53:53 pm)</DATETIME>
+<BODY>and start licking your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:53:59 pm)</DATETIME>
+<BODY>where u go i do this and i do that but u aint really doin it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:54:19 pm)</DATETIME>
+<BODY>i will tomorrow or sat if you like baby</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:54:37 pm)</DATETIME>
+<BODY>cool if u for real and we talk more no doubt that better than bein bored lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:54:46 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:54:59 pm)</DATETIME>
+<BODY>do you like to talk dirty when doing it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:55:46 pm)</DATETIME>
+<BODY>i never really done that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:55:52 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:56:17 pm)</DATETIME>
+<BODY>i like you to use your hand on me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:56:23 pm)</DATETIME>
+<BODY>i would do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:56:28 pm)</DATETIME>
+<BODY>do you have lotion at home</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:56:42 pm)</DATETIME>
+<BODY>we got some around osmewhere</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:56:46 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:56:58 pm)</DATETIME>
+<BODY>and use your tongue and lips</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:57:04 pm)</DATETIME>
+<BODY>to suck me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:57:37 pm)</DATETIME>
+<BODY>if you want we can do it in 69 position</BODY>
+<COMMENT>(from reading this log, can you imagine why he didn't want to go to trial? i can't imagine why he didn't want to go to trial.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:57:43 pm)</DATETIME>
+<BODY>i never done that that might be cool realy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:58:08 pm)</DATETIME>
+<BODY>i will hold you up side down so you can suck my cock</BODY>
+<COMMENT>(uh.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:58:17 pm)</DATETIME>
+<BODY>while i am licking your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:58:26 pm)</DATETIME>
+<BODY>by head it between your legs</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:58:27 pm)</DATETIME>
+<BODY>lol u couldnt do that no w u just crazy talk</BODY>
+<COMMENT>(no shit)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:58:39 pm)</DATETIME>
+<BODY>i promise to do</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:58:51 pm)</DATETIME>
+<BODY>i have very much experience in that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:59:01 pm)</DATETIME>
+<BODY>lol to hold me upside down?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:59:04 pm)</DATETIME>
+<BODY>u crazy guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:59:07 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:59:13 pm)</DATETIME>
+<BODY>how much do you weight?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:59:23 pm)</DATETIME>
+<BODY>89</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:59:32 pm)</DATETIME>
+<BODY>so why is it hard?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:59:43 pm)</DATETIME>
+<BODY>baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:59:44 pm)</DATETIME>
+<BODY>lol i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/07/06 11:59:46 pm)</DATETIME>
+<BODY>that just sound crazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/07/06 11:59:48 pm)</DATETIME>
+<BODY>:-*</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:00:00 am)</DATETIME>
+<BODY>aww kissyface</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:00:04 am)</DATETIME>
+<BODY>will you bend for me also?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:00:28 am)</DATETIME>
+<BODY>like over?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:00:32 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:00:40 am)</DATETIME>
+<BODY>so i go behind u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:00:50 am)</DATETIME>
+<BODY>sure i aint done nothin so long as it dont hurt and u say i like that this feel good i try it i aint scared im tough</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:01:08 am)</DATETIME>
+<BODY>it is nice</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:01:16 am)</DATETIME>
+<BODY>i use condum</BODY>
+<COMMENT>(close, now you're a con and you are dumb)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:01:26 am)</DATETIME>
+<BODY>cool yeah i dont wanna get pregs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:01:27 am)</DATETIME>
+<BODY>when doing your pusssy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:01:44 am)</DATETIME>
+<BODY>if you have ky jelly</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:01:50 am)</DATETIME>
+<BODY>i can use it on your ass</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:02:18 am)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:02:18 am)</DATETIME>
+<BODY>i try it easy slowly on your ass</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:02:43 am)</DATETIME>
+<BODY>if you like it more i will go in further</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:02:52 am)</DATETIME>
+<BODY>i dunno about that that prob hurt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:02:54 am)</DATETIME>
+<BODY>i dont wanna hurt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:02:55 am)</DATETIME>
+<BODY>if not i just keep the head in</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:03:06 am)</DATETIME>
+<BODY>yes i will be very gentle</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:03:14 am)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:03:24 am)</DATETIME>
+<BODY>i want to make you cum several times</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:03:29 am)</DATETIME>
+<BODY>thats how i cum</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:03:34 am)</DATETIME>
+<BODY>lol that be crazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:03:46 am)</DATETIME>
+<BODY>show you some sexy pic maybe</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:04:25 am)</DATETIME>
+<BODY>do you suck good sweetie</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:04:51 am)</DATETIME>
+<BODY>i dunno i though i twas okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:21 am)</DATETIME>
+<BODY>you want to make me cum when you suck</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:31 am)</DATETIME>
+<BODY>lol aint that the point?</BODY>
+<COMMENT>(that's sarcasm aka "i'm bored with this idiot, please shut up with your stupid talk.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:37 am)</DATETIME>
+<BODY>yes baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:48 am)</DATETIME>
+<BODY>you are so cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:52 am)</DATETIME>
+<BODY>thanks :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:52 am)</DATETIME>
+<BODY>is that your pic?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:59 am)</DATETIME>
+<BODY>yeah i got more pics on my yahoo photo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:06:05 am)</DATETIME>
+<BODY>just click link</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:08 am)</DATETIME>
+<BODY>so cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:12 am)</DATETIME>
+<BODY>:-*</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:06:18 am)</DATETIME>
+<BODY>lol thanks :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:30 am)</DATETIME>
+<BODY>most welcome baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:07:00 am)</DATETIME>
+<BODY>yeah u nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:09 am)</DATETIME>
+<BODY>thank you darling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:32 am)</DATETIME>
+<BODY>i work till 5 tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:52 am)</DATETIME>
+<BODY>i can probably drop by after that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:08:10 am)</DATETIME>
+<BODY>cool u gonna come online at work?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:08:37 am)</DATETIME>
+<BODY>i do not chat at work</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:08:44 am)</DATETIME>
+<BODY>but i can check my yahoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:08:57 am)</DATETIME>
+<BODY>you want to give me direction sweetie</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:09:07 am)</DATETIME>
+<BODY>oh okay i give em to u tomorrow so i know u for real k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:09:16 am)</DATETIME>
+<BODY>no problem</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:09:24 am)</DATETIME>
+<BODY>cool that way i aint ditched lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:03 am)</DATETIME>
+<BODY>i love to meet with you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:08 am)</DATETIME>
+<BODY>yeah thatd be fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:10 am)</DATETIME>
+<BODY>you live in a house?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:16 am)</DATETIME>
+<BODY>yeah not a nice one tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:33 am)</DATETIME>
+<BODY>how far are you from the valley</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:39 am)</DATETIME>
+<BODY>lol i dunno i dont drive</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:42 am)</DATETIME>
+<BODY>im in long beach</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:47 am)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:54 am)</DATETIME>
+<BODY>ok it is a drive</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:11:02 am)</DATETIME>
+<BODY>oh is it too much?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:06 am)</DATETIME>
+<BODY>one hour</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:08 am)</DATETIME>
+<BODY>not at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:11 am)</DATETIME>
+<BODY>it is ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:11:14 am)</DATETIME>
+<BODY>oh cool cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:22 am)</DATETIME>
+<BODY>if you let me know the address sooner</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:31 am)</DATETIME>
+<BODY>i can navigate it sooner</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:43 am)</DATETIME>
+<BODY>so plan to drive early</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:11:46 am)</DATETIME>
+<BODY>yeah but what if u dont come on tomorro then u a ditcher u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:11:54 am)</DATETIME>
+<BODY>u promis u come on or email me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:02 am)</DATETIME>
+<BODY>why would i not come</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:08 am)</DATETIME>
+<BODY>if u promis u email me when u gonna go from work and what time u get here then i give addy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:17 am)</DATETIME>
+<BODY>i dunno some guys are all talk lik emy ex lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:27 am)</DATETIME>
+<BODY>no baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:33 am)</DATETIME>
+<BODY>i like your looks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:36 am)</DATETIME>
+<BODY>thank u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:41 am)</DATETIME>
+<BODY>u gotta promis to email tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:44 am)</DATETIME>
+<BODY>i like us to enjoy each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:51 am)</DATETIME>
+<BODY>so if we can please each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:58 am)</DATETIME>
+<BODY>i will show up</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:13:00 am)</DATETIME>
+<BODY>cool :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:13:25 am)</DATETIME>
+<BODY>take shower with you too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:13:47 am)</DATETIME>
+<BODY>i never did that that sound fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:13:51 am)</DATETIME>
+<BODY>your father leave you alone at age 13 and leaves?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:14:03 am)</DATETIME>
+<BODY>lol yeah im not a baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:14:26 am)</DATETIME>
+<BODY>you sound mature and sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:14:40 am)</DATETIME>
+<BODY>what style panty do you wear?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:14:46 am)</DATETIME>
+<BODY>i only got regs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:14:49 am)</DATETIME>
+<BODY>full kind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:14:54 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:14 am)</DATETIME>
+<BODY>will you strip for me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:15:20 am)</DATETIME>
+<BODY>lol like a dance?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:32 am)</DATETIME>
+<BODY>not the dance</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:39 am)</DATETIME>
+<BODY>just strip slowly</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:15:46 am)</DATETIME>
+<BODY>oh i could try doin that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:54 am)</DATETIME>
+<BODY>lovely</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:16:16 am)</DATETIME>
+<BODY>then give your panty to me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:16:22 am)</DATETIME>
+<BODY>lol i could do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:16:35 am)</DATETIME>
+<BODY>and offer me to lick your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:17:01 am)</DATETIME>
+<BODY>lol u could just do that i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:06 am)</DATETIME>
+<BODY>mmmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:24 am)</DATETIME>
+<BODY>and ask me to lick your ass too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:17:41 am)</DATETIME>
+<BODY>lol youd just do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:48 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:58 am)</DATETIME>
+<BODY>would you like me to baby?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:17:59 am)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:18:03 am)</DATETIME>
+<BODY>i guess so if it feel good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:18:08 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:18:19 am)</DATETIME>
+<BODY>you will get wet big time</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:18:37 am)</DATETIME>
+<BODY>lol cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:18:46 am)</DATETIME>
+<BODY>then you can ask me to fuck your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:18:52 am)</DATETIME>
+<BODY>um alright</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:24 am)</DATETIME>
+<BODY>do you want me to fuck slowly baby or faster?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:19:34 am)</DATETIME>
+<BODY>i dunno w/e feel best</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:37 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:43 am)</DATETIME>
+<BODY>we will start slow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:50 am)</DATETIME>
+<BODY>then see what you like</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:20:02 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:20:05 am)</DATETIME>
+<BODY>thatd be nice :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:20:14 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:20:38 am)</DATETIME>
+<BODY>is your pussy moist now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:20:45 am)</DATETIME>
+<BODY>nah sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:20:49 am)</DATETIME>
+<BODY>that is ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:20:55 am)</DATETIME>
+<BODY>its just talk until it real :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:20:56 am)</DATETIME>
+<BODY>needs my tongue baby</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:21:04 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:21:16 am)</DATETIME>
+<BODY>i want u so much</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:21:31 am)</DATETIME>
+<BODY>cool :)</BODY>
+<COMMENT>(at this point, i sound like a broken record. cool. okay. if you want to. okay. if you want to. cool. trolling is very boring.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:21:59 am)</DATETIME>
+<BODY>youd be fun for sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:22:04 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:22:36 am)</DATETIME>
+<BODY>is your neighberhood safe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:22:46 am)</DATETIME>
+<BODY>i dunno it okay it aint great tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:23:10 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:23:21 am)</DATETIME>
+<BODY>i can park safely there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:23:32 am)</DATETIME>
+<BODY>oh yeah most def u could park in front of the house no probs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:23:47 am)</DATETIME>
+<BODY>u got like a super nice car or somethin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:24:08 am)</DATETIME>
+<BODY>it is ok :-)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:24:14 am)</DATETIME>
+<BODY>lol what kind car?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:24:19 am)</DATETIME>
+<BODY>lexus</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:24:31 am)</DATETIME>
+<BODY>oh arent those like super nice? lololol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:24:46 am)</DATETIME>
+<BODY>well, i better be safe there or i will bite you :-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:08 am)</DATETIME>
+<BODY>lol u be safe here i make sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:17 am)</DATETIME>
+<BODY>you are so sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:25 am)</DATETIME>
+<BODY>you like to see some porn pics</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:26 am)</DATETIME>
+<BODY>lol thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:40 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:46 am)</DATETIME>
+<BODY>i mean now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:50 am)</DATETIME>
+<BODY>show you some</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:57 am)</DATETIME>
+<BODY>what kind?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:01 am)</DATETIME>
+<BODY>cock</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:05 am)</DATETIME>
+<BODY>and pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:26:20 am)</DATETIME>
+<BODY>lol okay u can email decoy name@yahoo.com</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:26 am)</DATETIME>
+<BODY>i can show you here</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:26:42 am)</DATETIME>
+<BODY>that dont work i gotta firewall</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:56 am)</DATETIME>
+<BODY>u sure</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:27:10 am)</DATETIME>
+<BODY>yeah i click it and it dont do nothin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:23 am)</DATETIME>
+<BODY>what version yahoo do you have</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:27:35 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:46 am)</DATETIME>
+<BODY>baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:49 am)</DATETIME>
+<BODY>go to help</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:53 am)</DATETIME>
+<BODY>on menu</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:01 am)</DATETIME>
+<BODY>and click that and see about yahoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:28:33 am)</DATETIME>
+<BODY>it say 7 0 2 120 and then it say 6 0 0 600</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:57 am)</DATETIME>
+<BODY>there is 8.0 version also out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:06 am)</DATETIME>
+<BODY>if you want you can down load it later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:14 am)</DATETIME>
+<BODY>or i help you when i come to see you</BODY>
+<COMMENT>(free tech support, yay.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:24 am)</DATETIME>
+<BODY>yeah i dont know puter too much u help when u here :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:42 am)</DATETIME>
+<BODY>ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:56 am)</DATETIME>
+<BODY>thanks :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:30:01 am)</DATETIME>
+<BODY>anytime</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:30:27 am)</DATETIME>
+<BODY>;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:30:33 am)</DATETIME>
+<BODY>you are cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:30:46 am)</DATETIME>
+<BODY>so what turns you on?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:31:05 am)</DATETIME>
+<BODY>the idea of some guy likin me more than vid games kinda</BODY>
+<COMMENT>(i say this, just a guy liking me more than video games. so he says...)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:31:12 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:31:21 am)</DATETIME>
+<BODY>licking your pussy?</BODY>
+<COMMENT>(that. oh, entrapments. entrapments. /roll eye)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:31:33 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:31:38 am)</DATETIME>
+<BODY>that sound good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:31:56 am)</DATETIME>
+<BODY>will you open your pussy for me to lick it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:32:04 am)</DATETIME>
+<BODY>lol maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:32:09 am)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:32:15 am)</DATETIME>
+<BODY>and your ass?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:32:37 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:32:50 am)</DATETIME>
+<BODY>i like you to do it for me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:33:01 am)</DATETIME>
+<BODY>well if u want that when u here then just say so i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:33:10 am)</DATETIME>
+<BODY>ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:33:23 am)</DATETIME>
+<BODY>i do not want you to be shy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:33:37 am)</DATETIME>
+<BODY>i want us to have fun</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:33:39 am)</DATETIME>
+<BODY>and enjoy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:33:42 am)</DATETIME>
+<BODY>i wont be when u here but u gotta know i aint done nothin like this so u gotta gimme time when u here to warm up k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:33:55 am)</DATETIME>
+<BODY>we have fun :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:33:56 am)</DATETIME>
+<BODY>ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:34:02 am)</DATETIME>
+<BODY>not to worry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:34:47 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:34:50 am)</DATETIME>
+<BODY>when i cum first time</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:35:00 am)</DATETIME>
+<BODY>in few min youcan suck me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:35:08 am)</DATETIME>
+<BODY>so i can get hard again</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:35:18 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:35:34 am)</DATETIME>
+<BODY>you can come and sit on my cock</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:35:43 am)</DATETIME>
+<BODY>and go up and down on it</BODY>
+<COMMENT>(blah blah blah blah blah blah blah)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:36:04 am)</DATETIME>
+<BODY>that cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:36:17 am)</DATETIME>
+<BODY>i can spank you gently</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:36:38 am)</DATETIME>
+<BODY>what is your name baby</BODY>
+<COMMENT>(what's awesome about males on the internet? an idiot like this can go on and on and on about everything in the world, every question in the world... and then he remembers that he didn't even ask for a name. fucking typical ridiculous crap.)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:36:55 am)</DATETIME>
+<BODY>i go by willow but my pinay name is luzviminda</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:37:00 am)</DATETIME>
+<BODY>u sebastian right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:37:05 am)</DATETIME>
+<BODY>no dear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:37:05 am)</DATETIME>
+<BODY>that what i assme</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:37:09 am)</DATETIME>
+<BODY>raymond</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:37:20 am)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:37:24 am)</DATETIME>
+<BODY>what do you like me to call you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:38:02 am)</DATETIME>
+<BODY>willow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:38:07 am)</DATETIME>
+<BODY>ok sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:38:14 am)</DATETIME>
+<BODY>are you busy now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:38:20 am)</DATETIME>
+<BODY>chatting?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:38:29 am)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:38:36 am)</DATETIME>
+<BODY>something wrong?</BODY>
+<COMMENT>(you bore me to tears)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:38:42 am)</DATETIME>
+<BODY>no nothin wrong</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:38:46 am)</DATETIME>
+<BODY>cat was jumpin on me</BODY>
+<COMMENT>(not a lie, my cat did jump on me.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:38:55 am)</DATETIME>
+<BODY>wish i was the cat:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:38:58 am)</DATETIME>
+<BODY>lol i bet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:00 am)</DATETIME>
+<BODY>sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:14 am)</DATETIME>
+<BODY>doing anal is nice</BODY>
+<COMMENT>(i was talking about my cat, but if that makes you think of anal...)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:18 am)</DATETIME>
+<BODY>i love that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:39:33 am)</DATETIME>
+<BODY>u cant be mean we try things and if that go okay maybe but dont be mean k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:33 am)</DATETIME>
+<BODY>so we can see if you like it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:48 am)</DATETIME>
+<BODY>i promise not to be mean</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:39:53 am)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:39:53 am)</DATETIME>
+<BODY>i want us to enjoy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:40:24 am)</DATETIME>
+<BODY>maybe you will just like to fingure you ass while doing your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:40:32 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:40:33 am)</DATETIME>
+<BODY>well see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:40:37 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:40:52 am)</DATETIME>
+<BODY>doing anal is also tricky</BODY>
+<COMMENT>(it's more complicated than space shuttles, i hear)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:41:00 am)</DATETIME>
+<BODY>one must be gentle</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:41:14 am)</DATETIME>
+<BODY>it can get a bit messy at times</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:41:24 am)</DATETIME>
+<BODY>it is ok and i do not mind</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:41:35 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:41:56 am)</DATETIME>
+<BODY>do you use bathroom in morning or evening baby</BODY>
+<COMMENT>(i guess afternoon isn't as... sexy?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:42:08 am)</DATETIME>
+<BODY>whenever i gotta i do it</BODY>
+<COMMENT>(talk about a "duh" statement)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:42:18 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:42:26 am)</DATETIME>
+<BODY>did you already today</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:42:49 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:42:52 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:43:20 am)</DATETIME>
+<BODY>i love to cum inside your ass if you like</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:43:37 am)</DATETIME>
+<BODY>i dunno well see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:43:42 am)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:43:48 am)</DATETIME>
+<BODY>no worries</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:44:01 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:44:09 am)</DATETIME>
+<BODY>you may make my cock dirty... yummy</BODY>
+<COMMENT>(at this point, you the reader is likely saying "why did i start reading this?)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:44:31 am)</DATETIME>
+<BODY>lol u a crazy guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:44:37 am)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:44:51 am)</DATETIME>
+<BODY>don't be shy though ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:44:56 am)</DATETIME>
+<BODY>i wont when u here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:45:01 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:45:14 am)</DATETIME>
+<BODY>if my cock is dirrty it is ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:45:22 am)</DATETIME>
+<BODY>um okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:45:26 am)</DATETIME>
+<BODY>i will wash it up</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:45:41 am)</DATETIME>
+<BODY>and then insert it in your pussy or mouth</BODY>
+<COMMENT>(romantic)</COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:45:52 am)</DATETIME>
+<BODY>okay if u nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:46:01 am)</DATETIME>
+<BODY>yes baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:46:17 am)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:46:34 am)</DATETIME>
+<BODY>wish i knew exactly how far you are</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:03 am)</DATETIME>
+<BODY>i just dont wanna be ditch i feel better if u were online 2morrow u kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:47:15 am)</DATETIME>
+<BODY>what time baby?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:16 am)</DATETIME>
+<BODY>then i know for real cause i dont want all talk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:21 am)</DATETIME>
+<BODY>what time u gonna be online?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:26 am)</DATETIME>
+<BODY>i come online for u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:47:37 am)</DATETIME>
+<BODY>i can get on line around 10 am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:50 am)</DATETIME>
+<BODY>lol if im up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:54 am)</DATETIME>
+<BODY>i be up for u tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:47:58 am)</DATETIME>
+<BODY>that way u know i for real</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:48:08 am)</DATETIME>
+<BODY>sure?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:48:15 am)</DATETIME>
+<BODY>if you want to sleep is ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:48:28 am)</DATETIME>
+<BODY>nah i wake up for u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:48:38 am)</DATETIME>
+<BODY>you are so sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:48:50 am)</DATETIME>
+<BODY>aww thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:49:08 am)</DATETIME>
+<BODY>what will you wear tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:49:16 am)</DATETIME>
+<BODY>i dunno w/e clear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:49:18 am)</DATETIME>
+<BODY>clean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:49:31 am)</DATETIME>
+<BODY>skirt?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:49:42 am)</DATETIME>
+<BODY>if i got one clean i dont got too many of those</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:50:05 am)</DATETIME>
+<BODY>panties you have one style</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:50:10 am)</DATETIME>
+<BODY>it is ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:50:10 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:50:33 am)</DATETIME>
+<BODY>you can pull it aside so i can see your pussy and ass</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:51:05 am)</DATETIME>
+<BODY>lol well see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:51:11 am)</DATETIME>
+<BODY>i think im gettin tired tho k?</BODY>
+<COMMENT>(yes, very tired. very very tired of talking to him.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:17 am)</DATETIME>
+<BODY>ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:51:20 am)</DATETIME>
+<BODY>im gonna go to bed talk to u tomorrow early</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:27 am)</DATETIME>
+<BODY>ok sweet heart</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:29 am)</DATETIME>
+<BODY>sleep well</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:36 am)</DATETIME>
+<BODY>and see you at 10 am</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:43 am)</DATETIME>
+<BODY>kiss you all over</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:51:46 am)</DATETIME>
+<BODY>i will see u then night night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:47 am)</DATETIME>
+<BODY>wet dreams</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:51:53 am)</DATETIME>
+<BODY>night darling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>twelve hours later...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:04:17 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:04:24 pm)</DATETIME>
+<BODY>heya u made it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:04:28 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:04:31 pm)</DATETIME>
+<BODY>how are you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:13 pm)</DATETIME>
+<BODY>im good just kinda blinky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:20 pm)</DATETIME>
+<BODY>how come</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:25 pm)</DATETIME>
+<BODY>tired?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:25 pm)</DATETIME>
+<BODY>cause i just woke up lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:29 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:05:31 pm)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:05:52 pm)</DATETIME>
+<BODY>lol yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:07 pm)</DATETIME>
+<BODY>did you sleep well?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:15 pm)</DATETIME>
+<BODY>did you have a wet dream?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:06:41 pm)</DATETIME>
+<BODY>i dont remember honestly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:06:44 pm)</DATETIME>
+<BODY>i slept good tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:06:53 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:00 pm)</DATETIME>
+<BODY>is yor dad gone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:07:32 pm)</DATETIME>
+<BODY>nah but he leave in two hour</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:38 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:07:51 pm)</DATETIME>
+<BODY>any plan for today?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:08:15 pm)</DATETIME>
+<BODY>lol nothin sids what we talked about last night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:08:33 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:08:48 pm)</DATETIME>
+<BODY>so you are ready for me to lick your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:09:16 pm)</DATETIME>
+<BODY>lol yeahhh well not right this sec cause i still blinky but today sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:09:26 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:09:51 pm)</DATETIME>
+<BODY>so what is your address sweetie</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:11 pm)</DATETIME>
+<BODY>u gonna map it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:17 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:10:24 pm)</DATETIME>
+<BODY>i also have a navigation system</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:30 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:10:56 pm)</DATETIME>
+<BODY>*removed*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:34 pm)</DATETIME>
+<BODY>city?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:11:44 pm)</DATETIME>
+<BODY>long beach i told u that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:47 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:11:57 pm)</DATETIME>
+<BODY>sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:14 pm)</DATETIME>
+<BODY>i also like to hear your voice</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:27 pm)</DATETIME>
+<BODY>i can dial *67 before dialing your #</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:35 pm)</DATETIME>
+<BODY>u dont listen</BODY>
+<COMMENT>(time for ramin to get told)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:36 pm)</DATETIME>
+<BODY>so my number does not show on your phone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:38 pm)</DATETIME>
+<BODY>my dad is home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:12:42 pm)</DATETIME>
+<BODY>if u want i can call u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:12:45 pm)</DATETIME>
+<BODY>after 2 hours</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:13:05 pm)</DATETIME>
+<BODY>u wanna call me in 2 hours?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:13:08 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:13:14 pm)</DATETIME>
+<BODY>or whenever is better</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:14:34 pm)</DATETIME>
+<BODY>*removed* fine go ahead but u better block it and i cant talk long cause im gonna claim it was a wrong number if anyone ask if they check the bill</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:14:56 pm)</DATETIME>
+<BODY>no problem sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:01 pm)</DATETIME>
+<BODY>what time is better?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:15:17 pm)</DATETIME>
+<BODY>noon is fine i check he leave little arlier than noon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:26 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:15:34 pm)</DATETIME>
+<BODY>how about 1:30 ?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:15:44 pm)</DATETIME>
+<BODY>uh okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:16:09 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:06 pm)</DATETIME>
+<BODY>are you feeling better now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:17:16 pm)</DATETIME>
+<BODY>feelin better? im fine just still yawnin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:23 pm)</DATETIME>
+<BODY>awww cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:41 pm)</DATETIME>
+<BODY>maybe you take a shower</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:17:46 pm)</DATETIME>
+<BODY>i will later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:17:47 pm)</DATETIME>
+<BODY>you will feel better</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:18:48 pm)</DATETIME>
+<BODY>do you have your own room</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:19:05 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:17 pm)</DATETIME>
+<BODY>how many bedrooms you have</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:19:38 pm)</DATETIME>
+<BODY>three kinda but one an office</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:43 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:49 pm)</DATETIME>
+<BODY>do you have a big bed?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:19:54 pm)</DATETIME>
+<BODY>its a queen</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:19:59 pm)</DATETIME>
+<BODY>great</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:21:04 pm)</DATETIME>
+<BODY>do you want us to do it on your bed sweetie</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:21:18 pm)</DATETIME>
+<BODY>its nice so that prob best</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:21:28 pm)</DATETIME>
+<BODY>yes . cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:21:53 pm)</DATETIME>
+<BODY>i better get some condum</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:22:18 pm)</DATETIME>
+<BODY>yeah no doubt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:23:19 pm)</DATETIME>
+<BODY>do you get wet well baby or you will need lotion?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:24:39 pm)</DATETIME>
+<BODY>i dunno honest u got like speciual lotion?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:24:57 pm)</DATETIME>
+<BODY>they use certain lotion to help</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:09 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:14 pm)</DATETIME>
+<BODY>is your pussy tight?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:25:50 pm)</DATETIME>
+<BODY>i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:25:56 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:15 pm)</DATETIME>
+<BODY>but you will enjoy it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:26:50 pm)</DATETIME>
+<BODY>ok darling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:05 pm)</DATETIME>
+<BODY>i will call you between 1:30 and 2:00 pm today</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:07 pm)</DATETIME>
+<BODY>ok?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:27:33 pm)</DATETIME>
+<BODY>call at 1 30 cause then i knew when and i aint gonna be like in the shower or somethin when u call</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:49 pm)</DATETIME>
+<BODY>ok sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:27:54 pm)</DATETIME>
+<BODY>1:30 pm</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:28:00 pm)</DATETIME>
+<BODY>cool :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:03 pm)</DATETIME>
+<BODY>wish i was there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:28:03 pm)</DATETIME>
+<BODY>this is gonna be awesome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:06 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:28:10 pm)</DATETIME>
+<BODY>me too but u will be u said :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:26 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:46 pm)</DATETIME>
+<BODY>ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:53 pm)</DATETIME>
+<BODY>talk with you later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:28:58 pm)</DATETIME>
+<BODY>be good, ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:00 pm)</DATETIME>
+<BODY>talk to u soon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:02 pm)</DATETIME>
+<BODY>:-*</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sebastian_calif.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:02 pm)</DATETIME>
+<BODY>lol i will be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:06 pm)</DATETIME>
+<BODY>aww kissyface</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:13 pm)</DATETIME>
+<BODY>thanks darling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sebastian_calif</USERNAME>
+<DATETIME>(09/08/06 12:29:16 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT>(always the best word to see a moron like this say)</COMMENT>
+</POST>
+<POST>
+<USERNAME>decoy name</USERNAME>
+<DATETIME>(09/08/06 12:29:33 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

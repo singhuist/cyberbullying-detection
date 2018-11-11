@@ -1,0 +1,908 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Clifford</FIRSTNAME>
+<LASTNAME>Wallach</LASTNAME>
+<STATEDNAME>Jason</STATEDNAME>
+<STATEDAGE>33</STATEDAGE>
+<AGE>33</AGE>
+<GENDER>Male</GENDER>
+<RACE>White</RACE>
+<CITY>Naples</CITY>
+<STATE>FL</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>false</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>fotophix</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Don</FIRSTNAME>
+<LASTNAME>Pedro</LASTNAME>
+<STATEDNAME>Tony</STATEDNAME>
+<STATEDAGE>14</STATEDAGE>
+<GENDER>Male</GENDER>
+<RACE></RACE>
+<CITY>Fort Myers</CITY>
+<STATE>FL</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>14-year-old boy</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>fotophix.elkilmer2.coded.txt</NAME>
+<CODER>elkilmer</CODER>
+</CODINGVERSION>
+<CODINGVERSION>
+<NAME>fotophix.rokress.both.coded.txt</NAME>
+<CODER>rokress</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>begin im - 4/23/2006 02:28 pm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[2:24 p.m.]</DATETIME>
+<BODY>hi jason here</BODY>
+<COMMENT>(yeah, try clifford.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[2:26 p.m.]</DATETIME>
+<BODY>8-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>sup jason im tony</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>14 m ft myers</BODY>
+<COMMENT>(the age has been stated.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>nice to meet you tony hows it goin bro</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>iz goin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>u lookin for fun or long term</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>how old r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:29 pm]</DATETIME>
+<BODY>here 33 you?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>l00k up i say already</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>14</BODY>
+<COMMENT>(maybe, just maybe he missed it the first time. but twice? doubtful.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>what u like to do bro</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>do? i like snowbordin skiin tennis golf video gamez</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:30 pm]</DATETIME>
+<BODY>u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:31 pm]</DATETIME>
+<BODY>just like to have fun with watever im doin</BODY>
+<COMMENT>(this asshat is really big on "fun.")</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:31 pm]</DATETIME>
+<BODY>kewl ya fun rulez! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:31 pm]</DATETIME>
+<BODY>i like fun 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:31 pm]</DATETIME>
+<BODY>cool wat u look like</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:32 pm]</DATETIME>
+<BODY>u gay or bi</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:32 pm]</DATETIME>
+<BODY>im like 5 9 130 dark hair n eyez</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:32 pm]</DATETIME>
+<BODY>im gay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:32 pm]</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>here 5'7 brwn/blue 190</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>kewlio</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>what u doin now u lookin 4 fun?</BODY>
+<COMMENT>(again with the "fun" - we all know what he means by it, too.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>'i dunno i like fun alwayz lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>im sittin here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>doin nuttin bein bored lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:33 pm]</DATETIME>
+<BODY>u gotta pic</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:34 pm]</DATETIME>
+<BODY>yah u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:34 pm]</DATETIME>
+<BODY>yah send</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>34</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:34 pm]</DATETIME>
+<BODY>sent</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:35 pm]</DATETIME>
+<BODY>you wanna hang</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:35 pm]</DATETIME>
+<BODY>just hang lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:35 pm]</DATETIME>
+<BODY>you wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:36 pm]</DATETIME>
+<BODY>well i dunno what u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:36 pm]</DATETIME>
+<BODY>what u wanna</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:36 pm]</DATETIME>
+<BODY>i duno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:37 pm]</DATETIME>
+<BODY>what u like doin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:37 pm]</DATETIME>
+<BODY>havin fun we could see what happens</BODY>
+<COMMENT>(fun fun fun.)</COMMENT>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:37 pm]</DATETIME>
+<BODY>lol like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:37 pm]</DATETIME>
+<BODY>:-d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:38 pm]</DATETIME>
+<BODY>:-!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:38 pm]</DATETIME>
+<BODY>you up for it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:38 pm]</DATETIME>
+<BODY>up for what? fun?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:38 pm]</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:38 pm]</DATETIME>
+<BODY>what did u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:39 pm]</DATETIME>
+<BODY>idk lets see can u think of somthin u want now</BODY>
+<COMMENT>(jackass wants me to say it first.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:39 pm]</DATETIME>
+<BODY>lol i dunno mebbie what did u wana do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:40 pm]</DATETIME>
+<BODY>u bored mee too so les have fun together</BODY>
+<COMMENT>(motherfucker...again with the 'fun' shit.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>24</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:40 pm]</DATETIME>
+<BODY>what's fun? lol like messin around?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:40 pm]</DATETIME>
+<BODY>sure</BODY>
+<COMMENT>(okay, so that's the definition of 'fun'...)</COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:40 pm]</DATETIME>
+<BODY>o ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:40 pm]</DATETIME>
+<BODY>i spose if u like me did u send ur pic?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>noooo u didnt lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>where you at</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>mcgregor</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>that where you wanna meet</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>ya come 2 my house</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:41 pm]</DATETIME>
+<BODY>what all do u like doin w guys?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:42 pm]</DATETIME>
+<BODY>dont like typin about you got a cell</BODY>
+<COMMENT>(some guys will never type their true intentions online. i had the feeling that this guy was one of them. but, he was open to talkin' on the phone, so i went that route.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:42 pm]</DATETIME>
+<BODY>ya lemme find it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:42 pm]</DATETIME>
+<BODY>ill give u the # if u send ur pic lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:43 pm]</DATETIME>
+<BODY>that shit never work for me u gotta email it im sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:43 pm]</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:43 pm]</DATETIME>
+<BODY>instant images invitation canceled.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:45 pm]</DATETIME>
+<BODY>u there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:46 pm]</DATETIME>
+<BODY>yeah trying to figure out to send u pic im not to good on these</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:46 pm]</DATETIME>
+<BODY>o ok lol if u click n drag the pic into the email box where u type itll go in there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:47 pm]</DATETIME>
+<BODY>u see how?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:48 pm]</DATETIME>
+<BODY>sent</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:48 pm]</DATETIME>
+<BODY>u home alone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:48 pm]</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:48 pm]</DATETIME>
+<BODY>can you go out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>ya sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>kewl pic man whoz the kid? lol</BODY>
+<COMMENT>(the pic he sent me had his young son in it - notice how he doesn't even mention that he's planning on bringing him over to the house with him.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>that urs?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>awesom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>ok now u wfant me 2 call u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:49 pm]</DATETIME>
+<BODY>if you wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>2101981</BODY>
+<COMMENT>(that was his number, all right.)</COMMENT>
+<CODING>
+<VERSION>fotophix.elkilmer2.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+<CODING>
+<VERSION>fotophix.rokress.both.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>i'll call in a sec</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>that 239?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:50 pm]</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>k u in ft myers?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>no buut close</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>so is it ok if i call now? and i ask 4 jason?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:51 pm]</DATETIME>
+<BODY>k lemme go n git the teh phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:52 pm]</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:53 pm]</DATETIME>
+<BODY>u there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>14-year-old boy</USERNAME>
+<DATETIME>[02:53 pm]</DATETIME>
+<BODY>yup callin now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>fotophix</USERNAME>
+<DATETIME>[02:53 pm]</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>end im - 4/23/2006 03:02 pm</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

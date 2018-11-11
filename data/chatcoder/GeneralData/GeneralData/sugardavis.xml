@@ -1,0 +1,5957 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Matthew</FIRSTNAME>
+<LASTNAME>Nash</LASTNAME>
+<STATEDNAME>Tay</STATEDNAME>
+<STATEDAGE>33</STATEDAGE>
+<AGE>36</AGE>
+<GENDER>Male</GENDER>
+<RACE>White</RACE>
+<CITY>Silver Lake</CITY>
+<STATE>CA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>false</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>sugardavis</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Duncan</FIRSTNAME>
+<LASTNAME>Hines</LASTNAME>
+<STATEDNAME>Susie</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE>Asian</RACE>
+<CITY>Lakewood</CITY>
+<STATE>CA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>susiethatsme14</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>sugardavis.almcbride.coded.txt</NAME>
+<CODER>almcbride</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>wednesday, september 06, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hello</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hi a/s/l</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>33 white male in los angeles here</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>asl?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>13/f/562</BODY>
+<COMMENT>(age stated)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so whered u go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>trade pix?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya u send first</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sent</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT>(myspace url given)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thanks</BODY>
+<COMMENT>(winking smiley)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you look cute</BODY>
+<COMMENT>(okay. he knows she's a kid and he didn't even blink.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tyvm so do u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i'm susie btw</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thank you, susie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>my names tay</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l love lucy liu too!</BODY>
+<COMMENT>(and you're telling me this because? oh yeah, little susie is asian.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>she's smokin'</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya she is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>shez why i wanna b a actress</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think you should</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>she's inspiring</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am a musician</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool what u play</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>drums and percussion</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg thatz so cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what kinda music</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i like all kindz of music</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>rock, funk, jazz, metal l love it all too and play it all</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what are your other creative dreams?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well i play the piano and i dance. i wanna take guitar lessonz but momz thiks i need 2 keep takin piano and dance</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but i really wanna b a actress</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol right on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you should be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>have you ever done photo shoots?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>just when i was playin around with my friendz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and we waz tryin 2 take cool pix</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think you'd look good in front of a camera</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tyvm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you have beauty, sex appeal and charm</BODY>
+<COMMENT>(whoa! do we have a groomer here?)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>youre very welcome, susie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur very nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thank you....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think you are too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do u play with a band</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>these days l mostly do studio work or travel</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>vegas, festivals, fairs and movie/tv music</BODY>
+<COMMENT>(an entertainer? you gonna love meeting chris hanson then. maybe not.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg thatz cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l love it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what area are you in?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>562</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wehre r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im kinda by lakewood</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>where r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am in silver lake, in 323 area</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kinda between dodgers and hollywood</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur kinda far</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>whatcha doing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am about an hour or so away....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>right now, chatting with you...trying to keep cool</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tv in the background</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l was hoping to find a cool girl to chat with...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and my dream came true</BODY>
+<COMMENT>(why yes, we do have a groomer.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you are very welcome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im glad ur talkin 2 me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>meeeee too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tell me some more about yourself</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tell me some things l might not have guessed about you</BODY>
+<COMMENT>(the better to groom you with, my dear...snarl)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k im in 7 grade i hate skool and i hafta wear kinda like a uniform 2 skool</BODY>
+<COMMENT>(so you're looking for a kid with problems....so imma gonna give you problems. rofl)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>2day was the first day of skool and it sucked lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>my mom and dad r divorcd cauz momz a les</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sounds like the world is against you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>feels like that 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but not all the time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>good, you sound like a great girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>are you ok with the divorce?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but i wish momz wud have let me liv with dad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i dont get along with momz much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but i dont blam dad 4 gettin a divorce</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cauz all momz did was go out wiht her gurlz and party newayz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>when she wasnt workin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so i gues itz ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you not like gays now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno dont lik mom bein a les for sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>people are going to be attracted to who they are...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but its not cool to hurt dad like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>plus she kiss her gf and it makez me wanna gag</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sorry u prolly dont wanna hear bout that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>now tell me sumthin bout you i dont know</BODY>
+<COMMENT>(since you started this game, it opens the door for me to play too.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>honestly...l think its ok...l am very sexually open and honest...but if it hurts you, then its not ok with me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but dont tell me if ur momz a les</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lololol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what would you like to know about? l am not shy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno whatevr u wanna tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have a wild side....l like to party and get in trouble lol</BODY>
+<COMMENT>(you like getting in trouble? i believe we can handle that one, bucky.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>uh oh!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>two troublemakers...look out!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you drink or smoke weed?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u wont tell promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do u promis</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l promise!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cross my heart, sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i do and ya i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm good</BODY>
+<COMMENT>(so you think it's good because the child drinks and smokes dope.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u drink</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l dont drink, but l like smoking weed....420 baby!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l don't like booze a whole lot, but l like weed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i lik both</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lets party!!!! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what else would you like to know? don't be shy</BODY>
+<COMMENT>(i don't care how many times you try this, i am not going to ask how big it is?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur turn to ask i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you have a boyfriend or ar you dating?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no bf broke up with bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awww...me too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>4 days ago, single as a dolla bill =(</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thanx kitten</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its tough, but l am over it</BODY>
+<COMMENT>(must have been a hell of a deep relationship if it was tough but you got over it in four days. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>waz a gf or a wife</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gf</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we were together 1 year</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but it didnt work out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ohnoz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yep =(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we were compatible in a lot of areas, but had our differences</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did she get mad at u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its kind of personal....is it ok to talk about those things?</BODY>
+<COMMENT>(here we go. it's time for the "she won't have sex with poor little me anymore.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well, she wasnt interested in sex any more...</BODY>
+<COMMENT>(hahahaha)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have a lot of passion and love sex....l am a very good lover</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and she was frigid...couldnt get off any more...and l needed to have that physical love, you know?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am very open minded in bed, and like to do a lot of things....but she wasnt into it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so we discussed it, and broke up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how come she didnt lik it no more</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l would rather be alone than with someone who wasnt into me, and wanted fun physical times</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well like l said...l am a great lover...lots of positions, fun, fantasies, l can go all night...</BODY>
+<COMMENT>(i can hear garth brooks in my mind, singing "and they call the thing rodeo")</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and she lost her sex drive and didnt want to try new things</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and it killed our passion and fun</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i never did real sex yet</BODY>
+<COMMENT>(just so you know...i'm a virgin.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats ok...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>have you kissed and touched?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>it can be an amazing experience, but both people have to be into it, ya know?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and i did oral for my ex bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but thatz all so far</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did you enjoy that experience?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did he return the favor?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>he just wanted me 2 do it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwwww, thats no good</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its more fun to give and get</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bastard!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>he waz 2 lazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>watching a girl have an orgasm is almost better than me having one....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pleasing the girl is very important</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did he ever use his hands on you?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats lame!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its only fair to give and get, ya know?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>are there some things that you've thought about trying, but havent yet experienced?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well ya but kinda hard 2 think bout it when u dont even know how 2 do nething</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol awwwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you just need a good man to help show you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya for sure lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its important to go slow, take your time, and really enjoy it</BODY>
+<COMMENT>(he got booted off here and came back on in the next converstion a minute later)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>thursday, september 07, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>most younger boys dont have experience and know how to do anything</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what else would you like to know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u got a cool car</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did u leave</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yoohoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have 2 cars</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>a van</BODY>
+<COMMENT>(for drums)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and a scion</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l like those little toaster cars lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat color is it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>vans good for cargo and also setting up a cool chill space or place to party</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>blue</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>the van is blue</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u got like ur name on it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>like a band alwayz does</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>van white, scion blue</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>it has a bunch of scars and scrapes on it! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am a crappy driver</BODY>
+<COMMENT>(might help if you'd quit using dope while you're driving.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>rofl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i dont evn know how 2 drive yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont thik im ever gonna get old enuff 2 drive</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol awwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will give you lessons</BODY>
+<COMMENT>(typical groomer remark. i've had more guys offer to teach me to drive. this is supposed to make the kid think he's really a friend since all kids are just dying to learn to drive.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool i wish</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am sure we could find a good place to start...maybe a parking lot or something</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cars are easy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey susie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you are perhaps the coolest person l have chatted with on aol in a long friggin time!!</BODY>
+<COMMENT>(he grooms me)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur prolly the coolest person ive ever chatted with newhere</BODY>
+<COMMENT>(i groom he)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwwwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you rock</BODY>
+<COMMENT>(he grooms me)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i mean it 2</BODY>
+<COMMENT>(i groom he)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l feel really good right now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you are very welcome, kitten</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dang, l wish we were hanging out....lets smoke a fatty lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u know wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>momz will b home b4 long and i gotta go 2 bed b4 she getz here cauz i got skool 2morrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u b online 2morrow nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hell yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>add me to your buddy list</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool kk i will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can i call u 2morrow so i can hear ur voice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>have a great night, susie....and have wonderful dreams of being a star</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l would love that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool give me ur digitz and ill call 2morrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat time u get up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ill call when i get home from skool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lets just chat online...l dont want to give out numbers yet, ok?</BODY>
+<COMMENT>(he thinks i now trust him but he's still hanging back to do some more assessing.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>y</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l would love to hear your voice....but remember, l am older and could get in trouble</BODY>
+<COMMENT>(he acknowledges that he clearly knows the situation.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur not gonna tell nobody r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l trust us both, but just want to feel good about it, you know?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cauz momz wud kill me</BODY>
+<COMMENT>(so i'll turn it around on him.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no way!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we need to keep our friendship on the dl!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>really im serius momz wud kill me dead</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we gotta keep it secret</BODY>
+<COMMENT>(why yes, i would never tell anyone. i might send them this chatlog but i won't be talking to them.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and if she found your phone bill, we could get caught</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no cauz dad buyz me phone cardz so i can call him whenevr i want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>then momz dont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gotcha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>she hates me talkin 2 dad cauz i talk about her. lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol l hear you! can you ditch school, or is it tough to skip?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno i mite try it after we talk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i gotta make sure ur not like a seriel killer hehehe</BODY>
+<COMMENT>(now see what you did, bucky...you made me nervous. i'm not sure i can trust you now.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l hear you!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>of course</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lets talk a few times and see how we feel</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yessss?</BODY>
+<COMMENT>(why in the hell do pedophiles feel like they have to hiss. i hate that. reminds me of a slinking slimy snake.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im glad ur talkin 2 me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i really like u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too, susie...you are so cool, intelligent, hot and fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tyvm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think you are an awesome person, and any boy would be lucky to have you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>youre welcome, sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>momz just drove in driveway. gotta go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>c u 2morrow online when skools out bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>saturday, september 09, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hang on a min i gotta go pee bad. brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT>(got to line up a phone verifier in case you give up those digits.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im soo glad ur online i missd u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am too sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>*hug</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hows it going?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok i gues</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what are you doing today?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>nothin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>eating now and chilling later</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>typing one hand with a sandwich lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u eatin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>roast beef sandwich and fritos</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im wantin pizza or tacoz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i luv fritos</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmmmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pizza too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u makin me hungry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sorry lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but they are good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hateful man lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur chewing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>momz workin 2day so nothin 2 do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and i gotta feed myself when she workz</BODY>
+<COMMENT>(here's the pitch. you going to swing at the ball, bucky?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>all alone?</BODY>
+<COMMENT>(oh yeah you are. good boy.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>she hasta work like from 1 to 1 today</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so she wont b home till bout 2 in the mornin</BODY>
+<COMMENT>(second pitch......)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>all by yourself??</BODY>
+<COMMENT>(..he swings the bat back and)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>invite me over lol</BODY>
+<COMMENT>(strike!)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat we gonna do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>whatever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>watch movies, talk dirty, goof off</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>talk dirty hehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am sorry, l have been feeling naughty all week</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i like nauty</BODY>
+<COMMENT>(another pitch...)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you have a hot tub?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am busy til 9pm and couldnt be there til 10pm</BODY>
+<COMMENT>(strike!)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can i call u</BODY>
+<COMMENT>(the pitch....)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i can use my phone card so momz wont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l feel a little weird about giving you my number....cuz of my age</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can l call you from a cellphone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not unless u wanna talk 2 my momz hahahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>she forwrdz phone 2 her cell so dad cant call me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can we chat here for awhile?</BODY>
+<COMMENT>(foul ball.....)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think we'd hit it off great and make a great connection, kitten....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but we have to be safe cuz of ages, ya know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur not gonna tell nobody r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cauz id get killed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l love our friendship, but we need to keep it on the downlow</BODY>
+<COMMENT>(and another warning that i can't tell anyone.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>promis u wont tell never ever</BODY>
+<COMMENT>(back atcha, bucky)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya we do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l promise forever and ever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>then lets hit the weed and jump in your hot tub</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool nakid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i did that b4 cauz nobody can see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am cool with that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>now thatz nauty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol l like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so u gotta work till when</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat in the world u doing now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yoohoo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gues u dont wannaa talk nemore</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am so sorry l ditched you earlier...my computer froze for 10 minutes!</BODY>
+<COMMENT>(righto. translation: someone walked in and i almost got caught grooming a kid so i could molest her.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you forgive me, sweetie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ohnoz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i thot u just quit talkin 2 me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no way...l really really like you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i reallly really lik u 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>awwww thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we were just getting to the good part too...naked in the hot tub lol!</BODY>
+<COMMENT>(now we're going to get right down to the point.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok we gonna get in hot tub nekid then wat we do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kiss, touch, talk dirty, massage, smoke weed</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>doesnt sound bad to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l like it too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we dont need to go fast at all...relaxed and casual, see how we both feel</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i feel good lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>good me too!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can you hang on for a minute? l have to get the door</BODY>
+<COMMENT>(yeah, i'm betting you locked the damned door this time.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok l am back sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>didja miss me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well here l am...all for you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kiss</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm l want some of that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so what u gonna touch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>your neck and back</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>butt and legs</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>breasts</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>everywhere</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im gonna touch 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>after we're done in the tub...take you out naked and wet, and cover you in baby oil</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what do you want to touch?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>everthing lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u gotta work 2nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am busy til about 10pm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am about 1/2 hour from lakewood</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>whens mom coming home?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gets off at 1 prolly home bout 1 45 or 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so u gonna touch me all over rite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yes, l am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>would you like that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l like it too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>are you feeling horny?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u gotta work or wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wish u cud come now lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but u get all wet in the hot tub</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l know...l wish too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>is she working tomorrow day/night too?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not as late 2morrow tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>like only til 10</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gotcha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so if u come 2nite at 10 we have like 3 hours b4 she getz off work</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we got to smoke fatty outside so momz dont smell it. hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no problem</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>will you be alone? will neighbors know?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont know neighborz hardly park on street so nobody see car in driveway</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so u gonna come bout 10 30</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we can play for 2 hours easy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am good with it if you are</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i am great with it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i mite wanna keep u since i dont got no bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol cool....but we gotta keep it secret</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well ya for sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u promisd u wudnt tell nobody never ever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cauz i mean momz wud kill me and id get grounded til i waz like 40</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>for ever and ever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pinky swear for ever and ever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pinky swear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so u b here bout 10 30 rite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we gotta b careful not 2 mess up house</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no problem</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i get intruble if house is messy when momz comez home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we'll be clean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>this is so cool im so exited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too its gonna be fun</BODY>
+<COMMENT>(you just have no clue how much fun i'm going to have.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so im gonna take a bubble bath b4 u get here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so i smell really good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>perfect, l would love that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u like strawberry or herbal</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>herbal</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg me 2 itz my fav</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmm yummy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what are you gonna wear for me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u want me 2 wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i gonna wear nothin in hot tub lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but i wait till u get here to get nekid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>after we tub, l want to lay out a sheet on the floor, and put oil over all of our bodies</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>that soundz cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>make me slicky tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat time u gotta b at work</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>or wherevr u going</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l need to be there at 7pm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k hey tay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>if ur just jokin with me tell me please</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont just stand me up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am not joking</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l promise, susie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can you give me directions/address now, so l can mapquest it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i can give u address but i dont know how to get here. lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i know u gotta turn off bellflower blvd onto my street.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool, give me address and a description of your house</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT>(bust house address given)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>my house is like beige and not real big</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>if u come in side door on rite side of house nobody see u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ill watch 4 u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>that sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u gonna b in the white car or the blue van</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l should be there between 10 and 10:30</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg this iz so cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not sure car</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so wat i look for then silly lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>don't matter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i look 4 u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont worry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i only worry u wont really come</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont worry bout that, l will be there</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i cant wait</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what else do you want to do when l get there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno u gotta b boss cauz i dont know how 2 do lotz of thingz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i crown u boss of stuff 2nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehehehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>no problem</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur a nice man i can tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yes l am!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i cant wiat til u get here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me too, we'll have a blast</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bring munchies 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i dont got ne</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>fritos</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>or somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol l can bring fritos</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>momz sad i eat her outta house and home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what soundz good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>pizza or tacos or reeses pnute butter cupz lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im hungry can u tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmm!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how bout fritos and reeses?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i wud love that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and 420</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not 2 eat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you got it!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lolol silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so u gotta b sumwhere at 7</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u know what time it iz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>takez me long time 2 get ready but ur a guy so dont take so long</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am all good!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l want to keep chatting with you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me 2 but im bout 2 pee on myself brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you pee a lot lol</BODY>
+<COMMENT>(no i don't but i have to get your ass on the schedule so the great long beach police know to expect you.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cauz i drink lotz of water and ice tea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and cokes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i lookd at ur pic lotz 2day cauz ur sooo cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did you fantasize?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l like your pix on myspace page</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you have a sexy attitude</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya im gonna b sexy when i get big</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im gonna wear those big heels</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm l love heels on girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>my momz says i dress like a hoochie mama now it pisses her off</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l think its a turnon</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wear those heels for me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont have none now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey l have to tell you something</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sumday</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u gonna tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you ever shave or trim?</BODY>
+<COMMENT>(yep. typical groomer. took him 3 whole days of telling me how sexy, hot, beautiful and talented i am before he finally asked if i shave.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>shave</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont have much tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you ever get red bumps?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not alwayz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im kinda careful</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont wanna cut my thingy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have some of those around my hips...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l shaved/trimmed earlier this week, but have red bumps around my mound....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>so if you see that, don't freak out...its not aids!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its from shaving, and l didnt use enough skin cleaner astringent</BODY>
+<COMMENT>(omg, you're warning me you looked diseased. ewwww)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehehe promise wont freak lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l want the lights low anyways</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya make it sexy rite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i dont hav no sexy music or i play it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you pick the sexy music and play it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ill pick oaut sumthing cute 2 wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>that sounds good to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l want to see that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you are a very beautiful girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am sure you'll look very tasty</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can l taste you everywhere?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya if u wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmm ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i trust u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you ever masturbate?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im so exited cauz ur coming</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>put on some makeup after your bath, and dress sexy for me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im gonna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmmm good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i think i wear my little white skirt and my white tank</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i think itz cute but momz hatez it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm perfect</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we won't tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u gonna wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>jeans, black t-shirt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we wont stay in clothes for too long</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i know rofl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lololol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u like kid rock</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i did till he hooked up with pam andersen</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l hear ya!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>shez a slut</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hez gotta b stupid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l dont find her attractive at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l hear ya!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i figur u lik her cauz shez got big boobs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i dont have big boobs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am more of an ass man than a boob man...l like girl with smaller breasts and nice slender body and hips</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you have nice nipples?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont know if they nice or not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat makez them nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what color and size?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kinda dark and kinda big</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i guess i dont know if big or not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will check them out later</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u tell me honest if theyr not nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will honestly tell you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do you have a cute butt?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>prolly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i have a butt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lolol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will have to check that out too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat if u dont think itz cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol l am sure l will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hey, can you hang out for about 10 minutes? l need to jump in the shower, but then l will be back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk ill play gamez till u get back.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ciao</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kissy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>disconnected</BODY>
+<COMMENT>(8:22:04 pm)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hi r u clean lolol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmm fresh and clean for you baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i still gotta go take a bubble bath</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u dont need to bring a towel we got lotz of towelz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how im gonna explain why one of momz sheetz has oil all over it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya can u bring a sheet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lets skip the oil this time</BODY>
+<COMMENT>(ohnoz, we've never had anyone bring a sheet before. i want you to bring a sheet.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>iknow what we cud do we cud use towels</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i like the oil</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gonna make me slicky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>iz it baby oil</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will bring oil, and we can figure someting out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yes, baby oil</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l can bring a sheet</BODY>
+<COMMENT>(oh goody goody goody)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk i luv the way baby oil smellz kk u bring the sheet ill bring me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>you got a deal, sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u got a deal sexy man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u really r a sexy man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l like when you call me that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i like cauz u r that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lolol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gimme a second, l want to put that sheet aside now</BODY>
+<COMMENT>(yessssss *hiss*)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>all set, sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>got the oil and sheet</BODY>
+<COMMENT>(i love it when a plan comes together)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i've never been all slicky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>soundz fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its very hot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u gotta b sumwhere at 7 ur late</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>it got moved to 8</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will be done by 9:30</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool so u b here by 10 mabe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l bet between 10 and 10:30</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will leave at 1am</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>will that be a safe hour to leave?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya cauz she wont get home b4 1 45</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>1 is plenty safe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg im so exited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmm me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how often does your mom leave you alone like that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lotz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>itz okay im not a baybee i just lock doorz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>xcept when im in hot tub lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol is hot tub outside?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>in backyard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont mess up house that way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>to be honest, l am a little scared of being in yard, in case neighbors hear and check it out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>they cant see in backyard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we dont hafta do hot tub if u dont wana but i do it nekid cause they cant see nothin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok...lets play it by ear...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk i wont care if u dont wanna do hottub</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>it might be more fun to skip hot tub and go straight to oil</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i think it mite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i cant wait 2 do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>seeing as we don't have much time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ya i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we cann do hot tub anothr time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>if u wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u doing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>where u going at 8</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have a meeting for some biz stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>gonna have dinner when l am there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>o i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bring me dinner lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bet ur having sumthing really gud</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>j/k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l hope so!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will bring you fritos and reeses</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>oh ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and feed them to you off of my body</BODY>
+<COMMENT>(oh.my.gawd. he's going to be soaked in baby oil...his body has sores on his stuff that he thinks i might think is a disease....and he wants me to eat fritos and peanut butter cups off of his body?)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>this is gonna b sooo fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmm yummy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ull b all salty and sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>and slicky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>omg wish u didnt hav meeting so u cud come now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im so exited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>god yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>salty and slicky and oily all over for your tongue and fingers</BODY>
+<COMMENT>(please spare me the image that burns in my mind.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ill make u feel soo gud 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>do i get 2 put oil all ovr u 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yes...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>did u find my house on the map</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>what do you wanna do to me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>make u slicky hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how we can hang on if we're both slicky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>we grind against</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>its sooooo good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u ever did it b4</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yessssssss</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>is there anything you don't want to do or are scared of trying?</BODY>
+<COMMENT>(well...uh...yeah. eating food off of your oily diseased body for starters.)</COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dont think so like wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>anything sexual that we should avoid?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunno know how 2 do much u gotta show me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u thinkin about</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat did u wanna do that pissed off ur gf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i bee wonderin about that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l didnt do anything like that!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol its all good on that front</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>o</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l will show you everything, and we can decide what feels fun and comfortable</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l have a few surprises for you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool wat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>uhhh uhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>thats what surprises are for</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>but l will tell you that you'll love it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok im gonna thik up a surprise 4 u 2</BODY>
+<COMMENT>(i have a surprise for you too but i don't want to tell you about it before you get here.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ok....don't worry about it too much tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>now i wanna know wat surpris u gonna do lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol don't worry about it, it will bring you a lot of pleasure</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>fun and naughty lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ur makin me crazy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>then take it out on me when we're covered in oil</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>im gonna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>can l tell you something?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>well ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>of course</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>my dick is getting hard over here talking to you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>dunk it in cold water</BODY>
+<COMMENT>(this line amused the hell out of me "dunkie". rofl)</COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u got 2 wait till u get here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>how long it takez u 2 get 2 ur meeting</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l leave in about 20 min</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i gotta do dishs b4 u get here 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>or momz will b pissed when she getz home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wher d u go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>brb i gotta go pee again lol dont leave</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>back lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hurry with ur meeting u got 2 meet wit ur boss</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>u can say sorry i got somethin slicky going i gotta go boss</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>rofl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lolol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>r u exited 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>i cant wait</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>lolol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am stoked!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>yoohoo sexy man wat u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>l am getting ready to go...l need to get running, baby girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ohmoz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>ohnoz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>not moz</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hehehe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>alright....see you between 10-10:30</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sugardavis.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>cool ill b waitin 4 u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>hurry ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>will do baby!! xxoo smooch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>kissy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>susiethatsme14</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bye sexy man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sugardavis</USERNAME>
+<DATETIME></DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

@@ -1,0 +1,4884 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Jerone</FIRSTNAME>
+<LASTNAME>Basa</LASTNAME>
+<STATEDNAME>Jason</STATEDNAME>
+<STATEDAGE>28</STATEDAGE>
+<AGE>28</AGE>
+<GENDER>Male</GENDER>
+<RACE>Asian</RACE>
+<CITY>Pasadena</CITY>
+<STATE>CA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>false</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>sweet_jason002</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Maxwell House</FIRSTNAME>
+<LASTNAME></LASTNAME>
+<STATEDNAME>Lissa</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY>Palm Springs</CITY>
+<STATE>CA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>sweet_jason002.almcbride.coded.txt</NAME>
+<CODER>almcbride</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:36:40 pm)</DATETIME>
+<BODY>hi there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:36:44 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:36:50 pm)</DATETIME>
+<BODY>28/m/pasadena</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:36:52 pm)</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:36:56 pm)</DATETIME>
+<BODY>13/f/palm springs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:37:04 pm)</DATETIME>
+<BODY>oh, cool</BODY>
+<COMMENT>(ugh)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:37:23 pm)</DATETIME>
+<BODY>how r u today?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:37:29 pm)</DATETIME>
+<BODY>im ok how ru??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:37:31 pm)</DATETIME>
+<BODY>it's raining here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:37:38 pm)</DATETIME>
+<BODY>can't wait for it to stop</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:37:40 pm)</DATETIME>
+<BODY>it looks like its gonna here it sux</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:37:56 pm)</DATETIME>
+<BODY>probably on its way there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:38:00 pm)</DATETIME>
+<BODY>what's keeping u busy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:38:04 pm)</DATETIME>
+<BODY>school today?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:38:06 pm)</DATETIME>
+<BODY>lol nothing im bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:38:19 pm)</DATETIME>
+<BODY>i didnt go today cuz i woke upwith a headache and mom gave me a pill that made me sleepy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:38:26 pm)</DATETIME>
+<BODY>so she said i could stay home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:38:32 pm)</DATETIME>
+<BODY>hope u feel better</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:38:43 pm)</DATETIME>
+<BODY>i already feel better im fine</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:38:55 pm)</DATETIME>
+<BODY>so what u up to today?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:39:02 pm)</DATETIME>
+<BODY>just bored and chatting</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:39:02 pm)</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:39:27 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:39:29 pm)</DATETIME>
+<BODY>day off today</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:39:34 pm)</DATETIME>
+<BODY>bored and chatting</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:39:52 pm)</DATETIME>
+<BODY>lol sounds like me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:40:19 pm)</DATETIME>
+<BODY>how's school for u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:40:23 pm)</DATETIME>
+<BODY>its ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:40:32 pm)</DATETIME>
+<BODY>keeping up with school work?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:40:36 pm)</DATETIME>
+<BODY>lol ya its easy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:41:00 pm)</DATETIME>
+<BODY>dats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:41:07 pm)</DATETIME>
+<BODY>i'm glad it's easy for u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:41:11 pm)</DATETIME>
+<BODY>u're probably a smart girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:41:17 pm)</DATETIME>
+<BODY>ya im not dumb lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:41:18 pm)</DATETIME>
+<BODY>proud of u for saying that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:41:21 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:41:24 pm)</DATETIME>
+<BODY>ty :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:41:52 pm)</DATETIME>
+<BODY>did u think school was easy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:42:01 pm)</DATETIME>
+<BODY>i never thought it was</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:42:06 pm)</DATETIME>
+<BODY>but i did work hard tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:42:25 pm)</DATETIME>
+<BODY>mebbe high school will be harder</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:42:35 pm)</DATETIME>
+<BODY>r u in 8th grade?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:42:46 pm)</DATETIME>
+<BODY>7</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:42:49 pm)</DATETIME>
+<BODY>i just turned 13</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:43:03 pm)</DATETIME>
+<BODY>happy birthday to u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:43:06 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:43:13 pm)</DATETIME>
+<BODY>hope u had a good celebration</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:43:21 pm)</DATETIME>
+<BODY>nah mom had to work but it was ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:43:44 pm)</DATETIME>
+<BODY>u have siblings?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:43:48 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:43:54 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:43:58 pm)</DATETIME>
+<BODY>u wish u have?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:44:04 pm)</DATETIME>
+<BODY>sometimes ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:44:16 pm)</DATETIME>
+<BODY>id have someone to talk to but then id prolly fight with them lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:44:26 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:44:34 pm)</DATETIME>
+<BODY>how about b/f?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:44:37 pm)</DATETIME>
+<BODY>boyfriend?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:44:39 pm)</DATETIME>
+<BODY>we broke up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:44:42 pm)</DATETIME>
+<BODY>he was a jerk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:44:48 pm)</DATETIME>
+<BODY>what happened?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:44:52 pm)</DATETIME>
+<BODY>he cheated on me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:44:53 pm)</DATETIME>
+<BODY>a classmate ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:45:03 pm)</DATETIME>
+<BODY>he was my friends bro</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:45:15 pm)</DATETIME>
+<BODY>oh, i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:45:18 pm)</DATETIME>
+<BODY>how old is he?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:45:21 pm)</DATETIME>
+<BODY>18</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:45:35 pm)</DATETIME>
+<BODY>hell be 19 soon but i hope he has a bad birthday</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:45:40 pm)</DATETIME>
+<BODY>oh, cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:45:42 pm)</DATETIME>
+<BODY>i hope so too :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:46:13 pm)</DATETIME>
+<BODY>what kind of guy u like?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:46:32 pm)</DATETIME>
+<BODY>guys who arent babies and jerks lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:46:38 pm)</DATETIME>
+<BODY>dat sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:46:58 pm)</DATETIME>
+<BODY>ya most guys my age act like babies tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:47:10 pm)</DATETIME>
+<BODY>how old is too old for u? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:47:24 pm)</DATETIME>
+<BODY>lol i dunno i guess it depends if theyre kewl and nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:47:36 pm)</DATETIME>
+<BODY>lol i wouldnt go out with a guy whos like 99</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:02 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:04 pm)</DATETIME>
+<BODY>dats true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:07 pm)</DATETIME>
+<BODY>i wouldn't either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:09 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:19 pm)</DATETIME>
+<BODY>what would u like to do on a date?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:48:21 pm)</DATETIME>
+<BODY>ya too old to have fun lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:29 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:31 pm)</DATETIME>
+<BODY>too slow too :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:48:38 pm)</DATETIME>
+<BODY>lol ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:48:53 pm)</DATETIME>
+<BODY>u're going back to school tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:49:14 pm)</DATETIME>
+<BODY>lol unless i can talk mom into thinkin i still got a headache lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:49:21 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:49:26 pm)</DATETIME>
+<BODY>she'll believe u :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:49:29 pm)</DATETIME>
+<BODY>how about ur dad?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:49:47 pm)</DATETIME>
+<BODY>they split up when i was little im not supposed to talk to him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:50:25 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:50:28 pm)</DATETIME>
+<BODY>so who u live with?</BODY>
+<COMMENT>(and the risk assessment begins)</COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:50:30 pm)</DATETIME>
+<BODY>just ur mom?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:50:36 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:51:08 pm)</DATETIME>
+<BODY>apartment?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:51:13 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:51:23 pm)</DATETIME>
+<BODY>its pretty kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:51:53 pm)</DATETIME>
+<BODY>what makes it kewl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:51:58 pm)</DATETIME>
+<BODY>the rooms?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:52:02 pm)</DATETIME>
+<BODY>neighbors?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:52:11 pm)</DATETIME>
+<BODY>its got a park across the street</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:52:36 pm)</DATETIME>
+<BODY>we dont talk to neighbors no one here really talks even when theyre home lol but its nice to have the library and club and park across the street</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:52:52 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:53:05 pm)</DATETIME>
+<BODY>what would u like to do if u get to hang out with a guy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:53:27 pm)</DATETIME>
+<BODY>lol i dunno whatever he wants to i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:53:53 pm)</DATETIME>
+<BODY>u have a pic?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:53:56 pm)</DATETIME>
+<BODY>i'm jason, by the way</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:54:02 pm)</DATETIME>
+<BODY>hi jason im lissa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:54:06 pm)</DATETIME>
+<BODY>pic on pro and more on myspace</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:55:08 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:55:14 pm)</DATETIME>
+<BODY>ty!!! u got a pic??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:55:17 pm)</DATETIME>
+<BODY>dats my pic on the right box</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:55:27 pm)</DATETIME>
+<BODY>should be on the box on the right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:55:29 pm)</DATETIME>
+<BODY>ur cute!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:55:54 pm)</DATETIME>
+<BODY>so r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:55:58 pm)</DATETIME>
+<BODY>ty :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:56:40 pm)</DATETIME>
+<BODY>lol u got quiet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:57:08 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:57:13 pm)</DATETIME>
+<BODY>looking at ur pic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:57:22 pm)</DATETIME>
+<BODY>oh lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:57:44 pm)</DATETIME>
+<BODY>u are very pretty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:57:51 pm)</DATETIME>
+<BODY>ty ur sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:58:07 pm)</DATETIME>
+<BODY>u know tae kwon do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:58:10 pm)</DATETIME>
+<BODY>dats really neat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:58:12 pm)</DATETIME>
+<BODY>ya some</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:58:13 pm)</DATETIME>
+<BODY>its fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:58:46 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:58:54 pm)</DATETIME>
+<BODY>is it ok i'm 28?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:59:02 pm)</DATETIME>
+<BODY>ya is it ok im 13? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:59:28 pm)</DATETIME>
+<BODY>i'm fine with it</BODY>
+<COMMENT>(of course you are)</COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:59:33 pm)</DATETIME>
+<BODY>kewl!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(5:59:34 pm)</DATETIME>
+<BODY>u come to chat often?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:59:52 pm)</DATETIME>
+<BODY>when im bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(5:59:55 pm)</DATETIME>
+<BODY>do u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:00:05 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:00:09 pm)</DATETIME>
+<BODY>and i get bored often</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:00:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:00:18 pm)</DATETIME>
+<BODY>being bored sux</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:00:35 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:00:39 pm)</DATETIME>
+<BODY>what does ur mom do for living?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:00:47 pm)</DATETIME>
+<BODY>shes a nurse</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:01:02 pm)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:01:09 pm)</DATETIME>
+<BODY>so, she's often out ?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:01:12 pm)</DATETIME>
+<BODY>in the hospital?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:01:18 pm)</DATETIME>
+<BODY>ya she works til like midnight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:05 pm)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:10 pm)</DATETIME>
+<BODY>who stays home with u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:02:17 pm)</DATETIME>
+<BODY>lol no one im not a baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:26 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:29 pm)</DATETIME>
+<BODY>dats true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:44 pm)</DATETIME>
+<BODY>i like how ur name is spelled</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:45 pm)</DATETIME>
+<BODY>lissa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:02:48 pm)</DATETIME>
+<BODY>ty :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:02:49 pm)</DATETIME>
+<BODY>very nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:03:08 pm)</DATETIME>
+<BODY>im glad u like it lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:03:24 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:03:39 pm)</DATETIME>
+<BODY>u like movies?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:04:05 pm)</DATETIME>
+<BODY>ya just not scary ones</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:04:34 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:04:37 pm)</DATETIME>
+<BODY>hate horror films</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:04:41 pm)</DATETIME>
+<BODY>how about romance?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:04:49 pm)</DATETIME>
+<BODY>ya those r kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:04:50 pm)</DATETIME>
+<BODY>r u a romantic person?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:04:54 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:05:02 pm)</DATETIME>
+<BODY>lol ya i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:05:12 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:05:18 pm)</DATETIME>
+<BODY>u like to kiss? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:05:26 pm)</DATETIME>
+<BODY>lol ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:05:29 pm)</DATETIME>
+<BODY>do u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:05:52 pm)</DATETIME>
+<BODY>love to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:05:59 pm)</DATETIME>
+<BODY>its way kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:06:04 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:06:14 pm)</DATETIME>
+<BODY>i like a girl who loves to kiss</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:06:21 pm)</DATETIME>
+<BODY>makes it more sweet and romantic</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:06:26 pm)</DATETIME>
+<BODY>ya it does</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:06:59 pm)</DATETIME>
+<BODY>wish we can hang out :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:07:09 pm)</DATETIME>
+<BODY>we should</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:07:17 pm)</DATETIME>
+<BODY>itd be kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:07:25 pm)</DATETIME>
+<BODY>how?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:07:26 pm)</DATETIME>
+<BODY>where?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:07:35 pm)</DATETIME>
+<BODY>lol well i cant drive so it gotta be here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:07:50 pm)</DATETIME>
+<BODY>i can drive :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:08:03 pm)</DATETIME>
+<BODY>we can watch a movie at ur place, perhaps?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:08:07 pm)</DATETIME>
+<BODY>what kinda stuff u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:08:23 pm)</DATETIME>
+<BODY>we can talk</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:08:28 pm)</DATETIME>
+<BODY>watch dvd :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:08:42 pm)</DATETIME>
+<BODY>anything fun</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:08:47 pm)</DATETIME>
+<BODY>what would u like to do?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:08:50 pm)</DATETIME>
+<BODY>lol i like to have fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:09:16 pm)</DATETIME>
+<BODY>what do u think?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:09:23 pm)</DATETIME>
+<BODY>i can bring dvd</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:09:27 pm)</DATETIME>
+<BODY>we can watch together :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:09:34 pm)</DATETIME>
+<BODY>what dvd u wanna bring?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:10:18 pm)</DATETIME>
+<BODY>i can rent whatever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:10:22 pm)</DATETIME>
+<BODY>what would u like to watch?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:10:30 pm)</DATETIME>
+<BODY>i wanna see corpse bride</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:10:48 pm)</DATETIME>
+<BODY>is that horror? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:10:52 pm)</DATETIME>
+<BODY>nooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:10:57 pm)</DATETIME>
+<BODY>i dont like scary movies</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:11:06 pm)</DATETIME>
+<BODY>me neither</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:11:24 pm)</DATETIME>
+<BODY>k, i can rent that :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:11:28 pm)</DATETIME>
+<BODY>when are u available?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:11:39 pm)</DATETIME>
+<BODY>well moms workin today and tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:11:54 pm)</DATETIME>
+<BODY>oh, i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:12:02 pm)</DATETIME>
+<BODY>when do u wanna?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:12:13 pm)</DATETIME>
+<BODY>but u have school tomorrow tho, right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:12:34 pm)</DATETIME>
+<BODY>ya but i get out right before 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:13:04 pm)</DATETIME>
+<BODY>wanna skip another day of school? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:13:14 pm)</DATETIME>
+<BODY>lol i prolly could</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:13:32 pm)</DATETIME>
+<BODY>u won't find out until tonight, right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:14:12 pm)</DATETIME>
+<BODY>mebbe let me think if i can come up with good reason lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:14:35 pm)</DATETIME>
+<BODY>can i call u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:14:42 pm)</DATETIME>
+<BODY>or should i come online tonight sometime?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:15:17 pm)</DATETIME>
+<BODY>i can call u but if u call me ill get busted cuz moms got id in her room cuz she thinks im trying to talk to dad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:15:49 pm)</DATETIME>
+<BODY>she got this privacy stuff that dont let u call with private number either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:16:13 pm)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:16:27 pm)</DATETIME>
+<BODY>ya im not supposed to talk to him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:16:29 pm)</DATETIME>
+<BODY>shes freaky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:16:43 pm)</DATETIME>
+<BODY>wanna hang out tomorrow anyway?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:16:46 pm)</DATETIME>
+<BODY>:)?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:16:53 pm)</DATETIME>
+<BODY>lol ya it be kinda kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:17:15 pm)</DATETIME>
+<BODY>what time u wanna hang out??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:17:29 pm)</DATETIME>
+<BODY>mom wont leave til like 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:17:38 pm)</DATETIME>
+<BODY>oh, really?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:17:52 pm)</DATETIME>
+<BODY>i'm not sure how long it'll take to get there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:17:55 pm)</DATETIME>
+<BODY>what's ur address?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:18:15 pm)</DATETIME>
+<BODY>i'll try to map it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:18:23 pm)</DATETIME>
+<BODY>*address removed*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:18:37 pm)</DATETIME>
+<BODY>what's the zip code?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:18:44 pm)</DATETIME>
+<BODY>what uwant me to wear??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:19:34 pm)</DATETIME>
+<BODY>92262 is teh zip code we can mebbe meet at the park cross the street then come back here if u like not a serial killer lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:19:52 pm)</DATETIME>
+<BODY>don't worry about me :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:20:05 pm)</DATETIME>
+<BODY>i'm the safest person u can meet :)</BODY>
+<COMMENT>(hahahaha*gasp*hahahaha)</COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:20:24 pm)</DATETIME>
+<BODY>lol y u so safe??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:21:05 pm)</DATETIME>
+<BODY>it's just the way i am :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:21:25 pm)</DATETIME>
+<BODY>i hardly cuzz even</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:21:43 pm)</DATETIME>
+<BODY>did u map it yet?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:22:02 pm)</DATETIME>
+<BODY>yeah, i did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:22:16 pm)</DATETIME>
+<BODY>an hour and a half to get there, at least</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:22:24 pm)</DATETIME>
+<BODY>i can leave before lunch</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:22:31 pm)</DATETIME>
+<BODY>will u be home by 1pm?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:22:41 pm)</DATETIME>
+<BODY>no i get home bout 215</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:22:49 pm)</DATETIME>
+<BODY>moms gone when i get home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:23:03 pm)</DATETIME>
+<BODY>wish we can meet at 1pm :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:23:14 pm)</DATETIME>
+<BODY>i know but i dont wanna get busted</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:23:50 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:24:01 pm)</DATETIME>
+<BODY>what if u pretend u have headache :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:24:21 pm)</DATETIME>
+<BODY>i just afraid u get here before mom leaves</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:24:30 pm)</DATETIME>
+<BODY>then id really be in trubbe lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:25:24 pm)</DATETIME>
+<BODY>how about 1:30pm?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:25:25 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:25:36 pm)</DATETIME>
+<BODY>u can check first</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:25:51 pm)</DATETIME>
+<BODY>u got a cell so i can call u when ur driving??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:27:12 pm)</DATETIME>
+<BODY>hellooooooo???</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:27:50 pm)</DATETIME>
+<BODY>trying to think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:28:04 pm)</DATETIME>
+<BODY>no cell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:28:09 pm)</DATETIME>
+<BODY>maybe i can borrow someone's</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:28:20 pm)</DATETIME>
+<BODY>but if u call won't that leave a number in ur phone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:28:40 pm)</DATETIME>
+<BODY>not if i use the calling card gramma gave me lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:28:49 pm)</DATETIME>
+<BODY>thats how i talk to dad shhhh!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:29:02 pm)</DATETIME>
+<BODY>hey, dats a good idea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:29:12 pm)</DATETIME>
+<BODY>but i can't call u even with a calling card, right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:29:21 pm)</DATETIME>
+<BODY>no :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:29:34 pm)</DATETIME>
+<BODY>i told u moms freaky if she dont kno a number she calls it and i get in trubble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:29:44 pm)</DATETIME>
+<BODY>oh, i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:30:05 pm)</DATETIME>
+<BODY>i cant wait what we gonna do besides watch a move that dont take long lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:30:43 pm)</DATETIME>
+<BODY>how much time do we have?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:30:51 pm)</DATETIME>
+<BODY>mom be home bout midnight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:31:04 pm)</DATETIME>
+<BODY>i have work tomorrow night :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:31:09 pm)</DATETIME>
+<BODY>late afternoon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:31:19 pm)</DATETIME>
+<BODY>oh ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:31:33 pm)</DATETIME>
+<BODY>what time can i be there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:31:36 pm)</DATETIME>
+<BODY>1:30pm</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:31:37 pm)</DATETIME>
+<BODY>?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:31:53 pm)</DATETIME>
+<BODY>ya prolly be good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:32:02 pm)</DATETIME>
+<BODY>so what u want me to wear?? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:32:51 pm)</DATETIME>
+<BODY>just wear normal clothes :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:33:07 pm)</DATETIME>
+<BODY>where do u want me to meet u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:33:18 pm)</DATETIME>
+<BODY>at the park its called sunrise park</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:33:39 pm)</DATETIME>
+<BODY>theres a place by the library thats got benches and a big rock ill meet u at the benches??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:34:08 pm)</DATETIME>
+<BODY>will the neighbors find out about it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:34:11 pm)</DATETIME>
+<BODY>us, i mean?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:34:17 pm)</DATETIME>
+<BODY>nah theyre not home during the daytime</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:34:45 pm)</DATETIME>
+<BODY>u sure? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:34:52 pm)</DATETIME>
+<BODY>it's ok to go in ur house together?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:34:57 pm)</DATETIME>
+<BODY>ya its kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:35:04 pm)</DATETIME>
+<BODY>dude i gotta ask a ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:35:11 pm)</DATETIME>
+<BODY>what's dat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:35:11 pm)</DATETIME>
+<BODY>?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:35:27 pm)</DATETIME>
+<BODY>u gotta bring condoms i dont wanna get preggers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:35:53 pm)</DATETIME>
+<BODY>u wanna do it? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:36:01 pm)</DATETIME>
+<BODY>i mean it'll be fun</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:36:10 pm)</DATETIME>
+<BODY>u sure it's ok for u, right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:36:14 pm)</DATETIME>
+<BODY>lol ya im not a baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:36:17 pm)</DATETIME>
+<BODY>i won't get u preggers, don't worry</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:36:26 pm)</DATETIME>
+<BODY>shower together?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:36:35 pm)</DATETIME>
+<BODY>that be fun!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:36:40 pm)</DATETIME>
+<BODY>u have ur own shower room?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:36:54 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:37:05 pm)</DATETIME>
+<BODY>when's the last time u made love with someone? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:37:22 pm)</DATETIME>
+<BODY>when i broke up with my bf right before christmas</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:37:34 pm)</DATETIME>
+<BODY>oh, i c :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:37:36 pm)</DATETIME>
+<BODY>dats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:37:47 pm)</DATETIME>
+<BODY>u have any fantasy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:37:54 pm)</DATETIME>
+<BODY>brb phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:37:58 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:40:12 pm)</DATETIME>
+<BODY>hope everything is ok, lissa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:40:45 pm)</DATETIME>
+<BODY>ya mom on phone just a sec</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:40:54 pm)</DATETIME>
+<BODY>k :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:47:03 pm)</DATETIME>
+<BODY>gah sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:47:18 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:47:20 pm)</DATETIME>
+<BODY>glad u're back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:47:25 pm)</DATETIME>
+<BODY>everything fine?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:47:37 pm)</DATETIME>
+<BODY>ya its kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:47:47 pm)</DATETIME>
+<BODY>she wanted to make sure i didnt hve a headache</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:47:51 pm)</DATETIME>
+<BODY>i told her i did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:48:22 pm)</DATETIME>
+<BODY>what did she say?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:48:34 pm)</DATETIME>
+<BODY>she told me to rest lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:48:44 pm)</DATETIME>
+<BODY>tomorrow too?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:48:48 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:49:03 pm)</DATETIME>
+<BODY>lol ya thats y i told her i did so shell feel sorry for me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:49:16 pm)</DATETIME>
+<BODY>u'll stay home tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:49:22 pm)</DATETIME>
+<BODY>ya lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:49:33 pm)</DATETIME>
+<BODY>so 1:30 should be kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:49:41 pm)</DATETIME>
+<BODY>what's ur fantasy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:49:43 pm)</DATETIME>
+<BODY>any?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:49:46 pm)</DATETIME>
+<BODY>sexual fantasy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:49:57 pm)</DATETIME>
+<BODY>i dunno just a guy who knows what hes doing lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:50:32 pm)</DATETIME>
+<BODY>taking a shower with u sound way kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:50:40 pm)</DATETIME>
+<BODY>we'll definitely do that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:51:07 pm)</DATETIME>
+<BODY>we'll be adventurous</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:51:08 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:51:15 pm)</DATETIME>
+<BODY>we'll make it way fun :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:51:20 pm)</DATETIME>
+<BODY>yay!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:52:15 pm)</DATETIME>
+<BODY>can i call u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:52:19 pm)</DATETIME>
+<BODY>pretend it's wrong number?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:52:29 pm)</DATETIME>
+<BODY>even for a few seconds? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:52:31 pm)</DATETIME>
+<BODY>noooooo ill get busted then i wont be able to see u :((</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:52:32 pm)</DATETIME>
+<BODY>i'd love to hear ur voice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:52:36 pm)</DATETIME>
+<BODY>ohhh, i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:52:44 pm)</DATETIME>
+<BODY>i got my calling card if u want me to call u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:53:13 pm)</DATETIME>
+<BODY>i borrowed cell phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:53:19 pm)</DATETIME>
+<BODY>yay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:53:21 pm)</DATETIME>
+<BODY>promise to call just one time?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:53:27 pm)</DATETIME>
+<BODY>ya i promise!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:53:36 pm)</DATETIME>
+<BODY>less u want me to call when ur driving tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:53:54 pm)</DATETIME>
+<BODY>promise to call me just one time, lissa? :(</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:54:19 pm)</DATETIME>
+<BODY>i said ya!!!! i wont call u unles u say its ok i promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:55:05 pm)</DATETIME>
+<BODY>wanna call now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:55:14 pm)</DATETIME>
+<BODY>ya let me go find my card k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:55:52 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:58:43 pm)</DATETIME>
+<BODY>let me know when u're back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:59:52 pm)</DATETIME>
+<BODY>i got it whats ur digits?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:00:18 pm)</DATETIME>
+<BODY>helllooooooo???</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:00:28 pm)</DATETIME>
+<BODY>what phone company is it? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:00:34 pm)</DATETIME>
+<BODY>huh??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:00:43 pm)</DATETIME>
+<BODY>phone card</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:00:48 pm)</DATETIME>
+<BODY>what company is it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:01:06 pm)</DATETIME>
+<BODY>dude its a walmart card y??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:21 pm)</DATETIME>
+<BODY>dats neat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:23 pm)</DATETIME>
+<BODY>a good card</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:27 pm)</DATETIME>
+<BODY>just curious :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:01:31 pm)</DATETIME>
+<BODY>lol ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:41 pm)</DATETIME>
+<BODY>promise to call just one time, right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:46 pm)</DATETIME>
+<BODY>or u'll get me in trouble</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:01:48 pm)</DATETIME>
+<BODY>i told u i promise!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:58 pm)</DATETIME>
+<BODY>626-315-0740</BODY>
+<COMMENT>(finally. damn.)</COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>(verified by wyldkat - thanks! :))</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:05:07 pm)</DATETIME>
+<BODY>u there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:06:16 pm)</DATETIME>
+<BODY>ya lol i had to go put phone back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:06:22 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:06:26 pm)</DATETIME>
+<BODY>u sound very sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:06:28 pm)</DATETIME>
+<BODY>and sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:06:32 pm)</DATETIME>
+<BODY>so do u!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:07:00 pm)</DATETIME>
+<BODY>u still got ur map thing open??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:07:18 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:07:19 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:07:52 pm)</DATETIME>
+<BODY>u see where baristo is??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:08:02 pm)</DATETIME>
+<BODY>hold</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:08:04 pm)</DATETIME>
+<BODY>i'm looking</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:08:38 pm)</DATETIME>
+<BODY>yes, i see it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:09:07 pm)</DATETIME>
+<BODY>k there a big parking lot off baristo that goes back to the library by the benches thats how u get there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:09:34 pm)</DATETIME>
+<BODY>so the library is on baristo?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:09:54 pm)</DATETIME>
+<BODY>its in the park</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:09:55 pm)</DATETIME>
+<BODY>or the parking entrance is on baristo?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:10:12 pm)</DATETIME>
+<BODY>the way u get into parking lots on baristo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:10:20 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:10:26 pm)</DATETIME>
+<BODY>drive it all the way inside?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:10:26 pm)</DATETIME>
+<BODY>im xcited!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:10:37 pm)</DATETIME>
+<BODY>ya all the way to the library u cant miss it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:10:44 pm)</DATETIME>
+<BODY>then, where will u be?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:10:54 pm)</DATETIME>
+<BODY>theres benches by a big rock ill wait there for u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:02 pm)</DATETIME>
+<BODY>people won't see us?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:06 pm)</DATETIME>
+<BODY>other people, i mean?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:11:19 pm)</DATETIME>
+<BODY>nah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:11:25 pm)</DATETIME>
+<BODY>its kewl or i wouldnt do it lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:38 pm)</DATETIME>
+<BODY>i'm way excited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:11:42 pm)</DATETIME>
+<BODY>me too!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:48 pm)</DATETIME>
+<BODY>do we have to climb up stairs to get to ur place?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:51 pm)</DATETIME>
+<BODY>ur apartment?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:04 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:11 pm)</DATETIME>
+<BODY>people wont' mind?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:17 pm)</DATETIME>
+<BODY>nah no one b home but us</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:27 pm)</DATETIME>
+<BODY>oh, cool :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:32 pm)</DATETIME>
+<BODY>lol its kewl here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:36 pm)</DATETIME>
+<BODY>so we'll ride to ur house together?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:42 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:44 pm)</DATETIME>
+<BODY>or park the car in the library?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:59 pm)</DATETIME>
+<BODY>prolly ride if its raining specially k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:13:10 pm)</DATETIME>
+<BODY>but park in the library and come meet me k??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:13:14 pm)</DATETIME>
+<BODY>im so xcited!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:13:22 pm)</DATETIME>
+<BODY>what kinda car u got so i know its u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:44 pm)</DATETIME>
+<BODY>not sure yet :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:46 pm)</DATETIME>
+<BODY>i'll find u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:54 pm)</DATETIME>
+<BODY>what clothes are u going to wear tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:59 pm)</DATETIME>
+<BODY>so i'll spot u easier</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:14:07 pm)</DATETIME>
+<BODY>something yellow will be cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:14:11 pm)</DATETIME>
+<BODY>lol u dont know what kinda car u got??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:14:21 pm)</DATETIME>
+<BODY>ewwww i dont wear yeloow but i like pink lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:14:26 pm)</DATETIME>
+<BODY>k, pink</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:14:29 pm)</DATETIME>
+<BODY>bright pink?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:14:49 pm)</DATETIME>
+<BODY>anything printed on teh shirt?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:14:59 pm)</DATETIME>
+<BODY>nah not if i wear the one im thinkin of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:15:17 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:15:27 pm)</DATETIME>
+<BODY>silly, i mean when i look for u in the library</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:15:35 pm)</DATETIME>
+<BODY>so i know it's u :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:15:48 pm)</DATETIME>
+<BODY>ill be outside on the benches by the rock not in the library lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:16:02 pm)</DATETIME>
+<BODY>is it ok for me to approach u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:16:03 pm)</DATETIME>
+<BODY>outside the library between the library and the boys n girls club place</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:16:09 pm)</DATETIME>
+<BODY>ya lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:16:15 pm)</DATETIME>
+<BODY>will people think it's weird?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:16:23 pm)</DATETIME>
+<BODY>but its silly u dont know waht kinda car u got so i know its u!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:16:39 pm)</DATETIME>
+<BODY>toyota minivan :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:16:58 pm)</DATETIME>
+<BODY>k lol then i wont be scared lol ill know its u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:17:00 pm)</DATETIME>
+<BODY>will u be online tomorrow morning?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:17:13 pm)</DATETIME>
+<BODY>prolly ya since im not goin to school</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:17:20 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:17:22 pm)</DATETIME>
+<BODY>i wayyy excited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:17:27 pm)</DATETIME>
+<BODY>u have ur own bedroom?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:17:29 pm)</DATETIME>
+<BODY>me too!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:17:31 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:17:59 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:09 pm)</DATETIME>
+<BODY>we'll spend romantic time together tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:18:15 pm)</DATETIME>
+<BODY>ya its gonna be so fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:31 pm)</DATETIME>
+<BODY>i have to leave now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:36 pm)</DATETIME>
+<BODY>will u be on tonight?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:37 pm)</DATETIME>
+<BODY>late?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:41 pm)</DATETIME>
+<BODY>around 10pm or so?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:18:49 pm)</DATETIME>
+<BODY>prolly sicne mom wont be home yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:18:53 pm)</DATETIME>
+<BODY>i see u later k??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:55 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:18:56 pm)</DATETIME>
+<BODY>i love u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:19:04 pm)</DATETIME>
+<BODY>i luv u too!!! bye!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:13 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:15 pm)</DATETIME>
+<BODY>take care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:19 pm)</DATETIME>
+<BODY>wish i can kiss ur lips now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:19:25 pm)</DATETIME>
+<BODY>me too!! but we will tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:31 pm)</DATETIME>
+<BODY>how tall are u, btw? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:19:39 pm)</DATETIME>
+<BODY>4'11</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:45 pm)</DATETIME>
+<BODY>dats awesome :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:19:52 pm)</DATETIME>
+<BODY>we'll have sooo much fun together</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:19:55 pm)</DATETIME>
+<BODY>ya!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:20:01 pm)</DATETIME>
+<BODY>bye for now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:20:22 pm)</DATETIME>
+<BODY>bye</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:20:32 pm)</DATETIME>
+<BODY>i'll catch u tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:20:35 pm)</DATETIME>
+<BODY>take care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:20:49 pm)</DATETIME>
+<BODY>btw, what's ur bra size? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:20:56 pm)</DATETIME>
+<BODY>30b</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:21:01 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:21:03 pm)</DATETIME>
+<BODY>u're sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:21:18 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:21:20 pm)</DATETIME>
+<BODY>bye for now, then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:55:46 pm)</DATETIME>
+<BODY>hi, lissa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:55:52 pm)</DATETIME>
+<BODY>hi!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:56:11 pm)</DATETIME>
+<BODY>how have u been tonight?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:56:16 pm)</DATETIME>
+<BODY>i miss u already</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:56:30 pm)</DATETIME>
+<BODY>i miss u too i cant wait til tomorrow!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:56:53 pm)</DATETIME>
+<BODY>what u up to tonight?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:57:10 pm)</DATETIME>
+<BODY>getting ready for bed what u doing?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:57:26 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:57:29 pm)</DATETIME>
+<BODY>getting ready for bed :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:57:35 pm)</DATETIME>
+<BODY>ru excited bout tomorrow??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:57:37 pm)</DATETIME>
+<BODY>are u going to school tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:57:40 pm)</DATETIME>
+<BODY>i am very</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:57:47 pm)</DATETIME>
+<BODY>lol no i told u i was stayin home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:57:52 pm)</DATETIME>
+<BODY>so u can come at 1:30</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:57:58 pm)</DATETIME>
+<BODY>ur mom will let u stay home? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:58:06 pm)</DATETIME>
+<BODY>ya i told her my head hurts bad lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:59:30 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:59:32 pm)</DATETIME>
+<BODY>will u be online in the morning??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:59:35 pm)</DATETIME>
+<BODY>i'll make it better</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:59:39 pm)</DATETIME>
+<BODY>yeah, i will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:59:40 pm)</DATETIME>
+<BODY>good :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:59:44 pm)</DATETIME>
+<BODY>im so xcited!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>march 29, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:00:37 am)</DATETIME>
+<BODY>what u picture us doing?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:00:39 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:01:28 am)</DATETIME>
+<BODY>lol all the stuff we talked about</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:01:34 am)</DATETIME>
+<BODY>i even cleaned my shower lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:01:42 am)</DATETIME>
+<BODY>really? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:01:43 am)</DATETIME>
+<BODY>how sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:01:55 am)</DATETIME>
+<BODY>u share the same shower with ur mom?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:02:03 am)</DATETIME>
+<BODY>no i got my own</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:10 am)</DATETIME>
+<BODY>really?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:12 am)</DATETIME>
+<BODY>neat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:16 am)</DATETIME>
+<BODY>in ur own room?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:02:17 am)</DATETIME>
+<BODY>lol ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:02:18 am)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:21 am)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:42 am)</DATETIME>
+<BODY>u have more pics? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:02:54 am)</DATETIME>
+<BODY>i do here but not on the compy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:02:55 am)</DATETIME>
+<BODY>i love ur pics</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:03:10 am)</DATETIME>
+<BODY>lol ill show u more when ur here and mebbe u can take one if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:03:58 am)</DATETIME>
+<BODY>u're too sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:04:03 am)</DATETIME>
+<BODY>u like to take it slow?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:04:22 am)</DATETIME>
+<BODY>its up to u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:04:35 am)</DATETIME>
+<BODY>i know ull be nice to me and itll be fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:05:11 am)</DATETIME>
+<BODY>i'll be gentle with u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:05:13 am)</DATETIME>
+<BODY>all over</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:05:32 am)</DATETIME>
+<BODY>lol dont forget the movie 2 k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:05:46 am)</DATETIME>
+<BODY>did u write down what one to get?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:06:01 am)</DATETIME>
+<BODY>u want me to try anything with u??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:06:09 am)</DATETIME>
+<BODY>i'm thinking we may not need the movie :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:06:14 am)</DATETIME>
+<BODY>we'll be busy cuddling</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:06:34 am)</DATETIME>
+<BODY>lol ya but we can cuddle while we watch it lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:06:44 am)</DATETIME>
+<BODY>i wanted mom to buy it for me in the store but she wouldnt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:06:54 am)</DATETIME>
+<BODY>what is it called again? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:06:58 am)</DATETIME>
+<BODY>corpse bride</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:07:15 am)</DATETIME>
+<BODY>and i wont get preggers right??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:07:23 am)</DATETIME>
+<BODY>don't worry</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:07:52 am)</DATETIME>
+<BODY>i will never get u preggy :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:07:57 am)</DATETIME>
+<BODY>u're safe with me</BODY>
+<COMMENT>(your definition of safe needs some work)</COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:08:02 am)</DATETIME>
+<BODY>kk!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:08:05 am)</DATETIME>
+<BODY>i trust u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:08:53 am)</DATETIME>
+<BODY>last time u did it was when again? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:09:01 am)</DATETIME>
+<BODY>before chrismas</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:09:12 am)</DATETIME>
+<BODY>i even got him a present that i never gave him lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:09:17 am)</DATETIME>
+<BODY>he didnt deserve it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:09:19 am)</DATETIME>
+<BODY>what was it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:09:24 am)</DATETIME>
+<BODY>a cd</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:09:29 am)</DATETIME>
+<BODY>sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:10:12 am)</DATETIME>
+<BODY>i can't wait</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:10:17 am)</DATETIME>
+<BODY>me either!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:10:18 am)</DATETIME>
+<BODY>i'll try to get the movie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:10:22 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:10:40 am)</DATETIME>
+<BODY>i think we can just cuddle under the covers together</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:10:48 am)</DATETIME>
+<BODY>that all?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:10:48 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:10:54 am)</DATETIME>
+<BODY>shower</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:11:11 am)</DATETIME>
+<BODY>and we'll take it slow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:11:20 am)</DATETIME>
+<BODY>if we have time, we can watch the movie together :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:11:32 am)</DATETIME>
+<BODY>k but i thought we were gonna do more fun stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:11:59 am)</DATETIME>
+<BODY>yes we will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:03 am)</DATETIME>
+<BODY>what would u like?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:12:12 am)</DATETIME>
+<BODY>lol i liked all of it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:12:24 am)</DATETIME>
+<BODY>im not a baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:36 am)</DATETIME>
+<BODY>no, u're not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:40 am)</DATETIME>
+<BODY>i will think of u as one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:43 am)</DATETIME>
+<BODY>i will never</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:47 am)</DATETIME>
+<BODY>think of u as one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:12:50 am)</DATETIME>
+<BODY>u're very mature</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:13:06 am)</DATETIME>
+<BODY>ya i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:13:11 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:13:54 am)</DATETIME>
+<BODY>ru sleepy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:00 am)</DATETIME>
+<BODY>r u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:03 am)</DATETIME>
+<BODY>i'm getting there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:14:06 am)</DATETIME>
+<BODY>lol me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:14:19 am)</DATETIME>
+<BODY>mebbe we should go to bed so were not tired tomorrow lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:14:30 am)</DATETIME>
+<BODY>i just missed u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:43 am)</DATETIME>
+<BODY>i miss u already</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:49 am)</DATETIME>
+<BODY>wish we can talk on the phone agan</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:50 am)</DATETIME>
+<BODY>again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:14:54 am)</DATETIME>
+<BODY>even for few minutes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:15:16 am)</DATETIME>
+<BODY>i know but i dont got many mins left and i wont be able to talk to dad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:15:39 am)</DATETIME>
+<BODY>i'll get u another one :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:15:47 am)</DATETIME>
+<BODY>brb phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:15:49 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:17:06 am)</DATETIME>
+<BODY>i gotta go that was mom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:17:13 am)</DATETIME>
+<BODY>she said if im sick i gotta go to bed early :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:17:24 am)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:17:25 am)</DATETIME>
+<BODY>i dont wanna get in trubble so ic ant stay home tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:17:37 am)</DATETIME>
+<BODY>ill be on in the morning k??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:17:37 am)</DATETIME>
+<BODY>how 'bout if u don't pick up the phone? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:17:47 am)</DATETIME>
+<BODY>noooooooo itll still show!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:17:50 am)</DATETIME>
+<BODY>i love talking to u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:18:00 am)</DATETIME>
+<BODY>i know i love talking to u to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:18:03 am)</DATETIME>
+<BODY>i mean when ur mom calls again :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:18:03 am)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:18:10 am)</DATETIME>
+<BODY>we can still chat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:18:14 am)</DATETIME>
+<BODY>or tomorrow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:18:19 am)</DATETIME>
+<BODY>tomorrow k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:18:23 am)</DATETIME>
+<BODY>i dont wanna get busted</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:18:34 am)</DATETIME>
+<BODY>i dont' want u to get busted either</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:18:48 am)</DATETIME>
+<BODY>k lol go to bed so ur not tired</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:19:00 am)</DATETIME>
+<BODY>nite!!!!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:19:05 am)</DATETIME>
+<BODY>what if i get there around 1:15pm?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:19:08 am)</DATETIME>
+<BODY>earlier</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:19:20 am)</DATETIME>
+<BODY>im worried u might get here before mom leaves</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:19:29 am)</DATETIME>
+<BODY>what time she usually leaves?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:19:37 am)</DATETIME>
+<BODY>a lil after 1 usually</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:19:50 am)</DATETIME>
+<BODY>ill be able to be at park by 130 though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:02 am)</DATETIME>
+<BODY>so u'll walk there from home?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:07 am)</DATETIME>
+<BODY>u live in a house?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:20:08 am)</DATETIME>
+<BODY>ya its across the street</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:20:12 am)</DATETIME>
+<BODY>apartment i told u silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:18 am)</DATETIME>
+<BODY>oh, dats right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:19 am)</DATETIME>
+<BODY>forgot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:20:38 am)</DATETIME>
+<BODY>nite i talk to u tomorrow!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:42 am)</DATETIME>
+<BODY>i love u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:48 am)</DATETIME>
+<BODY>what's ur last name, by the way?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:20:49 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:20:54 am)</DATETIME>
+<BODY>luv u to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:21:00 am)</DATETIME>
+<BODY>brendan</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(12:21:03 am)</DATETIME>
+<BODY>nite!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(12:21:09 am)</DATETIME>
+<BODY>nite, lissa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(11:21:33 am)</DATETIME>
+<BODY>u can't come today!!!!! i messed up. moms worried bout my headache lol no she traded days with another woman and now shes home today and gonna work tomorrow instead!!! i try to get onlater but im really sorry :( mebbe we can meet tomorrrow instead!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:48:34 am)</DATETIME>
+<BODY>we can try tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(11:48:37 am)</DATETIME>
+<BODY>don't worry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:57:26 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:57:38 pm)</DATETIME>
+<BODY>hi!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:57:50 pm)</DATETIME>
+<BODY>i miss u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:57:51 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:57:58 pm)</DATETIME>
+<BODY>miss u tooooooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:58:07 pm)</DATETIME>
+<BODY>how's ur day today? :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:58:15 pm)</DATETIME>
+<BODY>lol pretty bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:58:35 pm)</DATETIME>
+<BODY>mom made me go to the doc cuz she was worried i had like this virus thing in my brain cuz of my headaches lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:58:48 pm)</DATETIME>
+<BODY>he told her it was prolly just allergies and not worry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(6:59:09 pm)</DATETIME>
+<BODY>i couldnt tell her it didnt really hurt anymore or id have been in big trouble lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:59:25 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:59:43 pm)</DATETIME>
+<BODY>i'm still glad everything went fine :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(6:59:59 pm)</DATETIME>
+<BODY>wish we can meet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:00:51 pm)</DATETIME>
+<BODY>we can tomorrow right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:05 pm)</DATETIME>
+<BODY>what time?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:08 pm)</DATETIME>
+<BODY>u have school?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:01:12 pm)</DATETIME>
+<BODY>bout 130 again?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:01:21 pm)</DATETIME>
+<BODY>ill ditch school at lunch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:01:47 pm)</DATETIME>
+<BODY>will u be online tomorrow morning?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:02:02 pm)</DATETIME>
+<BODY>i gotta go to school</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:02:19 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:02:44 pm)</DATETIME>
+<BODY>so tomorrow?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:02:56 pm)</DATETIME>
+<BODY>ya same place</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:04:26 pm)</DATETIME>
+<BODY>it's ok for u to miss ur afternoon class?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:04:42 pm)</DATETIME>
+<BODY>its just study skills</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:05:19 pm)</DATETIME>
+<BODY>wanna meet earlier? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:05:28 pm)</DATETIME>
+<BODY>i cant mom will be home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:05:41 pm)</DATETIME>
+<BODY>and i cant miss science</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:05:51 pm)</DATETIME>
+<BODY>what time is science?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:06:40 pm)</DATETIME>
+<BODY>til 1245 ill leave after htat one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:06:57 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:07:10 pm)</DATETIME>
+<BODY>we can meet at the library earlier :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:07:28 pm)</DATETIME>
+<BODY>we can talk first, if u'd like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:08:42 pm)</DATETIME>
+<BODY>itll take me a bit to walk to the park i prolly cant be ther til like 115 at earliest</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:08:50 pm)</DATETIME>
+<BODY>k :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:08:54 pm)</DATETIME>
+<BODY>1:15 sounds good</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:09:10 pm)</DATETIME>
+<BODY>so, we're on tomorrow?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:09:18 pm)</DATETIME>
+<BODY>wish we can talk on the phone again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:09:21 pm)</DATETIME>
+<BODY>ya!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:09:24 pm)</DATETIME>
+<BODY>i know but moms home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:10:09 pm)</DATETIME>
+<BODY>she said i could only get on here for a few mins so she prolly be yellin at me soon to get off lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:10:23 pm)</DATETIME>
+<BODY>oh :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:10:31 pm)</DATETIME>
+<BODY>the computer is in ur room?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:11:10 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:11:41 pm)</DATETIME>
+<BODY>u like oral sex? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:11:58 pm)</DATETIME>
+<BODY>i gave it i never got it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:05 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:09 pm)</DATETIME>
+<BODY>u like giving it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:13 pm)</DATETIME>
+<BODY>i can give it to u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:23 pm)</DATETIME>
+<BODY>slowly and gently</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:27 pm)</DATETIME>
+<BODY>ya its pretty kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:45 pm)</DATETIME>
+<BODY>would u like it if i give it to u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:12:57 pm)</DATETIME>
+<BODY>slide my tongue up and down?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:12:57 pm)</DATETIME>
+<BODY>ya i heard its really good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:28 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:13:31 pm)</DATETIME>
+<BODY>we will defnitely do that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>sweet_jason002.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:13:52 pm)</DATETIME>
+<BODY>k i cant wait!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>kawaii_kitten_93</USERNAME>
+<DATETIME>(7:14:36 pm)</DATETIME>
+<BODY>shes yellin i got to go ill try to get on later if not ill see u at 115!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sweet_jason002</USERNAME>
+<DATETIME>(7:14:46 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

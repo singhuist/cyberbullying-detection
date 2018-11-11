@@ -1,0 +1,7243 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Lowell Daniel</FIRSTNAME>
+<LASTNAME>Keller</LASTNAME>
+<STATEDNAME>Dan</STATEDNAME>
+<STATEDAGE>51</STATEDAGE>
+<AGE>51</AGE>
+<GENDER>Male</GENDER>
+<RACE>White</RACE>
+<CITY>Fayetteville</CITY>
+<STATE>AR</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>arthinice</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Del</FIRSTNAME>
+<LASTNAME>Harvey</LASTNAME>
+<STATEDNAME>Kristen</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY>Chicago</CITY>
+<STATE>IL</STATE>
+<PREVIOUSVICTIMIZATION>true</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>true</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>sadlilgrrl</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>arthinice.elkilmer.coded.txt</NAME>
+<CODER>elkilmer</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>sunday:</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>first line was "hi, 51/guy/fayetteville, wanna talk?" (an older gentleman.)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:41:20 pm)</DATETIME>
+<BODY>sure--r u okay with me bein almost 14?</BODY>
+<COMMENT>( blam. there's the age, right there. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:41:36 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT>( not even a pause. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:41:39 pm)</DATETIME>
+<BODY>how are you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:41:55 pm)</DATETIME>
+<BODY>im pretty good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:42:07 pm)</DATETIME>
+<BODY>pretty good too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:42:11 pm)</DATETIME>
+<BODY>what are you up to today?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:42:25 pm)</DATETIME>
+<BODY>bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:42:38 pm)</DATETIME>
+<BODY>was your spring break this past week?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:42:53 pm)</DATETIME>
+<BODY>i dunno. im homeschooled til august</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:43:04 pm)</DATETIME>
+<BODY>what happens in august?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:43:11 pm)</DATETIME>
+<BODY>i can start the new year</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:43:35 pm)</DATETIME>
+<BODY>homeschooling? or public school?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:43:41 pm)</DATETIME>
+<BODY>public</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:43:51 pm)</DATETIME>
+<BODY>i moved in february</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:43:53 pm)</DATETIME>
+<BODY>n it was too late</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:43:59 pm)</DATETIME>
+<BODY>where did you move from?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:44:19 pm)</DATETIME>
+<BODY>nc</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:44:29 pm)</DATETIME>
+<BODY>where did you move to?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:44:33 pm)</DATETIME>
+<BODY>chicago</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:44:43 pm)</DATETIME>
+<BODY>is that where you are now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:44:50 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:44:58 pm)</DATETIME>
+<BODY>during the summer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:45:02 pm)</DATETIME>
+<BODY>but 4 now im in lr</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:45:08 pm)</DATETIME>
+<BODY>stayin with my gramma</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:45:11 pm)</DATETIME>
+<BODY>i see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:45:19 pm)</DATETIME>
+<BODY>i bet you are a pretty girl</BODY>
+<COMMENT>(dan here is a groomer. you'll note this.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:45:25 pm)</DATETIME>
+<BODY>do you have a pic?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:45:41 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:45:45 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:45:51 pm)</DATETIME>
+<BODY>i'd love to see - if you don't mind</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:46:13 pm)</DATETIME>
+<BODY>mine is on my profile if you wanna see it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:46:18 pm)</DATETIME>
+<BODY>ok ill look</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:46:43 pm)</DATETIME>
+<BODY>i see 2 very pretty girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:46:45 pm)</DATETIME>
+<BODY>you look really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:46:47 pm)</DATETIME>
+<BODY>im onthe right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:46:57 pm)</DATETIME>
+<BODY>who is the other girl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:47:10 pm)</DATETIME>
+<BODY>my friend from nc</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:47:28 pm)</DATETIME>
+<BODY>is she 14 too?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:47:33 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:47:43 pm)</DATETIME>
+<BODY>wow - both of you are really pretty!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:47:52 pm)</DATETIME>
+<BODY>tyvm!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:47:54 pm)</DATETIME>
+<BODY>you seem to be a very sweet girl</BODY>
+<COMMENT>( no idea how he knows that. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:47:59 pm)</DATETIME>
+<BODY>i like to think i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:48:00 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:48:09 pm)</DATETIME>
+<BODY>do you have a bf?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:48:46 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:48:56 pm)</DATETIME>
+<BODY>i havent been in lr too long</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:49:15 pm)</DATETIME>
+<BODY>you are too pretty for that to last too long</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:49:39 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:49:45 pm)</DATETIME>
+<BODY>the guys i know are pretty dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:50:14 pm)</DATETIME>
+<BODY>yeah - guys your age are kinda dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:50:18 pm)</DATETIME>
+<BODY>have you ever had a bf?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:50:22 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:50:25 pm)</DATETIME>
+<BODY>back in nc</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:50:30 pm)</DATETIME>
+<BODY>how old was he?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:50:35 pm)</DATETIME>
+<BODY>19</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:50:41 pm)</DATETIME>
+<BODY>wow - older guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:50:55 pm)</DATETIME>
+<BODY>do you like older guys?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:50:58 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:51:04 pm)</DATETIME>
+<BODY>they arent obsessed w/video games</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:51:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:51:09 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:51:19 pm)</DATETIME>
+<BODY>no - they are obsessed with pretty girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:51:24 pm)</DATETIME>
+<BODY>which is better</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:51:35 pm)</DATETIME>
+<BODY>pretty girls - of course!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:51:57 pm)</DATETIME>
+<BODY>how long were you together?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:52:07 pm)</DATETIME>
+<BODY>4 months</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:52:13 pm)</DATETIME>
+<BODY>then you had to move</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:52:14 pm)</DATETIME>
+<BODY>?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:52:18 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:52:26 pm)</DATETIME>
+<BODY>do you still keep in touch with him?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:52:35 pm)</DATETIME>
+<BODY>no, not really.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:52:45 pm)</DATETIME>
+<BODY>you look sooo sweet</BODY>
+<COMMENT>( steady stream of compliments. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:52:50 pm)</DATETIME>
+<BODY>i am.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:52:51 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:52:52 pm)</DATETIME>
+<BODY>i love your smile</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:53:09 pm)</DATETIME>
+<BODY>the one in the pic is prettier than the smiley on here!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:53:36 pm)</DATETIME>
+<BODY>do you have any more pix?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:53:39 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:53:40 pm)</DATETIME>
+<BODY>a couple</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:53:55 pm)</DATETIME>
+<BODY>the only one i have is on my profile</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:54:04 pm)</DATETIME>
+<BODY>but i'd love to see yours - if you don't mine</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:54:55 pm)</DATETIME>
+<BODY>is your name kristen?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:54:58 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:55:42 pm)</DATETIME>
+<BODY>very pretty name</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:55:49 pm)</DATETIME>
+<BODY>can you hold for a min - brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:55:52 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:56:54 pm)</DATETIME>
+<BODY>sorry about that - potty break</BODY>
+<COMMENT>( he delibrately uses language that a young kid would here. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:56:59 pm)</DATETIME>
+<BODY>that's ok.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:57:01 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:57:31 pm)</DATETIME>
+<BODY>wow - you look sooo pretty in this pic!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:57:38 pm)</DATETIME>
+<BODY>tyvm!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:58:02 pm)</DATETIME>
+<BODY>who is the guy that looks like he is being tortured??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:58:31 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:58:35 pm)</DATETIME>
+<BODY>hes hillarys lil bro</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:58:48 pm)</DATETIME>
+<BODY>he looks like he is in pain - poor guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:12 pm)</DATETIME>
+<BODY>lol like i said guys my age are dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:59:23 pm)</DATETIME>
+<BODY>little does he know how much pleasure he could get from a pretty girl sitting on his lap</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(4:59:46 pm)</DATETIME>
+<BODY>you didn't kiss him - did you?</BODY>
+<COMMENT>( what a sleazy little question. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:53 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:54 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:57 pm)</DATETIME>
+<BODY>just my ex br</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(4:59:59 pm)</DATETIME>
+<BODY>bf*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:00:05 pm)</DATETIME>
+<BODY>he would have died!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:11 pm)</DATETIME>
+<BODY>probably.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:13 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:00:21 pm)</DATETIME>
+<BODY>you kissed your ex bf?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:26 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:29 pm)</DATETIME>
+<BODY>when he was my bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:00:37 pm)</DATETIME>
+<BODY>i bet you have really sweet kisses</BODY>
+<COMMENT>( *mutters* )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:51 pm)</DATETIME>
+<BODY>he didnt complain</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:00:53 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:01:27 pm)</DATETIME>
+<BODY>i'm sure i wouldn't either</BODY>
+<COMMENT>( i'm sure you wouldn't. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:01:35 pm)</DATETIME>
+<BODY>as is good and proper!</BODY>
+<COMMENT>( aigap indeed. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:01:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:02:00 pm)</DATETIME>
+<BODY>do you have another pic?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:02:06 pm)</DATETIME>
+<BODY>two</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:02:10 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:02:19 pm)</DATETIME>
+<BODY>i hope you don't mind me seeing them</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:02:25 pm)</DATETIME>
+<BODY>no your really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:02:28 pm)</DATETIME>
+<BODY>n your kinda cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:02:29 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:02:40 pm)</DATETIME>
+<BODY>you are pumping my ego now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:02:46 pm)</DATETIME>
+<BODY>no way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:02:52 pm)</DATETIME>
+<BODY>but don't stop!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:03:04 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:03:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:03:05 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:03:27 pm)</DATETIME>
+<BODY>its not often a pretty young girl pumps my ego - it feels pretty good</BODY>
+<COMMENT>( and as you'll see, that's not all he wants pumped. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:03:37 pm)</DATETIME>
+<BODY>lol well ill be happy to.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:03:51 pm)</DATETIME>
+<BODY>did u get it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:03:54 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:03:59 pm)</DATETIME>
+<BODY>you really do look tired</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:02 pm)</DATETIME>
+<BODY>lol i was!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:04:06 pm)</DATETIME>
+<BODY>looks like you stayed up all night</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:11 pm)</DATETIME>
+<BODY>wed been up all night at the sleepover</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:11 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:12 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:04:20 pm)</DATETIME>
+<BODY>buncha girls there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:28 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:31 pm)</DATETIME>
+<BODY>it was at hillarys house</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:35 pm)</DATETIME>
+<BODY>n then we went to the countryclub</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:04:41 pm)</DATETIME>
+<BODY>n jennys my other best friend</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:04:49 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:05:22 pm)</DATETIME>
+<BODY>i hope you are not bored now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:05:29 pm)</DATETIME>
+<BODY>not at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:05:32 pm)</DATETIME>
+<BODY>wow - 3 very very pretty girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:05:35 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:06:10 pm)</DATETIME>
+<BODY>so - what else are you gonna say to pump my ego?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:06:30 pm)</DATETIME>
+<BODY>lol well your funny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:06:31 pm)</DATETIME>
+<BODY>and nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:06:32 pm)</DATETIME>
+<BODY>and cute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:06:35 pm)</DATETIME>
+<BODY>your a winner!</BODY>
+<COMMENT>( you've won a chat with a pj contributor! )</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:06:42 pm)</DATETIME>
+<BODY>wow - a winner?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:06:54 pm)</DATETIME>
+<BODY>yeah!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:06:57 pm)</DATETIME>
+<BODY>i've not been called a winner in a very very long time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:06:59 pm)</DATETIME>
+<BODY>thank you!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:07:18 pm)</DATETIME>
+<BODY>you are sooo sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:07:23 pm)</DATETIME>
+<BODY>i bet your bf misses you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:07:27 pm)</DATETIME>
+<BODY>eh.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:07:32 pm)</DATETIME>
+<BODY>hell find someone else</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:07:44 pm)</DATETIME>
+<BODY>but she won't be quite the same</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:07:50 pm)</DATETIME>
+<BODY>he didnt seem to mind too much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:08:10 pm)</DATETIME>
+<BODY>is he the only guy you've kissed so far?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:15 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:08:46 pm)</DATETIME>
+<BODY>i'm probably out of line to say so - but i sure wish i could taste some of your sweet kisses too</BODY>
+<COMMENT>( yes. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:53 pm)</DATETIME>
+<BODY>y would you be out of line?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:57 pm)</DATETIME>
+<BODY>hold on brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:09:10 pm)</DATETIME>
+<BODY>potty break?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:03 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:10:10 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:10:48 pm)</DATETIME>
+<BODY>do you think you'd like for a guy my age to taste some of your kisses sometime?</BODY>
+<COMMENT>( and here it begins. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:56 pm)</DATETIME>
+<BODY>i bet your a good kiser</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:57 pm)</DATETIME>
+<BODY>kisser</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:11:04 pm)</DATETIME>
+<BODY>i like to kiss</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:11:13 pm)</DATETIME>
+<BODY>and i like cuddles and hugs too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:11:20 pm)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:11:41 pm)</DATETIME>
+<BODY>i bet you would be fun to cuddle with and hug</BODY>
+<COMMENT>( indeed. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:11:47 pm)</DATETIME>
+<BODY>i like to think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:12:05 pm)</DATETIME>
+<BODY>can i ask a really personal question?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:12:17 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:12:27 pm)</DATETIME>
+<BODY>are you a virgin?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:12:33 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT>( this is not a sexually aware child at all. he's going to work on that. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:12:42 pm)</DATETIME>
+<BODY>i was ready but then i had to move</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:13:06 pm)</DATETIME>
+<BODY>how far did you get to go with your bf?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:13:10 pm)</DATETIME>
+<BODY>any touching?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:13:34 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:13:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:13:37 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:13:42 pm)</DATETIME>
+<BODY>did you like it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:13:56 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:14:01 pm)</DATETIME>
+<BODY>he wasnt very gentle all the time tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:14:09 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:14:15 pm)</DATETIME>
+<BODY>i like to be very gentle</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:14:22 pm)</DATETIME>
+<BODY>girls are too fragile</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:14:26 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:14:29 pm)</DATETIME>
+<BODY>soft and tender</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:14:43 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:15:02 pm)</DATETIME>
+<BODY>you look sooo soft and tender</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:15:10 pm)</DATETIME>
+<BODY>i use lotion everyday!</BODY>
+<COMMENT>( hahaha. i made myself laugh here. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:15:13 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:15:26 pm)</DATETIME>
+<BODY>did he touch your nipples?</BODY>
+<COMMENT>( because asking that's appropriate. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:15:35 pm)</DATETIME>
+<BODY>yeah once</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:15:43 pm)</DATETIME>
+<BODY>did he kiss them?</BODY>
+<COMMENT>( see above comment. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:15:57 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:16:05 pm)</DATETIME>
+<BODY>i love to kiss nipples</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:16:12 pm)</DATETIME>
+<BODY>does it feel good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:16:12 pm)</DATETIME>
+<BODY>i bet yours are wonderful to kiss</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:16:29 pm)</DATETIME>
+<BODY>it feels good to me - i'd hope it would feel too to you too</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:16:39 pm)</DATETIME>
+<BODY>probably</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:16:52 pm)</DATETIME>
+<BODY>of course the feeling i get will be different from the feeling you get</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:17:04 pm)</DATETIME>
+<BODY>why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:17:32 pm)</DATETIME>
+<BODY>if the guys does it right - you should get at tiingly feeling "down there"</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:17:51 pm)</DATETIME>
+<BODY>i got that when he touched me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:17:57 pm)</DATETIME>
+<BODY>for me - it just tastes good and feels good in my mouth</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:17:58 pm)</DATETIME>
+<BODY>on my breasts</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:18:17 pm)</DATETIME>
+<BODY>it was a good tingly feeling - right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:18:30 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:18:47 pm)</DATETIME>
+<BODY>did he touch you "down there" too?</BODY>
+<COMMENT>( don't worry, i get vocab lessons later.)</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:18:55 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:18:59 pm)</DATETIME>
+<BODY>just that 1 time tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:19:08 pm)</DATETIME>
+<BODY>did you like how that felt?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:19:24 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:19:26 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:19:28 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:19:41 pm)</DATETIME>
+<BODY>that's where a guy really has to be soft and gentle</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:19:49 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:19:54 pm)</DATETIME>
+<BODY>he wasnt too terribly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:20:10 pm)</DATETIME>
+<BODY>i bet he didn't touch it for very long either - right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:20:16 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:20:35 pm)</DATETIME>
+<BODY>did he insert his finger into you?</BODY>
+<COMMENT>( well, from here on out, it gets graphic. just read it. if i bolded everything, it'd look a mess. i'll bold highlights, so to speak. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:20:44 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:21:03 pm)</DATETIME>
+<BODY>did you get to touch him too?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:05 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:08 pm)</DATETIME>
+<BODY>it was pretty cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:21:24 pm)</DATETIME>
+<BODY>did you just touch it? or did you do anything else?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:29 pm)</DATETIME>
+<BODY>i rubbed it upa nd down</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:21:34 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:21:41 pm)</DATETIME>
+<BODY>did you make it really hard?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:44 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:21:48 pm)</DATETIME>
+<BODY>that wa s the fun part</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:22:17 pm)</DATETIME>
+<BODY>did you kiss it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:22:20 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:22:47 pm)</DATETIME>
+<BODY>did you want to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:22:54 pm)</DATETIME>
+<BODY>sort of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:02 pm)</DATETIME>
+<BODY>hillary told me guys like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:23:20 pm)</DATETIME>
+<BODY>has she kissed some?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:27 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:30 pm)</DATETIME>
+<BODY>i think 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:23:42 pm)</DATETIME>
+<BODY>is this making you uncomfortable?</BODY>
+<COMMENT>( he knows this is wrong.)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:47 pm)</DATETIME>
+<BODY>nah its ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:49 pm)</DATETIME>
+<BODY>your really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:23:56 pm)</DATETIME>
+<BODY>am i still a winner??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:23:59 pm)</DATETIME>
+<BODY>you are!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:24:02 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:24:06 pm)</DATETIME>
+<BODY>you are just too sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:24:15 pm)</DATETIME>
+<BODY>so - you rubbed it up and down</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:24:25 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:24:28 pm)</DATETIME>
+<BODY>did anything happen?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:24:35 pm)</DATETIME>
+<BODY>it got hard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:24:43 pm)</DATETIME>
+<BODY>anything else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:24:50 pm)</DATETIME>
+<BODY>it got wet kind of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:25:05 pm)</DATETIME>
+<BODY>a little bit of clear stuff came out?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:25:08 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:25:39 pm)</DATETIME>
+<BODY>anything else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:25:57 pm)</DATETIME>
+<BODY>not until it kind of shook n stuff came otu</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:25:58 pm)</DATETIME>
+<BODY>out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:26:10 pm)</DATETIME>
+<BODY>it kind of shook?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:26:15 pm)</DATETIME>
+<BODY>well he did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:26:34 pm)</DATETIME>
+<BODY>do you think he liked it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:26:45 pm)</DATETIME>
+<BODY>i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:26:46 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:26:49 pm)</DATETIME>
+<BODY>he said it was good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:26:51 pm)</DATETIME>
+<BODY>i think he did too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:26:55 pm)</DATETIME>
+<BODY>n i coul practice on him more</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:27:09 pm)</DATETIME>
+<BODY>did you get to practice on him more?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:12 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:14 pm)</DATETIME>
+<BODY>i had to move</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:15 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:27:43 pm)</DATETIME>
+<BODY>when he shook - what happened?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:49 pm)</DATETIME>
+<BODY>he kind of fell onto the sofa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:52 pm)</DATETIME>
+<BODY>n said i did a good job</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:27:55 pm)</DATETIME>
+<BODY>n stuff came out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:28:03 pm)</DATETIME>
+<BODY>white stuff?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:06 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:12 pm)</DATETIME>
+<BODY>come</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:19 pm)</DATETIME>
+<BODY>he said</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:28:30 pm)</DATETIME>
+<BODY>yes - some spell it cum</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:39 pm)</DATETIME>
+<BODY>yeah ive seen it spelled that way too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:46 pm)</DATETIME>
+<BODY>i hafta go pick up my room n start dinner</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:28:49 pm)</DATETIME>
+<BODY>will u be here in a bit?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:28:56 pm)</DATETIME>
+<BODY>yes - how long will you be gone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:29:05 pm)</DATETIME>
+<BODY>probably like 30 minutes or so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:29:09 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:29:14 pm)</DATETIME>
+<BODY>i sure like talking with you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:29:16 pm)</DATETIME>
+<BODY>ok ill talk to you then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:29:18 pm)</DATETIME>
+<BODY>i like talkin to you too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:29:20 pm)</DATETIME>
+<BODY>ur nice to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:29:24 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:29:28 pm)</DATETIME>
+<BODY>please hurry - ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:29:31 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>i wandered off. cleaned the house. came back.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:10:03 pm)</DATETIME>
+<BODY>back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:10:10 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:10:13 pm)</DATETIME>
+<BODY>i missed you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:10:15 pm)</DATETIME>
+<BODY>you're still here!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:10:16 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:10:27 pm)</DATETIME>
+<BODY>am i still a winner??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:10:31 pm)</DATETIME>
+<BODY>you are!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:10:48 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:10:56 pm)</DATETIME>
+<BODY>how much longer can you chat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:01 pm)</DATETIME>
+<BODY>a while</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:04 pm)</DATETIME>
+<BODY>mom's at work</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:14 pm)</DATETIME>
+<BODY>she called n said she wouldnt be home for a while still</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:19 pm)</DATETIME>
+<BODY>after i started dinner</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:11:19 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:20 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:11:33 pm)</DATETIME>
+<BODY>what were we talking about?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:48 pm)</DATETIME>
+<BODY>you said you liked takling t me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:11:52 pm)</DATETIME>
+<BODY>and i like dtalking to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:11:58 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:12:11 pm)</DATETIME>
+<BODY>i keep looking at your pix</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:12:20 pm)</DATETIME>
+<BODY>golly - you are soooo pretty!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:12:40 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:12:43 pm)</DATETIME>
+<BODY>your making me blush</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:12:50 pm)</DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:13:00 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:13:18 pm)</DATETIME>
+<BODY>i think we were talking about you rubbing your bf's cock - right?</BODY>
+<COMMENT>( that's what he wants to talk about. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:13:26 pm)</DATETIME>
+<BODY>oh yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:13:50 pm)</DATETIME>
+<BODY>and all that white stuff coming out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:13:52 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:13:58 pm)</DATETIME>
+<BODY>there was kind of a lot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:14:09 pm)</DATETIME>
+<BODY>did it just shoot in the air?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:14:26 pm)</DATETIME>
+<BODY>yeah n on my han</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:14:28 pm)</DATETIME>
+<BODY>hand</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:14:45 pm)</DATETIME>
+<BODY>was it sticky?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:14:49 pm)</DATETIME>
+<BODY>yeah it was</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:15:02 pm)</DATETIME>
+<BODY>did you like seeing it come out?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:15:04 pm)</DATETIME>
+<BODY>it tasted kind of salty too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:15:06 pm)</DATETIME>
+<BODY>yah it was cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:15:23 pm)</DATETIME>
+<BODY>you tasted it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:15:31 pm)</DATETIME>
+<BODY>yeah he said hed tasted it and it tasted good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:15:47 pm)</DATETIME>
+<BODY>can i tell you what some girls like to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:15:50 pm)</DATETIME>
+<BODY>what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:15:59 pm)</DATETIME>
+<BODY>sure you want me to tell you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:16:02 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:16:12 pm)</DATETIME>
+<BODY>its not gross - at least i don't think it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:16:15 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:16:25 pm)</DATETIME>
+<BODY>some girls like to "kiss" it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:16:34 pm)</DATETIME>
+<BODY>yeah it seems like thatd be kind of fu</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:16:35 pm)</DATETIME>
+<BODY>fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:16:45 pm)</DATETIME>
+<BODY>have you seen it - or heard about it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:17:20 pm)</DATETIME>
+<BODY>yeah hillary told me about it a little bit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:17:44 pm)</DATETIME>
+<BODY>you know that purple part at the tip of the cock?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:17:48 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:17:59 pm)</DATETIME>
+<BODY>girls will put that part in their mouth</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:18:08 pm)</DATETIME>
+<BODY>do the guys like it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:18:12 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:18:24 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:18:29 pm)</DATETIME>
+<BODY>it feels really good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:18:30 pm)</DATETIME>
+<BODY>do you like it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:18:38 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:18:41 pm)</DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:18:59 pm)</DATETIME>
+<BODY>some girls can get the whole shaft in their mouth</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:19:07 pm)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:19:09 pm)</DATETIME>
+<BODY>not just the purple tip</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:19:11 pm)</DATETIME>
+<BODY>that must tkae practice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:19:16 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:19:22 pm)</DATETIME>
+<BODY>wanna practice??</BODY>
+<COMMENT>( just, eww. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:19:31 pm)</DATETIME>
+<BODY>i wanna be good at it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:19:42 pm)</DATETIME>
+<BODY>i bet you will be very good at it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:19:58 pm)</DATETIME>
+<BODY>when you are good at it...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:20:13 pm)</DATETIME>
+<BODY>you will know how to make it go in and out of your mouth</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:20:27 pm)</DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:20:29 pm)</DATETIME>
+<BODY>kinda like your hand rubbing it up and down</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:20:34 pm)</DATETIME>
+<BODY>know what i mean?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:20:46 pm)</DATETIME>
+<BODY>i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:21:14 pm)</DATETIME>
+<BODY>and then - what do you think you should do when it shakes and all the cum comes out?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:21:20 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:21:58 pm)</DATETIME>
+<BODY>what am i supposed to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:22:02 pm)</DATETIME>
+<BODY>well - some girls take the cock out of their mouth and let it squirt on their face</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:22:19 pm)</DATETIME>
+<BODY>or just in the air</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:22:27 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:22:33 pm)</DATETIME>
+<BODY>how does that sound?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:22:37 pm)</DATETIME>
+<BODY>messy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:22:38 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:22:41 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:22:51 pm)</DATETIME>
+<BODY>some other girls do something different</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:22:55 pm)</DATETIME>
+<BODY>what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:23:00 pm)</DATETIME>
+<BODY>can you guess?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:23:14 pm)</DATETIME>
+<BODY>eat it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:23:34 pm)</DATETIME>
+<BODY>well - kinda - swallow it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:23:42 pm)</DATETIME>
+<BODY>thats probably less messy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:23:51 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:23:55 pm)</DATETIME>
+<BODY>what do you think about that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:24:05 pm)</DATETIME>
+<BODY>its smarter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:24:07 pm)</DATETIME>
+<BODY>you've tasted it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:24:13 pm)</DATETIME>
+<BODY>think you could swallow it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:24:21 pm)</DATETIME>
+<BODY>probably</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:24:36 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:24:48 pm)</DATETIME>
+<BODY>can i tell you about something else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:24:52 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:25:13 pm)</DATETIME>
+<BODY>you said younger guys are dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:25:30 pm)</DATETIME>
+<BODY>and when it comes to sex - they are really dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:25:57 pm)</DATETIME>
+<BODY>most young guys only want to be satisfied</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:26:01 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:26:09 pm)</DATETIME>
+<BODY>they have no clue how to satisfy a girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:26:41 pm)</DATETIME>
+<BODY>they think that if they just touch a girl a little that somehow she is satisfied</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:26:47 pm)</DATETIME>
+<BODY>but that is not true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:26:51 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:26:58 pm)</DATETIME>
+<BODY>can i tell you more?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:27:07 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:27:17 pm)</DATETIME>
+<BODY>sure you wanna hear this stuff??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:27:20 pm)</DATETIME>
+<BODY>yeah!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:27:23 pm)</DATETIME>
+<BODY>im not a little kid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:27:27 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:27:45 pm)</DATETIME>
+<BODY>your bf is a classic example of what i'm talking about</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:27:58 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:27:59 pm)</DATETIME>
+<BODY>it kinda felt good for him to touch you but...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:28:17 pm)</DATETIME>
+<BODY>you didn't "shake" like he did - right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:28:46 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:28:50 pm)</DATETIME>
+<BODY>did you know that you can "shake" too?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:29:19 pm)</DATETIME>
+<BODY>not really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:29:27 pm)</DATETIME>
+<BODY>do you know what it is called?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:29:34 pm)</DATETIME>
+<BODY>coming?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:29:50 pm)</DATETIME>
+<BODY>yes - but there is another name for it too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:30:26 pm)</DATETIME>
+<BODY>it is usually talked about happening to girls - but the same name applies to guys too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:30:32 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:30:33 pm)</DATETIME>
+<BODY>what is it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:30:35 pm)</DATETIME>
+<BODY>it is called orgasm</BODY>
+<COMMENT>( see? vocab lessons. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:30:40 pm)</DATETIME>
+<BODY>oh okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:30:44 pm)</DATETIME>
+<BODY>have you heard of that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:31:33 pm)</DATETIME>
+<BODY>i think so.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:31:42 pm)</DATETIME>
+<BODY>do you remember how he shook?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:31:55 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:31:57 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:32:11 pm)</DATETIME>
+<BODY>and remember how you felt tingly when he touched your nipples</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:32:13 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:32:14 pm)</DATETIME>
+<BODY>and your pussy?</BODY>
+<COMMENT>( he introduces that word. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:32:19 pm)</DATETIME>
+<BODY>uhhuh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:32:26 pm)</DATETIME>
+<BODY>felt good - huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:32:38 pm)</DATETIME>
+<BODY>well - if he knew what he was doing...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:32:42 pm)</DATETIME>
+<BODY>yeah kind of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:33:01 pm)</DATETIME>
+<BODY>and he did it long enough - that tingly feeling would turn into a "shake"</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:33:06 pm)</DATETIME>
+<BODY>or orgasm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:33:20 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:33:29 pm)</DATETIME>
+<BODY>can i make you promise me something?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:34:03 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:34:36 pm)</DATETIME>
+<BODY>are you there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:34:43 pm)</DATETIME>
+<BODY>yeah i said okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:34:51 pm)</DATETIME>
+<BODY>next time you are with a guy...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:35:09 pm)</DATETIME>
+<BODY>and he wants you to make him cum...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:35:21 pm)</DATETIME>
+<BODY>you tell him you will be glad to make him cum...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:35:33 pm)</DATETIME>
+<BODY>if he will make you cum first</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:35:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:35:36 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:35:37 pm)</DATETIME>
+<BODY>ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:35:51 pm)</DATETIME>
+<BODY>i bet your good about that, huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:35:54 pm)</DATETIME>
+<BODY>do you know why i want you to promise that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:36:13 pm)</DATETIME>
+<BODY>cuz it will feel good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:36:24 pm)</DATETIME>
+<BODY>yes - for sure - but there is something else too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:36:32 pm)</DATETIME>
+<BODY>remember - guys are dumb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:36:47 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:36:57 pm)</DATETIME>
+<BODY>if you don't say that to a guy - he will never satisfy you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:37:09 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:37:10 pm)</DATETIME>
+<BODY>he will only be interested in being satisfied</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:37:15 pm)</DATETIME>
+<BODY>understand?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:37:18 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:37:30 pm)</DATETIME>
+<BODY>now - please understand...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:37:40 pm)</DATETIME>
+<BODY>i'm talking about most guys - not all guys</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:37:54 pm)</DATETIME>
+<BODY>if you are very very lucky...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:38:17 pm)</DATETIME>
+<BODY>you will find a guy that is more concerned with your satisfaction than his</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:38:31 pm)</DATETIME>
+<BODY>but don't hold your breath</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:38:34 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:38:35 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:38:45 pm)</DATETIME>
+<BODY>does all that make sense?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:38:56 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:39:10 pm)</DATETIME>
+<BODY>now - let me ask another question...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:39:24 pm)</DATETIME>
+<BODY>are you being selfish to ask him to satisfy you first?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:39:30 pm)</DATETIME>
+<BODY>not if i do it back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:39:35 pm)</DATETIME>
+<BODY>right!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:39:39 pm)</DATETIME>
+<BODY>good girl!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:39:54 pm)</DATETIME>
+<BODY>but what if you satisfy him first? what will happen then?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:40:06 pm)</DATETIME>
+<BODY>he wont do anything to me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:40:12 pm)</DATETIME>
+<BODY>you are not only sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:40:14 pm)</DATETIME>
+<BODY>and pretty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:40:17 pm)</DATETIME>
+<BODY>and sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:40:25 pm)</DATETIME>
+<BODY>you are one very smart girl too!!!</BODY>
+<COMMENT>( groomer. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:40:34 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:40:38 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:40:49 pm)</DATETIME>
+<BODY>now - can i tell you the best senario?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:40:53 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:41:19 pm)</DATETIME>
+<BODY>what would it be like if both of you satisfied each other at the same time?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:41:44 pm)</DATETIME>
+<BODY>i dunno if i could think very well</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:41:51 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:42:09 pm)</DATETIME>
+<BODY>there are different ways to do it - but that is the best way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:42:19 pm)</DATETIME>
+<BODY>both kissing each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:42:27 pm)</DATETIME>
+<BODY>touching each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:42:37 pm)</DATETIME>
+<BODY>feeling each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:42:46 pm)</DATETIME>
+<BODY>god - i'm making myself horny!!!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:12 pm)</DATETIME>
+<BODY>like wanting it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:43:16 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:21 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:23 pm)</DATETIME>
+<BODY>me to kidna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:31 pm)</DATETIME>
+<BODY>kinda</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:43:37 pm)</DATETIME>
+<BODY>remember how his cock got hard?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:43 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:43:47 pm)</DATETIME>
+<BODY>mine is too</BODY>
+<COMMENT>( good to know. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:43:57 pm)</DATETIME>
+<BODY>thats awesome!!!1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:44:11 pm)</DATETIME>
+<BODY>do you ever get a little wet "down there"?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:44:22 pm)</DATETIME>
+<BODY>a little bit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:44:46 pm)</DATETIME>
+<BODY>i bet if we were together - kissing and cuddling and touching and feeling...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:44:56 pm)</DATETIME>
+<BODY>i bet it would be more than a little bit</BODY>
+<COMMENT>( not that he wants to do that. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:45:00 pm)</DATETIME>
+<BODY>probably</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:45:06 pm)</DATETIME>
+<BODY>you sound like your really good and nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:45:23 pm)</DATETIME>
+<BODY>can i tell you something i like to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:45:32 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:45:41 pm)</DATETIME>
+<BODY>your legs look sooo sexy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:46:02 pm)</DATETIME>
+<BODY>i like to kiss the soft inner part of sexy legs - the part just above your knees</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:46:12 pm)</DATETIME>
+<BODY>know where i'm talking about?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:46:32 pm)</DATETIME>
+<BODY>the thigh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:46:35 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:46:41 pm)</DATETIME>
+<BODY>do you have shorts on?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:47:03 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:47:14 pm)</DATETIME>
+<BODY>mesh onse</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:47:16 pm)</DATETIME>
+<BODY>ones</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:47:30 pm)</DATETIME>
+<BODY>if you take your finger and gently run it up your thigh from your knee up...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:47:44 pm)</DATETIME>
+<BODY>you will feel a little bit of how it would feel to be kissed there</BODY>
+<COMMENT>( he's educational! )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:47:53 pm)</DATETIME>
+<BODY>it tickles kind of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:47:58 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:48:00 pm)</DATETIME>
+<BODY>do you like it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:48:13 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:48:16 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:48:33 pm)</DATETIME>
+<BODY>and then i like to kiss all the way to the top of the thigh</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:48:53 pm)</DATETIME>
+<BODY>oh that sounds nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:48:56 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:49:02 pm)</DATETIME>
+<BODY>all the way up to where your panties are now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:49:30 pm)</DATETIME>
+<BODY>but if i kissed your thighs like that...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:49:45 pm)</DATETIME>
+<BODY>i'd carefully pull your panties and shorts off</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:49:53 pm)</DATETIME>
+<BODY>would you let me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:49:55 pm)</DATETIME>
+<BODY>well you couldnt reach my thighs with them on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:50:18 pm)</DATETIME>
+<BODY>good point</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:50:32 pm)</DATETIME>
+<BODY>so - would you let me take them off?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:43 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:45 pm)</DATETIME>
+<BODY>i guess so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:50:46 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:50 pm)</DATETIME>
+<BODY>im kinda curious</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:52 pm)</DATETIME>
+<BODY>you know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:54 pm)</DATETIME>
+<BODY>is that bad?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:50:55 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:50:56 pm)</DATETIME>
+<BODY>im sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:51:00 pm)</DATETIME>
+<BODY>not not bad at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:51:16 pm)</DATETIME>
+<BODY>but only if you want to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:51:25 pm)</DATETIME>
+<BODY>i kinda do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:51:29 pm)</DATETIME>
+<BODY>if you said no - or stop - i would not do it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:51:38 pm)</DATETIME>
+<BODY>i would honor your request</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:52:05 pm)</DATETIME>
+<BODY>have you felt your pussy before?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:52:29 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:52:47 pm)</DATETIME>
+<BODY>know how it has that silky slit in the middle?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:53:31 pm)</DATETIME>
+<BODY>the part between the pussy lips?</BODY>
+<COMMENT>( a description. great. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:53:31 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:53:48 pm)</DATETIME>
+<BODY>i'd want to stroke my tongue up and down that part</BODY>
+<COMMENT>( i bet you would. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:54:00 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:54:03 pm)</DATETIME>
+<BODY>does that feel good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:54:05 pm)</DATETIME>
+<BODY>especially if it is really wet there</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:54:16 pm)</DATETIME>
+<BODY>feel good to me? or to you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:54:29 pm)</DATETIME>
+<BODY>either?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:54:37 pm)</DATETIME>
+<BODY>i like the feel and the taste</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:54:47 pm)</DATETIME>
+<BODY>but it is you that would be feeling good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:54:54 pm)</DATETIME>
+<BODY>that tingly feeling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:55:04 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:55:04 pm)</DATETIME>
+<BODY>but a lot lot lot stronger</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:55:47 pm)</DATETIME>
+<BODY>think you'd like that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:56:28 pm)</DATETIME>
+<BODY>i think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:56:38 pm)</DATETIME>
+<BODY>i bet you'd really like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:57:06 pm)</DATETIME>
+<BODY>and if i did it long enough and was careful not to hurt you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:57:23 pm)</DATETIME>
+<BODY>in a while your body would shake just like your bf's did</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:57:52 pm)</DATETIME>
+<BODY>that sounds really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:58:03 pm)</DATETIME>
+<BODY>what else do you think you'd like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:58:09 pm)</DATETIME>
+<BODY>i dont know.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:58:15 pm)</DATETIME>
+<BODY>i want to try like all the way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:58:19 pm)</DATETIME>
+<BODY>but i want it to feel good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:58:28 pm)</DATETIME>
+<BODY>think it will?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:58:36 pm)</DATETIME>
+<BODY>it probaby depends on the guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:58:42 pm)</DATETIME>
+<BODY>exaclty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:58:52 pm)</DATETIME>
+<BODY>too the words right out of my mouth!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:59:03 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:59:20 pm)</DATETIME>
+<BODY>kristen - can i tell you a little secret?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:59:28 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:59:36 pm)</DATETIME>
+<BODY>its not a dark deep secret or anything scary</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(6:59:46 pm)</DATETIME>
+<BODY>i trust you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(6:59:59 pm)</DATETIME>
+<BODY>i wish i could be the one to show you how good all this feels</BODY>
+<COMMENT>( he gets more explicit. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:00:13 pm)</DATETIME>
+<BODY>you really do sound like you know what youre doing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:00:41 pm)</DATETIME>
+<BODY>well - we'd get to see if i am still a winner or not - huh</BODY>
+<COMMENT>( he really fixated on that. hahahaha. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:00:45 pm)</DATETIME>
+<BODY>lol yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:01:02 pm)</DATETIME>
+<BODY>let me ask you another question</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:01:06 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:01:08 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:01:22 pm)</DATETIME>
+<BODY>when you go "all the way"...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:01:36 pm)</DATETIME>
+<BODY>the guy puts his cock into your pussy - right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:02:05 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:02:40 pm)</DATETIME>
+<BODY>and he pushes it in and pulls it out - kinda like you rubbing your hand up and down it - right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:03:20 pm)</DATETIME>
+<BODY>after a while he is gonna "shake" again an cum is gonna come out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:03:30 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:03:46 pm)</DATETIME>
+<BODY>what happens if he squirts his cum inside you? what could happen?</BODY>
+<COMMENT>( education, part 2. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:03:56 pm)</DATETIME>
+<BODY>i could get preggers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:03:58 pm)</DATETIME>
+<BODY>right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:04:01 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:04:13 pm)</DATETIME>
+<BODY>so what do you do to keep that from happening?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:04:36 pm)</DATETIME>
+<BODY>use condoms</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:04:44 pm)</DATETIME>
+<BODY>yes - that is one way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:04:52 pm)</DATETIME>
+<BODY>what else could you do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:05:00 pm)</DATETIME>
+<BODY>be on bitrh control</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:05:10 pm)</DATETIME>
+<BODY>yes - anything else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:05:24 pm)</DATETIME>
+<BODY>pull out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:05:26 pm)</DATETIME>
+<BODY>right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:05:35 pm)</DATETIME>
+<BODY>yes - how did you know that??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:05:51 pm)</DATETIME>
+<BODY>hillary</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:05:51 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:05:52 pm)</DATETIME>
+<BODY>you are one very smart girl!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:06:02 pm)</DATETIME>
+<BODY>she is one very smart girl too!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:06:15 pm)</DATETIME>
+<BODY>which of those 3 is the most risky?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:06:25 pm)</DATETIME>
+<BODY>i dont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:06:37 pm)</DATETIME>
+<BODY>condom, pull out or birth control?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:06:52 pm)</DATETIME>
+<BODY>the condom?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:06:55 pm)</DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:06:58 pm)</DATETIME>
+<BODY>pull out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:07:01 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:07:04 pm)</DATETIME>
+<BODY>know why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:07:18 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:07:38 pm)</DATETIME>
+<BODY>cause there is no feeling in the world like shooting hot cum into pussy</BODY>
+<COMMENT>( wouldn't know. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:07:46 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:07:49 pm)</DATETIME>
+<BODY>when i am in there and it is time to cum</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:08:00 pm)</DATETIME>
+<BODY>the last thing i wanna do is pull out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:08:14 pm)</DATETIME>
+<BODY>and even if i do...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:08:31 pm)</DATETIME>
+<BODY>i may not pull out soon enough - and may squirt a little inside</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:08:46 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:08:51 pm)</DATETIME>
+<BODY>make sense?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:08:56 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:09:00 pm)</DATETIME>
+<BODY>so its better to wear a condom?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:09:08 pm)</DATETIME>
+<BODY>or birth control</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:09:31 pm)</DATETIME>
+<BODY>can i tell you another little secret?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:09:39 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:09:42 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:09:48 pm)</DATETIME>
+<BODY>most guys - including me - hate condoms</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:09:53 pm)</DATETIME>
+<BODY>they don't feel right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:09:55 pm)</DATETIME>
+<BODY>so birth control then?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:09:58 pm)</DATETIME>
+<BODY>not natural</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:10:22 pm)</DATETIME>
+<BODY>i wish i could give you an example</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:10:38 pm)</DATETIME>
+<BODY>know how it feels when you touch your nipples?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:10:41 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:10:49 pm)</DATETIME>
+<BODY>your soft fingers on your nipple?</BODY>
+<COMMENT>( as opposed to my hard fingers, i suppose. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:10:55 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:11:14 pm)</DATETIME>
+<BODY>now imagine touching them with those rubber gloves doctors have to wear</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:11:19 pm)</DATETIME>
+<BODY>taht woudl suck</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:19:06 pm)</DATETIME>
+<BODY>im sorry i crashed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:19:14 pm)</DATETIME>
+<BODY>whew!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:19:21 pm)</DATETIME>
+<BODY>thought it was something i said</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:19:24 pm)</DATETIME>
+<BODY>no!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:19:39 pm)</DATETIME>
+<BODY>i like you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:19:46 pm)</DATETIME>
+<BODY>i like you too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:20:06 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:20:14 pm)</DATETIME>
+<BODY>i really wish we didn't live so far apart</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:20:19 pm)</DATETIME>
+<BODY>how far are you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:20:31 pm)</DATETIME>
+<BODY>about 3 hrs drive time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:20:51 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:20:57 pm)</DATETIME>
+<BODY>thats too far, huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:21:17 pm)</DATETIME>
+<BODY>well - not really all that far - i just never get down that way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:21:29 pm)</DATETIME>
+<BODY>have you heard of fayetteville?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:21:57 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:21:58 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:22:05 pm)</DATETIME>
+<BODY>that's where i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:22:14 pm)</DATETIME>
+<BODY>opps - another potty break - brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:22:27 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:23:16 pm)</DATETIME>
+<BODY>back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:23:24 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:23:28 pm)</DATETIME>
+<BODY>i wish you werent so far away</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:23:43 pm)</DATETIME>
+<BODY>and even if i did get to come down there - i don't know how we'd get to see each other</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:23:54 pm)</DATETIME>
+<BODY>lol that wouldnt be hard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:24:05 pm)</DATETIME>
+<BODY>really? how?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:24:24 pm)</DATETIME>
+<BODY>my gramma's only home for the first part of the day</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:24:26 pm)</DATETIME>
+<BODY>she works nights</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:24:31 pm)</DATETIME>
+<BODY>thats why im online</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:24:37 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:24:49 pm)</DATETIME>
+<BODY>how long will you be in lr?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:25:02 pm)</DATETIME>
+<BODY>til end of may</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:25:06 pm)</DATETIME>
+<BODY>dang</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:25:16 pm)</DATETIME>
+<BODY>unless i tell my mom i like it here more</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:25:18 pm)</DATETIME>
+<BODY>i'm gonna be pretty close to lr in june</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:25:56 pm)</DATETIME>
+<BODY>june is a long way off but...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:26:08 pm)</DATETIME>
+<BODY>i dont wanna wait that long</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:26:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:26:21 pm)</DATETIME>
+<BODY>if we keep chatting and getting to know each other - maybe we can see each other</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:26:33 pm)</DATETIME>
+<BODY>you want it now??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:26:42 pm)</DATETIME>
+<BODY>lol yeah, kind of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:26:43 pm)</DATETIME>
+<BODY>did i make you horny too??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:26:48 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:27:04 pm)</DATETIME>
+<BODY>sure wish i could be there with you right now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:27:20 pm)</DATETIME>
+<BODY>me too.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:27:27 pm)</DATETIME>
+<BODY>when is your b'day?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:28:08 pm)</DATETIME>
+<BODY>april 7</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:28:19 pm)</DATETIME>
+<BODY>pretty close</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:28:25 pm)</DATETIME>
+<BODY>you will be 14?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:28:37 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:29:00 pm)</DATETIME>
+<BODY>i wish i could give you a very special present - know what i mean?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:29:11 pm)</DATETIME>
+<BODY>letting me practice?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:29:30 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:30:01 pm)</DATETIME>
+<BODY>i wish you could too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:30:03 pm)</DATETIME>
+<BODY>thatd be awesome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:30:05 pm)</DATETIME>
+<BODY>on your profile it says you are going to ny for your b'day</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:30:12 pm)</DATETIME>
+<BODY>yeah but i dont know if i get to now or not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:30:28 pm)</DATETIME>
+<BODY>that sounds like fun too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:31:02 pm)</DATETIME>
+<BODY>yeah.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:31:06 pm)</DATETIME>
+<BODY>except my gramma might not be able to go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:31:08 pm)</DATETIME>
+<BODY>and shed have to work</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:31:10 pm)</DATETIME>
+<BODY>n then i couldnt go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:31:14 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:31:32 pm)</DATETIME>
+<BODY>is it just you and gramma where you live?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:31:37 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:31:53 pm)</DATETIME>
+<BODY>where is mom and dad? can i ask that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:32:08 pm)</DATETIME>
+<BODY>moms in chicago</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:32:11 pm)</DATETIME>
+<BODY>i dont know where dad is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:32:37 pm)</DATETIME>
+<BODY>so - you're gonna go live with your mom this summer?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:32:51 pm)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:33:13 pm)</DATETIME>
+<BODY>can i ask you a silly little question?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:33:23 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:33:40 pm)</DATETIME>
+<BODY>your nick is sadlilgrrl - are you still a sad little girl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:33:47 pm)</DATETIME>
+<BODY>not right now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:33:50 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:33:54 pm)</DATETIME>
+<BODY>your really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:33:59 pm)</DATETIME>
+<BODY>i wish you could come n see me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:34:05 pm)</DATETIME>
+<BODY>i wish i could too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:34:40 pm)</DATETIME>
+<BODY>but, kristen - you know that i could get in a lot lot lot of trouble doing what we talked about today - right?</BODY>
+<COMMENT>( he knows it's wrong. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:34:53 pm)</DATETIME>
+<BODY>why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:35:01 pm)</DATETIME>
+<BODY>i mean - if we got caught</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:35:09 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:35:12 pm)</DATETIME>
+<BODY>i wouldnt tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:35:15 pm)</DATETIME>
+<BODY>i promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:35:47 pm)</DATETIME>
+<BODY>i know - i just want you to be aware</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:36:09 pm)</DATETIME>
+<BODY>in fact - your ex bf could have gotten into lot of trouble too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:36:53 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:37:09 pm)</DATETIME>
+<BODY>guys over 18 are not supposed to have sex with girls under 18</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:37:25 pm)</DATETIME>
+<BODY>thats stupid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:37:42 pm)</DATETIME>
+<BODY>maybe - but it is the law</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:37:51 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:37:57 pm)</DATETIME>
+<BODY>so i guess you dont want to talk to me anymore</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:38:13 pm)</DATETIME>
+<BODY>no, baby - i did not mean for you to think that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:38:19 pm)</DATETIME>
+<BODY>i love talking with you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:38:27 pm)</DATETIME>
+<BODY>are you sure?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:38:37 pm)</DATETIME>
+<BODY>yes - of course</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:38:39 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:38:51 pm)</DATETIME>
+<BODY>i just want you to be aware of what could happen</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:39:14 pm)</DATETIME>
+<BODY>just like all the things i explained about sex - i want you to be aware</BODY>
+<COMMENT>( so educational. so good to me. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:39:20 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:39:44 pm)</DATETIME>
+<BODY>understand?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:39:47 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:39:58 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:40:48 pm)</DATETIME>
+<BODY>so - do you think you can wait til june for m?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:40:49 pm)</DATETIME>
+<BODY>me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:41:06 pm)</DATETIME>
+<BODY>my mom probably wouldnt care if i stayed down here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:41:16 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:41:41 pm)</DATETIME>
+<BODY>would you really meet me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:41:47 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:41:51 pm)</DATETIME>
+<BODY>i would love to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:41:52 pm)</DATETIME>
+<BODY>thatd be so cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:42:21 pm)</DATETIME>
+<BODY>you wont tell my gramma or anything will you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:42:29 pm)</DATETIME>
+<BODY>god no!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:42:38 pm)</DATETIME>
+<BODY>she could have me put in jail!!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:42:49 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:42:54 pm)</DATETIME>
+<BODY>i dont wanna get in trouble or get you in trouble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:42:56 pm)</DATETIME>
+<BODY>your too nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:43:02 pm)</DATETIME>
+<BODY>and smart</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:43:14 pm)</DATETIME>
+<BODY>and still a winner?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:43:19 pm)</DATETIME>
+<BODY>still a winner!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:43:21 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:43:25 pm)</DATETIME>
+<BODY>no one has ever called me a winner</BODY>
+<COMMENT>( really fixated on that damn winner comment. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:43:28 pm)</DATETIME>
+<BODY>i like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:00 pm)</DATETIME>
+<BODY>i have kind of a weird ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:44:06 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:15 pm)</DATETIME>
+<BODY>whats your voice sound like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:44:25 pm)</DATETIME>
+<BODY>an old man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:29 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:30 pm)</DATETIME>
+<BODY>i duobt that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:32 pm)</DATETIME>
+<BODY>doubt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:44:43 pm)</DATETIME>
+<BODY>i bet your voice is so sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:44:52 pm)</DATETIME>
+<BODY>lol want me to call you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:45:10 pm)</DATETIME>
+<BODY>i don't want you to get in trouble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:45:25 pm)</DATETIME>
+<BODY>my grammas at work n i have a phone card for calls n stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:45:33 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:45:51 pm)</DATETIME>
+<BODY>i won't be able to talk for very long - just a few minutes - ok?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:45:54 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:45:59 pm)</DATETIME>
+<BODY>the phone might die neways</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:46:09 pm)</DATETIME>
+<BODY>i know your first name</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:46:14 pm)</DATETIME>
+<BODY>did i ever tell you mine?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:46:18 pm)</DATETIME>
+<BODY>your pic said dan</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:46:20 pm)</DATETIME>
+<BODY>is that you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:46:26 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:46:35 pm)</DATETIME>
+<BODY>did you send me all the pix you have?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:46:43 pm)</DATETIME>
+<BODY>yaeh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:46:44 pm)</DATETIME>
+<BODY>4</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:46:53 pm)</DATETIME>
+<BODY>i wish you had 1,000</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:46:58 pm)</DATETIME>
+<BODY>me 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:02 pm)</DATETIME>
+<BODY>but thatd be a lot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:03 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:47:13 pm)</DATETIME>
+<BODY>but not even close to enough</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:20 pm)</DATETIME>
+<BODY>lol well you can see me in june</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:29 pm)</DATETIME>
+<BODY>ill tell my mom i like it here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:47:40 pm)</DATETIME>
+<BODY>you'd stay just to see me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:46 pm)</DATETIME>
+<BODY>i raelly like you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:49 pm)</DATETIME>
+<BODY>is that bad?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:47:53 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:47:58 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:02 pm)</DATETIME>
+<BODY>i was worried you didnt like me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:48:28 pm)</DATETIME>
+<BODY>kristen - i want to make something perfectly clear - so there is no doubt in your mind - ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:32 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:48:37 pm)</DATETIME>
+<BODY>i like you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:40 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:41 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:48:49 pm)</DATETIME>
+<BODY>should i say it again?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:52 pm)</DATETIME>
+<BODY>if you want to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:48:53 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:48:55 pm)</DATETIME>
+<BODY>i like you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:49:06 pm)</DATETIME>
+<BODY>and...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:49:12 pm)</DATETIME>
+<BODY>i want to be with you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:49:17 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:49:20 pm)</DATETIME>
+<BODY>me too!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:49:21 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:49:29 pm)</DATETIME>
+<BODY>should i say that again too?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:49:41 pm)</DATETIME>
+<BODY>i want to be with you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:49:45 pm)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:49:47 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:50:02 pm)</DATETIME>
+<BODY>let me see if i can make some of that a little more clear - ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:50:06 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:50:07 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:50:12 pm)</DATETIME>
+<BODY>i want to taste your sweet kisses</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:50:26 pm)</DATETIME>
+<BODY>i want to hug and cuddle with you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:50:44 pm)</DATETIME>
+<BODY>i want to softly touch you in soft places</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:51:01 pm)</DATETIME>
+<BODY>i want to gently kiss and suck on your nipples</BODY>
+<COMMENT>( more to come! )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:51:09 pm)</DATETIME>
+<BODY>are you taking notes??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:51:13 pm)</DATETIME>
+<BODY>lol yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:51:24 pm)</DATETIME>
+<BODY>i want to kiss your sexy tummy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:51:29 pm)</DATETIME>
+<BODY>and your sexy legs</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:51:58 pm)</DATETIME>
+<BODY>i want to stroke my tongue up and down your pussy</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:52:06 pm)</DATETIME>
+<BODY>and probe your pussy with my fingers</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:52:20 pm)</DATETIME>
+<BODY>your making me blush!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:52:30 pm)</DATETIME>
+<BODY>i want you to "shake"</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:53:02 pm)</DATETIME>
+<BODY>i want to be the first guy to put his cock inside your pussy</BODY>
+<COMMENT>( what else? )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:53:26 pm)</DATETIME>
+<BODY>that does sound really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:53:29 pm)</DATETIME>
+<BODY>i want you to feel how a cock pumping in and out of you feels</BODY>
+<COMMENT>( oh, that. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:53:33 pm)</DATETIME>
+<BODY>you arent just kidding me are you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:53:41 pm)</DATETIME>
+<BODY>no, baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:53:44 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:53:54 pm)</DATETIME>
+<BODY>does all that sound good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:53:57 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:54:02 pm)</DATETIME>
+<BODY>it really does</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:54:20 pm)</DATETIME>
+<BODY>can i hear your voice?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:54:27 pm)</DATETIME>
+<BODY>yes if you want to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:54:38 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:54:42 pm)</DATETIME>
+<BODY>i bet its really sexy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:55:02 pm)</DATETIME>
+<BODY>i'm not sure about that - you can tell me later if i'm still a winner</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:07 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:13 pm)</DATETIME>
+<BODY>i'll tell you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:14 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:55:16 pm)</DATETIME>
+<BODY>will you have to get offline to call?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:22 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:27 pm)</DATETIME>
+<BODY>but ill hacve to go to the other room</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:32 pm)</DATETIME>
+<BODY>cuz the cordless doesnt reach in here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:33 pm)</DATETIME>
+<BODY>is taht ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:55:37 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:55:39 pm)</DATETIME>
+<BODY>but</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:55:52 pm)</DATETIME>
+<BODY>i want you to check something for me first - ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:55:55 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:56:10 pm)</DATETIME>
+<BODY>above this box is the word file - see it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:56:15 pm)</DATETIME>
+<BODY>uhhuh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:56:27 pm)</DATETIME>
+<BODY>clik on it and go to privacy options...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:56:41 pm)</DATETIME>
+<BODY>okay after i do that i cant type to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:57:03 pm)</DATETIME>
+<BODY>ok - go down til you see archive and select it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:57:16 pm)</DATETIME>
+<BODY>okay tell me what do to n i wont tpe back for a minute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:57:37 pm)</DATETIME>
+<BODY>is there a check mark in the enable archiving box?</BODY>
+<COMMENT>( that's just disturbing. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:57:41 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:57:49 pm)</DATETIME>
+<BODY>whew!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:57:51 pm)</DATETIME>
+<BODY>i clicked on cancel</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:57:53 pm)</DATETIME>
+<BODY>good!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:57:59 pm)</DATETIME>
+<BODY>so i can type again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:58:01 pm)</DATETIME>
+<BODY>is that right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:58:09 pm)</DATETIME>
+<BODY>we do not want a check mark in that bos</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:58:10 pm)</DATETIME>
+<BODY>box</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:58:19 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:58:21 pm)</DATETIME>
+<BODY>there isnt one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:58:24 pm)</DATETIME>
+<BODY>know why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:58:35 pm)</DATETIME>
+<BODY>cuz then it would stay?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:59:05 pm)</DATETIME>
+<BODY>then someone could come in and read what we have said - and i could get into a lot of trouble</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:59:11 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:59:12 pm)</DATETIME>
+<BODY>and we don't want that - ight?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:59:12 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:59:13 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:59:19 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:59:30 pm)</DATETIME>
+<BODY>i'm trying to protect you and me - both</BODY>
+<COMMENT>( that's what it sounds like. )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:59:37 pm)</DATETIME>
+<BODY>yeah i dont wanna get grounded.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(7:59:53 pm)</DATETIME>
+<BODY>i'm afraid it would be worse than grounding</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(7:59:59 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:00:21 pm)</DATETIME>
+<BODY>for me - it would be 25-30 yrs in jail</BODY>
+<COMMENT>( we can hope! )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:00:25 pm)</DATETIME>
+<BODY>oh no!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:00:42 pm)</DATETIME>
+<BODY>so - we must be very careful - ok?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:00:46 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:01:04 pm)</DATETIME>
+<BODY>be very careful about who you tell about this</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:01:12 pm)</DATETIME>
+<BODY>i wont tell anyone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:01:19 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:01:25 pm)</DATETIME>
+<BODY>am i scaring you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:01:29 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:01:32 pm)</DATETIME>
+<BODY>why would you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:01:42 pm)</DATETIME>
+<BODY>because it is a little scary</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:01:47 pm)</DATETIME>
+<BODY>i trust you though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:01:48 pm)</DATETIME>
+<BODY>risky</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:02:02 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:02:23 pm)</DATETIME>
+<BODY>ok - one more thing before i hear your sweet voice - ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:02:28 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:02:46 pm)</DATETIME>
+<BODY>i want to be honest with you - make sure there are no surprises</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:02:55 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:02:56 pm)</DATETIME>
+<BODY>we haven't talked about me very much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:03:14 pm)</DATETIME>
+<BODY>i think you should know that i am married</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:03:25 pm)</DATETIME>
+<BODY>that's okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:03:26 pm)</DATETIME>
+<BODY>and we have to be careful about that too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:03:30 pm)</DATETIME>
+<BODY>were just gonna practice, right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:03:38 pm)</DATETIME>
+<BODY>uh huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:03:41 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:03:54 pm)</DATETIME>
+<BODY>are you cool with all that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:04:00 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:04:10 pm)</DATETIME>
+<BODY>ready to call me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:04:17 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:04:34 pm)</DATETIME>
+<BODY>479 435-1424</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:04:49 pm)</DATETIME>
+<BODY>okay ill go call now.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:04:53 pm)</DATETIME>
+<BODY>please close this box before you leave the room - ok?</BODY>
+<COMMENT>( whatever for, dan? )</COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:04:57 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:05:08 pm)</DATETIME>
+<BODY>closing it now n going to call</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:05:13 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>verifier: ladybass. in her own words: (i called dan and he told me that i sounded more mature then 13 years old. told me that if i weren't nervous about trying this stuff he would be concerned. i said i was nervous, told me that i was sweet and that i had a sweet voice. i basically told him that my phone was dying and that i would talk to him online. he said ok.)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:10:52 pm)</DATETIME>
+<BODY>wow wow wow wow!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:11:15 pm)</DATETIME>
+<BODY>what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:11:33 pm)</DATETIME>
+<BODY>you are sooooo sexy!!!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:11:43 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:12:01 pm)</DATETIME>
+<BODY>you sound so mature</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:12:04 pm)</DATETIME>
+<BODY>i -am-</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:12:07 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:12:12 pm)</DATETIME>
+<BODY>you sound much older than 14</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:12:16 pm)</DATETIME>
+<BODY>more like 18 or so</BODY>
+<COMMENT>( she doesn't. i've heard her. )</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:12:18 pm)</DATETIME>
+<BODY>tyvm!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:12:45 pm)</DATETIME>
+<BODY>can i tell you another little secret?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:12:49 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:12:52 pm)</DATETIME>
+<BODY>i like you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:13:18 pm)</DATETIME>
+<BODY>i ilke you tooo!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:13:25 pm)</DATETIME>
+<BODY>you have such a distingushed voice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:13:32 pm)</DATETIME>
+<BODY>that's probably not a secret anymore - huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:13:41 pm)</DATETIME>
+<BODY>to everyone but me!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:13:47 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:14:10 pm)</DATETIME>
+<BODY>and you sure know how to pump my ego too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:14:21 pm)</DATETIME>
+<BODY>i mean it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:14:42 pm)</DATETIME>
+<BODY>i know - and that's what makes it that much more special</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:14:51 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:14:57 pm)</DATETIME>
+<BODY>you are a very special girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:02 pm)</DATETIME>
+<BODY>thank you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:03 pm)</DATETIME>
+<BODY>""></BODY>
+<COMMENT>(messed up blushing emoti)</COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:05 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:15:35 pm)</DATETIME>
+<BODY>i'm soo glad you found me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:41 pm)</DATETIME>
+<BODY>i'm glad you found me!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:46 pm)</DATETIME>
+<BODY>what made you msesag me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:15:48 pm)</DATETIME>
+<BODY>message?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:16:04 pm)</DATETIME>
+<BODY>lol - are you sure you want me to tell you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:16:07 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:16:13 pm)</DATETIME>
+<BODY>i may get myself in trouble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:16:19 pm)</DATETIME>
+<BODY>thats okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:16:45 pm)</DATETIME>
+<BODY>honestly - i have been looking for a young girl</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>arthinice.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:16:57 pm)</DATETIME>
+<BODY>i really didn't think i would find one as young as you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:17:07 pm)</DATETIME>
+<BODY>am i okay?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:17:14 pm)</DATETIME>
+<BODY>in fact - i haven't been able to find any at all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:17:36 pm)</DATETIME>
+<BODY>are you okay?? baby - you passed okay a loonnngggg lonnngggg time ago</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:17:43 pm)</DATETIME>
+<BODY>you are much much more than okay!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:17:45 pm)</DATETIME>
+<BODY>im so glad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:17:57 pm)</DATETIME>
+<BODY>am i in trouble?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:18:08 pm)</DATETIME>
+<BODY>no cuz you picked me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:18:08 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:18:14 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:18:44 pm)</DATETIME>
+<BODY>i have chatted with a lot lot lot of girls - lots of ages</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:18:51 pm)</DATETIME>
+<BODY>but none as sweet as you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:18:57 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:19:04 pm)</DATETIME>
+<BODY>when are you gonna be in lr?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:19:10 pm)</DATETIME>
+<BODY>some of them really like to play stupid mind games with me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:19:16 pm)</DATETIME>
+<BODY>why?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:19:30 pm)</DATETIME>
+<BODY>i wish i could figure that one out myself</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:19:48 pm)</DATETIME>
+<BODY>thats so mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:20:06 pm)</DATETIME>
+<BODY>they send me pix and tell me they want to meet and make me feel really good - but...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:20:18 pm)</DATETIME>
+<BODY>they disappear - poof!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:20:26 pm)</DATETIME>
+<BODY>and i never hear from them again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:20:30 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:20:32 pm)</DATETIME>
+<BODY>im so sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:20:43 pm)</DATETIME>
+<BODY>but you are different</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:20:57 pm)</DATETIME>
+<BODY>yes i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:21:04 pm)</DATETIME>
+<BODY>none of them would let me call or they didn't want to call me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:21:11 pm)</DATETIME>
+<BODY>thats so wrong</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:21:17 pm)</DATETIME>
+<BODY>you did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:21:28 pm)</DATETIME>
+<BODY>why am i telling you all this??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:21:40 pm)</DATETIME>
+<BODY>lol cuz im a good listener too?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:21:47 pm)</DATETIME>
+<BODY>yes - you are!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:21:59 pm)</DATETIME>
+<BODY>but you don't need to hear all this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:22:15 pm)</DATETIME>
+<BODY>i dont mind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:22:29 pm)</DATETIME>
+<BODY>you are different - and i like you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:22:33 pm)</DATETIME>
+<BODY>i like you too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:22:50 pm)</DATETIME>
+<BODY>will you do me one tiny favor before we chat again next time?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:22:54 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:23:02 pm)</DATETIME>
+<BODY>pick a new nick??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:05 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:09 pm)</DATETIME>
+<BODY>happylilgrrl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:10 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:23:18 pm)</DATETIME>
+<BODY>that sounds good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:29 pm)</DATETIME>
+<BODY>i have to go get dinner ready before gramma comes home</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:32 pm)</DATETIME>
+<BODY>will you be on tomorrow night?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:23:48 pm)</DATETIME>
+<BODY>yes - from about 5:00 til about 6:30 or so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:23:53 pm)</DATETIME>
+<BODY>okay ill try to be on then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:24:00 pm)</DATETIME>
+<BODY>is that a good time for you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:24:06 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:24:16 pm)</DATETIME>
+<BODY>i need to try to not chat much later than that if i can</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:24:24 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:24:27 pm)</DATETIME>
+<BODY>ill be on then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:24:43 pm)</DATETIME>
+<BODY>but - if i'm chatting with you - time will quickly slip away</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:24:55 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:25:16 pm)</DATETIME>
+<BODY>we have already chatted 2 1/2 hr since you went to fix dinner the first time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:25:25 pm)</DATETIME>
+<BODY>yeah i have to finish the stuff now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:25:26 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:25:32 pm)</DATETIME>
+<BODY>and i need to go too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:25:37 pm)</DATETIME>
+<BODY>but i don't want to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:25:42 pm)</DATETIME>
+<BODY>yeah i know the feeling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:25:51 pm)</DATETIME>
+<BODY>i like you, baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:25:56 pm)</DATETIME>
+<BODY>i'll see you tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:26:20 pm)</DATETIME>
+<BODY>i like you too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:26:21 pm)</DATETIME>
+<BODY>n okay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:26:23 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(8:26:26 pm)</DATETIME>
+<BODY>night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:26:26 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(8:26:29 pm)</DATETIME>
+<BODY>night!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>a few days later, on thursday, as i worked on something else . . .</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:08:12 pm)</DATETIME>
+<BODY>kristen?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:18 pm)</DATETIME>
+<BODY>hey!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:08:23 pm)</DATETIME>
+<BODY>hey, sweetie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:08:28 pm)</DATETIME>
+<BODY>sure have missed you!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:37 pm)</DATETIME>
+<BODY>yeah i had major work to do and had to clean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:08:39 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:09:00 pm)</DATETIME>
+<BODY>have you been a good girl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:09:12 pm)</DATETIME>
+<BODY>more or less</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:09:13 pm)</DATETIME>
+<BODY>(emoti)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:09:21 pm)</DATETIME>
+<BODY>what have you been doing??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:09:35 pm)</DATETIME>
+<BODY>nothing really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:09:43 pm)</DATETIME>
+<BODY>i stayed up really late last night n watched the goonies</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:10:09 pm)</DATETIME>
+<BODY>the goonies?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:16 pm)</DATETIME>
+<BODY>yah its a movie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:10:21 pm)</DATETIME>
+<BODY>was it good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:33 pm)</DATETIME>
+<BODY>it was funny</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:10:45 pm)</DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:10:51 pm)</DATETIME>
+<BODY>how have you been?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:11:02 pm)</DATETIME>
+<BODY>besides missing you - i've been ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:11:17 pm)</DATETIME>
+<BODY>i have thought about you an awful lot the last few days</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:11:29 pm)</DATETIME>
+<BODY>im glad!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:11:32 pm)</DATETIME>
+<BODY>ive thought about you too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:11:34 pm)</DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:15:02 pm)</DATETIME>
+<BODY>did you disappear?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sadlilgrrl</USERNAME>
+<DATETIME>(5:15:20 pm)</DATETIME>
+<BODY>aww ill be back later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>arthinice</USERNAME>
+<DATETIME>(5:56:46 pm)</DATETIME>
+<BODY>i'm sorry - i'm still at work and somebody came in - i hope you will be back online soon...</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

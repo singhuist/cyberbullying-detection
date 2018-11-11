@@ -1,0 +1,939 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Derek</FIRSTNAME>
+<LASTNAME>Coatam</LASTNAME>
+<STATEDNAME>D</STATEDNAME>
+<STATEDAGE>30</STATEDAGE>
+<AGE>30</AGE>
+<GENDER>Male</GENDER>
+<RACE>Black</RACE>
+<CITY>Walterborg</CITY>
+<STATE>SC</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>false</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>flxnonya</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Frag</FIRSTNAME>
+<LASTNAME></LASTNAME>
+<STATEDNAME>Cindi</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY>Columbia</CITY>
+<STATE>SC</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>true</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>cindifromsc</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>flxnonya.elkilmer.coded.txt</NAME>
+<CODER>elkilmer</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(10:57:33 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:12:42 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:12:49 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:12:54 pm)</DATETIME>
+<BODY>how ae u 2nite?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:13:02 pm)</DATETIME>
+<BODY>bored lol. u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:14:28 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:14:43 pm)</DATETIME>
+<BODY>these guys keep tryin to view me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:14:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:14:55 pm)</DATETIME>
+<BODY>whats ur a/s/l?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:15:04 pm)</DATETIME>
+<BODY>30 m sc</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:15:10 pm)</DATETIME>
+<BODY>walterboro</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:15:18 pm)</DATETIME>
+<BODY>13/f/columbia</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:15:55 pm)</DATETIME>
+<BODY>13?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:16:00 pm)</DATETIME>
+<BODY>lol yeah.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:16:08 pm)</DATETIME>
+<BODY>y r u still up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:16:14 pm)</DATETIME>
+<BODY>moms at work lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:16:25 pm)</DATETIME>
+<BODY>when does she get off?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:16:35 pm)</DATETIME>
+<BODY>6</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:16:45 pm)</DATETIME>
+<BODY>do u have a cam?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:16:54 pm)</DATETIME>
+<BODY>nah. she wont let me have 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:17:14 pm)</DATETIME>
+<BODY>what r u lookin 4 on here tonite?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:17:43 pm)</DATETIME>
+<BODY>i dunno. just bored and cant sleep. waht r u lookin 4?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:18:27 pm)</DATETIME>
+<BODY>what else</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:18:33 pm)</DATETIME>
+<BODY>sum fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:18:44 pm)</DATETIME>
+<BODY>lol yeah i guess.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:19:16 pm)</DATETIME>
+<BODY>thats y i asked y u were still up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:19:34 pm)</DATETIME>
+<BODY>oh i c.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:19:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:20:07 pm)</DATETIME>
+<BODY>you're too young to know about all that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:20:18 pm)</DATETIME>
+<BODY>lol no im not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:20:32 pm)</DATETIME>
+<BODY>what do u know about sex?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:21:02 pm)</DATETIME>
+<BODY>umm well ive done everything but have sex lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:21:24 pm)</DATETIME>
+<BODY>tell me what you,ve done</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:21:33 pm)</DATETIME>
+<BODY>like oral and stuff.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:21:56 pm)</DATETIME>
+<BODY>y didnt u take da dick then?</BODY>
+<COMMENT>(because she's 13 you assclown.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:22:27 pm)</DATETIME>
+<BODY>i dunno. i didnt want 2 then. now i think im ready. lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:22:52 pm)</DATETIME>
+<BODY>what do u look like</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:23:04 pm)</DATETIME>
+<BODY>my pics on my profile.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:23:21 pm)</DATETIME>
+<BODY>ok, i'll look</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:23:24 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:24:18 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:24:35 pm)</DATETIME>
+<BODY>so u think you're ready 4 dick now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:24:42 pm)</DATETIME>
+<BODY>lol yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:24:50 pm)</DATETIME>
+<BODY>what dick have u sucked?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:25:10 pm)</DATETIME>
+<BODY>what do u mean.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:25:17 pm)</DATETIME>
+<BODY>just a couple of guys i no.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:25:34 pm)</DATETIME>
+<BODY>how old were they</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:25:59 pm)</DATETIME>
+<BODY>15 and 16</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:26:10 pm)</DATETIME>
+<BODY>see, i'm older</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:26:16 pm)</DATETIME>
+<BODY>my dick iz bigger</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:26:20 pm)</DATETIME>
+<BODY>lol so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:26:51 pm)</DATETIME>
+<BODY>u wana try me out?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:27:06 pm)</DATETIME>
+<BODY>umm sure lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:27:47 pm)</DATETIME>
+<BODY>when?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:28:48 pm)</DATETIME>
+<BODY>umm when do u want 2?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:29:06 pm)</DATETIME>
+<BODY>tell me when u can let me do it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:29:19 pm)</DATETIME>
+<BODY>do u think u can handle this dick?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:29:34 pm)</DATETIME>
+<BODY>lol yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:30:44 pm)</DATETIME>
+<BODY>were any of da dicks u had as big as mine?</BODY>
+<COMMENT>(so do you think this guy, thinks about dick much?)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:31:06 pm)</DATETIME>
+<BODY>lol no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:31:18 pm)</DATETIME>
+<BODY>what iz your #?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:31:45 pm)</DATETIME>
+<BODY>i have 2 call u. my mom has the caller id locked in her room.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:32:13 pm)</DATETIME>
+<BODY>i'm long distance, i'll block my #</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:32:39 pm)</DATETIME>
+<BODY>i cant give it out. i have callin cards my dad gave me. ill u se thouse</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:33:02 pm)</DATETIME>
+<BODY>843-324-4224</BODY>
+<COMMENT>(verified by blue silver pj.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:35:06 pm)</DATETIME>
+<BODY>hello</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:35:14 pm)</DATETIME>
+<BODY>hey.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:35:20 pm)</DATETIME>
+<BODY>sorry yahoo disconnected.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:35:27 pm)</DATETIME>
+<BODY>watcha gonna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:35:28 pm)</DATETIME>
+<BODY>whats ur name. im cindi.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:35:37 pm)</DATETIME>
+<BODY>d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:36:02 pm)</DATETIME>
+<BODY>when r u gona call?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:36:12 pm)</DATETIME>
+<BODY>in just a minute or two.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:37:17 pm)</DATETIME>
+<BODY>i'm hard</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:37:37 pm)</DATETIME>
+<BODY>i have 2 wait 4 my phone 2 charge some.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:37:40 pm)</DATETIME>
+<BODY>just a few.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:37:46 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:37:51 pm)</DATETIME>
+<BODY>so what u wanna talk aobut?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:38:08 pm)</DATETIME>
+<BODY>how many fingers can u get in your pussy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:38:28 pm)</DATETIME>
+<BODY>lol like 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:39:14 pm)</DATETIME>
+<BODY>whats ur name?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:39:32 pm)</DATETIME>
+<BODY>do u have anything u can use 4 a dick</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:39:34 pm)</DATETIME>
+<BODY>d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:39:58 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:40:00 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:40:01 pm)</DATETIME>
+<BODY>why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:40:20 pm)</DATETIME>
+<BODY>i'm gona get u ready</BODY>
+<COMMENT>(wtf? he is asking if i have anything lying around my house that i can use to put inside myself.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:40:23 pm)</DATETIME>
+<BODY>whats ur name?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:40:30 pm)</DATETIME>
+<BODY>d is my name</BODY>
+<COMMENT>(yeah i asked three times.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:40:44 pm)</DATETIME>
+<BODY>are u gona take it in da ass too?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:41:29 pm)</DATETIME>
+<BODY>doesnt that hurt?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:41:56 pm)</DATETIME>
+<BODY>nah, i'll be gentle</BODY>
+<COMMENT>(well isn't that comforting to know.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:42:00 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:42:21 pm)</DATETIME>
+<BODY>hurry up i can be thereb4 your mom gets home</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:42:37 pm)</DATETIME>
+<BODY>ok.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:43:20 pm)</DATETIME>
+<BODY>have u had your pussy eaten yet?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:43:25 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:43:49 pm)</DATETIME>
+<BODY>how long will it take u 2 get here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:44:02 pm)</DATETIME>
+<BODY>did those guys try to put their dick in u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:44:07 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:44:07 pm)</DATETIME>
+<BODY>an hour</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:44:08 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:44:10 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:44:15 pm)</DATETIME>
+<BODY>ur gonna come tonite?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:44:24 pm)</DATETIME>
+<BODY>if u talk rite</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:44:32 pm)</DATETIME>
+<BODY>if not 2morrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:44:35 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:45:14 pm)</DATETIME>
+<BODY>u gonna bring condoms?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:45:18 pm)</DATETIME>
+<BODY>i dont wanna get preggers.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:45:24 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:45:44 pm)</DATETIME>
+<BODY>i'm not gona use a condom, but i wont cum in u</BODY>
+<COMMENT>(isn't that nice. possibly give the child an std while your at it.)</COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:45:50 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:46:19 pm)</DATETIME>
+<BODY>what part of columbia do u live in?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>flxnonya.elkilmer.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:46:30 pm)</DATETIME>
+<BODY>east side.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:46:37 pm)</DATETIME>
+<BODY>forest acres area</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:46:46 pm)</DATETIME>
+<BODY>im gonna call now.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>flxnonya</USERNAME>
+<DATETIME>(11:46:53 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>cindifromsc</USERNAME>
+<DATETIME>(11:48:01 pm)</DATETIME>
+<BODY>what happened?</BODY>
+<COMMENT>(his camera died. and just so you know i had to watch this sick bastard on webcam the whole time. i have several nice screen captures including some of him exposing himself. i'll make them all available in follow up.)</COMMENT>
+</POST>
+</CHATLOG>

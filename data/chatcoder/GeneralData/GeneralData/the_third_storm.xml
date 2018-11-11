@@ -1,0 +1,7987 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Phillip</FIRSTNAME>
+<LASTNAME>Hungin</LASTNAME>
+<STATEDNAME>Phil</STATEDNAME>
+<STATEDAGE>27</STATEDAGE>
+<AGE>27</AGE>
+<GENDER>Male</GENDER>
+<RACE></RACE>
+<CITY>Ontario</CITY>
+<STATE>CA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>the_third_storm</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>group bust</FIRSTNAME>
+<LASTNAME></LASTNAME>
+<STATEDNAME>Sarah</STATEDNAME>
+<STATEDAGE>13</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE>White</RACE>
+<CITY>Corona</CITY>
+<STATE>CA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>sarah_parker_rox</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>the_third_storm.emjakubowski.coded.txt</NAME>
+<CODER>emjakubowski</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>january 6, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:47:17 pm)</DATETIME>
+<BODY>wassup wanna chat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:47:27 pm)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:47:34 pm)</DATETIME>
+<BODY>wanna chat for a bit?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:47:48 pm)</DATETIME>
+<BODY>a/s/l?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:47:56 pm)</DATETIME>
+<BODY>25/m/ontario and you?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:48:15 pm)</DATETIME>
+<BODY>f/13/corona</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:48:17 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:48:38 pm)</DATETIME>
+<BODY>lol id chat but i dunno what i have in common w/ a 13 yr old!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:00 pm)</DATETIME>
+<BODY>hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:02 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:07 pm)</DATETIME>
+<BODY>you like poker/</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:09 pm)</DATETIME>
+<BODY>?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:49:17 pm)</DATETIME>
+<BODY>yeah i play poker? you do too?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:21 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:49:33 pm)</DATETIME>
+<BODY>lol what kind of poker does a 13 yr old play?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:49 pm)</DATETIME>
+<BODY>hold em, on the puter</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:51 pm)</DATETIME>
+<BODY>same as everyone else</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:49:51 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:50:10 pm)</DATETIME>
+<BODY>ahhh yeah? i'll play with ya if you got a game up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:50:17 pm)</DATETIME>
+<BODY>i dont</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:50:21 pm)</DATETIME>
+<BODY>just chattin tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:50:41 pm)</DATETIME>
+<BODY>ahhh ok! i played some poker last week, lost my shirt... lol next time i guess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:50:48 pm)</DATETIME>
+<BODY>so what got you playin poker?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:50:53 pm)</DATETIME>
+<BODY>haha@no shirt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:50:54 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:51:14 pm)</DATETIME>
+<BODY>yeah i went broke! ahhh no beer money :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:51:38 pm)</DATETIME>
+<BODY>awwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:51:45 pm)</DATETIME>
+<BODY>so what else ya do for fun? or are you just addicted to gambling? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:51:47 pm)</DATETIME>
+<BODY>i dont need none, i steal them from my aunt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:51:47 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:52:01 pm)</DATETIME>
+<BODY>haha and you can wear her clothes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:52:17 pm)</DATETIME>
+<BODY>no, her beers, silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:52:49 pm)</DATETIME>
+<BODY>ahhh i see :) well you just need to make older friends, lol then you can bum all the liquor you want..</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:53:20 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:53:26 pm)</DATETIME>
+<BODY>nope, i get from my aunt and mom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:53:27 pm)</DATETIME>
+<BODY>im good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:53:33 pm)</DATETIME>
+<BODY>lol they let you drink??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:54:17 pm)</DATETIME>
+<BODY>wish my parents were that chill when i was 13....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:54:25 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:54:28 pm)</DATETIME>
+<BODY>they dont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:54:29 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:54:38 pm)</DATETIME>
+<BODY>they would whup my ass</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:54:39 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:55:28 pm)</DATETIME>
+<BODY>lol i used to go hang out and drink in my friends car when i was younger, and come back home hammered... right to bed!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:56:40 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:56:42 pm)</DATETIME>
+<BODY>ive done that!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:56:52 pm)</DATETIME>
+<BODY>see yeah, i know wassup... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:57:14 pm)</DATETIME>
+<BODY>so what do you drink?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:58:23 pm)</DATETIME>
+<BODY>mikes, usually</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:58:44 pm)</DATETIME>
+<BODY>ahhh the lemonades...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:58:47 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:58:50 pm)</DATETIME>
+<BODY>i like em, hush!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:59:15 pm)</DATETIME>
+<BODY>lol i prefer the jd ones personally but i respect a ladies choice...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:59:34 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:59:38 pm)</DATETIME>
+<BODY>never had them before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(8:59:52 pm)</DATETIME>
+<BODY>theyre harder... but do the trick fo sho... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:59:56 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:59:57 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(8:59:59 pm)</DATETIME>
+<BODY>gotta potty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:00:00 pm)</DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:00:18 pm)</DATETIME>
+<BODY>brb too...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:05:19 pm)</DATETIME>
+<BODY>kk back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:05:50 pm)</DATETIME>
+<BODY>back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:06:16 pm)</DATETIME>
+<BODY>and thats for tellin me you were going potty, great mental image there.. lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:06:27 pm)</DATETIME>
+<BODY>err thanks! lol coulda lived without it :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:06:46 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:06:48 pm)</DATETIME>
+<BODY>sorry!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:07:15 pm)</DATETIME>
+<BODY>ahh im teasin its cool... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:07:22 pm)</DATETIME>
+<BODY>meanie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:07:23 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:07:35 pm)</DATETIME>
+<BODY>haha dont tell me you smoke too...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:08:02 pm)</DATETIME>
+<BODY>not alla time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:08:26 pm)</DATETIME>
+<BODY>lol damn, youre pretty old for 13...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:08:37 pm)</DATETIME>
+<BODY>sure you aint got an older sister? haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:09:14 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:09:16 pm)</DATETIME>
+<BODY>nope, jus me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:09:18 pm)</DATETIME>
+<BODY>so there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:09:52 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:10:11 pm)</DATETIME>
+<BODY>lol well fine then youre cool in my book, poker, drinks and a cigarette now and then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:10:18 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:10:23 pm)</DATETIME>
+<BODY>i am cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:10:40 pm)</DATETIME>
+<BODY>lol never said you werent! so whats the craziest shit you done so far? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:10:44 pm)</DATETIME>
+<BODY>im makin an avatar so people know kinda what i loook like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:10:50 pm)</DATETIME>
+<BODY>hah, waht you mean?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:11:12 pm)</DATETIME>
+<BODY>like you ever done some shit where youre like, oh damn if my parents knew...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:11:16 pm)</DATETIME>
+<BODY>hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:11:19 pm)</DATETIME>
+<BODY>id be sooo screwed!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:11:21 pm)</DATETIME>
+<BODY>lots of stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:11:22 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:11:25 pm)</DATETIME>
+<BODY>for what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:11:30 pm)</DATETIME>
+<BODY>lol so what the worst?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:07 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:08 pm)</DATETIME>
+<BODY>justin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:12:22 pm)</DATETIME>
+<BODY>awww did you do something really bad? haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:34 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:44 pm)</DATETIME>
+<BODY>mom wouldnt like me havin a boyfriend, prolly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:12:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:12:58 pm)</DATETIME>
+<BODY>lol it depends, if you have a boyfriend it aint that bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:13:21 pm)</DATETIME>
+<BODY>but if youre doin stuff that could make her a grandma.. well shit yeah that could be bad!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:13:24 pm)</DATETIME>
+<BODY>yah, but he was older than me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:13:25 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:13:33 pm)</DATETIME>
+<BODY>hah how old?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:13:46 pm)</DATETIME>
+<BODY>he wuz 23</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:14:02 pm)</DATETIME>
+<BODY>lol well was it fun?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:10 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:12 pm)</DATETIME>
+<BODY>mostly, yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:14:21 pm)</DATETIME>
+<BODY>ahhh i see you go all the way too?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:42 pm)</DATETIME>
+<BODY>not yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:48 pm)</DATETIME>
+<BODY>i hadda move, but we were gonna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:14:51 pm)</DATETIME>
+<BODY>ahhh then see it aint so bad! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:14:59 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:15:08 pm)</DATETIME>
+<BODY>you makin fun of me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:15:15 pm)</DATETIME>
+<BODY>i went all the way with a 13 yr old once...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:15:22 pm)</DATETIME>
+<BODY>but i was 15... :-p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:15:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:15:33 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:15:40 pm)</DATETIME>
+<BODY>and we were kinda drunk, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:15:52 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:16:04 pm)</DATETIME>
+<BODY>but making out is sooo nice when youre drunk, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:16:37 pm)</DATETIME>
+<BODY>totally</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:16:38 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:16:56 pm)</DATETIME>
+<BODY>hahha so what do you look like?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:17:55 pm)</DATETIME>
+<BODY>and no i dont wanna know what color nose hairs you have...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:06 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:08 pm)</DATETIME>
+<BODY>hush, you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:12 pm)</DATETIME>
+<BODY>avy is almost done</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:18:24 pm)</DATETIME>
+<BODY>hahah allright so avy is her name?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:34 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:36 pm)</DATETIME>
+<BODY>avatar</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:18:37 pm)</DATETIME>
+<BODY>silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:18:47 pm)</DATETIME>
+<BODY>lol i was about to say her name should be sarah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:19:18 pm)</DATETIME>
+<BODY>so how tall are ya??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:19:43 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:19:50 pm)</DATETIME>
+<BODY>5'6</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:20:07 pm)</DATETIME>
+<BODY>ahhh yeah do ppl think your 18 ever?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:20:20 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:20:27 pm)</DATETIME>
+<BODY>i dont think people care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:20:28 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:20:33 pm)</DATETIME>
+<BODY>bought cigs once, so maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:20:42 pm)</DATETIME>
+<BODY>lol bad sarah...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:20:58 pm)</DATETIME>
+<BODY>hush</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:21:22 pm)</DATETIME>
+<BODY>haha! so how do you like to dress?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:21:32 pm)</DATETIME>
+<BODY>see the pic?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:21:34 pm)</DATETIME>
+<BODY>kinda like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:21:35 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:21:44 pm)</DATETIME>
+<BODY>lolo i cant see it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:22:05 pm)</DATETIME>
+<BODY>black, alot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:22:19 pm)</DATETIME>
+<BODY>hmm you like wearing black?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:22:22 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:22:33 pm)</DATETIME>
+<BODY>well thats cool, black looks good...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:22:43 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:22:46 pm)</DATETIME>
+<BODY>black skirts, black heels... lol black whatever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:22:49 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:22:52 pm)</DATETIME>
+<BODY>tru tru</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:22:57 pm)</DATETIME>
+<BODY>black undies, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:23:08 pm)</DATETIME>
+<BODY>*looks*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:23:09 pm)</DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:23:17 pm)</DATETIME>
+<BODY>lol what color are they then</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:23:27 pm)</DATETIME>
+<BODY>white</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:23:42 pm)</DATETIME>
+<BODY>aww too cute... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:23:45 pm)</DATETIME>
+<BODY>why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:23:51 pm)</DATETIME>
+<BODY>im teasing ya, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:24:08 pm)</DATETIME>
+<BODY>i dont care even if theyre green and brown, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:24:16 pm)</DATETIME>
+<BODY>well if theyre brown you should care...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:24:19 pm)</DATETIME>
+<BODY>ewwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:24:26 pm)</DATETIME>
+<BODY>gross</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:24:48 pm)</DATETIME>
+<BODY>lol im just messin with ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:25:00 pm)</DATETIME>
+<BODY>big ol meanie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:25:00 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:25:05 pm)</DATETIME>
+<BODY>so whats your idea of fun girl? lol yes i am...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:25:15 pm)</DATETIME>
+<BODY>i dunno, you?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:25:32 pm)</DATETIME>
+<BODY>ahhh a few drinks, movies, chillin...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:25:37 pm)</DATETIME>
+<BODY>doin whatevers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:25:59 pm)</DATETIME>
+<BODY>i like movies</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:26:05 pm)</DATETIME>
+<BODY>yeah like what kinds</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:26:23 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:26:26 pm)</DATETIME>
+<BODY>whatever, rilly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:26:28 pm)</DATETIME>
+<BODY>lol and no i cant see your avaar yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:26:29 pm)</DATETIME>
+<BODY>what kind you like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:26:32 pm)</DATETIME>
+<BODY>weird</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:26:36 pm)</DATETIME>
+<BODY>click the blue head thingie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:26:38 pm)</DATETIME>
+<BODY>comedies, crazy shit...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:26:57 pm)</DATETIME>
+<BODY>nope aint there!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:27:05 pm)</DATETIME>
+<BODY>weird</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:27:08 pm)</DATETIME>
+<BODY>i dunno, man</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:27:26 pm)</DATETIME>
+<BODY>fine then, tell me what you look like then :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:27:34 pm)</DATETIME>
+<BODY>5 ft 6</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:27:38 pm)</DATETIME>
+<BODY>reddish hair</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:27:40 pm)</DATETIME>
+<BODY>brown eyes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:27:49 pm)</DATETIME>
+<BODY>slim, athletic or thick?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:28:03 pm)</DATETIME>
+<BODY>slim</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:28:17 pm)</DATETIME>
+<BODY>well im sure the boys chase you all day,lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:28:26 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:28:27 pm)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:28:32 pm)</DATETIME>
+<BODY>but you like it that way...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:28:57 pm)</DATETIME>
+<BODY>mayyyyyybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:29:11 pm)</DATETIME>
+<BODY>and you like showing them something now and then, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:29:33 pm)</DATETIME>
+<BODY>hah, you wish</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:29:34 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:29:36 pm)</DATETIME>
+<BODY>like the finger, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:29:50 pm)</DATETIME>
+<BODY>hahah i dont wish but maybe they do!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:30:01 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:30:22 pm)</DATETIME>
+<BODY>see, i know it already, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:30:27 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:30:29 pm)</DATETIME>
+<BODY>truwe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:30:59 pm)</DATETIME>
+<BODY>hahah and you like to hang out somewhere quiet at night and drink and chill... but shit dont we all?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:31:20 pm)</DATETIME>
+<BODY>yes we do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:31:22 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:31:38 pm)</DATETIME>
+<BODY>i usually head somewhere real quiet and outta the way... bring a few beers and chill...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:32:04 pm)</DATETIME>
+<BODY>or at my place where i can watch a movie, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:32:11 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:32:15 pm)</DATETIME>
+<BODY>sounds good, lets go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:32:16 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:32:40 pm)</DATETIME>
+<BODY>hahah i would but you prolly cant go out tonight, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:32:50 pm)</DATETIME>
+<BODY>awwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:32:51 pm)</DATETIME>
+<BODY>dam</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:33:01 pm)</DATETIME>
+<BODY>see, youre stuck at home huh? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:06 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:10 pm)</DATETIME>
+<BODY>no one here, nothing to do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:11 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:33:13 pm)</DATETIME>
+<BODY>see! lol another time...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:33:19 pm)</DATETIME>
+<BODY>well where are your parents?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:34 pm)</DATETIME>
+<BODY>i live with my mom and aunt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:33:41 pm)</DATETIME>
+<BODY>yeah where they at?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:43 pm)</DATETIME>
+<BODY>moms at work, and aunt is out with friends</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:33:51 pm)</DATETIME>
+<BODY>ahh so you gotta stay home, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:33:54 pm)</DATETIME>
+<BODY>lots</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:34:21 pm)</DATETIME>
+<BODY>aww too bad, shit i might have bought you some lemonade, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:35:05 pm)</DATETIME>
+<BODY>aww mannnnnn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:35:32 pm)</DATETIME>
+<BODY>and drove somehwere quiet and let you have a few drinks and just chill...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:35:38 pm)</DATETIME>
+<BODY>man, i am so bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:35:46 pm)</DATETIME>
+<BODY>whatcha mean, chill?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:35:57 pm)</DATETIME>
+<BODY>like sit back, talk story... you know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:36:11 pm)</DATETIME>
+<BODY>laugh about stupid shit going on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:36:29 pm)</DATETIME>
+<BODY>hah, plenty of that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:36:33 pm)</DATETIME>
+<BODY>you dont have a gf?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:36:43 pm)</DATETIME>
+<BODY>yup! naw dont have one, prolly dont need one, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:36:53 pm)</DATETIME>
+<BODY>hah, why?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:02 pm)</DATETIME>
+<BODY>but i got enough ladies after me im cool... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:37:06 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:37:10 pm)</DATETIME>
+<BODY>waht do you look like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:14 pm)</DATETIME>
+<BODY>ahhh drama, dont want none of that you know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:37:21 pm)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:24 pm)</DATETIME>
+<BODY>ahh im 5'7" dark hair and eyes...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:37:26 pm)</DATETIME>
+<BODY>hey, boys are drama too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:32 pm)</DATETIME>
+<BODY>im a jeans and t shirt kinda guy...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:36 pm)</DATETIME>
+<BODY>little boys are, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:50 pm)</DATETIME>
+<BODY>but men dont create drama the solve that shit...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:37:55 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:37:56 pm)</DATETIME>
+<BODY>err they solve that shit...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:38:31 pm)</DATETIME>
+<BODY>but nah i dont like drama... i like my life stress free...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:39:01 pm)</DATETIME>
+<BODY>i like my girls the same way you know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:39:05 pm)</DATETIME>
+<BODY>tue dat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:39:30 pm)</DATETIME>
+<BODY>lol if i kiss or make out with a girl i dont want her asking to be my girlfriend off the bat!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:39:58 pm)</DATETIME>
+<BODY>for me its like, shit it was fun but lets hang out more first... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:39:59 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:40:02 pm)</DATETIME>
+<BODY>girls are silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:40:16 pm)</DATETIME>
+<BODY>lol so you can make out witha dude and not trp on him?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:40:20 pm)</DATETIME>
+<BODY>err trip?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:40:49 pm)</DATETIME>
+<BODY>yah, i have before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:41:00 pm)</DATETIME>
+<BODY>gotta see where shit leads before gettin all loco</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:41:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:41:16 pm)</DATETIME>
+<BODY>oh you know it... oh and you ever gone all the way</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:41:29 pm)</DATETIME>
+<BODY>or you just waiting for someone you really like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:41:56 pm)</DATETIME>
+<BODY>i was gonna with justin, but i hada move</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:42:10 pm)</DATETIME>
+<BODY>doh how long ago you move?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:42:16 pm)</DATETIME>
+<BODY>2 months</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:42:22 pm)</DATETIME>
+<BODY>damn that sucks...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:42:35 pm)</DATETIME>
+<BODY>now u know why i dont know anyone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:42:49 pm)</DATETIME>
+<BODY>ah so thats why youre looking to hang out and stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:43:00 pm)</DATETIME>
+<BODY>duuuuuuh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:43:01 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:43:06 pm)</DATETIME>
+<BODY>and i miss justin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:43:07 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:43:47 pm)</DATETIME>
+<BODY>hahah and your prolly wondering about sex too cuz you were gonna but couldnt, that sucks...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:06 pm)</DATETIME>
+<BODY>yah, i spose</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:44:14 pm)</DATETIME>
+<BODY>shit i dunno, its why i asked, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:44:19 pm)</DATETIME>
+<BODY>you got a phone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:28 pm)</DATETIME>
+<BODY>my ant does</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:32 pm)</DATETIME>
+<BODY>aunt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:35 pm)</DATETIME>
+<BODY>but i cant use it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:40 pm)</DATETIME>
+<BODY>my mom has a cell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:44:43 pm)</DATETIME>
+<BODY>damn whats up with that, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:44:52 pm)</DATETIME>
+<BODY>i kno!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:45:01 pm)</DATETIME>
+<BODY>theres one at the store i use with my phone card</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:45:17 pm)</DATETIME>
+<BODY>i was about to say in a few minutes i gotta go for a few, but if you wanan talk to me you can on da phone, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:45:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:45:44 pm)</DATETIME>
+<BODY>i can call you if you wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:45:55 pm)</DATETIME>
+<BODY>ahh ok call me then at 909-806-9925</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:46:05 pm)</DATETIME>
+<BODY>i'll be back kk, gotta take care of some shit, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:46:10 pm)</DATETIME>
+<BODY>so call me :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:46:13 pm)</DATETIME>
+<BODY>how long?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:46:22 pm)</DATETIME>
+<BODY>ahhh 15 min, you gonan call now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:46:33 pm)</DATETIME>
+<BODY>i can call in like 20</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:46:43 pm)</DATETIME>
+<BODY>ahh ok my friend is supposed to drop off some shit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:46:59 pm)</DATETIME>
+<BODY>so i promised him id wait outside, but its butt ass cold out there!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:47:35 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:47:43 pm)</DATETIME>
+<BODY>wear a coat, silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:47:59 pm)</DATETIME>
+<BODY>man i dont wanna out on a coat im home... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:48:03 pm)</DATETIME>
+<BODY>then go to the circle k and get me some mikes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:48:19 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:48:20 pm)</DATETIME>
+<BODY>shit only way im getting mikes is if i can share some with ya girl, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:48:30 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:48:32 pm)</DATETIME>
+<BODY>duuuuh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:48:41 pm)</DATETIME>
+<BODY>lol i would but youre stuck at home,lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:49:08 pm)</DATETIME>
+<BODY>you have a car, yah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:49:12 pm)</DATETIME>
+<BODY>yup!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:49:36 pm)</DATETIME>
+<BODY>if you got the time i got the cash and the wheels, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:49:47 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:49:54 pm)</DATETIME>
+<BODY>we could watch a movie or somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:50:02 pm)</DATETIME>
+<BODY>at your place? or mine?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:50:38 pm)</DATETIME>
+<BODY>or like out in a theater or somethin, haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:50:41 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:00 pm)</DATETIME>
+<BODY>cant get outta here till late tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:02 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:14 pm)</DATETIME>
+<BODY>aunt might come home, gotta wait till she gets liquored up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:15 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:51:15 pm)</DATETIME>
+<BODY>well if you can get out late i can hang out late... dont matter to me none</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:26 pm)</DATETIME>
+<BODY>you dont work tomorow?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:51:39 pm)</DATETIME>
+<BODY>not till 3pm, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:44 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:51:49 pm)</DATETIME>
+<BODY>whats your bed time?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:51:55 pm)</DATETIME>
+<BODY>when i wanna go to bed, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:52:19 pm)</DATETIME>
+<BODY>you should totally come get me, at like, 130, 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:52:20 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:52:29 pm)</DATETIME>
+<BODY>shit i will if you want, haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:52:33 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:52:44 pm)</DATETIME>
+<BODY>im gonna call you first, make sure you aint some weirdo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:52:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:53:02 pm)</DATETIME>
+<BODY>yup! speakin of which i gots to go outside, call me when you get a chance kk?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:53:10 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:53:12 pm)</DATETIME>
+<BODY>in a few</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:53:15 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:53:33 pm)</DATETIME>
+<BODY>whats your name!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(9:53:34 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:53:52 pm)</DATETIME>
+<BODY>phil. lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:53:55 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(9:53:57 pm)</DATETIME>
+<BODY>!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:12:33 pm)</DATETIME>
+<BODY>huuuuuuury</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:17:27 pm)</DATETIME>
+<BODY>lol damn someone is bored as shit, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:17:39 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:17:41 pm)</DATETIME>
+<BODY>duuuuhhhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:17:51 pm)</DATETIME>
+<BODY>hhah well glad you dont think im weird and all</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:18:04 pm)</DATETIME>
+<BODY>hahah, nooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:18:05 pm)</DATETIME>
+<BODY>now later i just gotta pick up the drinks... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:18:14 pm)</DATETIME>
+<BODY>you want mikes or something else?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:18:14 pm)</DATETIME>
+<BODY>hellz yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:18:17 pm)</DATETIME>
+<BODY>mikes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:18:20 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:18:23 pm)</DATETIME>
+<BODY>or whatever you want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:18:32 pm)</DATETIME>
+<BODY>kk i'll get some of that, lol well lets see what i can find around here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:18:57 pm)</DATETIME>
+<BODY>and you got a place around where you are you like to drink or you want me to take you back to my area? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:21 pm)</DATETIME>
+<BODY>well, my aunt will be here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:27 pm)</DATETIME>
+<BODY>passed out, but yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:27 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:19:38 pm)</DATETIME>
+<BODY>ahh ok well you prefer chillin around my place?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:19:47 pm)</DATETIME>
+<BODY>pop in a movie or some shit, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:50 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:53 pm)</DATETIME>
+<BODY>or whatever, yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:19:53 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:19:58 pm)</DATETIME>
+<BODY>kk thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:06 pm)</DATETIME>
+<BODY>what you mean, some shit?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:07 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:20:17 pm)</DATETIME>
+<BODY>lol a movie or watch some tv, hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:22 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:23 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:20:25 pm)</DATETIME>
+<BODY>but 2am tv sucks...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:32 pm)</DATETIME>
+<BODY>infomercials!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:34 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:20:43 pm)</DATETIME>
+<BODY>whatcha wanna watch?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:20:52 pm)</DATETIME>
+<BODY>trust me i know so well.. lol and btw you sound older than you really are, ahh lemme see i got a few movies here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:21:09 pm)</DATETIME>
+<BODY>awwww, thnx!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:21:12 pm)</DATETIME>
+<BODY>some comedy, some action, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:22:02 pm)</DATETIME>
+<BODY>but theres a few to chose from so i dont care, i plan on doing more drinking than watching... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:22:10 pm)</DATETIME>
+<BODY>hahah, true that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:22:28 pm)</DATETIME>
+<BODY>till i get drunk then im good, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:22:38 pm)</DATETIME>
+<BODY>what you like when drunk?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:22:48 pm)</DATETIME>
+<BODY>ahhh i joke around a lot, talk a lot, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:23:02 pm)</DATETIME>
+<BODY>but i always knwo whats going on, lol i dont do stupid shit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:23:07 pm)</DATETIME>
+<BODY>like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:23:38 pm)</DATETIME>
+<BODY>like say some bad stuff or act like i dunno whats goin on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:23:51 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:23:56 pm)</DATETIME>
+<BODY>whats bad stuff?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:24:06 pm)</DATETIME>
+<BODY>hah when ppl do that theyre just being pussies, like say something mean or rude</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:24:16 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:24:17 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:24:32 pm)</DATETIME>
+<BODY>oh so how the hell do i pick you up? haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:24:41 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:24:42 pm)</DATETIME>
+<BODY>i cant get out outside your house right? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:24:46 pm)</DATETIME>
+<BODY>in your car, duh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:24:58 pm)</DATETIME>
+<BODY>well yeah, thats right its why i drive, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:25:08 pm)</DATETIME>
+<BODY>lol but where do i get ya, oustide your house?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:25:21 pm)</DATETIME>
+<BODY>you can come in, aunt will be asleep, and mom wont be here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:25:22 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:25:22 pm)</DATETIME>
+<BODY>or like nearby? haha i dont want to get your ass in trouble</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>21</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:25:37 pm)</DATETIME>
+<BODY>just knock quietly, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:25:59 pm)</DATETIME>
+<BODY>lol tell you what, whats your address?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:26:07 pm)</DATETIME>
+<BODY>hang on a sec, brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:26:10 pm)</DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:17 pm)</DATETIME>
+<BODY>ok, back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:21 pm)</DATETIME>
+<BODY>god, heard a noise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:21 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:27:29 pm)</DATETIME>
+<BODY>welcome back, lol damn...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:36 pm)</DATETIME>
+<BODY>scared the bejeez outta me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:36 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:27:49 pm)</DATETIME>
+<BODY>remind me not to scare you with weird noises, hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:27:52 pm)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:28:04 pm)</DATETIME>
+<BODY>lol so whats your adddress or how to i get there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:28:25 pm)</DATETIME>
+<BODY>i dunno, are you a weirdo?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:28:25 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:28:34 pm)</DATETIME>
+<BODY>hmm, lemme look in the mirror, one sec...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:28:42 pm)</DATETIME>
+<BODY>nah i think im pretty normal... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:28:50 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:28:56 pm)</DATETIME>
+<BODY>what else you got to do there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:29:04 pm)</DATETIME>
+<BODY>im done now, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:29:14 pm)</DATETIME>
+<BODY>im just chillin watching some tv...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:29:23 pm)</DATETIME>
+<BODY>other than that i aint got shit to do, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:29:38 pm)</DATETIME>
+<BODY>oh yeah i gotta pick up drinks before i get ya cuz of curfew... ugh</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:29:43 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:29:50 pm)</DATETIME>
+<BODY>dont forget!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:30:03 pm)</DATETIME>
+<BODY>yup! so i'll get that shit in an hour or so, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:30:23 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:30:31 pm)</DATETIME>
+<BODY>what you drive?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:30:51 pm)</DATETIME>
+<BODY>i drive a honda accord... green</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:30:58 pm)</DATETIME>
+<BODY>rilly?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:00 pm)</DATETIME>
+<BODY>what year?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:31:06 pm)</DATETIME>
+<BODY>yup! its a 97</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:13 pm)</DATETIME>
+<BODY>omg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:23 pm)</DATETIME>
+<BODY>my old bf drove a 96</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:27 pm)</DATETIME>
+<BODY>blue, tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:29 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:31:31 pm)</DATETIME>
+<BODY>hah so you'll know what the car looks like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:36 pm)</DATETIME>
+<BODY>hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:40 pm)</DATETIME>
+<BODY>boy do i</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:31:46 pm)</DATETIME>
+<BODY>bad girl! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:31:50 pm)</DATETIME>
+<BODY>whaaaaat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:31:57 pm)</DATETIME>
+<BODY>im teasing ya, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:32:16 pm)</DATETIME>
+<BODY>teasing me bout what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:32:27 pm)</DATETIME>
+<BODY>hahah so anyway where do ya live?? about knowing the car so well... lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:32:37 pm)</DATETIME>
+<BODY>well i did know the car well</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:32:38 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:32:42 pm)</DATETIME>
+<BODY>was in it a bunch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:32:53 pm)</DATETIME>
+<BODY>see so you know what it looks like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:00 pm)</DATETIME>
+<BODY>i believe i said that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:33:12 pm)</DATETIME>
+<BODY>hahah yes you did! so whats your address girl?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:22 pm)</DATETIME>
+<BODY>man, you sure you aint got a gf, who is gonna kick my ass?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:33:26 pm)</DATETIME>
+<BODY>so im not driving around corona yelling your name, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:33:39 pm)</DATETIME>
+<BODY>hmmm, lemme look around for a gf, umm nope!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:52 pm)</DATETIME>
+<BODY>i will give it to you in a few mins</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:53 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:58 pm)</DATETIME>
+<BODY>and did you look under the desk?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:33:59 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:34:10 pm)</DATETIME>
+<BODY>yeah nothing but carpet, lol no girl there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:34:38 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:34:57 pm)</DATETIME>
+<BODY>ima get there, and some girl will be all "you stealin my man" from jerry springer thing on me, and hit me with flowers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:34:58 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:35:13 pm)</DATETIME>
+<BODY>lol man that would be hella funny...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:35:21 pm)</DATETIME>
+<BODY>you just want 2 girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:35:22 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:35:23 pm)</DATETIME>
+<BODY>for me though :d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:35:32 pm)</DATETIME>
+<BODY>lol i need one to have 2!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:35:45 pm)</DATETIME>
+<BODY>so far its 0... hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:35:52 pm)</DATETIME>
+<BODY>0 ever?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:00 pm)</DATETIME>
+<BODY>man, worse than me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:36:04 pm)</DATETIME>
+<BODY>lol since last august!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:05 pm)</DATETIME>
+<BODY>ive had 2 bfs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:36:15 pm)</DATETIME>
+<BODY>at the same time, ohhh youre bad...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:29 pm)</DATETIME>
+<BODY>eeeek</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:31 pm)</DATETIME>
+<BODY>ouch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:36:31 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:36:40 pm)</DATETIME>
+<BODY>yeah that would be painful, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:36:56 pm)</DATETIME>
+<BODY>gotta get the names straight!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:37:12 pm)</DATETIME>
+<BODY>one, maybe, two....yeouch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:37:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:37:42 pm)</DATETIME>
+<BODY>haha yeah thats too much man for any girl...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:37:55 pm)</DATETIME>
+<BODY>hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:37:57 pm)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:03 pm)</DATETIME>
+<BODY>i seen some whoooorish girls</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:11 pm)</DATETIME>
+<BODY>look like they could do 5</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:19 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:38:20 pm)</DATETIME>
+<BODY>hahah but youre not like that are ya?! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:30 pm)</DATETIME>
+<BODY>shrugs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:30 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:38:34 pm)</DATETIME>
+<BODY>oh shush!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:36 pm)</DATETIME>
+<BODY>maybe one or two</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:38:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:38:54 pm)</DATETIME>
+<BODY>lol well tell me this youre a virgin right?!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:06 pm)</DATETIME>
+<BODY>mostly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:07 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:39:15 pm)</DATETIME>
+<BODY>haha! well thats close enough</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:28 pm)</DATETIME>
+<BODY>tell him that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:28 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:39:35 pm)</DATETIME>
+<BODY>ahh youre funny....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:46 pm)</DATETIME>
+<BODY>lookin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:39:46 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:40:00 pm)</DATETIME>
+<BODY>lol im sure now youre not a 40 yr old man...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:40:19 pm)</DATETIME>
+<BODY>mebbie i am!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:40:24 pm)</DATETIME>
+<BODY>ewwww...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:40:42 pm)</DATETIME>
+<BODY>i'll have another drink tonight just to get that outta my mind...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:40:55 pm)</DATETIME>
+<BODY>you will see for yourself, silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:00 pm)</DATETIME>
+<BODY>what you want in your mind instead?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:01 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:41:19 pm)</DATETIME>
+<BODY>lol someone normal and female hows that??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:37 pm)</DATETIME>
+<BODY>*looks down*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:41:37 pm)</DATETIME>
+<BODY>hmmm btw you like mixed drinks?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:38 pm)</DATETIME>
+<BODY>yup</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:39 pm)</DATETIME>
+<BODY>female</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:41:54 pm)</DATETIME>
+<BODY>never tried them much before</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:41:54 pm)</DATETIME>
+<BODY>hahah ok you can put your pants back on butthanks for checking</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:42:07 pm)</DATETIME>
+<BODY>ahhh like an alcoholic smoothie, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:42:13 pm)</DATETIME>
+<BODY>pants?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:42:17 pm)</DATETIME>
+<BODY>i have some good vodka here that i need to work through, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:42:54 pm)</DATETIME>
+<BODY>lol yeah you were checking if you were female right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:43:05 pm)</DATETIME>
+<BODY>just sayin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:43:06 pm)</DATETIME>
+<BODY>no pants</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:43:08 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:43:25 pm)</DATETIME>
+<BODY>lol bad sarah...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:43:33 pm)</DATETIME>
+<BODY>mayyyybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:43:33 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:44:04 pm)</DATETIME>
+<BODY>ahhh i'll just hand you a drink then and forget about it, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:44:53 pm)</DATETIME>
+<BODY>forget about what, me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:45:05 pm)</DATETIME>
+<BODY>lol no the idea of you not wearing pants, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:45:18 pm)</DATETIME>
+<BODY>bad things happen when ppl lose their plants!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:45:21 pm)</DATETIME>
+<BODY>err pants!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:45:55 pm)</DATETIME>
+<BODY>like cold legs, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:45:56 pm)</DATETIME>
+<BODY>like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:46:19 pm)</DATETIME>
+<BODY>hahah well if you lose your pants, you might lose more! be careful...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:47:05 pm)</DATETIME>
+<BODY>and always know where your pants are, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:47:05 pm)</DATETIME>
+<BODY>oh yeah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:47:22 pm)</DATETIME>
+<BODY>yup! you know those white undies..? gone!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:47:36 pm)</DATETIME>
+<BODY>and now youre cold... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:47:56 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:48:00 pm)</DATETIME>
+<BODY>nuh uh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:48:04 pm)</DATETIME>
+<BODY>its warm!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:48:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:48:44 pm)</DATETIME>
+<BODY>hahah then it just means you want it to be played with is all...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:48:55 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:48:57 pm)</DATETIME>
+<BODY>mebbie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:49:52 pm)</DATETIME>
+<BODY>well if thats the truth, then you just grab and hand and put it where you like... lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:50:06 pm)</DATETIME>
+<BODY>nah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:50:09 pm)</DATETIME>
+<BODY>im no good at that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:50:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:50:22 pm)</DATETIME>
+<BODY>lol i am but shhhh... dont tell anyone...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:50:37 pm)</DATETIME>
+<BODY>im good with secrets</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:50:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:50:56 pm)</DATETIME>
+<BODY>hhah you know how to keep quiet too? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:51:07 pm)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:51:08 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:51:09 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:51:30 pm)</DATETIME>
+<BODY>lol hahah! so yeah... ummm what time should i be there? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:51:38 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:51:41 pm)</DATETIME>
+<BODY>what you thinkin bout</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:51:57 pm)</DATETIME>
+<BODY>about getting drinks, lol what were you thinking about?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:52:05 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:52:09 pm)</DATETIME>
+<BODY>secrets</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:52:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:52:38 pm)</DATETIME>
+<BODY>lol so tell me a secret :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:52:48 pm)</DATETIME>
+<BODY>what you wanna know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:53:03 pm)</DATETIME>
+<BODY>hmmm how far have you gone with a guy?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:53:27 pm)</DATETIME>
+<BODY>kissed, touched</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:53:34 pm)</DATETIME>
+<BODY>kinda did other stuff, to him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:53:48 pm)</DATETIME>
+<BODY>haha did he return the fsvor?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:53:51 pm)</DATETIME>
+<BODY>err favor?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:54:08 pm)</DATETIME>
+<BODY>no!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:54:17 pm)</DATETIME>
+<BODY>he said it was gross</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:54:17 pm)</DATETIME>
+<BODY>oh what a meanie... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:54:19 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:54:35 pm)</DATETIME>
+<BODY>im a little more nicer, i like returning favors...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:54:45 pm)</DATETIME>
+<BODY>:d:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:54:56 pm)</DATETIME>
+<BODY>oh yah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:55:01 pm)</DATETIME>
+<BODY>yup!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:55:17 pm)</DATETIME>
+<BODY>you tell me a secret</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:55:18 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:55:44 pm)</DATETIME>
+<BODY>hmmm, well lesse...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:55:51 pm)</DATETIME>
+<BODY>naughty or not so naughty, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:56:04 pm)</DATETIME>
+<BODY>naughty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:56:05 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:56:28 pm)</DATETIME>
+<BODY>hmm well i like touching a girl... down there...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:56:46 pm)</DATETIME>
+<BODY>yah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:56:53 pm)</DATETIME>
+<BODY>right on that special spot...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:57:04 pm)</DATETIME>
+<BODY>any girl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:57:16 pm)</DATETIME>
+<BODY>no just ones i like... :-p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:57:33 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:57:36 pm)</DATETIME>
+<BODY>do you like me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:57:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:57:46 pm)</DATETIME>
+<BODY>lol we'll see! i like you so far!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:58:04 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:58:07 pm)</DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:58:36 pm)</DATETIME>
+<BODY>hahah yeah it is... lol so you gotta tell me now, how do i get to your place??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:03 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:06 pm)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:59:10 pm)</DATETIME>
+<BODY>hahah allright</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:13 pm)</DATETIME>
+<BODY>gotta get a drink</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:59:31 pm)</DATETIME>
+<BODY>lol so do i... in a few minutes!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:43 pm)</DATETIME>
+<BODY>i will talk when you get back, then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:44 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:48 pm)</DATETIME>
+<BODY>mebbie on the phone again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(10:59:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(10:59:52 pm)</DATETIME>
+<BODY>lol allright</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:00:05 pm)</DATETIME>
+<BODY>k, brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:02:00 pm)</DATETIME>
+<BODY>me too i'll have my phone on me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:27:33 pm)</DATETIME>
+<BODY>hey you back yet?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:34:10 pm)</DATETIME>
+<BODY>*runs up behind you*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:34:11 pm)</DATETIME>
+<BODY>boo!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:34:39 pm)</DATETIME>
+<BODY>lol crap careful i spook easy, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:34:59 pm)</DATETIME>
+<BODY>oy so whered ya go off to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:35:08 pm)</DATETIME>
+<BODY>had to go take a shower</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:35:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:35:19 pm)</DATETIME>
+<BODY>and aunt came home, so i hadda talk to her for a minute</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:35:22 pm)</DATETIME>
+<BODY>oh sweet so youre not funky anymore, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:35:47 pm)</DATETIME>
+<BODY>no, but she is, phew</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:35:50 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:36:01 pm)</DATETIME>
+<BODY>lol your aunt? yuck!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:16 pm)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:23 pm)</DATETIME>
+<BODY>she was smoking</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:28 pm)</DATETIME>
+<BODY>smells so much like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:29 pm)</DATETIME>
+<BODY>ugh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:34 pm)</DATETIME>
+<BODY>like, hello, perfume?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:43 pm)</DATETIME>
+<BODY>get her one of those little trees from the car for her</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:36:44 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:36:52 pm)</DATETIME>
+<BODY>haha i see, oh yeah she should prolly slap it on herself...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:21 pm)</DATETIME>
+<BODY>whatcha get me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:22 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:37:28 pm)</DATETIME>
+<BODY>heheh havent left yet!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:37:34 pm)</DATETIME>
+<BODY>im gonan leave soon though...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:37:42 pm)</DATETIME>
+<BODY>about 10, curfew isnt till 1, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:46 pm)</DATETIME>
+<BODY>augh, thought you left already!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:47 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:55 pm)</DATETIME>
+<BODY>i want presents, damnit!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:37:56 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:37:59 pm)</DATETIME>
+<BODY>nope! and btw you still have to gimme youre address silly!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:02 pm)</DATETIME>
+<BODY>no secrets for you if no presents</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:03 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:04 pm)</DATETIME>
+<BODY>i know that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:05 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:38:12 pm)</DATETIME>
+<BODY>lol you'll have presents, promise!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:18 pm)</DATETIME>
+<BODY>oh yeah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:20 pm)</DATETIME>
+<BODY>like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:38:28 pm)</DATETIME>
+<BODY>if i tell you its not a present!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:38:38 pm)</DATETIME>
+<BODY>just like its not a secret if you tell someone! haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:38:58 pm)</DATETIME>
+<BODY>i wont tell no one</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:05 pm)</DATETIME>
+<BODY>no whatcha get me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:07 pm)</DATETIME>
+<BODY>now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:39:23 pm)</DATETIME>
+<BODY>lol i haveht even gotten it yet!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:39:43 pm)</DATETIME>
+<BODY>i'm gonan go get it though, but first you gotta tell me how to get there...:-p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:48 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:53 pm)</DATETIME>
+<BODY>i will, you blackailer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:56 pm)</DATETIME>
+<BODY>blackmailer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:39:56 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:39:57 pm)</DATETIME>
+<BODY>see i can be a brat too! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:40:17 pm)</DATETIME>
+<BODY>you callin me a brat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:40:29 pm)</DATETIME>
+<BODY>lol no i said i was being a brat :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:41:38 pm)</DATETIME>
+<BODY>you were calling me a brat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:41:40 pm)</DATETIME>
+<BODY>i know!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:41:41 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:41:50 pm)</DATETIME>
+<BODY>naw youre too cool to be a brat...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:42:01 pm)</DATETIME>
+<BODY>even if you try and act like one, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:42:36 pm)</DATETIME>
+<BODY>dont make me spank you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:42:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:42:55 pm)</DATETIME>
+<BODY>careful, you do that to me i'll do it right back... ;;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:43:37 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:43:38 pm)</DATETIME>
+<BODY>promise?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:43:45 pm)</DATETIME>
+<BODY>lol hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:44:02 pm)</DATETIME>
+<BODY>only if you squeal a little...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:44:16 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:44:17 pm)</DATETIME>
+<BODY>might</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:44:23 pm)</DATETIME>
+<BODY>you like that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:44:24 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:44:31 pm)</DATETIME>
+<BODY>a little... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:44:49 pm)</DATETIME>
+<BODY>so what else makes you squeal? cold water? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:44:55 pm)</DATETIME>
+<BODY>what else you like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:45:22 pm)</DATETIME>
+<BODY>hmmm, i really like kissing, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:45:32 pm)</DATETIME>
+<BODY>mmmm, me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:45:52 pm)</DATETIME>
+<BODY>yeah? so where do you like to be kissed??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:46:27 pm)</DATETIME>
+<BODY>where you like to kiss</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:46:30 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:46:56 pm)</DATETIME>
+<BODY>lol so we have that in common... now im warning you im a good strong kisser...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:47:07 pm)</DATETIME>
+<BODY>oh yah?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:47:09 pm)</DATETIME>
+<BODY>you might squeal a little, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:47:14 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:47:18 pm)</DATETIME>
+<BODY>good, you like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:47:29 pm)</DATETIME>
+<BODY>i do... ;;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:47:38 pm)</DATETIME>
+<BODY>and do you...? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:48:24 pm)</DATETIME>
+<BODY>heck yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:48:57 pm)</DATETIME>
+<BODY>hmmm, well i think we may grow to like each other, hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:49:30 pm)</DATETIME>
+<BODY>think so?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:50:03 pm)</DATETIME>
+<BODY>hmmm, im thinking its a possibility, i dunno i'll have to start kissing and find out, haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:50:09 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:50:11 pm)</DATETIME>
+<BODY>what if?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:50:30 pm)</DATETIME>
+<BODY>then im thinking yeah... lol if im kissing you im liking you...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:50:48 pm)</DATETIME>
+<BODY>hmmm so how do you let a guy know you like him...?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:51:01 pm)</DATETIME>
+<BODY>kissin and touching</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:51:04 pm)</DATETIME>
+<BODY>and more, if its cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:51:05 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:51:25 pm)</DATETIME>
+<BODY>haha well you'll have a few suprises if you get that far...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:51:38 pm)</DATETIME>
+<BODY>like what, i hate surprises</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:51:40 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:51:48 pm)</DATETIME>
+<BODY>like how big i am...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:52:13 pm)</DATETIME>
+<BODY>im not small, lol so i have to be careful sometimes</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:52:28 pm)</DATETIME>
+<BODY>how big?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:52:44 pm)</DATETIME>
+<BODY>6 and a half... lol not monstrous but not small...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:53:50 pm)</DATETIME>
+<BODY>lol how big do you like them?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:55:41 pm)</DATETIME>
+<BODY>hmm you there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:56:28 pm)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:56:32 pm)</DATETIME>
+<BODY>yah, looking for a ruler</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:56:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(11:56:57 pm)</DATETIME>
+<BODY>lol you find one yet?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:59:48 pm)</DATETIME>
+<BODY>just did</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(11:59:49 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>january 7, 2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:00:15 am)</DATETIME>
+<BODY>hehe so hows 6 and a half sound to you?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:00:49 am)</DATETIME>
+<BODY>to me it sounds like something id order at starbucks!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:00:58 am)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:01:01 am)</DATETIME>
+<BODY>sounds kinda big</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:01:02 am)</DATETIME>
+<BODY>ouchie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:01:22 am)</DATETIME>
+<BODY>lol i wouldnt put it inside...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:01:46 am)</DATETIME>
+<BODY>unless you made me, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:02:12 am)</DATETIME>
+<BODY>how could i make you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:02:13 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:02:18 am)</DATETIME>
+<BODY>you're bigger than i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:02:18 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:02:30 am)</DATETIME>
+<BODY>tie me up and put a gun to my head, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:02:38 am)</DATETIME>
+<BODY>creeeaaapy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:02:43 am)</DATETIME>
+<BODY>or just drive me wild... lol thats much more fun...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:03:31 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:03:32 am)</DATETIME>
+<BODY>true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:03:49 am)</DATETIME>
+<BODY>but im betting i could drive you wild first! ;;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:04:01 am)</DATETIME>
+<BODY>oh yeah? how?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:04:09 am)</DATETIME>
+<BODY>fingers and lips in the right places to crazy things...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:05:00 am)</DATETIME>
+<BODY>err do crazy things :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:05:12 am)</DATETIME>
+<BODY>hmmm where would i put my finger...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:05:29 am)</DATETIME>
+<BODY>someplace nice and warm... and a little wet...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:06:19 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:06:24 am)</DATETIME>
+<BODY>sounds good so far</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:06:24 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:06:36 am)</DATETIME>
+<BODY>and just rub in little circles...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:07:14 am)</DATETIME>
+<BODY>whats that do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:08:27 am)</DATETIME>
+<BODY>hey!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:08:30 am)</DATETIME>
+<BODY>dont fall sleep!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:09:39 am)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:13:56 am)</DATETIME>
+<BODY>helloooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:15:30 am)</DATETIME>
+<BODY>lol brb.. phone :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:15:40 am)</DATETIME>
+<BODY>aww talkin to your gf huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:15:41 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:25:59 am)</DATETIME>
+<BODY>*pokes*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:34:59 am)</DATETIME>
+<BODY>you forgot about me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:35:00 am)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:35:42 am)</DATETIME>
+<BODY>lol nope! sorry my nephew was callin..</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:35:53 am)</DATETIME>
+<BODY>hah, sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:36:05 am)</DATETIME>
+<BODY>thought i talked too much and scared ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:36:06 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:36:06 am)</DATETIME>
+<BODY>and wanted some advice, so i told him to stop smoking weed and get his ass to class, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:36:26 am)</DATETIME>
+<BODY>naw im here :) and as for the circles, you'll just have to find out wont ya?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:36:48 am)</DATETIME>
+<BODY>still comin to get me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:36:57 am)</DATETIME>
+<BODY>sure! when you want me to go?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:37:12 am)</DATETIME>
+<BODY>how long is it gonna take you to get to corona?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:37:18 am)</DATETIME>
+<BODY>ahhh 20 min at the very most</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:37:20 am)</DATETIME>
+<BODY>well, mira loma, but still</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:37:20 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:37:30 am)</DATETIME>
+<BODY>hahah yeah i dont live that far from there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:37:48 am)</DATETIME>
+<BODY>well, aunt is awake, but leaving for her bf's at 115, so can you be here at 130?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:37:59 am)</DATETIME>
+<BODY>yeah sure :) but how do i get there?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:38:16 am)</DATETIME>
+<BODY>and i'll wait outside by 130... so just look outside for an accord...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:38:17 am)</DATETIME>
+<BODY>you know mapquest?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:38:20 am)</DATETIME>
+<BODY>yup!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:38:32 am)</DATETIME>
+<BODY>ready?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:38:38 am)</DATETIME>
+<BODY>yup!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:38:57 am)</DATETIME>
+<BODY>*edited*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:39:00 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:39:22 am)</DATETIME>
+<BODY>ahh ok lemme pull it up..</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:39:28 am)</DATETIME>
+<BODY>kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:40:01 am)</DATETIME>
+<BODY>lol 15 minutes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:40:06 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:40:07 am)</DATETIME>
+<BODY>yay!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:40:18 am)</DATETIME>
+<BODY>yeah it aint far, and how will you be dressed?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:40:26 am)</DATETIME>
+<BODY>i will message you when she leaves, you can leave then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:40:27 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:40:27 am)</DATETIME>
+<BODY>you can just wear pj's or somethin... dont matter, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:40:30 am)</DATETIME>
+<BODY>heheh kk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:40:36 am)</DATETIME>
+<BODY>will she be all passed out and shit after?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:40:49 am)</DATETIME>
+<BODY>you want me in my pj's?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:41:00 am)</DATETIME>
+<BODY>i dont care, lol wear whever you want :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:11 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:11 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:26 am)</DATETIME>
+<BODY>now what you gona get me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:29 am)</DATETIME>
+<BODY>tell me1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:30 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:41:38 am)</DATETIME>
+<BODY>heels and a skirt, pj's, jeans, whever youre in the mood for, lol im gonna go to the store now and find out what they got!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:46 am)</DATETIME>
+<BODY>ohh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:47 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:49 am)</DATETIME>
+<BODY>i want presents!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:41:57 am)</DATETIME>
+<BODY>hahah i'll be back :) maybe in 30 or so kk?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:41:57 am)</DATETIME>
+<BODY>what store you going to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:42:01 am)</DATETIME>
+<BODY>stater bros...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:42:06 am)</DATETIME>
+<BODY>its just down the street!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:14 am)</DATETIME>
+<BODY>i want food!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:17 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:19 am)</DATETIME>
+<BODY>im hungry!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:20 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:42:24 am)</DATETIME>
+<BODY>lol ok i'll get food too...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:42:28 am)</DATETIME>
+<BODY>snacks and shit, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:37 am)</DATETIME>
+<BODY>what kinda snacks you like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:42:45 am)</DATETIME>
+<BODY>ahhh whatevers, nothing too salty, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:42:58 am)</DATETIME>
+<BODY>you like pie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:43:13 am)</DATETIME>
+<BODY>sure, i can eat pie, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:43:20 am)</DATETIME>
+<BODY>nawty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:43:29 am)</DATETIME>
+<BODY>no, rilly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:43:37 am)</DATETIME>
+<BODY>lol yeah really i can eat pie, im cool with it!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:43:43 am)</DATETIME>
+<BODY>what kind do you like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:43:54 am)</DATETIME>
+<BODY>ohhh, apple or cherry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:43:55 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:44:13 am)</DATETIME>
+<BODY>kk i'll get some, allright im gonan get dressed and go, store closes at 11! lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:18 am)</DATETIME>
+<BODY>go!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:21 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:44:26 am)</DATETIME>
+<BODY>kk brb!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:31 am)</DATETIME>
+<BODY>get me pie, and mikes and lots of stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:32 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:44:36 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:36 am)</DATETIME>
+<BODY>hey!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:44:41 am)</DATETIME>
+<BODY>ya?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:42 am)</DATETIME>
+<BODY>you wanna just hang here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:50 am)</DATETIME>
+<BODY>aunt will be gone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:44:57 am)</DATETIME>
+<BODY>ahh sure thats cool, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:44:59 am)</DATETIME>
+<BODY>mom wont be back till 1pm tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:45:10 am)</DATETIME>
+<BODY>kk then just tell me when its cool to come :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:45:13 am)</DATETIME>
+<BODY>alright, make sure you bring the stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:45:21 am)</DATETIME>
+<BODY>ok, tyou when you get back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:45:34 am)</DATETIME>
+<BODY>allright, but its for me, i might share it if im feeling nice, lol cya soon!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:45:39 am)</DATETIME>
+<BODY>i have to go pick up a bit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(12:45:40 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(12:45:46 am)</DATETIME>
+<BODY>kk cya soon!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:22:19 am)</DATETIME>
+<BODY>lemmie know when you get back...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:22:21 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:22:43 am)</DATETIME>
+<BODY>ahh im back, lol just watchin south park!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:22:47 am)</DATETIME>
+<BODY>ah, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:22:52 am)</DATETIME>
+<BODY>whatcha get me?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:23:21 am)</DATETIME>
+<BODY>hmmm, some mikes and im bringing vodka and a alcoholic energy drink... thats for me, you get pie and chips, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:23:30 am)</DATETIME>
+<BODY>what kinda pie?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:23:34 am)</DATETIME>
+<BODY>apple, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:23:35 am)</DATETIME>
+<BODY>and what kinda chips</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:23:37 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:23:44 am)</DATETIME>
+<BODY>ummm lays you know those thin ones??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:23:49 am)</DATETIME>
+<BODY>good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:23:50 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:24:08 am)</DATETIME>
+<BODY>lol see so now you have a friend in the area, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:24:20 am)</DATETIME>
+<BODY>and you better share a secret or two, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:24:55 am)</DATETIME>
+<BODY>whatcha wanna know?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:24:56 am)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:25:07 am)</DATETIME>
+<BODY>lol i'll ask when i get there!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:25:22 am)</DATETIME>
+<BODY>i just might show you a secret or two also... heh</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:25:31 am)</DATETIME>
+<BODY>ohhhhh, like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:25:44 am)</DATETIME>
+<BODY>hmmm, like what happens when you touch me in certain places...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:25:58 am)</DATETIME>
+<BODY>what does happen?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:26:00 am)</DATETIME>
+<BODY>tell me!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:26:01 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:26:08 am)</DATETIME>
+<BODY>well i start to get warm :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:26:22 am)</DATETIME>
+<BODY>and i cant resist the urge to touch you in certain places neither...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:26:54 am)</DATETIME>
+<BODY>so youre as warm as i am.... ;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:26:54 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:27:01 am)</DATETIME>
+<BODY>sounds good to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:27:37 am)</DATETIME>
+<BODY>oh and if i find somewhere really warm i'll start kissing there...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:27:44 am)</DATETIME>
+<BODY>ohhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:27:49 am)</DATETIME>
+<BODY>warm indeed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:27:51 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:28:04 am)</DATETIME>
+<BODY>hmmm what would happen if i did that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:28:10 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:28:13 am)</DATETIME>
+<BODY>you tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:28:14 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:28:32 am)</DATETIME>
+<BODY>lol no you tell me! :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:28:44 am)</DATETIME>
+<BODY>i...dont know!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:28:48 am)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:28:58 am)</DATETIME>
+<BODY>well it kinda gets really wet...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:29:13 am)</DATETIME>
+<BODY>and tingles a lot... :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:29:33 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:29:43 am)</DATETIME>
+<BODY>i hsould bring the ruler, make sure you aint lying</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:29:45 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:29:49 am)</DATETIME>
+<BODY>feel free, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:30:03 am)</DATETIME>
+<BODY>but i think we might be too busy to measure, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:30:13 am)</DATETIME>
+<BODY>think so?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:30:28 am)</DATETIME>
+<BODY>can you measure something while youre squealing? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:30:34 am)</DATETIME>
+<BODY>haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:30:38 am)</DATETIME>
+<BODY>prolly not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:31:03 am)</DATETIME>
+<BODY>heheh so why is your aunt leavin??</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:31:09 am)</DATETIME>
+<BODY>bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:31:22 am)</DATETIME>
+<BODY>they goin to his place to drink</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:31:33 am)</DATETIME>
+<BODY>yeah she gonna be out till morning?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:32:15 am)</DATETIME>
+<BODY>prolly tomorrow night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:32:18 am)</DATETIME>
+<BODY>she will sleep there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:32:40 am)</DATETIME>
+<BODY>lol i guess that leaves time for us to kick back and have fun, haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:32:49 am)</DATETIME>
+<BODY>it does!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:33:07 am)</DATETIME>
+<BODY>lol so you still wearing the white undies or you change out of them?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:33:23 am)</DATETIME>
+<BODY>wearing a nightgown</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:33:27 am)</DATETIME>
+<BODY>flannel</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:33:55 am)</DATETIME>
+<BODY>lol and aren you gonna get cold with nothing under?!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:34:06 am)</DATETIME>
+<BODY>a draft could sweep right under... haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:34:09 am)</DATETIME>
+<BODY>i dont think im gonna get cold</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:34:10 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:34:27 am)</DATETIME>
+<BODY>yeah you think youre gonna get warmer? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:34:34 am)</DATETIME>
+<BODY>probably</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:34:41 am)</DATETIME>
+<BODY>i think i will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:34:42 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:34:58 am)</DATETIME>
+<BODY>hmmm, at what places? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:35:05 am)</DATETIME>
+<BODY>youuuuu know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:35:22 am)</DATETIME>
+<BODY>hahah is it warm now?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:35:26 am)</DATETIME>
+<BODY>a lil, yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:35:42 am)</DATETIME>
+<BODY>hmmm, wonder if i can change that...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:35:49 am)</DATETIME>
+<BODY>why you wanna change it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:35:49 am)</DATETIME>
+<BODY>a little massage here..</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:35:54 am)</DATETIME>
+<BODY>make it warmer :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:35:57 am)</DATETIME>
+<BODY>ohhhhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:35:58 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:36:17 am)</DATETIME>
+<BODY>hmmm, is it working? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:36:39 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:36:41 am)</DATETIME>
+<BODY>maybe if i massage it....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:36:46 am)</DATETIME>
+<BODY>kiss you....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:36:50 am)</DATETIME>
+<BODY>mmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:37:03 am)</DATETIME>
+<BODY>rub your chest a bit...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:37:14 am)</DATETIME>
+<BODY>ohhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:37:16 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:37:37 am)</DATETIME>
+<BODY>kiss you more and slide my hands down....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:37:52 am)</DATETIME>
+<BODY>bet you would be warm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:37:53 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:37:58 am)</DATETIME>
+<BODY>bet you would too!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:38:14 am)</DATETIME>
+<BODY>till i felt something moist and warm... and just kept my hand there, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:38:19 am)</DATETIME>
+<BODY>mmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:38:42 am)</DATETIME>
+<BODY>ad started massaging there while i was kissing you....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:38:52 am)</DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:39:04 am)</DATETIME>
+<BODY>hmmm getting warmer?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:39:40 am)</DATETIME>
+<BODY>hah, yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:40:09 am)</DATETIME>
+<BODY>lol well give it a bit of time i'll be there in a few hrs, hehe</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:40:23 am)</DATETIME>
+<BODY>promise?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:40:35 am)</DATETIME>
+<BODY>yeah, lol just gotta wait till your aunt leaves, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:40:50 am)</DATETIME>
+<BODY>oh and when i come by come on out so i know its cool to come in</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:40:51 am)</DATETIME>
+<BODY>im watching, trust me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:40:58 am)</DATETIME>
+<BODY>not that late</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:41:02 am)</DATETIME>
+<BODY>just come around to the back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:41:05 am)</DATETIME>
+<BODY>hah ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:41:07 am)</DATETIME>
+<BODY>and i will let you in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:41:17 am)</DATETIME>
+<BODY>brb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:41:25 am)</DATETIME>
+<BODY>me too, i'll be back in about 15</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:41:28 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(1:57:04 am)</DATETIME>
+<BODY>kk back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(1:57:43 am)</DATETIME>
+<BODY>me2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:00:19 am)</DATETIME>
+<BODY>lol wheres you hop off to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:00:37 am)</DATETIME>
+<BODY>trying to clean up, and get my aunt outta here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:00:38 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:00:42 am)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:00:56 am)</DATETIME>
+<BODY>trying to get me over there early?!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:01:09 am)</DATETIME>
+<BODY>yah, but i dont thin kshe sill leave till around 1</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:01:13 am)</DATETIME>
+<BODY>grrrrrr</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:01:26 am)</DATETIME>
+<BODY>hahah its allright, you can sit tight, you kinda have to, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:01:44 am)</DATETIME>
+<BODY>yah, no kidding</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:02:06 am)</DATETIME>
+<BODY>lol i'll take a shower soon cuz i dont wanna be smelling like ass</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:02:21 am)</DATETIME>
+<BODY>hh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:02:23 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:02:25 am)</DATETIME>
+<BODY>you better not be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:02:33 am)</DATETIME>
+<BODY>nah, thats would suck :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:02:51 am)</DATETIME>
+<BODY>besides would you wanan be sitting next to someone who smeels like armpit?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:03:26 am)</DATETIME>
+<BODY>i know i wouldnt, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:03:26 am)</DATETIME>
+<BODY>hell no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:03:34 am)</DATETIME>
+<BODY>not if you want cuddles</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:03:35 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:03:42 am)</DATETIME>
+<BODY>hahah but i bet you smell nice...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:03:53 am)</DATETIME>
+<BODY>my shampoo smells like grapefruit</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:03:54 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:04:07 am)</DATETIME>
+<BODY>lol and i bet you look nice too...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:04:20 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:04:23 am)</DATETIME>
+<BODY>nahhhhhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:04:39 am)</DATETIME>
+<BODY>lol i'll be the judge when i get there</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:04:54 am)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:05:03 am)</DATETIME>
+<BODY>you'll know it if you find me kissing you sometime... hahah</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:05:08 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:05:13 am)</DATETIME>
+<BODY>you better after alla this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:05:14 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:05:29 am)</DATETIME>
+<BODY>and you'll really know it if you find yourself with your nightgown rolled up... lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:05:37 am)</DATETIME>
+<BODY>heh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:05:45 am)</DATETIME>
+<BODY>hey now, im not wearing anything under that!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:06:09 am)</DATETIME>
+<BODY>well now is thata good thing or a bad one? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:06:18 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:06:20 am)</DATETIME>
+<BODY>you tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:06:34 am)</DATETIME>
+<BODY>its good if my hands feel like the want to move... ;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:06:55 am)</DATETIME>
+<BODY>and hold your legs and slowly open them...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:07:22 am)</DATETIME>
+<BODY>and lightly run my hand down there...;;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:07:23 am)</DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:07:50 am)</DATETIME>
+<BODY>and try to keep you warm, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:07:57 am)</DATETIME>
+<BODY>you would be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:07:57 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:08:20 am)</DATETIME>
+<BODY>just like youre warm now? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:08:28 am)</DATETIME>
+<BODY>hell yah i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:08:29 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:09:04 am)</DATETIME>
+<BODY>hmmm you know what would make you even warmer?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:09:20 am)</DATETIME>
+<BODY>whats that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:09:31 am)</DATETIME>
+<BODY>if i were kissing your nipples at the same time...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:09:38 am)</DATETIME>
+<BODY>omg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:09:53 am)</DATETIME>
+<BODY>sucking on them and teasing them....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:09:57 am)</DATETIME>
+<BODY>mmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:10:14 am)</DATETIME>
+<BODY>until my hands were warm and wet...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:10:27 am)</DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:10:53 am)</DATETIME>
+<BODY>hmmm, i bet if i were there now youre already warm and wet... hahah</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:11:08 am)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:11:12 am)</DATETIME>
+<BODY>prolly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:11:30 am)</DATETIME>
+<BODY>and id just keep kissing you until you finished...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:11:41 am)</DATETIME>
+<BODY>finished?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:11:50 am)</DATETIME>
+<BODY>have you ever cum before?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:12:05 am)</DATETIME>
+<BODY>um, io dont think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:12:10 am)</DATETIME>
+<BODY>what is that?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:12:19 am)</DATETIME>
+<BODY>lol this is gonna be fun, its when you have an orgasm...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:12:37 am)</DATETIME>
+<BODY>your body just tingles and you cant take it anymore....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:12:58 am)</DATETIME>
+<BODY>i'll show ya later, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:13:05 am)</DATETIME>
+<BODY>ohhhhhhh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:13:08 am)</DATETIME>
+<BODY>promise?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:13:21 am)</DATETIME>
+<BODY>yup!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:13:40 am)</DATETIME>
+<BODY>i'll make you cum a few times...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:13:47 am)</DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:13:50 am)</DATETIME>
+<BODY>sounds so good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:13:51 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:14:02 am)</DATETIME>
+<BODY>its easy if a guy knows what hes doing, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:14:17 am)</DATETIME>
+<BODY>are you sure you dont have a pic of yourself?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:14:21 am)</DATETIME>
+<BODY>i rilly wanna see now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:14:21 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:14:40 am)</DATETIME>
+<BODY>lol not on this computer sorry!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:14:49 am)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:15:02 am)</DATETIME>
+<BODY>you'll see me in an hr anyway, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:15:11 am)</DATETIME>
+<BODY>yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:15:13 am)</DATETIME>
+<BODY>tru</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:15:40 am)</DATETIME>
+<BODY>and we can have a few drinks till you feel comfortable and show me what you wanan do ;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:15:54 am)</DATETIME>
+<BODY>i';ll drink, but i dont need to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:15:55 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:16:09 am)</DATETIME>
+<BODY>hahah you just wanna make out huh?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:16:15 am)</DATETIME>
+<BODY>shit yah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:16:16 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:16:37 am)</DATETIME>
+<BODY>we'll i'll be there and if you wanna make out just take me to your room, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:16:59 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:17:01 am)</DATETIME>
+<BODY>you know it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:17:20 am)</DATETIME>
+<BODY>i'll lay on top of you on the bed and start kissing you...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:17:28 am)</DATETIME>
+<BODY>what you wearin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:17:38 am)</DATETIME>
+<BODY>ahh jeans and a sweater, have a preference?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:17:48 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:17:51 am)</DATETIME>
+<BODY>nuthin!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:17:51 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:18:10 am)</DATETIME>
+<BODY>oh and how big is your chest? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:18:17 am)</DATETIME>
+<BODY>34 a</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:18:23 am)</DATETIME>
+<BODY>oh thats fine, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:18:31 am)</DATETIME>
+<BODY>i'll put it all in my mouth...</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:18:35 am)</DATETIME>
+<BODY>mmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:19:06 am)</DATETIME>
+<BODY>i'll give you something to put in your mouth too if you want it ;)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:19:12 am)</DATETIME>
+<BODY>oh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:19:15 am)</DATETIME>
+<BODY>like?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:19:22 am)</DATETIME>
+<BODY>its warm, pretty hard....</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:19:31 am)</DATETIME>
+<BODY>your finger?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:19:43 am)</DATETIME>
+<BODY>you like sucking on a finger?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:19:43 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:19:48 am)</DATETIME>
+<BODY>im teasin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:19:51 am)</DATETIME>
+<BODY>haha!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:20:20 am)</DATETIME>
+<BODY>so you like doing that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:20:29 am)</DATETIME>
+<BODY>i dunno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:20:32 am)</DATETIME>
+<BODY>teach me how?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:20:41 am)</DATETIME>
+<BODY>sure, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:20:59 am)</DATETIME>
+<BODY>i'll teach you whatever you like, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:21:08 am)</DATETIME>
+<BODY>mmmmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:21:12 am)</DATETIME>
+<BODY>everything</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:21:12 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:21:32 am)</DATETIME>
+<BODY>by the time i go you'll be floating, hahah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:22:19 am)</DATETIME>
+<BODY>i bet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:22:22 am)</DATETIME>
+<BODY>you will to, i hope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:22:35 am)</DATETIME>
+<BODY>hahah im sure, brb! :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:22:45 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:27:45 am)</DATETIME>
+<BODY>heh still there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:27:48 am)</DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:27:52 am)</DATETIME>
+<BODY>i dies, and went to heaven</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:27:57 am)</DATETIME>
+<BODY>shit musta missed you i'll leave a message...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:28:03 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:28:07 am)</DATETIME>
+<BODY>go on, leave a message</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:28:21 am)</DATETIME>
+<BODY>i'm going to bed... bye!!! lol j/k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:29:12 am)</DATETIME>
+<BODY>:(!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:29:18 am)</DATETIME>
+<BODY>hahah im teasing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:29:27 am)</DATETIME>
+<BODY>i should take a shower in about 15 min</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:29:42 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:29:44 am)</DATETIME>
+<BODY>no stinkie</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:29:58 am)</DATETIME>
+<BODY>kk actually i gotta get dressed and stuff, i'll be back in 30...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:30:11 am)</DATETIME>
+<BODY>hurrrrry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:47:34 am)</DATETIME>
+<BODY>ahh ok all clean... lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:47:53 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:47:58 am)</DATETIME>
+<BODY>better be, mister smelly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:47:59 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:48:20 am)</DATETIME>
+<BODY>lol im here, oh and how do i get in through the back? lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:48:39 am)</DATETIME>
+<BODY>do i go through a fence door?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:50:27 am)</DATETIME>
+<BODY>right side</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:50:36 am)</DATETIME>
+<BODY>gate should be open</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:50:37 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:50:52 am)</DATETIME>
+<BODY>ahh ok, lol good and the backdoor is open too or do i knock?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:52:01 am)</DATETIME>
+<BODY>just open up and come in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:52:03 am)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:52:13 am)</DATETIME>
+<BODY>hahah allright, lol your aunt leavin yet?!</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:52:20 am)</DATETIME>
+<BODY>sooooon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:52:26 am)</DATETIME>
+<BODY>i can hear her getting ready</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:52:46 am)</DATETIME>
+<BODY>lol cool, i think this is gonna be lots of fun...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:52:59 am)</DATETIME>
+<BODY>im nervous</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:53:02 am)</DATETIME>
+<BODY>but excited</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:53:03 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:53:27 am)</DATETIME>
+<BODY>hahah it just makes it feel all the better when we hang out, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:54:08 am)</DATETIME>
+<BODY>just try not to bounce up and down too much!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:21 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:23 am)</DATETIME>
+<BODY>you try</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:23 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:41 am)</DATETIME>
+<BODY>i want you to open the door, and yell "honey, i'm home"</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:43 am)</DATETIME>
+<BODY>so i know its you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:54:44 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:54:55 am)</DATETIME>
+<BODY>hahah fine, lol i'll say it...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:55:26 am)</DATETIME>
+<BODY>lol and where will you be when i come in? haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:55:40 am)</DATETIME>
+<BODY>i will be in the living room, when i hear ya, i will come get you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:55:41 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:56:03 am)</DATETIME>
+<BODY>lol i hope its not a 40 yr old guy or a cop! haha</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:56:17 am)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:56:42 am)</DATETIME>
+<BODY>you talked to me, weirdo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:56:43 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:56:48 am)</DATETIME>
+<BODY>lol but i did hear ya over the phone!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:56:53 am)</DATETIME>
+<BODY>you do sound cute....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:56:57 am)</DATETIME>
+<BODY>awwwwww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:57:18 am)</DATETIME>
+<BODY>i wonder what other noises i can get to come out of your mouth, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:57:36 am)</DATETIME>
+<BODY>we shall see</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:57:37 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:57:55 am)</DATETIME>
+<BODY>hahah yeah, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:58:08 am)</DATETIME>
+<BODY>lol im getting impatient is that bad?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:12 am)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:15 am)</DATETIME>
+<BODY>leave already</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:16 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:20 am)</DATETIME>
+<BODY>she is taking forever!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:21 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:58:26 am)</DATETIME>
+<BODY>lol what the heck is she doin?!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:34 am)</DATETIME>
+<BODY>"putting on her face"</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:35 am)</DATETIME>
+<BODY>gross</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:58:51 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:58:52 am)</DATETIME>
+<BODY>hahah well you wear makeup too right? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:59:01 am)</DATETIME>
+<BODY>yeah, but not as much as her</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:59:02 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:59:09 am)</DATETIME>
+<BODY>lol she paint her face on huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:59:19 am)</DATETIME>
+<BODY>like, with a paintbrush</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(2:59:20 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:59:38 am)</DATETIME>
+<BODY>how nuts....</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(2:59:49 am)</DATETIME>
+<BODY>lol well thats what she wants to do i guess...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:01:21 am)</DATETIME>
+<BODY>whatcha wearing?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:01:29 am)</DATETIME>
+<BODY>jeans and a sweater, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:01:37 am)</DATETIME>
+<BODY>what kinda sweater?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:01:47 am)</DATETIME>
+<BODY>just a blue one, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:01:51 am)</DATETIME>
+<BODY>and what are you wearing? haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:01:57 am)</DATETIME>
+<BODY>i told you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:01:59 am)</DATETIME>
+<BODY>nightgown</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:02:01 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:02:04 am)</DATETIME>
+<BODY>just wondering if ya changed, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:02:12 am)</DATETIME>
+<BODY>no shoes? haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:02:12 am)</DATETIME>
+<BODY>want me to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:02:31 am)</DATETIME>
+<BODY>lol well i like the nightgown but is there something you like wearing? ;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:02:56 am)</DATETIME>
+<BODY>it dont matter to me, haha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:02:56 am)</DATETIME>
+<BODY>this is comfy for now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:02:57 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:03:27 am)</DATETIME>
+<BODY>wait, i think she is getting ready to leave...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:03:38 am)</DATETIME>
+<BODY>hahah well when she backs out the driveway i'll leave</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:03:51 am)</DATETIME>
+<BODY>hah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:03:52 am)</DATETIME>
+<BODY>deal</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:04:10 am)</DATETIME>
+<BODY>so how big is your bed? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:04:17 am)</DATETIME>
+<BODY>kinda small</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:04:24 am)</DATETIME>
+<BODY>my aunt has a king, though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:04:25 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:04:28 am)</DATETIME>
+<BODY>lol hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:04:54 am)</DATETIME>
+<BODY>hmmm and i hope youre still warm, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:09 am)</DATETIME>
+<BODY>plenty warm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:11 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:05:30 am)</DATETIME>
+<BODY>better be, if i slide my finger down there i wanna feel it, lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>the_third_storm.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:52 am)</DATETIME>
+<BODY>oh, you will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:53 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:58 am)</DATETIME>
+<BODY>i think my face is red</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:05:59 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:06:10 am)</DATETIME>
+<BODY>oh youre just anxious, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:06:34 am)</DATETIME>
+<BODY>you aint?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:06:34 am)</DATETIME>
+<BODY>your face is gonne be plenty red in an hour, haah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:06:38 am)</DATETIME>
+<BODY>yeah i am too!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:08:29 am)</DATETIME>
+<BODY>hahaha</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:09:23 am)</DATETIME>
+<BODY>alright, she just slammed the door</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:09:26 am)</DATETIME>
+<BODY>she's outta here!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:10:01 am)</DATETIME>
+<BODY>getcher butt over here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:10:03 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:10:36 am)</DATETIME>
+<BODY>hellloooooooooo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:11:22 am)</DATETIME>
+<BODY>hahah allright im out!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:11:26 am)</DATETIME>
+<BODY>:d:d:d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>the_third_storm</USERNAME>
+<DATETIME>(3:11:26 am)</DATETIME>
+<BODY>cya soon!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:11:31 am)</DATETIME>
+<BODY>bring the stuffs</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:11:35 am)</DATETIME>
+<BODY>i cant wait!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>sarah_parker_rox</USERNAME>
+<DATETIME>(3:40:26 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

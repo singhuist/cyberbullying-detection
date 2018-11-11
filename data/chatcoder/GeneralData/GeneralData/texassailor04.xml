@@ -1,0 +1,1994 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Nathan</FIRSTNAME>
+<LASTNAME>Proctor</LASTNAME>
+<STATEDNAME>Nathan</STATEDNAME>
+<STATEDAGE>19</STATEDAGE>
+<AGE>19</AGE>
+<GENDER>Male</GENDER>
+<RACE></RACE>
+<CITY>Norfolk</CITY>
+<STATE>VA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>texassailor04</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Maxwell House</FIRSTNAME>
+<LASTNAME></LASTNAME>
+<STATEDNAME>Lori</STATEDNAME>
+<STATEDAGE>12</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY></CITY>
+<STATE>VA</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>true</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>texassailor04.emjakubowski.coded.txt</NAME>
+<CODER>emjakubowski</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>august 14, 2005</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:13:30 pm)</DATETIME>
+<BODY>what up little girl</BODY>
+<COMMENT>(he knows)</COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:13:51 pm)</DATETIME>
+<BODY>nuttin jus chattin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:14:08 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:14:16 pm)</DATETIME>
+<BODY>so how old are you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:14:22 pm)</DATETIME>
+<BODY>12/f/nva</BODY>
+<COMMENT>(and now he's been told)</COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:14:25 pm)</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:14:52 pm)</DATETIME>
+<BODY>i'm to old for ya</BODY>
+<COMMENT>(yes, you are)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:15:21 pm)</DATETIME>
+<BODY>lol y ru 99 r sumthin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:15:28 pm)</DATETIME>
+<BODY>no i'm 19</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:15:34 pm)</DATETIME>
+<BODY>from norfolk</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:17:19 pm)</DATETIME>
+<BODY>so what do you do for fun</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:18:17 pm)</DATETIME>
+<BODY>r u there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:20:03 pm)</DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:20:11 pm)</DATETIME>
+<BODY>sorry bots</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:21:37 pm)</DATETIME>
+<BODY>are you not going to talk to me cause i'm older than you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:21:51 pm)</DATETIME>
+<BODY>lol y wuld i do dat?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:23:36 pm)</DATETIME>
+<BODY>i don't know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:26:08 pm)</DATETIME>
+<BODY>cause you might think i'm hitting on ya</BODY>
+<COMMENT>(are you?)</COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:26:11 pm)</DATETIME>
+<BODY>or somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:27:27 pm)</DATETIME>
+<BODY>lol its ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:29:35 pm)</DATETIME>
+<BODY>so what you do this past summer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:29:39 pm)</DATETIME>
+<BODY>you ready for school</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:29:50 pm)</DATETIME>
+<BODY>lol ya i liek skool most of da time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:31:41 pm)</DATETIME>
+<BODY>so what grade you going to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:33:37 pm)</DATETIME>
+<BODY>8</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:34:04 pm)</DATETIME>
+<BODY>dam that kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:34:20 pm)</DATETIME>
+<BODY>best time to be in jr high</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:41:52 pm)</DATETIME>
+<BODY>what is your name</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(2:42:34 pm)</DATETIME>
+<BODY>lori wats urs?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(2:42:46 pm)</DATETIME>
+<BODY>nathan</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:34:49 pm)</DATETIME>
+<BODY>im back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:35:15 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:35:20 pm)</DATETIME>
+<BODY>dad came home 4 a few mins so i had to go offline</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:35:26 pm)</DATETIME>
+<BODY>but hes gone now again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:35:27 pm)</DATETIME>
+<BODY>so what would ya like to chat about</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:35:39 pm)</DATETIME>
+<BODY>lol i dont care</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:35:55 pm)</DATETIME>
+<BODY>well think of a topic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:36:10 pm)</DATETIME>
+<BODY>u relly from texas?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:36:32 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:36:58 pm)</DATETIME>
+<BODY>dats kewl my gramma lives dere</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:37:08 pm)</DATETIME>
+<BODY>what part</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:37:13 pm)</DATETIME>
+<BODY>by dallas</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:37:18 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:37:19 pm)</DATETIME>
+<BODY>were u from?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:37:25 pm)</DATETIME>
+<BODY>austin myself</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:37:49 pm)</DATETIME>
+<BODY>i think i went by thre wen she took me to the alamo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:38:00 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:38:06 pm)</DATETIME>
+<BODY>when was this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:38:19 pm)</DATETIME>
+<BODY>wen i was 9</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:38:30 pm)</DATETIME>
+<BODY>dad dont let me see her too much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:38:32 pm)</DATETIME>
+<BODY>oh, and how old are you now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:38:36 pm)</DATETIME>
+<BODY>12</BODY>
+<COMMENT>(and told a second time)</COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:38:43 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:39:12 pm)</DATETIME>
+<BODY>i liked texas it was kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:39:27 pm)</DATETIME>
+<BODY>i love it and can't wait to go back</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:39:41 pm)</DATETIME>
+<BODY>wen do u get 2 go back?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:39:42 pm)</DATETIME>
+<BODY>but i need a girl to go with me when i'm done with the navy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:39:54 pm)</DATETIME>
+<BODY>don't know yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:39:57 pm)</DATETIME>
+<BODY>u like bein in da navy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:40:14 pm)</DATETIME>
+<BODY>ya i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:40:23 pm)</DATETIME>
+<BODY>wat do u do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:40:39 pm)</DATETIME>
+<BODY>nothin really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:40:53 pm)</DATETIME>
+<BODY>lol u get 2 b in da navy n do nuttin?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:41:08 pm)</DATETIME>
+<BODY>just drive the ship when we go underway</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:41:15 pm)</DATETIME>
+<BODY>somethin like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:41:15 pm)</DATETIME>
+<BODY>oh kewl!!!!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:41:27 pm)</DATETIME>
+<BODY>i bet its big</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:41:36 pm)</DATETIME>
+<BODY>ya it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:41:58 pm)</DATETIME>
+<BODY>it souns like fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:42:35 pm)</DATETIME>
+<BODY>well if you came over here i would give you a tour of it and let you see all of it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:42:50 pm)</DATETIME>
+<BODY>lol i cant drive silly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:43:51 pm)</DATETIME>
+<BODY>ok, where are you and i will come get ya ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:43:59 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:44:08 pm)</DATETIME>
+<BODY>north va</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:44:17 pm)</DATETIME>
+<BODY>town</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:45:04 pm)</DATETIME>
+<BODY>herndon its sorta by dulles</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:45:24 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:46:34 pm)</DATETIME>
+<BODY>itd b kewl 2 see all da ships ya kno?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:46:35 pm)</DATETIME>
+<BODY>your parents wouldn't kill me for being older than ya</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:46:38 pm)</DATETIME>
+<BODY>would they</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:46:45 pm)</DATETIME>
+<BODY>lol my dads nevr home neway</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:46:52 pm)</DATETIME>
+<BODY>i dont got a mom</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:47:04 pm)</DATETIME>
+<BODY>oh, so you would just leave with me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:47:13 pm)</DATETIME>
+<BODY>lol if ur nice n not somefreek</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:47:40 pm)</DATETIME>
+<BODY>no not a freak, you to young for me to try anything on ya know</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:47:49 pm)</DATETIME>
+<BODY>lol im not a baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:48:43 pm)</DATETIME>
+<BODY>i know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:48:52 pm)</DATETIME>
+<BODY>your 12 and i'm 19</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:49:16 pm)</DATETIME>
+<BODY>so??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:49:54 pm)</DATETIME>
+<BODY>i couldn't try nothin cause i would get into trouble if i did even though i think you cute</BODY>
+<COMMENT>(nathan, you have no idea how much trouble)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:50:03 pm)</DATETIME>
+<BODY>i wuldnt tell</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:50:14 pm)</DATETIME>
+<BODY>oh really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:50:14 pm)</DATETIME>
+<BODY>lol i dont wanna get busted ya know!!!! im not stoopid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:50:28 pm)</DATETIME>
+<BODY>true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:50:34 pm)</DATETIME>
+<BODY>then we both be in trouble</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:50:59 pm)</DATETIME>
+<BODY>ya n i dont wanna b busted that sux</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:51:11 pm)</DATETIME>
+<BODY>ya it dose</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:51:36 pm)</DATETIME>
+<BODY>ok i'm not trying to be perverted or anything like that but will you tell me your sizes please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:51:57 pm)</DATETIME>
+<BODY>maybe i would pick you something up before i came to your house</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:52:09 pm)</DATETIME>
+<BODY>u mean like my clothes sizes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:52:22 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:52:34 pm)</DATETIME>
+<BODY>i wear a 5 in jeans n a small t</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:52:53 pm)</DATETIME>
+<BODY>oh, so your small arn't ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:52:59 pm)</DATETIME>
+<BODY>lol ya n short 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:53:16 pm)</DATETIME>
+<BODY>oh, i'm 6' 5"</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:53:21 pm)</DATETIME>
+<BODY>wow!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:53:47 pm)</DATETIME>
+<BODY>how tall are you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:53:56 pm)</DATETIME>
+<BODY>4 11</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:54:04 pm)</DATETIME>
+<BODY>that not that bad</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:54:19 pm)</DATETIME>
+<BODY>im still growin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:54:42 pm)</DATETIME>
+<BODY>ya, your going to grow a lot more than you think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:55:00 pm)</DATETIME>
+<BODY>i dunno dad says mom was pretty short 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:55:29 pm)</DATETIME>
+<BODY>well my parents are both 5'3" and look at me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:55:36 pm)</DATETIME>
+<BODY>lol dats tru</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:56:26 pm)</DATETIME>
+<BODY>so see even if one parent or both are short dosen't always mean your going to be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:56:42 pm)</DATETIME>
+<BODY>dats tru n dads pretty tall</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:56:59 pm)</DATETIME>
+<BODY>see maybe you'll be right in the middle</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:57:07 pm)</DATETIME>
+<BODY>lol mebbe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(4:57:43 pm)</DATETIME>
+<BODY>so what dose your dad do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:57:50 pm)</DATETIME>
+<BODY>hes a doctor</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(4:58:27 pm)</DATETIME>
+<BODY>mom was 2 b4 she died</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:06:14 pm)</DATETIME>
+<BODY>wb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:06:43 pm)</DATETIME>
+<BODY>so where were we</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:07:01 pm)</DATETIME>
+<BODY>lol u askd me wat my dad does</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:07:39 pm)</DATETIME>
+<BODY>he a doctor right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:07:56 pm)</DATETIME>
+<BODY>ya n my mom was 2 b4 she died</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:08:07 pm)</DATETIME>
+<BODY>i'm srry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:08:18 pm)</DATETIME>
+<BODY>its ok i dont relly remmber her</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:09:17 pm)</DATETIME>
+<BODY>oh, that sucks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:10:01 pm)</DATETIME>
+<BODY>she died in a car reck</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:10:44 pm)</DATETIME>
+<BODY>oh, that the same way my aunt died</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:10:52 pm)</DATETIME>
+<BODY>it sux dont it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:11:43 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:12:40 pm)</DATETIME>
+<BODY>so wat kinda stuff u wann buy b4 u pick me up?? ;)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:14:10 pm)</DATETIME>
+<BODY>better not catch anyone breaking this ribbon. this is a</BODY>
+<COMMENT>(yellow)</COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:14:38 pm)</DATETIME>
+<BODY>huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:18:51 pm)</DATETIME>
+<BODY>i don't know what do you like</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:19:15 pm)</DATETIME>
+<BODY>lol nethin mebbe u culd bring me a navy tshirt?? dat wuld be waaaaaay kewl!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:19:54 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:21:12 pm)</DATETIME>
+<BODY>wen u wanna do it??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:22:02 pm)</DATETIME>
+<BODY>how about after the second of sept.</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:22:22 pm)</DATETIME>
+<BODY>awww u cant do it b4 den??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:22:46 pm)</DATETIME>
+<BODY>i'm going out to sea for the next two weeks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:23:03 pm)</DATETIME>
+<BODY>wen u leave?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:23:27 pm)</DATETIME>
+<BODY>tommorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:23:33 pm)</DATETIME>
+<BODY>dat sux</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:23:35 pm)</DATETIME>
+<BODY>we can do it one weekend</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:23:53 pm)</DATETIME>
+<BODY>okay</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:24:16 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:42:47 pm)</DATETIME>
+<BODY>so what ya doin</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:48:07 pm)</DATETIME>
+<BODY>r u there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:52:22 pm)</DATETIME>
+<BODY>r u dating anyone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:53:58 pm)</DATETIME>
+<BODY>no i dont got a bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:54:50 pm)</DATETIME>
+<BODY>ok, didn't want to make anyone jellouse</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:55:00 pm)</DATETIME>
+<BODY>lol no guyz my age r jerks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:55:24 pm)</DATETIME>
+<BODY>oh, and older guys arn't right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:56:01 pm)</DATETIME>
+<BODY>y not?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(5:56:12 pm)</DATETIME>
+<BODY>lol some r still jerks but ur nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(5:59:07 pm)</DATETIME>
+<BODY>thanks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:00:32 pm)</DATETIME>
+<BODY>and your sweet for your age to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:01:12 pm)</DATETIME>
+<BODY>awww ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:02:41 pm)</DATETIME>
+<BODY>no prob.</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:02:54 pm)</DATETIME>
+<BODY>i need a nickname for ya, what do you want it to be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:03:06 pm)</DATETIME>
+<BODY>lol i dunno u pick 1 long as its not stoopid :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:03:49 pm)</DATETIME>
+<BODY>like what</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:03:55 pm)</DATETIME>
+<BODY>i'm not good at this</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:04:39 pm)</DATETIME>
+<BODY>u cn call me princess? lol id like dat</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:04:53 pm)</DATETIME>
+<BODY>ok you can be my princess ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:04:59 pm)</DATETIME>
+<BODY>k :) :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:05:59 pm)</DATETIME>
+<BODY>hey i got to go got a # so i can call ya princess</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:08:41 pm)</DATETIME>
+<BODY>wb</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:09:15 pm)</DATETIME>
+<BODY>thanks princess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:09:51 pm)</DATETIME>
+<BODY>dads got callr id in his room so id get bustd but i got a callin card i cn use 2 call u so it dont sho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:10:43 pm)</DATETIME>
+<BODY>you are smart arn't ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:10:55 pm)</DATETIME>
+<BODY>lol ya i get good grades y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:11:27 pm)</DATETIME>
+<BODY>your coming up with all these plans</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:11:34 pm)</DATETIME>
+<BODY>lol im not stoopid</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:12:11 pm)</DATETIME>
+<BODY>i think we are going to have some fun i'll have to take ya to the beach and some other fun places one day ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:12:21 pm)</DATETIME>
+<BODY>dat b relly kewl!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:12:48 pm)</DATETIME>
+<BODY>ya sure, cause your my princess right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:12:55 pm)</DATETIME>
+<BODY>ya!! :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:13:59 pm)</DATETIME>
+<BODY>so u want me 2 call u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:14:46 pm)</DATETIME>
+<BODY>well my phone is truned off until we get back so i don't have to pay for time i didn't get to use</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:15:06 pm)</DATETIME>
+<BODY>oh :((</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:15:09 pm)</DATETIME>
+<BODY>but if you want my # it is 512-269-6371 ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:15:35 pm)</DATETIME>
+<BODY>but see if you give me yours i can make it wear my number dosn't show up on caller id</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:15:53 pm)</DATETIME>
+<BODY>ill try 2 sneak the id outta dads room 2morro</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:15:59 pm)</DATETIME>
+<BODY>then your dad would never know</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:16:15 pm)</DATETIME>
+<BODY>itd still sho up as a call tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:16:25 pm)</DATETIME>
+<BODY>unless i sneak it out n can delete it ill try</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:16:34 pm)</DATETIME>
+<BODY>but he wouldn't know from who</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:16:42 pm)</DATETIME>
+<BODY>ya but hes mean!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:17:14 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:18:09 pm)</DATETIME>
+<BODY>so i relly try 2 not get bustd</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:18:23 pm)</DATETIME>
+<BODY>ya i feel ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:19:38 pm)</DATETIME>
+<BODY>ya i wouldn't want your dad to catch me taking you places he might get the wrong idea</BODY>
+<COMMENT>(i don't think anyone has the wrong idea)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:20:01 pm)</DATETIME>
+<BODY>not like hes evr here neway</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:22:44 pm)</DATETIME>
+<BODY>ya but ya never know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:23:03 pm)</DATETIME>
+<BODY>i dont think he relly cares wat i do as long as i dont bug him</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:23:22 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:24:22 pm)</DATETIME>
+<BODY>ok, i got another question for ya, if i was to buy a girl some underwear for anything if the girl was you would you want a thong, g-string or the full ass panties</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:24:36 pm)</DATETIME>
+<BODY>omg id love 2 have a thong!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:25:23 pm)</DATETIME>
+<BODY>really, what color</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:25:39 pm)</DATETIME>
+<BODY>um purple!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:25:51 pm)</DATETIME>
+<BODY>why purple</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:25:56 pm)</DATETIME>
+<BODY>lol cuz i like it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:26:26 pm)</DATETIME>
+<BODY>ok, so i will have to take you somewhere you can buy a purple thong ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:26:51 pm)</DATETIME>
+<BODY>kewl!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:26:58 pm)</DATETIME>
+<BODY>do you want it like soild purple or kinda see throu purple</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:27:09 pm)</DATETIME>
+<BODY>i let u pick dat part out k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:27:22 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:27:26 pm)</DATETIME>
+<BODY>sounds like fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:27:31 pm)</DATETIME>
+<BODY>ya!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:27:47 pm)</DATETIME>
+<BODY>what about bras, would you let me buy you one of those to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:28:01 pm)</DATETIME>
+<BODY>ya if u want will it match thong??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:28:01 pm)</DATETIME>
+<BODY>like a strapless, or a pushup</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:28:15 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:28:27 pm)</DATETIME>
+<BODY>will you modle it for me</BODY>
+<COMMENT>(where have we heard this before?)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:29:02 pm)</DATETIME>
+<BODY>lol sure since u buyin it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:29:34 pm)</DATETIME>
+<BODY>kool, i'll tell ya what i think of ya in it ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:29:38 pm)</DATETIME>
+<BODY>ok!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:29:54 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:31:08 pm)</DATETIME>
+<BODY>i would make you like my little girlfriend ok</BODY>
+<COMMENT>(told you we didn't have the *wrong* idea)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:31:36 pm)</DATETIME>
+<BODY>kewl!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:31:43 pm)</DATETIME>
+<BODY>i always wantd a bf</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:31:58 pm)</DATETIME>
+<BODY>did you ever want an older bf</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:32:10 pm)</DATETIME>
+<BODY>age dont matter if hes nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:32:45 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:32:57 pm)</DATETIME>
+<BODY>do u get 2 get on yim wen ur on da ship?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:33:31 pm)</DATETIME>
+<BODY>no i have to use the ships email</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:33:45 pm)</DATETIME>
+<BODY>my email for the ship is proctorn@nassau.navy.mil ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:33:56 pm)</DATETIME>
+<BODY>k! mines lori_luvs_puppies@yahoo.com</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:35:15 pm)</DATETIME>
+<BODY>k got it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:39:07 pm)</DATETIME>
+<BODY>so what ya doin right now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:39:13 pm)</DATETIME>
+<BODY>lol nuttin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:39:18 pm)</DATETIME>
+<BODY>gettin kinda tired i gess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:39:49 pm)</DATETIME>
+<BODY>oh, what do you like to sleep in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:40:03 pm)</DATETIME>
+<BODY>jus a t</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:40:14 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:40:24 pm)</DATETIME>
+<BODY>i sleep in my boxers</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:40:30 pm)</DATETIME>
+<BODY>kewl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:43:02 pm)</DATETIME>
+<BODY>hey when i come see you you got to make sure if we do anything not to hurt you ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:43:15 pm)</DATETIME>
+<BODY>ok i tell u if it hurts k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:43:48 pm)</DATETIME>
+<BODY>ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:44:00 pm)</DATETIME>
+<BODY>have you ever seen a porn video</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:44:10 pm)</DATETIME>
+<BODY>no u got some?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:44:40 pm)</DATETIME>
+<BODY>i'll have to let you see before we do anything so you know what is going to happen ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:45:51 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:47:41 pm)</DATETIME>
+<BODY>would you like for me to show you in the shower or the bed 1st</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:47:50 pm)</DATETIME>
+<BODY>wat is better?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:48:31 pm)</DATETIME>
+<BODY>well i think for a 1st timmer it is better on the bed but for someone who likes to have fun in the shower</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:48:42 pm)</DATETIME>
+<BODY>k den mebbe bed 1st??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:48:52 pm)</DATETIME>
+<BODY>or do you have a bathtube</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:49:05 pm)</DATETIME>
+<BODY>lol ya we got a bathtub duh!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:49:41 pm)</DATETIME>
+<BODY>ok, i'll show ya there, i'll be on bottom and i'll let you be on top, that way if you don't like it you can get off ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:49:49 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:50:12 pm)</DATETIME>
+<BODY>would you like to try it in the ass</BODY>
+<COMMENT>(no. would you?)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:50:28 pm)</DATETIME>
+<BODY>omg wont dat hurt????????</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:50:52 pm)</DATETIME>
+<BODY>some say it feels good, and it never hurts, i don't know</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:51:02 pm)</DATETIME>
+<BODY>oic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:51:16 pm)</DATETIME>
+<BODY>that one is tottaly up to u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:51:45 pm)</DATETIME>
+<BODY>k i think bout it k?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:53:13 pm)</DATETIME>
+<BODY>k, oh, and if you want to again it tottaly up to you do you want me to put it in your mouth and let you suck on it like a blow pop</BODY>
+<COMMENT>(if you have to compare a dick to a blow-pop, she's too young!)</COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:53:29 pm)</DATETIME>
+<BODY>is it gross?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:53:50 pm)</DATETIME>
+<BODY>i don't know again, like i said it tottaly up to you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:54:12 pm)</DATETIME>
+<BODY>if you don't want to it fine, if you do it is fine to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>texassailor04.emjakubowski.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:54:46 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:55:03 pm)</DATETIME>
+<BODY>i'll let you think on that one to ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:55:04 pm)</DATETIME>
+<BODY>im goin 2 go 2 bed soon u promis u email me wile ur gone??</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:55:27 pm)</DATETIME>
+<BODY>yes of course my little princess</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:55:32 pm)</DATETIME>
+<BODY>awww ty!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:55:41 pm)</DATETIME>
+<BODY>no prob</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:55:42 pm)</DATETIME>
+<BODY>nite n have fun wile ur gone!!!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:55:55 pm)</DATETIME>
+<BODY>think about me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>lori_luvs_puppies</USERNAME>
+<DATETIME>(6:56:02 pm)</DATETIME>
+<BODY>i will!!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:56:13 pm)</DATETIME>
+<BODY>ok, i'll think about you to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>texassailor04</USERNAME>
+<DATETIME>(6:56:22 pm)</DATETIME>
+<BODY>love ya princess</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>

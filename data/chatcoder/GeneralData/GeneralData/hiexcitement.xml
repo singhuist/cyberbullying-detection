@@ -1,0 +1,7679 @@
+<!DOCTYPE CHATLOG SYSTEM 'chatlog.dtd'>
+<CHATLOG>
+<PREDATOR>
+<FIRSTNAME>Marshall</FIRSTNAME>
+<LASTNAME>Girtman</LASTNAME>
+<STATEDNAME>Marshall</STATEDNAME>
+<STATEDAGE>27</STATEDAGE>
+<AGE>27</AGE>
+<GENDER>Male</GENDER>
+<RACE>White</RACE>
+<CITY>Ft. Benning</CITY>
+<STATE>GA</STATE>
+<REPEATOFFENDER>false</REPEATOFFENDER>
+<ADMITGUILT>false</ADMITGUILT>
+<TRUTHFULNAME>true</TRUTHFULNAME>
+<SCREENNAME>
+<USERNAME>hiexcitement</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</PREDATOR>
+<VICTIM>
+<FIRSTNAME>Irish</FIRSTNAME>
+<LASTNAME>Rose</LASTNAME>
+<STATEDNAME></STATEDNAME>
+<STATEDAGE>15</STATEDAGE>
+<GENDER>Female</GENDER>
+<RACE></RACE>
+<CITY>Columbus</CITY>
+<STATE>OH</STATE>
+<PREVIOUSVICTIMIZATION>false</PREVIOUSVICTIMIZATION>
+<ADMITGUILT>false</ADMITGUILT>
+<SCREENNAME>
+<USERNAME>15-yr-old-girl</USERNAME>
+<HOST></HOST>
+</SCREENNAME>
+</VICTIM>
+<CODINGVERSION>
+<NAME>hiexcitement.almcbride.coded.txt</NAME>
+<CODER>almcbride</CODER>
+</CODINGVERSION>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/13/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:46:49 am)</DATETIME>
+<BODY>hey,</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:47:16 am)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:47:26 am)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:47:43 am)</DATETIME>
+<BODY>hi wats up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:48:01 am)</DATETIME>
+<BODY>not too much, u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:48:14 am)</DATETIME>
+<BODY>nothin much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:49:17 am)</DATETIME>
+<BODY>saw ur pic in ur prof</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:49:23 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:49:27 am)</DATETIME>
+<BODY>r u reeellly in the army?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:49:30 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:49:37 am)</DATETIME>
+<BODY>thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:50:06 am)</DATETIME>
+<BODY>u were in iraq?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:50:12 am)</DATETIME>
+<BODY>yeah, for about a year</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:50:18 am)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:50:47 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:51:02 am)</DATETIME>
+<BODY>did u have to shoot anybody?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:51:20 am)</DATETIME>
+<BODY>damn, nice pic on your profile too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:51:28 am)</DATETIME>
+<BODY>tyvm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:51:42 am)</DATETIME>
+<BODY>how close are you to columbus?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:51:52 am)</DATETIME>
+<BODY>not far lol y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:02 am)</DATETIME>
+<BODY>how did u kno that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:02 am)</DATETIME>
+<BODY>i'll be moving there next tuesday</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:05 am)</DATETIME>
+<BODY>i didn't</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:12 am)</DATETIME>
+<BODY>thats kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:14 am)</DATETIME>
+<BODY>i'll be at ft. benning for 5 months</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:18 am)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:22 am)</DATETIME>
+<BODY>damn, that's cool that you are close</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:28 am)</DATETIME>
+<BODY>how old r u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:34 am)</DATETIME>
+<BODY>27</BODY>
+<COMMENT>(he is 27)</COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:35 am)</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:39 am)</DATETIME>
+<BODY>im 15</BODY>
+<COMMENT>(she is 15)</COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:51 am)</DATETIME>
+<BODY>damn, should i apologize?</BODY>
+<COMMENT>(yes and stop chatting now too...and he caught the age)</COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:53 am)</DATETIME>
+<BODY>were u in the army long?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:52:58 am)</DATETIME>
+<BODY>na lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:52:59 am)</DATETIME>
+<BODY>still am in</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:53:33 am)</DATETIME>
+<BODY>was it fun in iraq?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:54:08 am)</DATETIME>
+<BODY>it was ok, i got used to it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:55:04 am)</DATETIME>
+<BODY>ty for add</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:55:06 am)</DATETIME>
+<BODY>do you mind me being 27?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:55:09 am)</DATETIME>
+<BODY>thank you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:55:14 am)</DATETIME>
+<BODY>na its kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:55:26 am)</DATETIME>
+<BODY>so you are in columbus?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:55:37 am)</DATETIME>
+<BODY>not far from ther</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:55:42 am)</DATETIME>
+<BODY>awesome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:55:52 am)</DATETIME>
+<BODY>we'll have to have lunch sometime when i get down there :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:56:06 am)</DATETIME>
+<BODY>sounds kool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:56:13 am)</DATETIME>
+<BODY>lol, you wouldn't go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:56:18 am)</DATETIME>
+<BODY>i'm too old :</BODY>
+<COMMENT>( (he knows he's too old for her)</COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:56:32 am)</DATETIME>
+<BODY>y wouldnt i?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:56:39 am)</DATETIME>
+<BODY>u seem nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:56:44 am)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:56:49 am)</DATETIME>
+<BODY>do you have a cam?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:57:01 am)</DATETIME>
+<BODY>no sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:57:11 am)</DATETIME>
+<BODY>is that ur real name?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:57:16 am)</DATETIME>
+<BODY>marshall?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:57:24 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:57:35 am)</DATETIME>
+<BODY>thats a diffrent name</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:57:43 am)</DATETIME>
+<BODY>and your name is 15-yr-old-girl?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:57:47 am)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:57:59 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:59:12 am)</DATETIME>
+<BODY>so what are you doing up so late?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:59:20 am)</DATETIME>
+<BODY>cant sleep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 12:59:30 am)</DATETIME>
+<BODY>how bout u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 12:59:38 am)</DATETIME>
+<BODY>lol pretty much the same</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:00:12 am)</DATETIME>
+<BODY>so how far from columbus are ya?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:00:48 am)</DATETIME>
+<BODY>not far lol not sure i should tell just where yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:01:09 am)</DATETIME>
+<BODY>lol, i'm not asking where, just about how far away</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:01:20 am)</DATETIME>
+<BODY>like 30 minutes, an hour, ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:01:32 am)</DATETIME>
+<BODY>in between ther</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:01:37 am)</DATETIME>
+<BODY>lol, ok cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:02:10 am)</DATETIME>
+<BODY>you can show me around then :d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:02:35 am)</DATETIME>
+<BODY>might b kool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:02:40 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:02:49 am)</DATETIME>
+<BODY>but you can't drive yet so how would i meet ya?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:02:59 am)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:03 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:09 am)</DATETIME>
+<BODY>ever met an older guy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:03:14 am)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:17 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:25 am)</DATETIME>
+<BODY>i'll try not to scare ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:26 am)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:03:31 am)</DATETIME>
+<BODY>ty lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:03:44 am)</DATETIME>
+<BODY>really i'm just looking for somone to talk to and maybe hang out with while i'm in ga</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:04:22 am)</DATETIME>
+<BODY>oh lol i was jus gonna ask how long ull b in ga</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:04:29 am)</DATETIME>
+<BODY>but u said</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:04:31 am)</DATETIME>
+<BODY>5 months</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:04:40 am)</DATETIME>
+<BODY>do you smoke? drink? do drugs?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:05:23 am)</DATETIME>
+<BODY>yuk - sometimes - didnt yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:05:25 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:05:40 am)</DATETIME>
+<BODY>so you drink sometimes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:05:49 am)</DATETIME>
+<BODY>yea lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:05:54 am)</DATETIME>
+<BODY>what do you drink?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:06:08 am)</DATETIME>
+<BODY>actully i kinda like beer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:06:12 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:06:18 am)</DATETIME>
+<BODY>how do you get it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:06:50 am)</DATETIME>
+<BODY>however lol like friends of friends or somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:07:07 am)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:07:17 am)</DATETIME>
+<BODY>i'll buy you whatever you want :p</BODY>
+<COMMENT>(he offered to get alcohol for a minor)</COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:07:24 am)</DATETIME>
+<BODY>o yea?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:07:28 am)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:07:37 am)</DATETIME>
+<BODY>ur nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:07:45 am)</DATETIME>
+<BODY>would you want me to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:08:12 am)</DATETIME>
+<BODY>if u want itd b cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:08:21 am)</DATETIME>
+<BODY>ok, sounds good to me :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:08:42 am)</DATETIME>
+<BODY>do you have a cell phone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:08:57 am)</DATETIME>
+<BODY>no i wish</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:00 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:10 am)</DATETIME>
+<BODY>i'll have to get in touch with ya when i get down there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:15 am)</DATETIME>
+<BODY>you seem really cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:09:23 am)</DATETIME>
+<BODY>ty :) u 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:26 am)</DATETIME>
+<BODY>thanx</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:48 am)</DATETIME>
+<BODY>i kinda feel akward sitting here talking to you in just my boxer briefs though :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:09:49 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:09:55 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:10:03 am)</DATETIME>
+<BODY>i guess i could be naked though :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:10:09 am)</DATETIME>
+<BODY>its k i cant c u lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:10:19 am)</DATETIME>
+<BODY>oh so you wouldn't want to huh?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:10:20 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:10:35 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:10:51 am)</DATETIME>
+<BODY>i could just take them off and turn my cam on for ya lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:11:12 am)</DATETIME>
+<BODY>its ur cam lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:11:24 am)</DATETIME>
+<BODY>lol, not tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:11:28 am)</DATETIME>
+<BODY>maybe later though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:11:32 am)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:11:38 am)</DATETIME>
+<BODY>would you really watch me naked?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:11:51 am)</DATETIME>
+<BODY>gues so lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:11:56 am)</DATETIME>
+<BODY>y?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:12:05 am)</DATETIME>
+<BODY>y not?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:12:20 am)</DATETIME>
+<BODY>idk...didn't know you were into seeing strangers dicks :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:12:21 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:12:29 am)</DATETIME>
+<BODY>not really lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:12:38 am)</DATETIME>
+<BODY>have you ever watched a guy on cam?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:12:48 am)</DATETIME>
+<BODY>yea 1 x</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:12:54 am)</DATETIME>
+<BODY>what did he do?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:13:10 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:13:20 am)</DATETIME>
+<BODY>mm better not say</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:13:24 am)</DATETIME>
+<BODY>y not?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:13:30 am)</DATETIME>
+<BODY>hed get in trbl probly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:13:37 am)</DATETIME>
+<BODY>tell me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:13:48 am)</DATETIME>
+<BODY>i don't see how he could get in trouble</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:14:20 am)</DATETIME>
+<BODY>i dont tell wat ppl chat bout lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:14:26 am)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:14:34 am)</DATETIME>
+<BODY>i'm guessing he jacked off for ya though :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:14:41 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:14:46 am)</DATETIME>
+<BODY>am i right?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:14:53 am)</DATETIME>
+<BODY>good gues</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:14:57 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:15:01 am)</DATETIME>
+<BODY>did you like watching that?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:15:15 am)</DATETIME>
+<BODY>kinda weird lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:15:32 am)</DATETIME>
+<BODY>kinda interestin tho</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:15:33 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:15:37 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:15:42 am)</DATETIME>
+<BODY>ever watch in person?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:15:48 am)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:15:53 am)</DATETIME>
+<BODY>do you want to?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:16:13 am)</DATETIME>
+<BODY>like who?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:16:30 am)</DATETIME>
+<BODY>i figured when i buy your beer, i'd just whip it out and show ya :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:16:30 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:16:38 am)</DATETIME>
+<BODY>wow lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:16:47 am)</DATETIME>
+<BODY>if you are interested :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:16:47 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:16:57 am)</DATETIME>
+<BODY>ur messin wit me right?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:17:07 am)</DATETIME>
+<BODY>not if you are interested</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:17:08 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:17:21 am)</DATETIME>
+<BODY>kinda interestin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:17:30 am)</DATETIME>
+<BODY>really?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:17:44 am)</DATETIME>
+<BODY>if ur nice yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:17:49 am)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:18:01 am)</DATETIME>
+<BODY>do you have anymore pics?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:18:25 am)</DATETIME>
+<BODY>a cpl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:18:29 am)</DATETIME>
+<BODY>can i see?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:19:25 am)</DATETIME>
+<BODY>well?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:06 am)</DATETIME>
+<BODY>u still here/</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:08 am)</DATETIME>
+<BODY>?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:20 am)</DATETIME>
+<BODY></BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:20:28 am)</DATETIME>
+<BODY>yea had to look lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:32 am)</DATETIME>
+<BODY>sorry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:33 am)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:20:37 am)</DATETIME>
+<BODY>can i see them?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:22:02 am)</DATETIME>
+<BODY>did u get it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:22:25 am)</DATETIME>
+<BODY>cool, u play guitar?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:22:35 am)</DATETIME>
+<BODY>im learnin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:22:38 am)</DATETIME>
+<BODY>that's awesome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:22:41 am)</DATETIME>
+<BODY>send more please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:24:17 am)</DATETIME>
+<BODY>that's the one on your profile, it's cute though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:24:20 am)</DATETIME>
+<BODY>got anymore?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:25:44 am)</DATETIME>
+<BODY>i love that one!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:26:05 am)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:26:08 am)</DATETIME>
+<BODY>got any of your full body?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:26:16 am)</DATETIME>
+<BODY>not now lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:26:21 am)</DATETIME>
+<BODY>:( ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:26:40 am)</DATETIME>
+<BODY>thanx for sending those</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:27:17 am)</DATETIME>
+<BODY>yw</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:27:22 am)</DATETIME>
+<BODY>i gotta get more</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:27:32 am)</DATETIME>
+<BODY>well, i'm going to go to bed unless you wanna look at porn with me lol</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:27:33 am)</DATETIME>
+<BODY>yeah, you do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:27:41 am)</DATETIME>
+<BODY>wat? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:27:46 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:27:57 am)</DATETIME>
+<BODY>i was gonna send you a link for my favorite porn site :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:27:58 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:28:04 am)</DATETIME>
+<BODY>oh lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:28:17 am)</DATETIME>
+<BODY>but i'm sure you aren't into that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:28:29 am)</DATETIME>
+<BODY>idk never saw it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:28:43 am)</DATETIME>
+<BODY>do you want to?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:29:08 am)</DATETIME>
+<BODY>gues if its ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:29:20 am)</DATETIME>
+<BODY>what do you mean?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:29:28 am)</DATETIME>
+<BODY>am i gonna get in trbl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:29:37 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:29:52 am)</DATETIME>
+<BODY>i'm worried about me getting into trouble</BODY>
+<COMMENT>(he knows it is wrong)</COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:30:02 am)</DATETIME>
+<BODY>y would u? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:30:12 am)</DATETIME>
+<BODY>because i'm older and showing you this stuff</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:30:23 am)</DATETIME>
+<BODY>oh lol im not tellin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:30:29 am)</DATETIME>
+<BODY>promise :d</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:30:32 am)</DATETIME>
+<BODY>id get in trbl too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:30:36 am)</DATETIME>
+<BODY>do you erase your archives?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:30:54 am)</DATETIME>
+<BODY>o yea lol my friend showd me that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:30:59 am)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:31:02 am)</DATETIME>
+<BODY>do you wanna see it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:31:08 am)</DATETIME>
+<BODY>gues so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:31:18 am)</DATETIME>
+<BODY>up to you, idc either way</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:31:39 am)</DATETIME>
+<BODY>if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:31:52 am)</DATETIME>
+<BODY>(edit porn link)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:32:00 am)</DATETIME>
+<BODY>let me know when you are there and what you think</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:32:01 am)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:32:16 am)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:32:55 am)</DATETIME>
+<BODY>u there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:33:06 am)</DATETIME>
+<BODY>wow lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:33:17 am)</DATETIME>
+<BODY>what do you think?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:33:45 am)</DATETIME>
+<BODY>omg lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:33:52 am)</DATETIME>
+<BODY>never saw nothin like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:33:55 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:34:00 am)</DATETIME>
+<BODY>you can watch the movies</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:34:11 am)</DATETIME>
+<BODY>click on one and tell me which one, i'll watch it with ya</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:34:39 am)</DATETIME>
+<BODY>which is good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:34:43 am)</DATETIME>
+<BODY>whatever</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:34:44 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:34:49 am)</DATETIME>
+<BODY>your pick</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:35:41 am)</DATETIME>
+<BODY>well?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:35:58 am)</DATETIME>
+<BODY>idk which one to pic</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:36:11 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:36:15 am)</DATETIME>
+<BODY>what do you want to see?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:36:47 am)</DATETIME>
+<BODY>wow idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:36:58 am)</DATETIME>
+<BODY>just pick one and tell me, your pick :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:37:36 am)</DATETIME>
+<BODY>thers alot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:37:40 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:37:46 am)</DATETIME>
+<BODY>picked one yet?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:38:38 am)</DATETIME>
+<BODY>u pic lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:38:53 am)</DATETIME>
+<BODY>i never saw stuff like this lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:38:59 am)</DATETIME>
+<BODY>kinda wild</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:39:00 am)</DATETIME>
+<BODY>then explore and pick one</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:39:04 am)</DATETIME>
+<BODY>please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:39:44 am)</DATETIME>
+<BODY>kinda tired lol soon i gtg to sleep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:39:58 am)</DATETIME>
+<BODY>me too, that's y i keep telling ya to pick</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:39:59 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:40:02 am)</DATETIME>
+<BODY>real quick</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:40:25 am)</DATETIME>
+<BODY>k close ur eyes n clik</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:40:36 am)</DATETIME>
+<BODY>i want you to pick please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:41:01 am)</DATETIME>
+<BODY>k first lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:41:16 am)</DATETIME>
+<BODY>make sure it's the same one...what's it called?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:42:00 am)</DATETIME>
+<BODY>says couple on the caugh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:42:10 am)</DATETIME>
+<BODY>k, click on watch the movie here</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>34</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:42:17 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:42:51 am)</DATETIME>
+<BODY>has yours started yet?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:43:42 am)</DATETIME>
+<BODY>r u watching?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:43:44 am)</DATETIME>
+<BODY>not yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:43:47 am)</DATETIME>
+<BODY>now it is</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:43:54 am)</DATETIME>
+<BODY>what do you think?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:44:19 am)</DATETIME>
+<BODY>omg lol wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:44:25 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:44:30 am)</DATETIME>
+<BODY>talk to me what do you think?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>42</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:44:32 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:44:40 am)</DATETIME>
+<BODY>never saw that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:44:45 am)</DATETIME>
+<BODY>do you like it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:44:53 am)</DATETIME>
+<BODY>gues lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:44:57 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:46:02 am)</DATETIME>
+<BODY>there's one of a guy cumming if you wanna see that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:46:47 am)</DATETIME>
+<BODY>is it good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:47:10 am)</DATETIME>
+<BODY>( edit porn link)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:47:16 am)</DATETIME>
+<BODY>tell me what you think</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:48:41 am)</DATETIME>
+<BODY>did you see it?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:49:04 am)</DATETIME>
+<BODY>omg</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:49:16 am)</DATETIME>
+<BODY>what did you think?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:49:26 am)</DATETIME>
+<BODY>wow idk wat to say lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:49:31 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:49:39 am)</DATETIME>
+<BODY>i guess i better leav eyou alone now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:50:02 am)</DATETIME>
+<BODY>y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:50:10 am)</DATETIME>
+<BODY>lol idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:50:19 am)</DATETIME>
+<BODY>was kool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:50:25 am)</DATETIME>
+<BODY>oh ok, lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:50:34 am)</DATETIME>
+<BODY>be sure to erase your history and archives</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:50:44 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:51:10 am)</DATETIME>
+<BODY>in her face lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:51:15 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:52:31 am)</DATETIME>
+<BODY>well, i'm going to bed</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:52:36 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:52:39 am)</DATETIME>
+<BODY>please don't get me into trouble :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:52:46 am)</DATETIME>
+<BODY>no way</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:52:53 am)</DATETIME>
+<BODY>i really hope to talk to you soon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:53:00 am)</DATETIME>
+<BODY>thanx for letting me add ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:53:00 am)</DATETIME>
+<BODY>me 2 :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:53:04 am)</DATETIME>
+<BODY>later</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/13/06 1:53:07 am)</DATETIME>
+<BODY>goodnight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/13/06 1:53:15 am)</DATETIME>
+<BODY>nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/16/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:49:00 am)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:49:05 am)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:49:12 am)</DATETIME>
+<BODY>what's up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:49:24 am)</DATETIME>
+<BODY>nothin just got up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:49:29 am)</DATETIME>
+<BODY>how r u doin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:49:31 am)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:49:35 am)</DATETIME>
+<BODY>pretty good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:50:07 am)</DATETIME>
+<BODY>thats good</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:50:15 am)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:50:39 am)</DATETIME>
+<BODY>i c that you have a good pic up now :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:50:51 am)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:50:56 am)</DATETIME>
+<BODY>yw</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:51:09 am)</DATETIME>
+<BODY>when is your birthday?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:51:31 am)</DATETIME>
+<BODY>y u gonna get me a present? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:51:35 am)</DATETIME>
+<BODY>maybe :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:51:36 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:51:47 am)</DATETIME>
+<BODY>u missed it then lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:51:52 am)</DATETIME>
+<BODY>was june 2</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:51:58 am)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:51:59 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:52:06 am)</DATETIME>
+<BODY>so you just turned 15?</BODY>
+<COMMENT>(he remembers her age)</COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:52:10 am)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:52:17 am)</DATETIME>
+<BODY>damn, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:52:30 am)</DATETIME>
+<BODY>dam y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:52:37 am)</DATETIME>
+<BODY>lol, idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:52:51 am)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:54:00 am)</DATETIME>
+<BODY>wat r u doin today</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:54:08 am)</DATETIME>
+<BODY>not too much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:54:14 am)</DATETIME>
+<BODY>just hanging around, and starting to pack</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:54:24 am)</DATETIME>
+<BODY>pack?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:54:50 am)</DATETIME>
+<BODY>to go to georgia</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:54:58 am)</DATETIME>
+<BODY>oh yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:55:05 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:55:25 am)</DATETIME>
+<BODY>were r u now again?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:55:36 am)</DATETIME>
+<BODY>illinois</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:55:47 am)</DATETIME>
+<BODY>ohh is it nice?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:55:56 am)</DATETIME>
+<BODY>eh it's ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:56:17 am)</DATETIME>
+<BODY>were do u live for real?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:56:28 am)</DATETIME>
+<BODY>in illinois</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:56:44 am)</DATETIME>
+<BODY>u like grew up there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:56:55 am)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:56:59 am)</DATETIME>
+<BODY>but u dont like it huh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:57:05 am)</DATETIME>
+<BODY>it's ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 9:59:03 am)</DATETIME>
+<BODY>all packed?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 9:59:11 am)</DATETIME>
+<BODY>lol, not yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/16/06 10:03:22 am)</DATETIME>
+<BODY>well, i need to get off here, i'll talk to you soon</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 10:03:28 am)</DATETIME>
+<BODY>ok :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/16/06 10:03:36 am)</DATETIME>
+<BODY>have fun packing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/19/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:55:07 pm)</DATETIME>
+<BODY>hey girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:55:19 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:55:22 pm)</DATETIME>
+<BODY>r u here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:55:26 pm)</DATETIME>
+<BODY>yep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:55:28 pm)</DATETIME>
+<BODY>what r u up to?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:55:30 pm)</DATETIME>
+<BODY>wats up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:55:34 pm)</DATETIME>
+<BODY>nothin much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:55:38 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:55:42 pm)</DATETIME>
+<BODY>i'm in columbus now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:56:08 pm)</DATETIME>
+<BODY>looking for an apartment hopefully tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:56:14 pm)</DATETIME>
+<BODY>o thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:56:20 pm)</DATETIME>
+<BODY>r u ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:56:59 pm)</DATETIME>
+<BODY>u busy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:57:05 pm)</DATETIME>
+<BODY>nope</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:57:09 pm)</DATETIME>
+<BODY>not busy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:57:12 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:57:20 pm)</DATETIME>
+<BODY>so ur gettin an apartment</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:57:24 pm)</DATETIME>
+<BODY>u gonna let me buy you lunch or something sometime?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:57:25 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:57:28 pm)</DATETIME>
+<BODY>looking tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:58:25 pm)</DATETIME>
+<BODY>y so quiet?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:58:39 pm)</DATETIME>
+<BODY>just relaxing</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:58:43 pm)</DATETIME>
+<BODY>sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:58:46 pm)</DATETIME>
+<BODY>want me to leave you alone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:58:52 pm)</DATETIME>
+<BODY>no lol its cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:58:56 pm)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:59:06 pm)</DATETIME>
+<BODY>so you gonna let me buy you lunch or something sometime? :d</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 10:59:18 pm)</DATETIME>
+<BODY>u really mean it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:59:33 pm)</DATETIME>
+<BODY>yeah, if you wouldn't mind</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 10:59:57 pm)</DATETIME>
+<BODY>r u interested?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:00:24 pm)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:00:29 pm)</DATETIME>
+<BODY>kool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:00:59 pm)</DATETIME>
+<BODY>what r u doing this weekend?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:01:17 pm)</DATETIME>
+<BODY>kinda stuk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:01:24 pm)</DATETIME>
+<BODY>dont have a ride anywhere</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:01:34 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:01:41 pm)</DATETIME>
+<BODY>what r u wanting to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:01:42 pm)</DATETIME>
+<BODY>my grandparents r goin to visit my grampas bro</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:02:01 pm)</DATETIME>
+<BODY>u live with your grandparents?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:02:14 pm)</DATETIME>
+<BODY>just staying for summer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:02:18 pm)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:02:23 pm)</DATETIME>
+<BODY>what r u wanting to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:02:29 pm)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:02:41 pm)</DATETIME>
+<BODY>so you are there by yourself?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:03:00 pm)</DATETIME>
+<BODY>yea kinda glad lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:03:04 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:03:14 pm)</DATETIME>
+<BODY>they r nice but they r like always around</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:03:20 pm)</DATETIME>
+<BODY>they get bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:03:21 pm)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:03:23 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:03:44 pm)</DATETIME>
+<BODY>how long r u gonna be there by yourself?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:04:21 pm)</DATETIME>
+<BODY>like fri to sun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:04:30 pm)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:04:37 pm)</DATETIME>
+<BODY>i can give you a ride if you want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:04:39 pm)</DATETIME>
+<BODY>they asked me to go along</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:04:43 pm)</DATETIME>
+<BODY>you said you live close to columbus</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:04:45 pm)</DATETIME>
+<BODY>but its so boring there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:04:54 pm)</DATETIME>
+<BODY>yea its close</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:05:02 pm)</DATETIME>
+<BODY>u interested?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:05:35 pm)</DATETIME>
+<BODY>might b cool if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:05:41 pm)</DATETIME>
+<BODY>i'd like to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:05:45 pm)</DATETIME>
+<BODY>u wanna just call me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:05:58 pm)</DATETIME>
+<BODY>now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:06:12 pm)</DATETIME>
+<BODY>or give me your number and i'll call you, because it's long distance</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:06:15 pm)</DATETIME>
+<BODY>no, tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:06:27 pm)</DATETIME>
+<BODY>r u gonna b online?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:06:31 pm)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:06:39 pm)</DATETIME>
+<BODY>i'm in a hotel right now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:06:45 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:06:47 pm)</DATETIME>
+<BODY>don't know if i'll have an apartment tomorrow or not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:06:56 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:07:10 pm)</DATETIME>
+<BODY>up to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:07:14 pm)</DATETIME>
+<BODY>wat did u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:07:18 pm)</DATETIME>
+<BODY>i can call you sometime if you want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:07:29 pm)</DATETIME>
+<BODY>idk, lunch? dinner? movie? play pool? whatever</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:07:42 pm)</DATETIME>
+<BODY>might b cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:07:46 pm)</DATETIME>
+<BODY>i'm new here, so it'd be up to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:07:58 pm)</DATETIME>
+<BODY>but i might not be able to get online before the weekend</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:08:14 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:08:19 pm)</DATETIME>
+<BODY>but i will try</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:08:28 pm)</DATETIME>
+<BODY>that's why i was asking about calling you or you caling me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:08:43 pm)</DATETIME>
+<BODY>maybe i can call u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:08:48 pm)</DATETIME>
+<BODY>k, when?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:08:57 pm)</DATETIME>
+<BODY>when do u want?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:09:04 pm)</DATETIME>
+<BODY>it's up to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:09:08 pm)</DATETIME>
+<BODY>do you want the number now?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:09:47 pm)</DATETIME>
+<BODY>if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:09:55 pm)</DATETIME>
+<BODY>i618-889-6163</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:10:05 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:10:10 pm)</DATETIME>
+<BODY>call me anytime, but if i don't answer just leave a message</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:10:16 pm)</DATETIME>
+<BODY>i'd love to just talk to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:10:20 pm)</DATETIME>
+<BODY>you seem pretty cool!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:10:45 pm)</DATETIME>
+<BODY>but i think i'm gonna get to sleep</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:10:49 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:11:01 pm)</DATETIME>
+<BODY>do u want me to call like now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:11:20 pm)</DATETIME>
+<BODY>my phone is off, but you can call and leave a message if you want :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:11:26 pm)</DATETIME>
+<BODY>otherwise you can call tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:11:39 pm)</DATETIME>
+<BODY>k maybe ill c u online</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:12:08 pm)</DATETIME>
+<BODY>k, if not, call me, because if you are stuck this weekend, i'd love to take you out or something</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:12:23 pm)</DATETIME>
+<BODY>wat did u really wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:12:37 pm)</DATETIME>
+<BODY>it really doesn't matter, just hang out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:12:56 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:13:02 pm)</DATETIME>
+<BODY>up to you though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:13:13 pm)</DATETIME>
+<BODY>but try to call me tomorrow or friday to let me know</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:13:25 pm)</DATETIME>
+<BODY>have a good night, and i hope to hear from you soon!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:13:36 pm)</DATETIME>
+<BODY>k ill be on tomorrow maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:13:38 pm)</DATETIME>
+<BODY>nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:13:41 pm)</DATETIME>
+<BODY>k, i'll try to be</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/19/06 11:14:09 pm)</DATETIME>
+<BODY>goodnight baby :d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/19/06 11:14:14 pm)</DATETIME>
+<BODY>nite :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/20/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:36:27 pm)</DATETIME>
+<BODY>hey girl :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:38:00 pm)</DATETIME>
+<BODY>r u here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:38:32 pm)</DATETIME>
+<BODY>guess u r busy, send me a msg when you get on</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:38:43 pm)</DATETIME>
+<BODY>hi</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:38:45 pm)</DATETIME>
+<BODY>im here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:39:01 pm)</DATETIME>
+<BODY>hey, what's up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:39:18 pm)</DATETIME>
+<BODY>nothin just hangin out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:39:46 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:40:01 pm)</DATETIME>
+<BODY>well, i'm staying in another hotel tonight :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:40:19 pm)</DATETIME>
+<BODY>no apartment?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:40:39 pm)</DATETIME>
+<BODY>i looked at one, but i have to get the money from the army first, hopefully tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:40:48 pm)</DATETIME>
+<BODY>k good luck</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:41:03 pm)</DATETIME>
+<BODY>me and one of my friends are looking at splitting a 2 bedroom one that is 1700/month</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:41:05 pm)</DATETIME>
+<BODY>thanx</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:41:29 pm)</DATETIME>
+<BODY>thats a good idea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:41:47 pm)</DATETIME>
+<BODY>yeah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:42:02 pm)</DATETIME>
+<BODY>you didn't call me today :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:42:03 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:42:17 pm)</DATETIME>
+<BODY>i didnt know if should just like call</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:42:22 pm)</DATETIME>
+<BODY>without u sayin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:42:58 pm)</DATETIME>
+<BODY>well, as long as i'm down here you can call if you want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:43:04 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:43:04 pm)</DATETIME>
+<BODY>if i don't answer, just leave a msg</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>14</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:43:09 pm)</DATETIME>
+<BODY>but it is long distance</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:43:13 pm)</DATETIME>
+<BODY>y wont u answer?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:43:52 pm)</DATETIME>
+<BODY>i'll be in class most of the day tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:44:09 pm)</DATETIME>
+<BODY>cool u take classes?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:44:35 pm)</DATETIME>
+<BODY>yeah, that's what i'll mostly be doing here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:44:58 pm)</DATETIME>
+<BODY>thats cool like wat kind?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:45:08 pm)</DATETIME>
+<BODY>army stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:46:06 pm)</DATETIME>
+<BODY>ooo that sounds cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:46:23 pm)</DATETIME>
+<BODY>so, what do you do all day?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:46:50 pm)</DATETIME>
+<BODY>umm went food shopping with grandma so i have food this weekend</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:46:59 pm)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:47:02 pm)</DATETIME>
+<BODY>get anything good?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:47:11 pm)</DATETIME>
+<BODY>yep :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:47:20 pm)</DATETIME>
+<BODY>like what?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:47:37 pm)</DATETIME>
+<BODY>like frozen pizza n fruit n snacks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:47:44 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:47:49 pm)</DATETIME>
+<BODY>do you stay by yourself a lot?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:47:55 pm)</DATETIME>
+<BODY>sometimes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:47:57 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:48:02 pm)</DATETIME>
+<BODY>they go boring places lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:48:09 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:49:00 pm)</DATETIME>
+<BODY>yea its true</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:49:08 pm)</DATETIME>
+<BODY>i went to grampas bro 1 time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:49:20 pm)</DATETIME>
+<BODY>i almost was nuts it was so boring</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:49:27 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:49:28 pm)</DATETIME>
+<BODY>nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:49:31 pm)</DATETIME>
+<BODY>they dont even have internet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:49:36 pm)</DATETIME>
+<BODY>ah</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:50:25 pm)</DATETIME>
+<BODY>u gonna be bored this weekend?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:50:38 pm)</DATETIME>
+<BODY>probly</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:50:45 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:51:23 pm)</DATETIME>
+<BODY>we can do something if you want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:51:35 pm)</DATETIME>
+<BODY>really?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:51:56 pm)</DATETIME>
+<BODY>i said i'd love to if you want to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:52:38 pm)</DATETIME>
+<BODY>wat would u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:54:53 pm)</DATETIME>
+<BODY>doesn't matter to me, i'm new to the area</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:56:32 pm)</DATETIME>
+<BODY>hmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:56:40 pm)</DATETIME>
+<BODY>idk either lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:56:42 pm)</DATETIME>
+<BODY>any ideas?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:57:10 pm)</DATETIME>
+<BODY>hmm idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:59:12 pm)</DATETIME>
+<BODY>i'll just bring the beer and stay there :p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:59:13 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:59:34 pm)</DATETIME>
+<BODY>if u want lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 8:59:37 pm)</DATETIME>
+<BODY>i like beer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:59:40 pm)</DATETIME>
+<BODY>lmao</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 8:59:47 pm)</DATETIME>
+<BODY>sounds good to me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:00:01 pm)</DATETIME>
+<BODY>i'd come get you now for a drink if i could</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:00:11 pm)</DATETIME>
+<BODY>aww thats sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:01:13 pm)</DATETIME>
+<BODY>but you probably can't</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:01:36 pm)</DATETIME>
+<BODY>not now lol they r poppin in n out of my room</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:01:40 pm)</DATETIME>
+<BODY>damn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:01:41 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:01:44 pm)</DATETIME>
+<BODY>tellin me do this n dont do that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:01:50 pm)</DATETIME>
+<BODY>all worried lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:01:56 pm)</DATETIME>
+<BODY>about this weekend?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:02:00 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:02:02 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:02:07 pm)</DATETIME>
+<BODY>so can you ever just leave?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:02:48 pm)</DATETIME>
+<BODY>idk maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:03:11 pm)</DATETIME>
+<BODY>any tonight? :d</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:04:13 pm)</DATETIME>
+<BODY>na can tonight sry lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:04:21 pm)</DATETIME>
+<BODY>lol, it's cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:05:49 pm)</DATETIME>
+<BODY>maybe tomorrow</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:05:53 pm)</DATETIME>
+<BODY>or saturday</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:06:10 pm)</DATETIME>
+<BODY>sounds cool if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:06:17 pm)</DATETIME>
+<BODY>i'd love to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:07:07 pm)</DATETIME>
+<BODY>cool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:07:15 pm)</DATETIME>
+<BODY>what do you wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:07:37 pm)</DATETIME>
+<BODY>mm idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:07:49 pm)</DATETIME>
+<BODY>come on...suggest something :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:08:49 pm)</DATETIME>
+<BODY>if u meant it about hangin here we got a pool if its nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:09:36 pm)</DATETIME>
+<BODY>awesome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:09:52 pm)</DATETIME>
+<BODY>would you feel comfortable with me being there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:10:03 pm)</DATETIME>
+<BODY>yea u seem cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:10:24 pm)</DATETIME>
+<BODY>cool, thanx</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:10:26 pm)</DATETIME>
+<BODY>you do too!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:10:59 pm)</DATETIME>
+<BODY>so, where do you live?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:11:07 pm)</DATETIME>
+<BODY>i know close to columbus, but where?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:11:25 pm)</DATETIME>
+<BODY>not too far from there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:11:34 pm)</DATETIME>
+<BODY>not gonna tell me huh? :d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:11:43 pm)</DATETIME>
+<BODY>im thinkin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:11:55 pm)</DATETIME>
+<BODY>wat do u really wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:12:05 pm)</DATETIME>
+<BODY>just hang out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:12:16 pm)</DATETIME>
+<BODY>whatever</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:12:16 pm)</DATETIME>
+<BODY>swimming sounds cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:12:24 pm)</DATETIME>
+<BODY>i'm always up for some beer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:12:32 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:12:41 pm)</DATETIME>
+<BODY>sound ok?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:12:53 pm)</DATETIME>
+<BODY>maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:13:11 pm)</DATETIME>
+<BODY>maybe?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:13:51 pm)</DATETIME>
+<BODY>maybe i could like call u first?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:14:07 pm)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:14:25 pm)</DATETIME>
+<BODY>i asked you to call :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:14:33 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:15:49 pm)</DATETIME>
+<BODY>can i call like now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:15:57 pm)</DATETIME>
+<BODY>you can if you want to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:16:48 pm)</DATETIME>
+<BODY>my friend is in the same room though, so i might be kinda quiet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:16:59 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:17:05 pm)</DATETIME>
+<BODY>i gotta get the phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:17:08 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:23:07 pm)</DATETIME>
+<BODY>u still here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:23:18 pm)</DATETIME>
+<BODY>yep got the phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:23:27 pm)</DATETIME>
+<BODY>had to c where grampa is lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:23:30 pm)</DATETIME>
+<BODY>k, my computer froze so i ddint' know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:23:32 pm)</DATETIME>
+<BODY>i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:23:41 pm)</DATETIME>
+<BODY>what if they see where you called long distance?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:23:50 pm)</DATETIME>
+<BODY>won't you or me get in trouble?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:24:05 pm)</DATETIME>
+<BODY>na i call home alot</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:24:09 pm)</DATETIME>
+<BODY>and my friends</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:24:18 pm)</DATETIME>
+<BODY>they dont even check the bill</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:24:19 pm)</DATETIME>
+<BODY>where r u from?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:24:21 pm)</DATETIME>
+<BODY>pa</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:24:33 pm)</DATETIME>
+<BODY>so you are going back in a few weeks?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:24:43 pm)</DATETIME>
+<BODY>end of summer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:24:45 pm)</DATETIME>
+<BODY>ah i c</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:24:53 pm)</DATETIME>
+<BODY>sure you can't get out tonight? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:24:55 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:27:33 pm)</DATETIME>
+<BODY>hello?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:28:06 pm)</DATETIME>
+<BODY>hi lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:28:13 pm)</DATETIME>
+<BODY>thought you left me</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:29:08 pm)</DATETIME>
+<BODY>what r u doing?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:29:57 pm)</DATETIME>
+<BODY>calling you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:30:04 pm)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:33:16 pm)</DATETIME>
+<BODY>thanx for calling</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:33:48 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:33:55 pm)</DATETIME>
+<BODY>you sound really sweet!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:34:11 pm)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:34:17 pm)</DATETIME>
+<BODY>you are very welcome</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:34:29 pm)</DATETIME>
+<BODY>i'm just sitting here smiling since you called :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:34:55 pm)</DATETIME>
+<BODY>u sound nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:35:02 pm)</DATETIME>
+<BODY>thank you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:36:12 pm)</DATETIME>
+<BODY>soo</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:36:31 pm)</DATETIME>
+<BODY>i'm just sitting here chatting with you and playing freecell :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:36:32 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:36:40 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:36:45 pm)</DATETIME>
+<BODY>u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:36:57 pm)</DATETIME>
+<BODY>just hanging out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:03 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:04 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:08 pm)</DATETIME>
+<BODY>but what r u doing?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:37:23 pm)</DATETIME>
+<BODY>chattin with u lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:29 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:43 pm)</DATETIME>
+<BODY>r u really gonna hang out with me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:37:55 pm)</DATETIME>
+<BODY>if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:37:58 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:38:06 pm)</DATETIME>
+<BODY>i wish i could see you tonight :d</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:38:12 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:38:24 pm)</DATETIME>
+<BODY>how do you get out of the house?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:38:44 pm)</DATETIME>
+<BODY>havent much yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:38:53 pm)</DATETIME>
+<BODY>think you could?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:39:24 pm)</DATETIME>
+<BODY>idk lol maybe</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:39:42 pm)</DATETIME>
+<BODY>well, if you could...i would love to see ya!!!</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:39:55 pm)</DATETIME>
+<BODY>cant tonight tho they are leaving tomorrow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:40:03 pm)</DATETIME>
+<BODY>theyd notice if im not here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:40:08 pm)</DATETIME>
+<BODY>i know, i'm just impatient</BODY>
+<COMMENT>(this impatience becomes more obvious)</COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:40:14 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:40:16 pm)</DATETIME>
+<BODY>for wat? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:40:44 pm)</DATETIME>
+<BODY>i'm bored, want something to do, and you seem cool, and i am anxious to meet ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:41:18 pm)</DATETIME>
+<BODY>aww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:41:27 pm)</DATETIME>
+<BODY>sure you can't find a way?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:41:35 pm)</DATETIME>
+<BODY>:d</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:41:41 pm)</DATETIME>
+<BODY>sry cant tonight</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:41:45 pm)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:42:01 pm)</DATETIME>
+<BODY>do you have any friends down here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:42:06 pm)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:42:16 pm)</DATETIME>
+<BODY>what do you do with your time?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:42:29 pm)</DATETIME>
+<BODY>just swim or play guitar n hang out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:42:35 pm)</DATETIME>
+<BODY>oh k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:42:35 pm)</DATETIME>
+<BODY>its kinda boring</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:42:37 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:42:46 pm)</DATETIME>
+<BODY>so have you ever left the house by yourself?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:43:09 pm)</DATETIME>
+<BODY>no lol i cant drive so where would i go</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:43:21 pm)</DATETIME>
+<BODY>lol, idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:43:42 pm)</DATETIME>
+<BODY>i could give you a ride wherever if you could get out and not get in trouble</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:44:34 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:44:54 pm)</DATETIME>
+<BODY>damn i wish you could get out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:45:00 pm)</DATETIME>
+<BODY>i'm impatient :p</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:46:30 pm)</DATETIME>
+<BODY>sorry if that bothers you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:46:44 pm)</DATETIME>
+<BODY>no its kinda flatterin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:48:36 pm)</DATETIME>
+<BODY>awww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:48:37 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:48:56 pm)</DATETIME>
+<BODY>so when do you have to go back?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:49:05 pm)</DATETIME>
+<BODY>end of august</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:49:14 pm)</DATETIME>
+<BODY>cool, about a month</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:49:18 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:50:22 pm)</DATETIME>
+<BODY>so they wouldn't let you go anywhere tonight huh? :(</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:51:43 pm)</DATETIME>
+<BODY>na sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:51:49 pm)</DATETIME>
+<BODY>lol, ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:51:58 pm)</DATETIME>
+<BODY>i'll quit asking before i piss ya off</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:52:46 pm)</DATETIME>
+<BODY>sry just cant</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:52:54 pm)</DATETIME>
+<BODY>it's ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:53:06 pm)</DATETIME>
+<BODY>when r they leaving tomorrow?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:54:09 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:54:16 pm)</DATETIME>
+<BODY>what time?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:54:33 pm)</DATETIME>
+<BODY>after lunch</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:54:43 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:55:15 pm)</DATETIME>
+<BODY>what r u doing tomorrow night?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:55:31 pm)</DATETIME>
+<BODY>nothin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:55:40 pm)</DATETIME>
+<BODY>want to?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:56:04 pm)</DATETIME>
+<BODY>might b cool if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:56:14 pm)</DATETIME>
+<BODY>sounds cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:56:24 pm)</DATETIME>
+<BODY>i'll come over and go skinny dipping with ya</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:56:25 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:56:33 pm)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:56:47 pm)</DATETIME>
+<BODY>yeah right, i don't wanna scare you off</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:56:54 pm)</DATETIME>
+<BODY>ur not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:57:09 pm)</DATETIME>
+<BODY>if i stripped naked and got in your pool i'm sure it would</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:57:33 pm)</DATETIME>
+<BODY>y? lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:57:43 pm)</DATETIME>
+<BODY>what would u do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:58:39 pm)</DATETIME>
+<BODY>idk lol wat would u wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:58:51 pm)</DATETIME>
+<BODY>lmao, idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 9:59:01 pm)</DATETIME>
+<BODY>i was just asking what you would do if i got in your pool naked</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:59:26 pm)</DATETIME>
+<BODY>ohh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 9:59:46 pm)</DATETIME>
+<BODY>i though u meant like wat do u wanna do lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:00:03 pm)</DATETIME>
+<BODY>lol,</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:00:07 pm)</DATETIME>
+<BODY>so what would you do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:01:37 pm)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:01:39 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:01:41 pm)</DATETIME>
+<BODY>i guess swim lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:01:44 pm)</DATETIME>
+<BODY>:p</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:01:56 pm)</DATETIME>
+<BODY>sorry if that bothered you when i said that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:02:04 pm)</DATETIME>
+<BODY>its cool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:02:09 pm)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:02:15 pm)</DATETIME>
+<BODY>so, where do you live? :)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:02:45 pm)</DATETIME>
+<BODY>told u lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:03:11 pm)</DATETIME>
+<BODY>you just said close to columbus</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:03:18 pm)</DATETIME>
+<BODY>yea</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:03:35 pm)</DATETIME>
+<BODY>but where?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:04:08 pm)</DATETIME>
+<BODY>mmm im thinkin if i should say yet lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:04:24 pm)</DATETIME>
+<BODY>please :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:04:27 pm)</DATETIME>
+<BODY>i'm just curious</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:06:20 pm)</DATETIME>
+<BODY>well?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:07:52 pm)</DATETIME>
+<BODY>well?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:08:53 pm)</DATETIME>
+<BODY>u still here?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:08:59 pm)</DATETIME>
+<BODY>yea im here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:09:18 pm)</DATETIME>
+<BODY>i think i'm gonna get off here and go to bed since you don't wanna see me tonight :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:09:37 pm)</DATETIME>
+<BODY>not that i dont wanna</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:09:56 pm)</DATETIME>
+<BODY>i know, i'm just messing with ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:10:05 pm)</DATETIME>
+<BODY>do you want me to call you tomorrow afternoon?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:10:08 pm)</DATETIME>
+<BODY>or night?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:10:23 pm)</DATETIME>
+<BODY>r u gonna be online</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:10:27 pm)</DATETIME>
+<BODY>depends</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:10:46 pm)</DATETIME>
+<BODY>hopefully i'll get that apartment tomorrow and i'm not sure if the internet will be up yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:10:49 pm)</DATETIME>
+<BODY>but i can try</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:10:57 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:11:07 pm)</DATETIME>
+<BODY>otherwise do you want me to call?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:11:09 pm)</DATETIME>
+<BODY>or you call me?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:11:58 pm)</DATETIME>
+<BODY>well?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:12:11 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:12:25 pm)</DATETIME>
+<BODY>if i can't get online do you want me to call you or you call me???</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:12:37 pm)</DATETIME>
+<BODY>i can call if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:12:47 pm)</DATETIME>
+<BODY>cool, call me tomorrow night sometime</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:13:08 pm)</DATETIME>
+<BODY>k?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:13:53 pm)</DATETIME>
+<BODY>15-yr-old-girl?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:13:58 pm)</DATETIME>
+<BODY>yea?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:14:07 pm)</DATETIME>
+<BODY>call me tomorrow night sometime ok?</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>42</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:14:18 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:14:23 pm)</DATETIME>
+<BODY>goodnight baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:14:27 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:14:45 pm)</DATETIME>
+<BODY>night</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:14:48 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:16:27 pm)</DATETIME>
+<BODY>hope you don't mind me calling you baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:17:13 pm)</DATETIME>
+<BODY>na its sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:18:02 pm)</DATETIME>
+<BODY>i'm glad you don't mind</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:18:32 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:24:47 pm)</DATETIME>
+<BODY>do you ever walk around outside?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:25:10 pm)</DATETIME>
+<BODY>sometimes lol y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:25:21 pm)</DATETIME>
+<BODY>still thinking about seeing you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:25:29 pm)</DATETIME>
+<BODY>oh lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:25:33 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:25:45 pm)</DATETIME>
+<BODY>can you go for a walk around the neighborhood this late?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:25:54 pm)</DATETIME>
+<BODY>no lol i dont think so</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:25:59 pm)</DATETIME>
+<BODY>lmao</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:26:00 pm)</DATETIME>
+<BODY>damn</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:26:01 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:26:08 pm)</DATETIME>
+<BODY>sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:26:14 pm)</DATETIME>
+<BODY>it's ok baby</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/20/06 10:27:11 pm)</DATETIME>
+<BODY>mayb some other time</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/20/06 10:27:14 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/21/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:11:01 pm)</DATETIME>
+<BODY>u there</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:11:07 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:11:52 pm)</DATETIME>
+<BODY>hey whats up</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:11:57 pm)</DATETIME>
+<BODY>nothin much</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:12:00 pm)</DATETIME>
+<BODY>how r u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:13:29 pm)</DATETIME>
+<BODY>ok i dont have inteqnet so im using my phone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:15:06 pm)</DATETIME>
+<BODY>im using my phone cause i dont have internet yet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:15:22 pm)</DATETIME>
+<BODY>wow thats cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:15:36 pm)</DATETIME>
+<BODY>u mean u have to type everythin on ur phone?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:16:34 pm)</DATETIME>
+<BODY>yeah it sucks</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:17:09 pm)</DATETIME>
+<BODY>id rather just talk to you</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:17:40 pm)</DATETIME>
+<BODY>aww</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:17:48 pm)</DATETIME>
+<BODY>yea that must b hard</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:18:52 pm)</DATETIME>
+<BODY>want me to call</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:19:09 pm)</DATETIME>
+<BODY>wat u want to talk about?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:19:42 pm)</DATETIME>
+<BODY>lol idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:20:34 pm)</DATETIME>
+<BODY>u bored since u r home alone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:22:17 pm)</DATETIME>
+<BODY>are you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:22:34 pm)</DATETIME>
+<BODY>yea very</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:23:54 pm)</DATETIME>
+<BODY>want me to come see you or take u out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:25:28 pm)</DATETIME>
+<BODY>well</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:26:16 pm)</DATETIME>
+<BODY>wat do u want to do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:27:22 pm)</DATETIME>
+<BODY>anything i just want to see you</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:28:05 pm)</DATETIME>
+<BODY>aww ur sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:28:15 pm)</DATETIME>
+<BODY>i could bring over some beer if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:28:27 pm)</DATETIME>
+<BODY>might b fun</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:30:32 pm)</DATETIME>
+<BODY>r u gonna let me come over then</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:32:02 pm)</DATETIME>
+<BODY>well</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:32:11 pm)</DATETIME>
+<BODY>when?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:32:51 pm)</DATETIME>
+<BODY>whenever u let me</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:33:07 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:33:52 pm)</DATETIME>
+<BODY>how abovt now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:35:46 pm)</DATETIME>
+<BODY>can i</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:37:21 pm)</DATETIME>
+<BODY>well</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:38:06 pm)</DATETIME>
+<BODY>please answer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:39:15 pm)</DATETIME>
+<BODY>hello r u here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:40:45 pm)</DATETIME>
+<BODY>call me im getting off here</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:41:29 pm)</DATETIME>
+<BODY>im really sry i was givin u time cuz its hard to type on ur phone n then time went fast sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:41:32 pm)</DATETIME>
+<BODY>:(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:41:41 pm)</DATETIME>
+<BODY>u really mean now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:42:21 pm)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:42:27 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:42:32 pm)</DATETIME>
+<BODY>to do what</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:43:38 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:43:38 pm)</DATETIME>
+<BODY>just call so we can talk</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:43:45 pm)</DATETIME>
+<BODY>oh lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:44:13 pm)</DATETIME>
+<BODY>just wonderin wat u were thinkin of</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:45:16 pm)</DATETIME>
+<BODY>lol r u gonna call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:47:07 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:47:47 pm)</DATETIME>
+<BODY>wats ur number again?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:47:55 pm)</DATETIME>
+<BODY>k call now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:48:26 pm)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:51:53 pm)</DATETIME>
+<BODY>wats ur number :(</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:54:29 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:54:33 pm)</DATETIME>
+<BODY>call back my phone fucked up</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:55:39 pm)</DATETIME>
+<BODY>r v gonna call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 10:59:54 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 10:59:59 pm)</DATETIME>
+<BODY>he</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:00:42 pm)</DATETIME>
+<BODY>so can i come over now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:01:01 pm)</DATETIME>
+<BODY>i think it sounds really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:01:14 pm)</DATETIME>
+<BODY>but i kinda just wanna kno for sure wat u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:02:24 pm)</DATETIME>
+<BODY>so is that a yes</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:02:33 pm)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:02:48 pm)</DATETIME>
+<BODY>yea it sounds nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:02:52 pm)</DATETIME>
+<BODY>can u give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:03:10 pm)</DATETIME>
+<BODY>jm lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:03:20 pm)</DATETIME>
+<BODY>grampas callin again</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:04:33 pm)</DATETIME>
+<BODY>can u give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:05:02 pm)</DATETIME>
+<BODY>jm darn phone i can hardly hear him one min :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:06:28 pm)</DATETIME>
+<BODY>can u call and give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:07:59 pm)</DATETIME>
+<BODY>i will</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:08:22 pm)</DATETIME>
+<BODY>i just really wanna kno wat u really want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:08:29 pm)</DATETIME>
+<BODY>or i can call u when i leave</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:08:42 pm)</DATETIME>
+<BODY>im kinda worried ur not bein honest</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:08:58 pm)</DATETIME>
+<BODY>idk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:09:15 pm)</DATETIME>
+<BODY>i mean bout y u wanna come over</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:09:40 pm)</DATETIME>
+<BODY>honestly just hang out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:10:09 pm)</DATETIME>
+<BODY>hmm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:10:39 pm)</DATETIME>
+<BODY>u seem cool so i wanna meet ya</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:10:53 pm)</DATETIME>
+<BODY>first times we chatted u talked bout other stuff lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:11:51 pm)</DATETIME>
+<BODY>i was just messing around</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:11:58 pm)</DATETIME>
+<BODY>oh</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:12:52 pm)</DATETIME>
+<BODY>call and give dirdctions please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:13:21 pm)</DATETIME>
+<BODY>id rather kno so im not like tricked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:14:05 pm)</DATETIME>
+<BODY>im being honest</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:14:42 pm)</DATETIME>
+<BODY>will u please call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:15:14 pm)</DATETIME>
+<BODY>i mean it sounds cool hangin out if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:15:41 pm)</DATETIME>
+<BODY>i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:16:01 pm)</DATETIME>
+<BODY>just call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:17:01 pm)</DATETIME>
+<BODY>please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:17:31 pm)</DATETIME>
+<BODY>lol like first time we chatted u wanted to show me stuff on ur cam</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:18:51 pm)</DATETIME>
+<BODY>i was just playing with u though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:18:53 pm)</DATETIME>
+<BODY>i remember</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:18:55 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:19:20 pm)</DATETIME>
+<BODY>r u gonna call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:20:08 pm)</DATETIME>
+<BODY>wat bout the other stuff u said?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:20:43 pm)</DATETIME>
+<BODY>what</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:20:54 pm)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:21:39 pm)</DATETIME>
+<BODY>i rememberd it lol u said if u buy me beer</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:21:45 pm)</DATETIME>
+<BODY>oh nvm</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:22:19 pm)</DATETIME>
+<BODY>i better go to bed :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:22:28 pm)</DATETIME>
+<BODY>please just call i am tired of typing on the phone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>41</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:22:37 pm)</DATETIME>
+<BODY>nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:22:45 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:23:25 pm)</DATETIME>
+<BODY>i wanna come over</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:23:55 pm)</DATETIME>
+<BODY>im kinda tired now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:24:21 pm)</DATETIME>
+<BODY>mayb tomorrow ur somethin</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:25:02 pm)</DATETIME>
+<BODY>please call me again</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:25:21 pm)</DATETIME>
+<BODY>y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:25:47 pm)</DATETIME>
+<BODY>to talk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:27:25 pm)</DATETIME>
+<BODY>r u calling</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:28:08 pm)</DATETIME>
+<BODY>im kinda sleepy now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:29:14 pm)</DATETIME>
+<BODY>so u cant call for a minute</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:29:27 pm)</DATETIME>
+<BODY>y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:30:06 pm)</DATETIME>
+<BODY>i like talking to u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:30:18 pm)</DATETIME>
+<BODY>i like talking to u too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:30:55 pm)</DATETIME>
+<BODY>then call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:31:26 pm)</DATETIME>
+<BODY>but wat for im kinda sleepy?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:32:56 pm)</DATETIME>
+<BODY>i just wanna talk for a min can i just call u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>12</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:34:44 pm)</DATETIME>
+<BODY>well</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:35:32 pm)</DATETIME>
+<BODY>im sry</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:35:54 pm)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:36:21 pm)</DATETIME>
+<BODY>goodnight baby call if u want to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:36:32 pm)</DATETIME>
+<BODY>it would b cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:37:00 pm)</DATETIME>
+<BODY>just not sure wat u wanna do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:37:09 pm)</DATETIME>
+<BODY>then do it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:38:50 pm)</DATETIME>
+<BODY>i told u talk watch tv drink beer whatever just hang out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:39:16 pm)</DATETIME>
+<BODY>k :) nite</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:40:21 pm)</DATETIME>
+<BODY>can i just call u now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:41:52 pm)</DATETIME>
+<BODY>please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:43:19 pm)</DATETIME>
+<BODY>guess u r gone</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:52:54 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:53:07 pm)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:54:16 pm)</DATETIME>
+<BODY>wats up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:55:11 pm)</DATETIME>
+<BODY>can u talk on the phone while its charging</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:56:10 pm)</DATETIME>
+<BODY>im not sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:56:35 pm)</DATETIME>
+<BODY>can u try</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/21/06 11:57:13 pm)</DATETIME>
+<BODY>y?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:58:09 pm)</DATETIME>
+<BODY>i want to talk to u please try</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>14</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/21/06 11:59:13 pm)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME></USERNAME>
+<DATETIME></DATETIME>
+<BODY>07/22/2006</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:00:29 am)</DATETIME>
+<BODY>if u were messin wit me when we first chatted bout that other stuff how do i kno ur not messin wit me now tooo?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:02:49 am)</DATETIME>
+<BODY>im not i know that other stuff would scare u away so i was just mesing with u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:03:25 am)</DATETIME>
+<BODY>thats kinda wat i mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:03:43 am)</DATETIME>
+<BODY>mayb ur not sayin cuz u dont wanna scare me from tellin where i live</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:03:57 am)</DATETIME>
+<BODY>please call and we can talk about it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>41</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:04:49 am)</DATETIME>
+<BODY>its not like that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:05:34 am)</DATETIME>
+<BODY>meet me somewhere else if u want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:06:30 am)</DATETIME>
+<BODY>walk or ill get u a cab if u want</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:08:00 am)</DATETIME>
+<BODY>call and we can talk about it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>41</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:09:10 am)</DATETIME>
+<BODY>ok</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:09:55 am)</DATETIME>
+<BODY>15-yr-old-girl</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:10:08 am)</DATETIME>
+<BODY>yea?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:11:17 am)</DATETIME>
+<BODY>call and we can talk about it</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>41</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:11:28 am)</DATETIME>
+<BODY>we did talk</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:12:39 am)</DATETIME>
+<BODY>u r still worried though</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:12:54 am)</DATETIME>
+<BODY>im not worried so much lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 12:13:01 am)</DATETIME>
+<BODY>just dont wanna b tricked</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:14:10 am)</DATETIME>
+<BODY>leave the phone char4ng and call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>14</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:15:00 am)</DATETIME>
+<BODY>im not tricking u i promise</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:15:47 am)</DATETIME>
+<BODY>please call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:16:34 am)</DATETIME>
+<BODY>:-)</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY></CATEGORY>
+<TONE>6</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:17:25 am)</DATETIME>
+<BODY>you there ?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 12:18:03 am)</DATETIME>
+<BODY>please call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:33:39 am)</DATETIME>
+<BODY>hey</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:34:25 am)</DATETIME>
+<BODY>hey :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:34:43 am)</DATETIME>
+<BODY>good morning</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:36:06 am)</DATETIME>
+<BODY>what r u doing</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>200</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:36:16 am)</DATETIME>
+<BODY>nothin just got up u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:36:48 am)</DATETIME>
+<BODY>me too</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:37:36 am)</DATETIME>
+<BODY>so wats up?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:38:28 am)</DATETIME>
+<BODY>can u call so i dont have to keep typing on my phone</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:38:56 am)</DATETIME>
+<BODY>must b hard to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:40:07 am)</DATETIME>
+<BODY>it is so will u call please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>32</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:43:59 am)</DATETIME>
+<BODY>well</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:44:27 am)</DATETIME>
+<BODY>hey im here</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:44:31 am)</DATETIME>
+<BODY>r u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:44:59 am)</DATETIME>
+<BODY>y do u want me to keep callin? im gonna use up all my minutes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:45:05 am)</DATETIME>
+<BODY>i mean i like talkin to u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:45:10 am)</DATETIME>
+<BODY>please call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:46:34 am)</DATETIME>
+<BODY>ok can i take u to lunch today</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:48:28 am)</DATETIME>
+<BODY>ur really sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:48:52 am)</DATETIME>
+<BODY>ty</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:49:13 am)</DATETIME>
+<BODY>so can i</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:51:44 am)</DATETIME>
+<BODY>buy u lunch</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:53:50 am)</DATETIME>
+<BODY>u interested</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:54:58 am)</DATETIME>
+<BODY>ur really sweet</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:55:20 am)</DATETIME>
+<BODY>i want to see u today</BODY>
+<COMMENT>(persistant, isn't he?)</COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:55:34 am)</DATETIME>
+<BODY>thatd b cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 9:55:46 am)</DATETIME>
+<BODY>but wat do u really wanna do?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:56:22 am)</DATETIME>
+<BODY>give me directions and ill come get u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>41</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:57:41 am)</DATETIME>
+<BODY>lunch swimming beer if u want hang out</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 9:58:39 am)</DATETIME>
+<BODY>see a movie whatever</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:00:39 am)</DATETIME>
+<BODY>directions please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:01:07 am)</DATETIME>
+<BODY>i better not</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:01:31 am)</DATETIME>
+<BODY>i mean i think ur really nice</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:01:39 am)</DATETIME>
+<BODY>y</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:02:45 am)</DATETIME>
+<BODY>would u rather meet me somewhere in public</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:02:56 am)</DATETIME>
+<BODY>na its not that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:03:02 am)</DATETIME>
+<BODY>i trust u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:03:07 am)</DATETIME>
+<BODY>i think lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:03:30 am)</DATETIME>
+<BODY>what then</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:06:06 am)</DATETIME>
+<BODY>what is it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:08:32 am)</DATETIME>
+<BODY>just at first i thought u wanted somethin different</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:09:07 am)</DATETIME>
+<BODY>so q u just leading me on making me think im going to see u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:09:13 am)</DATETIME>
+<BODY>no</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:09:32 am)</DATETIME>
+<BODY>i think thatd b cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:11:14 am)</DATETIME>
+<BODY>if u want me to come over with beer and strip for u i would love to do that to</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:12:22 am)</DATETIME>
+<BODY>wow really</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:13:04 am)</DATETIME>
+<BODY>ur jokin lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:13:28 am)</DATETIME>
+<BODY>if u want me to</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:13:48 am)</DATETIME>
+<BODY>im serious</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:15:31 am)</DATETIME>
+<BODY>wow</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:15:54 am)</DATETIME>
+<BODY>u mean like swimming?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:16:26 am)</DATETIME>
+<BODY>u going to let me do that</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:16:48 am)</DATETIME>
+<BODY>sure</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:16:52 am)</DATETIME>
+<BODY>sounds kinda cool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:16:57 am)</DATETIME>
+<BODY>least ur honest now</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:17:29 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:18:03 am)</DATETIME>
+<BODY>so can i come over now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:19:24 am)</DATETIME>
+<BODY>ur just gonna strip lol wats up with that</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:20:20 am)</DATETIME>
+<BODY>ill do whatever u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:21:47 am)</DATETIME>
+<BODY>idk lol ur the guy</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:22:46 am)</DATETIME>
+<BODY>then well see what happens</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:23:37 am)</DATETIME>
+<BODY>will u give me directions now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:24:08 am)</DATETIME>
+<BODY>well i just wanna wats gonna happen bfore u come over</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:24:30 am)</DATETIME>
+<BODY>wanna kno i mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:25:17 am)</DATETIME>
+<BODY>idk what all will happen</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:26:34 am)</DATETIME>
+<BODY>then how do i know wat to get ready for</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:26:55 am)</DATETIME>
+<BODY>drink beer me strip jack off unless u want something swim</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:28:15 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:28:41 am)</DATETIME>
+<BODY>but wat do i do i mean if ur doing that wat do i do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:29:11 am)</DATETIME>
+<BODY>so can i come over now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:30:00 am)</DATETIME>
+<BODY>its soundin kinda cool lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:30:45 am)</DATETIME>
+<BODY>u r just messing with me u arent going to let me come over</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:30:56 am)</DATETIME>
+<BODY>yea i am</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:31:19 am)</DATETIME>
+<BODY>im just really soo bored</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:31:24 am)</DATETIME>
+<BODY>when</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:31:36 am)</DATETIME>
+<BODY>u can today if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:32:20 am)</DATETIME>
+<BODY>then give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:33:11 am)</DATETIME>
+<BODY>u didnt answer me bfore</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:33:19 am)</DATETIME>
+<BODY>wat do u want me to do</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:33:40 am)</DATETIME>
+<BODY>what</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:34:24 am)</DATETIME>
+<BODY>watch or join its up to u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:34:38 am)</DATETIME>
+<BODY>lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:34:43 am)</DATETIME>
+<BODY>join how?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:35:40 am)</DATETIME>
+<BODY>wait and see</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:36:11 am)</DATETIME>
+<BODY>thats the thing that makes me kinda nervous lol id rather kno</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:36:15 am)</DATETIME>
+<BODY>give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:36:32 am)</DATETIME>
+<BODY>cuz i heard some guys r into like really weird stuff</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:37:57 am)</DATETIME>
+<BODY>just watch or use your hand or mouth on my dick</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>600</CATEGORY>
+<TONE>3</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:38:57 am)</DATETIME>
+<BODY>wow ok i can do that i gues</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:39:33 am)</DATETIME>
+<BODY>cool</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:40:12 am)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:40:12 am)</DATETIME>
+<BODY>so give me directions</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:41:17 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:41:24 am)</DATETIME>
+<BODY>ill tell u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:41:39 am)</DATETIME>
+<BODY>u gonna type them or call</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:42:10 am)</DATETIME>
+<BODY>illl type it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:42:26 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:45:17 am)</DATETIME>
+<BODY>k lol im trustin u</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:46:54 am)</DATETIME>
+<BODY>k u dont have anything to worry about</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:47:22 am)</DATETIME>
+<BODY>k :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:48:09 am)</DATETIME>
+<BODY>directions please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:48:13 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:49:04 am)</DATETIME>
+<BODY>u know like where columbus is?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:49:42 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:50:15 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:50:21 am)</DATETIME>
+<BODY>im near there...</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:50:56 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:53:39 am)</DATETIME>
+<BODY>k lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:53:47 am)</DATETIME>
+<BODY>keep going</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>4</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:57:19 am)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:57:29 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:57:49 am)</DATETIME>
+<BODY>u kno were i am?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:58:40 am)</DATETIME>
+<BODY>im the first house on rt</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 10:59:24 am)</DATETIME>
+<BODY>can u tell me how to get there from *edit*</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:59:28 am)</DATETIME>
+<BODY>*edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 10:59:43 am)</DATETIME>
+<BODY>umm yea i think</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:00:09 am)</DATETIME>
+<BODY>please</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:00:15 am)</DATETIME>
+<BODY>u go to *edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:00:25 am)</DATETIME>
+<BODY>i think its exit *edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:00:39 am)</DATETIME>
+<BODY>that turns right into my road</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:00:48 am)</DATETIME>
+<BODY>*edit* i mean</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:01:28 am)</DATETIME>
+<BODY>the road goes to right but u stay straight to my street</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:01:38 am)</DATETIME>
+<BODY>n im the first house on right</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:01:58 am)</DATETIME>
+<BODY>k when do u want me to come</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:02:01 am)</DATETIME>
+<BODY>if u get to the chevron u missed it</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:02:44 am)</DATETIME>
+<BODY>were r u?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:03:18 am)</DATETIME>
+<BODY>u can come now if u want</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:03:24 am)</DATETIME>
+<BODY>im just hangin out</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:04:31 am)</DATETIME>
+<BODY>coming now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:04:35 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:05:11 am)</DATETIME>
+<BODY>:)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:05:36 am)</DATETIME>
+<BODY>if i get lost can i call u</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>2</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:09:01 am)</DATETIME>
+<BODY>wat kinda car do u have</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:09:22 am)</DATETIME>
+<BODY>i dont like to answer the door if somebody comes i dont know</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:11:04 am)</DATETIME>
+<BODY>if u get lost u can call me *edit*</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:12:09 am)</DATETIME>
+<BODY>did u get it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:13:31 am)</DATETIME>
+<BODY>r u there?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:14:24 am)</DATETIME>
+<BODY>silver ill call on my way</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>31</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:15:13 am)</DATETIME>
+<BODY>k wat kinda car is it?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:15:50 am)</DATETIME>
+<BODY>malibv</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:16:41 am)</DATETIME>
+<BODY>k :)</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:20:49 am)</DATETIME>
+<BODY>are u comin now?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:25:06 am)</DATETIME>
+<BODY>yes</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:26:10 am)</DATETIME>
+<BODY>how much longer do i think?</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:26:50 am)</DATETIME>
+<BODY>i mean u think lol</BODY>
+<COMMENT></COMMENT>
+</POST>
+<POST>
+<USERNAME>hiexcitement</USERNAME>
+<DATETIME>(07/22/06 11:28:06 am)</DATETIME>
+<BODY>leaving now</BODY>
+<COMMENT></COMMENT>
+<CODING>
+<VERSION>hiexcitement.almcbride.coded.txt</VERSION>
+<CATEGORY>900</CATEGORY>
+<TONE>1</TONE>
+</CODING>
+</POST>
+<POST>
+<USERNAME>15-yr-old-girl</USERNAME>
+<DATETIME>(07/22/06 11:28:17 am)</DATETIME>
+<BODY>k</BODY>
+<COMMENT></COMMENT>
+</POST>
+</CHATLOG>
