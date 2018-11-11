@@ -47,6 +47,10 @@ def parseFile(datafile):
         next(csv_reader)
         for row in csv_reader:
             tweets.append(cleanString(row[6]))
-            bully_class.append(row[5])
-            bully_severity.append(max(row[2],row[3],row[4]))
+            bully_class.append(int(row[5]))
+            bully_severity.append(max(int(row[2]),int(row[3]),int(row[4])))
+
+    return tweets, bully_class, bully_severity
+
+
 
