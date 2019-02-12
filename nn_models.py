@@ -1,13 +1,12 @@
 import tensorflow as tf
 from tensorflow import keras
-import matplotlib.pyplot as plt
+import numpy as np
 
 vocab_size = 100000
 
-def MultiLayerPerceptron(Xtrain,Ytrain,XVal,YVal,testdata,testlabel):
-
+def GatedRecurrentUnit(Xtrain,Ytrain,XVal,YVal,testdata,testlabel,embedlayer):
     '''
-    Creates a multilayer perceptron model
+    Creates a gated recurrent unit model
     :param Xtrain: Training Data Sentences
     :param Ytrain: Training Data Labels
     :param XVal: Validation Data Sentences
@@ -18,23 +17,28 @@ def MultiLayerPerceptron(Xtrain,Ytrain,XVal,YVal,testdata,testlabel):
     '''
 
     model = keras.Sequential()
-    model.add(keras.layers.Embedding(vocab_size, 16))
-    model.add(keras.layers.GlobalAveragePooling1D())
-    model.add(keras.layers.Dense(16, activation=tf.nn.relu))
-    model.add(keras.layers.Dense(1, activation=tf.nn.sigmoid))
-    #model.summary()
+    model.add(embedlayer)
+    model.add(keras.layers.Dropout(0.25))
+    model.add(keras.layers.GRU(units=50))
+    model.add(keras.layers.Dropout(0.50))
+    model.add(keras.layers.Dense(2, activation="softmax"))
+    
+    print(model.summary())
 
-    model.compile(optimizer=tf.train.AdamOptimizer(), loss='binary_crossentropy', metrics=['accuracy'])
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
     # TRAIN THE MODEL
-    history = model.fit(Xtrain, Ytrain, epochs=10, batch_size=100, validation_data=(XVal,YVal), verbose=1)
+    history = model.fit(Xtrain, Ytrain, epochs=10, batch_size=500, validation_data=(XVal,YVal), verbose=1)
+
+    #prediction = model.predict_class(testdata) #output of the model
+    prediction = np.argmax(model.predict(testdata),axis=1) #output of the model
 
     # EVALUATE THE MODEL
     results = model.evaluate(testdata, testlabel)
 
     print(results)
 
-    return history
+    return history, prediction
 
 
 

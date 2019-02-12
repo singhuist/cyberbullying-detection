@@ -8,6 +8,7 @@ from sklearn.model_selection import ShuffleSplit
 import numpy as np
 import math
 from segment import segment
+import pickle
 
 def cleanString(sentence):
     '''
@@ -16,7 +17,7 @@ def cleanString(sentence):
     :return: cleaned sentence
     '''
 
-    print(sentence)
+    #print(sentence)
     stop_words = set(stopwords.words('english'))
     punctuations = set(string.punctuation)
     #specialsym = set(['~', '`', '@', '$', '#', '%', '^', '&', '*', '``', "''", '..', '...', 'n/a', 'na'])
@@ -29,7 +30,7 @@ def cleanString(sentence):
 
         if words[w][0] == '#' and len(words[w])==2:
             words[w] = ' '.join(segment(words[w][1]))
-        if words[w][0] == '@' or words[w][0] == 'rt' or words[w][0] == 'http':
+        if words[w][0] == '@' or words[w][0] == 'rt' or words[w][0] == 'http' or words[w][0] == 'https':
             words[w] = [] #remove rt, usernames and hyperlinks
         #print(words[w])
         words[w] = ''.join(words[w])
@@ -45,12 +46,12 @@ def cleanString(sentence):
 
     sentence = ' '.join(filtered_sentence)
 
-    print(sentence)
+    #print(sentence)
 
     return sentence
 
 
-def parseFile(datafile):
+def biClass(datafile):
     '''
     Reads the data file and extracts necessary information in a consistent format
     :param datafile: File containing the data
@@ -59,17 +60,106 @@ def parseFile(datafile):
 
     tweets = [] #stores the tweets
     bully_class = [] #stores the class: 0 = hate_speech, 1 = offensive language, 2 = neither
-    bully_severity = [] #score of the severity of bullying
+    #bully_severity = [] #score of the severity of bullying
 
     with open(datafile) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
-            tweets.append(cleanString(row[6]))
-            if (int(row[5]) == 0 or int(row[5]) ==1):
-                bully_class.append(1) # 1 for no cyberbullying
-            elif (int(row[5])==2):
-                bully_class.append(0) # 0 for no cyberbullying
-            bully_severity.append(max(int(row[2]),int(row[3]),int(row[4])))
+            sent = cleanString(row[6])
+            #print(sent)
+            if len(list(sent))>0:
+                tweets.append(sent)
+                if (int(row[5]) == 0 or int(row[5]) ==1):
+                    bully_class.append(1) # 1 for no cyberbullying
+                elif (int(row[5])==2):
+                    bully_class.append(0) # 0 for no cyberbullying
+                #bully_severity.append(max(int(row[2]),int(row[3]),int(row[4])))
 
-    return tweets, bully_class, bully_severity
+    return tweets, bully_class
+
+
+def multiClass(datafile):
+    '''
+    Reads the data file and extracts necessary information in a consistent format
+    :param datafile: File containing the data
+    :return:
+    '''
+
+    tweets = [] #stores the tweets
+    bully_class = [] #stores the class: 0 = hate_speech, 1 = offensive language, 2 = neither
+    #bully_severity = [] #score of the severity of bullying
+
+    with open(datafile) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        next(csv_reader)
+        for row in csv_reader:
+            sent = cleanString(row[6])
+            #print(sent)
+            if len(list(sent))>0:
+                tweets.append(sent)
+                bully_class.append(int(row[5])) # 1 for no cyberbullying
+                #bully_severity.append(max(int(row[2]),int(row[3]),int(row[4])))
+
+    return tweets, bully_class
+
+
+def mult_only(datafile):
+    '''
+    Reads the data file and extracts necessary information in a consistent format
+    :param datafile: File containing the data
+    :return:
+    '''
+
+    tweets = [] #stores the tweets
+    bully_class = [] #stores the class: 0 = hate_speech, 1 = offensive language, 2 = neither
+    #bully_severity = [] #score of the severity of bullying
+
+    with open(datafile) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        next(csv_reader)
+        for row in csv_reader:
+            sent = cleanString(row[6])
+            #print(sent)
+            if len(list(sent))>0:
+                if (int(row[5])!=2):
+                    tweets.append(sent)
+                    bully_class.append(1) # 1 for no cyberbullying
+                #bully_severity.append(max(int(row[2]),int(row[3]),int(row[4])))
+
+    return tweets, bully_class
+
+
+def noBully(datafile):
+    nobullysents = []
+    nobullylabels = []
+    with open(datafile) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        next(csv_reader)
+        for row in csv_reader:
+            if(len(row)==1):
+                row = row[0].split("&quot;")
+                row = row[0].split("\t")
+                #print(len(row))
+                if len(row) == 14:
+                    if row[5] == 'No' and row[8] == 'No' and row[11] == 'No':
+                        nobullysents.append(cleanString(row[2]))
+                        nobullylabels.append(0)
+                        nobullysents.append(cleanString(row[3]))
+                        nobullylabels.append(0)
+    print(len(nobullysents))
+    return nobullysents, nobullylabels 
+
+def pickleData(filename):
+    data = pickle.load(open(filename, 'rb'))
+    x_text = []
+    labels = [] 
+    ids = []
+    for i in range(len(data)):
+        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
+        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
+        if data[i]['label'] == 'none':
+            labels.append(0)
+        else:
+            labels.append(1)
+    return x_text,labels

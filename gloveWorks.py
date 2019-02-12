@@ -11,13 +11,31 @@ import matplotlib.pyplot as plt
 
 
 print("Loading Data ...")
-data_source = 'data/hatebase_labeled_data.csv'
+#data_source = 'data/hatebase_labeled_data.csv'
+#no_bully_source = 'data/formspring_data.csv'
+data_source = 'data/twitter_data.pkl'
 
 print("preprocessing Data ...")
-data, classification, severity = data_preprocess.parseFile(data_source)
+'''data_hb, class_hb = data_preprocess.biClass(data_source)
+data_nb, class_nb = data_preprocess.noBully(no_bully_source)
+#data, classification, severity = data_preprocess.multiClass(data_source)
+data = data_hb + data_nb
+classification = class_hb + class_nb
+
+del data_hb
+del class_hb
+del data_nb
+del class_nb'''
+
+data, classification = data_preprocess.pickleData(data_source)
+
 docs = data
 labels = array(classification)
-sequences, padlength, wordIndex = embeddings.simpleEncode(data)
+
+sequences, padlength = embeddings.simpleEncode(data)
+
+del data
+del classification
 
 # prepare tokenizer
 t = tf.keras.preprocessing.text.Tokenizer()
@@ -52,11 +70,11 @@ for word, i in t.word_index.items():
 		embedding_matrix[i] = array([0 for x in range(50)])
 
 
-e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_length=padlength, trainable=False)
+e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_length=padlength, trainable=True)
 
 print("Shuffling sets....")
 # SHUFFLE DATA AND SET UP CROSS-VALIDATION
-shuffdata = ShuffleSplit(n_splits=5, test_size=0.2, train_size=0.8)
+shuffdata = ShuffleSplit(n_splits=10, test_size=0.2, train_size=0.8)
 
 train_accuracies = [] #stores the average of different cross validations
 val_accuracies = [] #stores the average of different cross validations
@@ -90,7 +108,28 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	testY = array(testY)
 
 	print("Creating and Training Model ...")
-	history = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
+	history, pred = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
+	#del pred
+
+	print(pred[:5])
+
+	bcount=0
+	bully_count = 0
+	nbcount=0
+	non_bully_count = 0
+	for x in range(len(testX)):
+		if testY[x] == 1:
+			bully_count = bully_count + 1
+			if pred[x] == 1:
+				bcount = bcount + 1
+		if testY[x] == 0:
+			non_bully_count = non_bully_count + 1
+			if pred[x] == 0:
+				nbcount = nbcount + 1
+	print ("Bullying in-category accuracy: ", str(bcount/bully_count))
+	print ("Non-Bullying in-category accuracy: ", str(nbcount/non_bully_count))
+
+
 
 	history_dict = history.history
 	history_dict.keys()
@@ -123,4 +162,8 @@ plt.title('Training and validation accuracy')
 plt.xlabel('K-Fold')
 plt.ylabel('Accuracy')
 plt.legend()
+
 plt.show()
+
+
+
