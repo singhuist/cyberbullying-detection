@@ -1,0 +1,30 @@
+F-Score: 0.683969465648855
+Bullying in-category accuracy: 0.6787878787878788
+Non-Bullying in-category accuracy: 0.8640035906642729
+F-Score: 0.8314720812182741
+Bullying in-category accuracy: 0.8314720812182741
+Non-Bullying in-category accuracy: 0.9256605463502016
+F-Score: 0.8892307692307692
+Bullying in-category accuracy: 0.878419452887538
+Non-Bullying in-category accuracy: 0.9569699686239355
+F-Score: 0.9220907297830375
+Bullying in-category accuracy: 0.9220907297830375
+Non-Bullying in-category accuracy: 0.9641560798548094
+F-Score: 0.9363369245837414
+Bullying in-category accuracy: 0.93359375
+Non-Bullying in-category accuracy: 0.9717411121239745
+F-Score: 0.9541832669322708
+Bullying in-category accuracy: 0.9532338308457712
+Non-Bullying in-category accuracy: 0.9796656122910077
+F-Score: 0.9633027522935781
+Bullying in-category accuracy: 0.9535822401614531
+Non-Bullying in-category accuracy: 0.9883251010327795
+F-Score: 0.9669788072942336
+Bullying in-category accuracy: 0.9646017699115044
+Non-Bullying in-category accuracy: 0.9859154929577465
+F-Score: 0.9749877390877881
+Bullying in-category accuracy: 0.9735553379040157
+Non-Bullying in-category accuracy: 0.9890760127446518
+F-Score: 0.9768518518518519
+Bullying in-category accuracy: 0.9777571825764597
+Non-Bullying in-category accuracy: 0.9878447872837774
