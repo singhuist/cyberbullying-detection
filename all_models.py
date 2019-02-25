@@ -12,12 +12,12 @@ import math
 import matplotlib.pyplot as plt
 
 #files to write results in
-gru_res = 'results/gru.txt'
-lstm_res = 'results/lstm.txt'
-blstm_res = 'results/blstm.txt'
-cnn_res = 'results/cnn.txt'
-cnn_gru_res = 'results/cnn-gru.txt'
-all_res = 'results/all.txt'
+gru_res = 'results/biclass/gru.txt'
+lstm_res = 'results/biclass/lstm.txt'
+blstm_res = 'results/biclass/blstm.txt'
+cnn_res = 'results/biclass/cnn.txt'
+cnn_gru_res = 'results/biclass/cnn-gru.txt'
+all_res = 'results/biclass/all.txt'
 
 
 print("Loading Data ...")
