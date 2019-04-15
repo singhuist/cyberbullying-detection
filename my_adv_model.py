@@ -61,7 +61,7 @@ class Network:
         accuracy = tf.reduce_mean( K.metrics.binary_accuracy(labels, self(batch)[0]) )
         
         accuracies = list()
-        minibatch = self.get_minibatch(x, y, ul=None, batch_shape=batch_shape)
+        minibatch = self.get_minibatch(x, y, batch_shape=batch_shape)
         for val_batch in minibatch:
             fd = {batch: val_batch['x'], labels: val_batch['y'], K.backend.learning_phase(): 0} #test mode
             accuracies.append( self.sess.run(accuracy, feed_dict=fd) )
@@ -149,13 +149,13 @@ class Network:
         accuracy = tf.reduce_mean( K.metrics.binary_accuracy(labels, self(batch)[0]) )
         
         accuracies = list()
-        bar = ProgressBar(max_value=np.floor(len(ytest)/batch_shape[0]).astype('i'))
-        minibatch = enumerate(self.get_minibatch(xtest, ytest, ul=None, batch_shape=batch_shape))
+        #bar = ProgressBar(max_value=np.floor(len(ytest)/batch_shape[0]).astype('i'))
+        minibatch = enumerate(self.get_minibatch(xtest, ytest, batch_shape=batch_shape))
         for i, test_batch in minibatch:
             fd = {batch: test_batch['x'], labels: test_batch['y'], K.backend.learning_phase(): 0} #test mode
             accuracies.append( self.sess.run(accuracy, feed_dict=fd) )
             
-            bar.update(i)
+            #bar.update(i)
         
         print( "\nAverage accuracy is {:.3f}".format(np.asarray(accuracies).mean()) )
 
