@@ -10,15 +10,16 @@ import matplotlib.pyplot as plt
 import sklearn as sk
 
 class Network:
-    def __init__(self, session, dict_weight, dropout=0.2, lstm_units=1024, dense_units=30):
+    def __init__(self, session, dict_weight, dropout=0.2, gru_units=50, dense_units=2):
         self.sess = session
         K.backend.set_session(self.sess)
         #defining layers
         dict_shape = dict_weight.shape
         self.emb = K.layers.Embedding(dict_shape[0], dict_shape[1], weights=[dict_weight], trainable=False, name='embedding')
-        self.drop = K.layers.Dropout(rate=dropout, seed=91, name='dropout')
-        self.lstm = K.layers.LSTM(lstm_units, stateful=False, return_sequences=False, name='lstm')
-        self.dense = K.layers.Dense(dense_units, activation='relu', name='dense')
+        self.drop = K.layers.Dropout(rate=dropout, name='dropout')
+        self.gru = K.layers.GRU(gru_units, name='gru')
+        self.drop = K.layers.Dropout(rate=dropout, name='dropout')
+        self.dense = K.layers.Dense(dense_units, activation='softmax', name='dense')
         self.p = K.layers.Dense(1, activation='sigmoid', name='p')
         #defining optimizer
         self.optimizer = tf.train.AdamOptimizer(learning_rate=0.0005)
@@ -29,8 +30,8 @@ class Network:
         drop = self.drop(embedding)
         if (perturbation is not None):
             drop += perturbation
-        lstm = self.lstm(drop)
-        dense = self.dense(lstm)
+        gru = self.gru(drop)
+        dense = self.dense(gru)
         return self.p(dense), embedding
     
     def get_minibatch(self, x, y, batch_shape=(64, 400)):
@@ -165,8 +166,8 @@ class Network:
             
             #bar.update(i)
         
-        #print( "\nAverage accuracy is {:.3f}".format(np.asarray(accuracies).mean()) )
-        print( "\nAverage f-score is {:.3f}".format(np.asarray(f_scores).mean()))
+        print( "\nAverage accuracy is {:.3f}".format(np.asarray(accuracies).mean()) )
+        #print( "\nAverage f-score is {:.3f}".format(np.asarray(f_scores).mean()))
 
 
 def main(xtrain, ytrain, xval, yval, xtest, ytest, emb_mat, n_epochs, n_ex, ex_len, lt, pm):
