@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow import keras as K
 import numpy as np
 import argparse
-from progressbar import ProgressBar
+#from progressbar import ProgressBar
 import os
 import matplotlib
 matplotlib.use('Agg')
@@ -33,12 +33,12 @@ class Network:
         return self.p(dense), embedding
     
     def get_minibatch(self, x, y, ul, batch_shape=(64, 400)):
-        x = K.preprocessing.sequence.pad_sequences(x, maxlen=batch_shape[1])
+        #x = K.preprocessing.sequence.pad_sequences(x, maxlen=batch_shape[1])
         permutations = np.random.permutation( len(y) )
         ul_permutations = None
         len_ratio = None
         if (ul is not None):
-            ul = K.preprocessing.sequence.pad_sequences(ul, maxlen=batch_shape[1])
+            #ul = K.preprocessing.sequence.pad_sequences(ul, maxlen=batch_shape[1])
             ul_permutations = np.random.permutation( len(ul) )
             len_ratio = len(ul)/len(y)
         for s in range(0, len(y), batch_shape[0]):
@@ -80,7 +80,7 @@ class Network:
         v_adv_loss = tf.distributions.kl_divergence(prob_dist, bernoulli(probs=p_prob), allow_nan_stats=False)
         return tf.reduce_mean( v_adv_loss )
 
-    def validation(self, x, y, batch_shape=(64, 400)):
+    def validation(self, f, x, y, batch_shape=(64, 400)):
         print( 'Validation...' )
         
         labels = tf.placeholder(tf.float32, shape=(None, 1), name='validation_labels')
@@ -95,23 +95,15 @@ class Network:
             accuracies.append( self.sess.run(accuracy, feed_dict=fd) )
         
         print( "Average accuracy on validation is {:.3f}".format(np.asarray(accuracies).mean()) )
+        f.write("Average Val Acc: "+str(np.asarray(accuracies).mean())+"\n")
+
     
-    def train(self, dataset, batch_shape=(64, 400), epochs=10, loss_type='none', p_mult=0.02, init=None, save=None):
-        print( 'Training...' )
-        xtrain = np.load( "{}nltk_xtrain.npy".format(dataset) )
-        ytrain = np.load( "{}nltk_ytrain.npy".format(dataset) )
-        ultrain = np.load( "{}nltk_ultrain.npy".format(dataset) ) if (loss_type == 'v_adv') else None
+    def train(self, f, xtrain, ytrain, xval, yval, batch_shape=(64, 400), epochs=10, loss_type='none', p_mult=0.02, init=None, save=None):
         
+        print( 'Training...' )
+        
+        ultrain = xtrain if (loss_type == 'v_adv') else None
         # defining validation set
-        xval = list()
-        yval = list()
-        for _ in range( int(len(ytrain)*0.025) ):
-            xval.append( xtrain[0] ); xval.append( xtrain[-1] )
-            yval.append( ytrain[0] ); yval.append( ytrain[-1] )
-            xtrain = np.delete(xtrain, 0); xtrain = np.delete(xtrain, -1)
-            ytrain = np.delete(ytrain, 0); ytrain = np.delete(ytrain, -1)
-        xval = np.asarray(xval)
-        yval = np.asarray(yval)
         print( '{} elements in validation set'.format(len(yval)) )
         # ---
         yval = np.reshape(yval, newshape=(yval.shape[0], 1))
@@ -146,7 +138,7 @@ class Network:
             accuracies = list()
             validation = list()
             
-            bar = ProgressBar(max_value=np.floor(len(ytrain)/batch_shape[0]).astype('i'))
+            #bar = ProgressBar(max_value=np.floor(len(ytrain)/batch_shape[0]).astype('i'))
             minibatch = enumerate(self.get_minibatch(xtrain, ytrain, ultrain, batch_shape=batch_shape))
             for i, train_batch in minibatch:
                 fd = {batch: train_batch['x'], labels: train_batch['y'], K.backend.learning_phase(): 1} #training mode
@@ -157,7 +149,7 @@ class Network:
                 
                 accuracies.append( acc_val )
                 losses.append( loss_val )
-                bar.update(i)
+                #bar.update(i)
             
             #saving accuracies and losses
             _accuracies.append( accuracies )
@@ -167,7 +159,7 @@ class Network:
             print( log_msg.format(epoch+1, epochs, np.asarray(accuracies).mean(), np.asarray(losses).mean()) )
             
             # validation log
-            self.validation(xval, yval, batch_shape=batch_shape)
+            self.validation(f, xval, yval, batch_shape=batch_shape)
             
             #saving model
             if (save is not None) and (epoch == (epochs-1)):
@@ -175,17 +167,15 @@ class Network:
                 saver.save(self.sess, save)
                 print( 'model saved' )
         
-        #plotting value
+        '''#plotting value
         #plt.plot([l for loss in _losses for l in loss], color='magenta', linestyle='dashed', marker='s', linewidth=1)
         plt.plot([np.asarray(l).mean() for l in _losses], color='red', linestyle='solid', marker='o', linewidth=2)
         #plt.plot([a for acc in _accuracies for a in acc], color='cyan', linestyle='dashed', marker='s', linewidth=1)
         plt.plot([np.asarray(a).mean() for a in _accuracies], color='blue', linestyle='solid', marker='o', linewidth=2)
-        plt.savefig('./train_{}_e{}_m{}_l{}.png'.format(loss_type, epochs, batch_shape[0], batch_shape[1]))
+        plt.savefig('./train_{}_e{}_m{}_l{}.png'.format(loss_type, epochs, batch_shape[0], batch_shape[1]))'''
         
-    def test(self, dataset, batch_shape=(64, 400)):
+    def test(self, f, xtest, ytest, batch_shape=(64, 400)):
         print( 'Test...' )
-        xtest = np.load( "{}nltk_xtest.npy".format(dataset) )
-        ytest = np.load( "{}nltk_ytest.npy".format(dataset) )
         ytest = np.reshape(ytest, newshape=(ytest.shape[0], 1))
         
         labels = tf.placeholder(tf.float32, shape=(None, 1), name='test_labels')
@@ -194,29 +184,33 @@ class Network:
         accuracy = tf.reduce_mean( K.metrics.binary_accuracy(labels, self(batch)[0]) )
         
         accuracies = list()
-        bar = ProgressBar(max_value=np.floor(len(ytest)/batch_shape[0]).astype('i'))
+        #bar = ProgressBar(max_value=np.floor(len(ytest)/batch_shape[0]).astype('i'))
         minibatch = enumerate(self.get_minibatch(xtest, ytest, ul=None, batch_shape=batch_shape))
         for i, test_batch in minibatch:
             fd = {batch: test_batch['x'], labels: test_batch['y'], K.backend.learning_phase(): 0} #test mode
             accuracies.append( self.sess.run(accuracy, feed_dict=fd) )
             
-            bar.update(i)
+            #bar.update(i)
         
         print( "\nAverage accuracy is {:.3f}".format(np.asarray(accuracies).mean()) )
+        f.write("Average Test Acc: "+str(np.asarray(accuracies).mean())+"\n")
+        f.write("___________________________________________________________"+"\n")
 
 
-def main(data, n_epochs, n_ex, ex_len, lt, pm):
+def main(xtrain, ytrain, xval, yval, xtest, ytest, emb_mat, n_epochs, n_ex, ex_len, lt, pm):
     os.environ["CUDA_VISIBLE_DEVICES"] = '0'
     config = tf.ConfigProto(log_device_placement=True)
     config.gpu_options.allow_growth = True
     session = tf.Session(config=config)
 
-    embedding_weights = np.load( "{}nltk_embedding_matrix.npy".format(data) )
+    embedding_weights = emb_mat
+
+    resfile = 'results/adversarial/vadv.txt'
+    f = open(resfile, 'w')
 
     net = Network(session, embedding_weights)
-    net.train(data, batch_shape=(n_ex, ex_len), epochs=n_epochs, loss_type=lt, p_mult=pm, init=None, save=None)
-    net.test(data, batch_shape=(n_ex, ex_len))
+    net.train(f,xtrain, ytrain, xval, yval, batch_shape=(n_ex, ex_len), epochs=n_epochs, loss_type=lt, p_mult=pm, init=None, save=None)
+    net.test(f,xtest, ytest, batch_shape=(n_ex, ex_len))
     
     K.backend.clear_session()
 
-main(data='../dataset/imdb/', n_epochs=10, n_ex=64, ex_len=400, lt='none', pm=0.02)

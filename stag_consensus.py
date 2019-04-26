@@ -68,7 +68,7 @@ e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_
 
 print("Shuffling sets....")
 # SHUFFLE DATA AND SET UP CROSS-VALIDATION
-shuffdata = ShuffleSplit(n_splits=1, test_size=0.2, train_size=0.8)
+shuffdata = ShuffleSplit(n_splits=25, test_size=0.2, train_size=0.8)
 
 train_accuracies = [] #stores the average of different cross validations
 val_accuracies = [] #stores the average of different cross validations
@@ -80,10 +80,10 @@ grures = 'results/staggered/gru.txt'
 lstmres = 'results/staggered/lstm.txt'
 blstmres = 'results/staggered/blstm.txt'
 
-a = open(allres,'w')
-g = open(grures,'w')
-l = open(lstmres,'w')
-b = open(blstmres,'w')
+afile = open(allres,'w')
+gfile = open(grures,'w')
+lfile = open(lstmres,'w')
+bfile = open(blstmres,'w')
 
 for train_index, test_index in shuffdata.split(padded_docs,labels):
 
@@ -134,91 +134,103 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	
 	print("Creating and Training Bi-Classification Model ...")
 	#bi_history,bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
-	bi_history, gru_bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
-
-	print(gru_bi_prediction.shape)
+	bi_history, bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
 
 	testX_mult = []
 	testY_mult = []
 
-	for p in range(len(gru_bi_prediction)):
-		if gru_bi_prediction[p] == 1:
+	for p in range(len(bi_prediction)):
+		if bi_prediction[p] == 1:
 			testX_mult.append(testX[p])
 			testY_mult.append(multtestY[p])
 
 	print("Obtained multi-class training data")
 
-	gru_testX_mult = array(testX_mult)
-	gru_testY_mult = array(testY_mult)
+	testX_mult = array(testX_mult)
+	testY_mult = array(testY_mult)
 
 	print("Creating and Training Multi-Classification Model ...")
-	history,gru_mult_prediction = multi_models.gru_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,gru_testX_mult,gru_testY_mult,e)
+	history,gru_mult_prediction = multi_models.gru_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
 
-	f_mes = f1_score(gru_testY_mult,gru_mult_prediction,average='weighted')
-	g.write("F-Score: "+str(f_mes)+'\n')
-	a.write("GRU Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
-	a.write('\n')
+	f_mes = f1_score(testY_mult,gru_mult_prediction,average='weighted')
+	gfile.write("F-Score: "+str(f_mes)+'\n')
+	afile.write("GRU F-Score: "+str(f_mes)+'\n')
+
+
+	####################################################################################
 	
-	################################################
-
-	print("Creating and Training Bi-Classification Model ...")
-	
-	bi_history,lstm_bi_prediction = awekar_models.lstm(trainX,trainY,valX,valY,testX,testY,e)
-
-	testX_mult = []
-	testY_mult = []
-
-	for p in range(len(lstm_bi_prediction)):
-		if lstm_bi_prediction[p] == 1:
-			testX_mult.append(testX[p])
-			testY_mult.append(multtestY[p])
-
-	print("Obtained multi-class training data")
-
-	lstm_testX_mult = array(testX_mult)
-	lstm_testY_mult = array(testY_mult)
 
 	print("Creating and Training Multi-Classification Model ...")
-	history,lstm_mult_prediction = multi_models.lstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,lstm_testX_mult,lstm_testY_mult,e)
+	history,lstm_mult_prediction = multi_models.lstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
 
-	f_mes = f1_score(lstm_testY_mult,lstm_mult_prediction,average='weighted')
-	l.write("F-Score: "+str(f_mes)+'\n')
-	a.write("LSTM Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
-	a.write('\n')
+	f_mes = f1_score(testY_mult,lstm_mult_prediction,average='weighted')
+	print(f_mes)
+	lfile.write("F-Score: "+str(f_mes)+'\n')
+	afile.write("LSTM F-Score: "+str(f_mes)+'\n')
 
 	####################################################################################
 
-	print("Creating and Training Bi-Classification Model ...")
-	#bi_history,bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
-	bi_history,bl_bi_prediction = awekar_models.blstm(trainX,trainY,valX,valY,testX,testY,e)
-
-
-	testX_mult = []
-	testY_mult = []
-
-	for p in range(len(bl_bi_prediction)):
-		if bl_bi_prediction[p] == 1:
-			testX_mult.append(testX[p])
-			testY_mult.append(multtestY[p])
-
-	print("Obtained multi-class training data")
-
-	bl_testX_mult = array(testX_mult)
-	bl_testY_mult = array(testY_mult)
-
+	
 	print("Creating and Training Multi-Classification Model ...")
-	history,bl_mult_prediction = multi_models.blstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,bl_testX_mult,bl_testY_mult,e)
+	history,bl_mult_prediction = multi_models.blstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
 
-	f_mes = f1_score(bl_testY_mult,bl_mult_prediction,average='weighted')
-	b.write("F-Score: "+str(f_mes)+'\n')
-	a.write("BLSTM Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
-	a.write('\n')
+	f_mes = f1_score(testY_mult,bl_mult_prediction,average='weighted')
+	bfile.write("F-Score: "+str(f_mes)+'\n')
+	afile.write("BLSTM F-Score: "+str(f_mes)+'\n')
 
 
 	############# IMPLEMENTING VOTING ALGORITHM #############
+
+	cons_dict = []
+	for g,l,b in zip(gru_mult_prediction,lstm_mult_prediction,bl_mult_prediction):
+		cons = {}
+		cons[0] = 0
+		cons[1] = 0
+		cons[2] = 0
+
+		if g == 1:
+			cons[1] += 1
+		elif g == 2:
+			cons[2] += 1
+
+		if l == 1:
+			cons[1] += 1
+		elif l == 2:
+			cons[2] += 1
+
+		if b == 1:
+			cons[1] += 1
+		elif b == 2:
+			cons[2] += 1
+
+
+		cons_dict.append(cons)
+
+	#print(cons_dict)
+
+	cons_pred = []
+	for x in range(len(cons_dict)):
+		d = cons_dict[x]
+		if d[1]>d[2]:
+			cons_pred.append(1)
+		else:
+			cons_pred.append(2)
+
+
+	allpred = bi_prediction
+
+	idx = 0
+	for a in range(len(allpred)):
+		if allpred[a] == 1:
+			allpred[a] = cons_pred[idx]
+			idx += 1
+
+	print(set(allpred))
+
+	f_mes = f1_score(multtestY,array(allpred),average='weighted')
+	print("FINAL F-SCORE ALL:",f_mes)
+	afile.write("FINAL F-SCORE ALL:"+str(f_mes)+"\n")
+	afile.write('\n')
 
 	'''gru_mult_prediction
 	gru_testY_mult

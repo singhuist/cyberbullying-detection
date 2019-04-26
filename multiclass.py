@@ -1,35 +1,29 @@
 from numpy import array, asarray, zeros
 import tensorflow as tf
-import data_preprocess, embeddings, encode
-import nn_models, awekar_models
+import data_preprocess, embeddings
+import nn_models, awekar_models, multi_models
 from sklearn.model_selection import ShuffleSplit
 from sklearn.metrics import f1_score
 import math
 import matplotlib.pyplot as plt
 
 #files to write results in
-gru_res = 'results/biclass/gru.txt'
-lstm_res = 'results/biclass/lstm.txt'
-blstm_res = 'results/biclass/blstm.txt'
-cnn_res = 'results/biclass/cnn.txt'
-cnn_gru_res = 'results/biclass/cnn-gru.txt'
-all_res = 'results/biclass/all.txt'
+gru_res = 'results/multiclass/gru.txt'
+lstm_res = 'results/multiclass/lstm.txt'
+blstm_res = 'results/multiclass/blstm.txt'
+cnn_res = 'results/multiclass/cnn.txt'
+cnn_gru_res = 'results/multiclass/cnn-gru.txt'
+all_res = 'results/multiclass/all.txt'
 
 
 print("Loading Data ...")
-#data_source = 'data/hatebase_labeled_data.csv'
-#no_bully_source = 'data/formspring_data.csv'
 data_source = 'data/twitter_data.pkl'
 
 print("preprocessing Data ...")
-
-data, classification = data_preprocess.pickleData(data_source)
-
+data, classification = data_preprocess.pickleData_multi(data_source)
 docs = data
 labels = array(classification)
-
 sequences, padlength = embeddings.simpleEncode(data)
-
 del data
 del classification
 
@@ -66,12 +60,11 @@ for word, i in t.word_index.items():
 		embedding_matrix[i] = array([0 for x in range(50)])
 
 
-e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_length=padlength, trainable=False) 
-## setting embeddings to true improves accuracy in each iteration
+e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_length=padlength, trainable=False)
 
 print("Shuffling sets....")
 # SHUFFLE DATA AND SET UP CROSS-VALIDATION
-shuffdata = ShuffleSplit(n_splits=1, test_size=0.2, train_size=0.8)
+shuffdata = ShuffleSplit(n_splits=25, test_size=0.2, train_size=0.8)
 
 train_accuracies = [] #stores the average of different cross validations
 val_accuracies = [] #stores the average of different cross validations
@@ -112,31 +105,38 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 
 	##GRU MODEL
 	print("Creating and Training GRU Model ...")
-	history, pred = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
+	history, pred = multi_models.gru_multi(trainX,trainY,valX,valY,testX,testY,e)
 	#del pred
 
-	f_mes = f1_score(testY,pred)
-	bcount=0
-	bully_count = 0
+	f_mes = f1_score(testY,pred,average='weighted')
+	rcount=0
+	racism_count = 0
+	scount=0
+	sexism_count = 0
 	nbcount=0
 	non_bully_count = 0
 	for x in range(len(testX)):
 		if testY[x] == 1:
-			bully_count = bully_count + 1
+			racism_count = racism_count + 1
 			if pred[x] == 1:
-				bcount = bcount + 1
+				rcount = rcount + 1
+		if testY[x] == 2:
+			sexism_count = sexism_count + 1
+			if pred[x] == 2:
+				scount = scount + 2
 		if testY[x] == 0:
 			non_bully_count = non_bully_count + 1
 			if pred[x] == 0:
 				nbcount = nbcount + 1
-	#print ("Bullying in-category accuracy: ", str(bcount/bully_count))
-	#print ("Non-Bullying in-category accuracy: ", str(nbcount/non_bully_count))
+	
 	gru_out.write("F-Score: "+str(f_mes)+'\n')
-	gru_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	gru_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	gru_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	gru_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write("GRU Model"+"\n")
 	all_out.write("F-Score: "+str(f_mes)+'\n')
-	all_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	all_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	all_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	all_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write('\n')
 
@@ -144,19 +144,25 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 
 	##LSTM MODEL
 	print("Creating and Training LSTM Model ...")
-	history, pred = awekar_models.lstm(trainX,trainY,valX,valY,testX,testY,e)
+	history, pred = multi_models.lstm_multi(trainX,trainY,valX,valY,testX,testY,e)
 	#del pred
 
-	f_mes = f1_score(testY,pred)
-	bcount=0
-	bully_count = 0
+	f_mes = f1_score(testY,pred,average='weighted')
+	rcount=0
+	racism_count = 0
+	scount=0
+	sexism_count = 0
 	nbcount=0
 	non_bully_count = 0
 	for x in range(len(testX)):
 		if testY[x] == 1:
-			bully_count = bully_count + 1
+			racism_count = racism_count + 1
 			if pred[x] == 1:
-				bcount = bcount + 1
+				rcount = rcount + 1
+		if testY[x] == 2:
+			sexism_count = sexism_count + 1
+			if pred[x] == 2:
+				scount = scount + 2
 		if testY[x] == 0:
 			non_bully_count = non_bully_count + 1
 			if pred[x] == 0:
@@ -164,30 +170,38 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	#print ("Bullying in-category accuracy: ", str(bcount/bully_count))
 	#print ("Non-Bullying in-category accuracy: ", str(nbcount/non_bully_count))
 	lstm_out.write("F-Score: "+str(f_mes)+'\n')
-	lstm_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	lstm_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	lstm_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	lstm_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write("LSTM Model"+"\n")
 	all_out.write("F-Score: "+str(f_mes)+'\n')
-	all_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	all_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	all_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	all_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write('\n')
 
 
 	##BLSTM MODEL
 	print("Creating and Training BLSTM Model ...")
-	history, pred = awekar_models.blstm(trainX,trainY,valX,valY,testX,testY,e)
+	history, pred = multi_models.blstm_multi(trainX,trainY,valX,valY,testX,testY,e)
 	#del pred
 
-	f_mes = f1_score(testY,pred)
-	bcount=0
-	bully_count = 0
+	f_mes = f1_score(testY,pred,average='weighted')
+	rcount=0
+	racism_count = 0
+	scount=0
+	sexism_count = 0
 	nbcount=0
 	non_bully_count = 0
 	for x in range(len(testX)):
 		if testY[x] == 1:
-			bully_count = bully_count + 1
+			racism_count = racism_count + 1
 			if pred[x] == 1:
-				bcount = bcount + 1
+				rcount = rcount + 1
+		if testY[x] == 2:
+			sexism_count = sexism_count + 1
+			if pred[x] == 2:
+				scount = scount + 2
 		if testY[x] == 0:
 			non_bully_count = non_bully_count + 1
 			if pred[x] == 0:
@@ -195,16 +209,17 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	#print ("Bullying in-category accuracy: ", str(bcount/bully_count))
 	#print ("Non-Bullying in-category accuracy: ", str(nbcount/non_bully_count))
 	blstm_out.write("F-Score: "+str(f_mes)+'\n')
-	blstm_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	blstm_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	blstm_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	blstm_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write("BLSTM Model"+"\n")
 	all_out.write("F-Score: "+str(f_mes)+'\n')
-	all_out.write("Bullying in-category accuracy: "+str(bcount/bully_count)+'\n')
+	all_out.write("Racism in-category accuracy: "+str(rcount/racism_count)+'\n')
+	all_out.write("Sexism in-category accuracy: "+str(scount/sexism_count)+'\n')
 	all_out.write("Non-Bullying in-category accuracy: "+str(nbcount/non_bully_count)+'\n')
 	all_out.write('\n')
-	all_out.write('---------------------------------'+'\n')
-	all_out.write('\n')
 
+	##CNN TO FOLLOW
 
 
 	'''history_dict = history.history

@@ -48,8 +48,71 @@ def cleanString(sentence):
 
     #print(sentence)
 
-    return sentence
+    return sentence 
 
+def pickleData(filename):
+    data = pickle.load(open(filename, 'rb'))
+    x_text = []
+    labels = [] 
+    ids = []
+    for i in range(len(data)):
+        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
+        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
+        if data[i]['label'] == 'none':
+            labels.append(0)
+        else:
+            labels.append(1)
+    return x_text,labels
+
+
+'''def pickleData_Bully(filename):
+    data = pickle.load(open(filename, 'rb'))
+    x_text = []
+    labels = [] 
+    ids = []
+    for i in range(len(data)):
+        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
+        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
+        if data[i]['label'] == 'racism':
+            labels.append(0)
+        elif data[i]['label'] == 'sexism':
+            labels.append(1)
+    return x_text,labels'''
+
+def pickleData_staggered(filename):
+    data = pickle.load(open(filename, 'rb'))
+    x_text = []
+    bi_labels = []
+    multi_labels = [] 
+    ids = []
+    for i in range(len(data)):
+        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
+        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
+        if data[i]['label'] == 'none':
+            labels.append(0)
+        else:
+            labels.append(1)
+    return x_text,labels
+
+
+def pickleData_multi(filename):
+    data = pickle.load(open(filename, 'rb'))
+    x_text = []
+    labels = [] 
+    ids = []
+    for i in range(len(data)):
+        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
+        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
+        if data[i]['label'] == 'none':
+            labels.append(0)
+        elif data[i]['label'] == 'racism':
+            labels.append(1)
+        elif data[i]['label'] == 'sexism':
+            labels.append(2)
+    return x_text,labels
+
+
+"""
 
 def biClass(datafile):
     '''
@@ -148,18 +211,6 @@ def noBully(datafile):
                         nobullysents.append(cleanString(row[3]))
                         nobullylabels.append(0)
     print(len(nobullysents))
-    return nobullysents, nobullylabels 
+    return nobullysents, nobullylabels
 
-def pickleData(filename):
-    data = pickle.load(open(filename, 'rb'))
-    x_text = []
-    labels = [] 
-    ids = []
-    for i in range(len(data)):
-        text = "".join(l for l in data[i]['text'] if l not in string.punctuation)
-        x_text.append(cleanString((data[i]['text']).encode('utf-8').decode('utf-8')))
-        if data[i]['label'] == 'none':
-            labels.append(0)
-        else:
-            labels.append(1)
-    return x_text,labels
+"""
