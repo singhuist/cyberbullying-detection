@@ -26,7 +26,7 @@ def gru_multi(Xtrain,Ytrain,XVal,YVal,testdata,testlabel,embedlayer):
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
     # TRAIN THE MODEL
-    history = model.fit(Xtrain, Ytrain, epochs=15, batch_size=100, validation_data=(XVal,YVal), verbose=1)
+    history = model.fit(Xtrain, Ytrain, epochs=50, batch_size=100, validation_data=(XVal,YVal), verbose=1)
 
     print("model fitted....making predictions")
 
@@ -55,7 +55,7 @@ def lstm_multi(Xtrain,Ytrain,XVal,YVal,testdata,testlabel,embedlayer):
     model.add(keras.layers.Dropout(0.50))
     model.add(keras.layers.Dense(3, activation='softmax')) #1 must be no. of classes
     model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    history = model.fit(Xtrain, Ytrain, epochs=15, batch_size=100, validation_data=(XVal,YVal), verbose=1)
+    history = model.fit(Xtrain, Ytrain, epochs=50, batch_size=100, validation_data=(XVal,YVal), verbose=1)
 
     prediction = np.argmax(model.predict(testdata),axis=1) #output of the model
     
@@ -76,7 +76,7 @@ def blstm_multi(Xtrain,Ytrain,XVal,YVal,testdata,testlabel,embedlayer):
     model.add(keras.layers.Dropout(0.50))
     model.add(keras.layers.Dense(3, activation='softmax')) #1 must be no. of classes
     model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    history = model.fit(Xtrain, Ytrain, epochs=15, batch_size=100, validation_data=(XVal,YVal), verbose=1)
+    history = model.fit(Xtrain, Ytrain, epochs=50, batch_size=100, validation_data=(XVal,YVal), verbose=1)
     prediction = np.argmax(model.predict(testdata),axis=1) #output of the model
 
      # EVALUATE THE MODEL

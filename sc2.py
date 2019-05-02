@@ -3,7 +3,8 @@ import tensorflow as tf
 import data_preprocess, embeddings
 import nn_models, multi_models, awekar_models
 from sklearn.model_selection import ShuffleSplit
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, accuracy_score, precision_score, recall_score
+import random
 import math
 import matplotlib.pyplot as plt
 
@@ -18,6 +19,24 @@ data, classification = data_preprocess.pickleData(data_source) #bi-class data
 mult_data, mult_class = data_preprocess.pickleData_multi(data_source) #multi-class data
 #bully_data, bully_class = data_preprocess.pickleData_multi(data_source)
 del mult_data
+
+ostext = []
+oslabel = []
+oslabelmult = []
+for l in range(len(classification)):
+	if classification[l] != 0:
+		ostext.append(data[l])
+		oslabel.append(classification[l])
+		oslabelmult.append(mult_class[l])
+
+data = data + ostext
+classification = classification + oslabel
+mult_class = mult_class + oslabelmult
+
+oversampled = list(zip(data, classification, mult_class))
+random.shuffle(oversampled)
+data, classification, mult_class = zip(*oversampled)
+
 
 docs = data
 labels = array(classification) #binary class labels
@@ -68,17 +87,17 @@ e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_
 
 print("Shuffling sets....")
 # SHUFFLE DATA AND SET UP CROSS-VALIDATION
-shuffdata = ShuffleSplit(n_splits=1, test_size=0.2, train_size=0.8)
+shuffdata = ShuffleSplit(n_splits=10, test_size=0.2, train_size=0.8)
 
 train_accuracies = [] #stores the average of different cross validations
 val_accuracies = [] #stores the average of different cross validations
 train_losses = [] #stores the average of different cross validations
 val_losses = [] #stores the average of different cross validations
 
-allres = 'results/staggered/sc2.txt'
-grures = 'results/staggered/gru.txt'
-lstmres = 'results/staggered/lstm.txt'
-blstmres = 'results/staggered/blstm.txt'
+allres = 'results/staggered/sc2/sc2.txt'
+grures = 'results/staggered/sc2/gru.txt'
+lstmres = 'results/staggered/sc2/lstm.txt'
+blstmres = 'results/staggered/sc2/blstm.txt'
 
 afile = open(allres,'w')
 gfile = open(grures,'w')
@@ -208,13 +227,15 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 			allpred[a] = mult_prediction[idx]
 			idx += 1
 
-	print(set(allpred))
+	f_mes = f1_score(multtestY,array(allpred),average='weighted')
+	a_mes = accuracy_score(multtestY,array(allpred))
+	p_mes = precision_score(multtestY,array(allpred),average='weighted')
+	r_mes = recall_score(multtestY,array(allpred),average='weighted')
 
-
-	f_mes = f1_score(multtestY,allpred,average='weighted')
-
-	afile.write("F-Score ALL: "+str(f_mes)+'\n')
-	afile.write('\n')
+	afile.write("Accuracy: "+str(a_mes)+'\n')
+	afile.write("Precision: "+str(p_mes)+'\n')
+	afile.write("Recall: "+str(r_mes)+'\n')
+	afile.write("F-Score: "+str(f_mes)+'\n')
 
 
 	

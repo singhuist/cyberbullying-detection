@@ -3,9 +3,10 @@ import tensorflow as tf
 import data_preprocess, embeddings
 import nn_models, multi_models, awekar_models
 from sklearn.model_selection import ShuffleSplit
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, accuracy_score, precision_score, recall_score
 import math
 import matplotlib.pyplot as plt
+import random
 
 
 print("Loading Data ...")
@@ -13,11 +14,29 @@ print("Loading Data ...")
 data_source = 'data/twitter_data.pkl'
 
 print("preprocessing Data ...")
-
 data, classification = data_preprocess.pickleData(data_source) #bi-class data
 mult_data, mult_class = data_preprocess.pickleData_multi(data_source) #multi-class data
 #bully_data, bully_class = data_preprocess.pickleData_multi(data_source)
 del mult_data
+
+
+ostext = []
+oslabel = []
+oslabelmult = []
+for l in range(len(classification)):
+	if classification[l] != 0:
+		ostext.append(data[l])
+		oslabel.append(classification[l])
+		oslabelmult.append(mult_class[l])
+
+data = data + ostext
+classification = classification + oslabel
+mult_class = mult_class + oslabelmult
+
+oversampled = list(zip(data, classification, mult_class))
+random.shuffle(oversampled)
+data, classification, mult_class = zip(*oversampled)
+
 
 docs = data
 labels = array(classification) #binary class labels
@@ -68,7 +87,7 @@ e = tf.keras.layers.Embedding(vocab_size, 50, weights=[embedding_matrix], input_
 
 print("Shuffling sets....")
 # SHUFFLE DATA AND SET UP CROSS-VALIDATION
-shuffdata = ShuffleSplit(n_splits=1, test_size=0.2, train_size=0.8)
+shuffdata = ShuffleSplit(n_splits=10, test_size=0.2, train_size=0.8)
 
 train_accuracies = [] #stores the average of different cross validations
 val_accuracies = [] #stores the average of different cross validations
@@ -155,10 +174,18 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	history,gru_mult_prediction = multi_models.gru_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,gru_testX_mult,gru_testY_mult,e)
 
 	f_mes = f1_score(gru_testY_mult,gru_mult_prediction,average='weighted')
+	a_mes = accuracy_score(gru_testY_mult,gru_mult_prediction)
+	p_mes = precision_score(gru_testY_mult,gru_mult_prediction,average='weighted')
+	r_mes = recall_score(gru_testY_mult,gru_mult_prediction,average='weighted')
+
+	g.write("Accuracy: "+str(a_mes)+'\n')
+	g.write("Precision: "+str(p_mes)+'\n')
+	g.write("Recall: "+str(r_mes)+'\n')
 	g.write("F-Score: "+str(f_mes)+'\n')
-	a.write("GRU Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
+
+	a.write("GRU F-Score: "+str(f_mes)+'\n')
 	a.write('\n')
+
 	
 	################################################
 
@@ -183,9 +210,16 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	history,lstm_mult_prediction = multi_models.lstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,lstm_testX_mult,lstm_testY_mult,e)
 
 	f_mes = f1_score(lstm_testY_mult,lstm_mult_prediction,average='weighted')
+	a_mes = accuracy_score(lstm_testY_mult,lstm_mult_prediction)
+	p_mes = precision_score(lstm_testY_mult,lstm_mult_prediction,average='weighted')
+	r_mes = recall_score(lstm_testY_mult,lstm_mult_prediction,average='weighted')
+
+	l.write("Accuracy: "+str(a_mes)+'\n')
+	l.write("Precision: "+str(p_mes)+'\n')
+	l.write("Recall: "+str(r_mes)+'\n')
 	l.write("F-Score: "+str(f_mes)+'\n')
-	a.write("LSTM Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
+
+	a.write("LSTM F-Score: "+str(f_mes)+'\n')
 	a.write('\n')
 
 	####################################################################################
@@ -212,26 +246,17 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	history,bl_mult_prediction = multi_models.blstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,bl_testX_mult,bl_testY_mult,e)
 
 	f_mes = f1_score(bl_testY_mult,bl_mult_prediction,average='weighted')
+	a_mes = accuracy_score(bl_testY_mult,bl_mult_prediction)
+	p_mes = precision_score(bl_testY_mult,bl_mult_prediction,average='weighted')
+	r_mes = recall_score(bl_testY_mult,bl_mult_prediction,average='weighted')
+
+	b.write("Accuracy: "+str(a_mes)+'\n')
+	b.write("Precision: "+str(p_mes)+'\n')
+	b.write("Recall: "+str(r_mes)+'\n')
 	b.write("F-Score: "+str(f_mes)+'\n')
-	a.write("BLSTM Model"+"\n")
-	a.write("F-Score: "+str(f_mes)+'\n')
+
+	a.write("BLSTM F-Score: "+str(f_mes)+'\n')
 	a.write('\n')
-
-
-	############# IMPLEMENTING VOTING ALGORITHM #############
-
-	'''gru_mult_prediction
-	gru_testY_mult
-	gru_testX_mult
-
-	lstm_mult_prediction
-	lstm_testY_mult
-	lstm_testX_mult
-
-	bl_mult_prediction
-	bl_testY_mult
-	bl_testX_mult'''
-
 
 
 	'''history_dict = history.history

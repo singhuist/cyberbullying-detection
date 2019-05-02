@@ -4,9 +4,9 @@ import data_preprocess, embeddings
 import nn_models, multi_models, awekar_models
 from sklearn.model_selection import ShuffleSplit
 from sklearn.metrics import f1_score, accuracy_score, precision_score, recall_score
-import random
 import math
 import matplotlib.pyplot as plt
+import random
 
 
 print("Loading Data ...")
@@ -94,10 +94,10 @@ val_accuracies = [] #stores the average of different cross validations
 train_losses = [] #stores the average of different cross validations
 val_losses = [] #stores the average of different cross validations
 
-allres = 'results/staggered/sc3/sc3.txt'
-grures = 'results/staggered/sc3/gru.txt'
-lstmres = 'results/staggered/sc3/lstm.txt'
-blstmres = 'results/staggered/sc3/blstm.txt'
+allres = 'results/staggered/sc1/sc1.txt'
+grures = 'results/staggered/sc1/gru.txt'
+lstmres = 'results/staggered/sc1/lstm.txt'
+blstmres = 'results/staggered/sc1/blstm.txt'
 
 afile = open(allres,'w')
 gfile = open(grures,'w')
@@ -151,63 +151,15 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	testY = array(testY)
 
 	
-	print("Creating and Training GRU Bi-Classification Model ...")
-	bi_history, gru_bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
-	
-	print("Creating and Training LSTM Bi-Classification Model ...")
-	bi_history, lstm_bi_prediction = awekar_models.lstm(trainX,trainY,valX,valY,testX,testY,e)
-
 	print("Creating and Training Bi-Classification Model ...")
-	bi_history, bl_bi_prediction = awekar_models.blstm(trainX,trainY,valX,valY,testX,testY,e)
-
-
-	### INSERT CONSENSUS ###
-
-	cons_dict = []
-	for g,l,b in zip(gru_bi_prediction,lstm_bi_prediction,bl_bi_prediction):
-
-		cons = {}
-		cons[0] = 0
-		cons[1] = 0
-
-		if g == 0:
-			cons[0] += 1
-		elif g == 1:
-			cons[1] += 1
-
-		if l == 0:
-			cons[0] += 1
-		elif l == 1:
-			cons[1] += 1
-
-		if b == 0:
-			cons[0] += 1
-		elif b == 1:
-			cons[1] += 1
-
-
-		cons_dict.append(cons)
-
-	#print(cons_dict[:20])
-
-	cons_pred = []
-	for x in range(len(cons_dict)):
-		d = cons_dict[x]
-		if d[0]>d[1]:
-			cons_pred.append(0)
-		else:
-			cons_pred.append(1)
-
-	#print(cons_pred[:20])
-
-
-	### FINAL CLASSIFICATION GRU MODEL ###
+	#bi_history,bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
+	bi_history, bi_prediction = nn_models.GatedRecurrentUnit(trainX,trainY,valX,valY,testX,testY,e)
 
 	testX_mult = []
 	testY_mult = []
 
-	for p in range(len(cons_pred)):
-		if cons_pred[p] == 1:
+	for p in range(len(bi_prediction)):
+		if bi_prediction[p] == 1:
 			testX_mult.append(testX[p])
 			testY_mult.append(multtestY[p])
 
@@ -216,30 +168,68 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	testX_mult = array(testX_mult)
 	testY_mult = array(testY_mult)
 
-	print("Creating and Training Multi-Classification Models Now ...")
-	history, g_mult_prediction = multi_models.gru_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
-	history, l_mult_prediction = multi_models.lstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
-	history, b_mult_prediction = multi_models.blstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
+	print("Creating and Training Multi-Classification Model ...")
+	history,gru_mult_prediction = multi_models.gru_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
 
-	"""f_mes = f1_score(testY_mult,g_mult_prediction,average='weighted')
-	#gfile.write("F-Score: "+str(f_mes)+'\n')
+	f_mes = f1_score(testY_mult,gru_mult_prediction,average='weighted')
+	a_mes = accuracy_score(testY_mult,gru_mult_prediction)
+	p_mes = precision_score(testY_mult,gru_mult_prediction,average='weighted')
+	r_mes = recall_score(testY_mult,gru_mult_prediction,average='weighted')
+
+	gfile.write("Accuracy: "+str(a_mes)+'\n')
+	gfile.write("Precision: "+str(p_mes)+'\n')
+	gfile.write("Recall: "+str(r_mes)+'\n')
+	gfile.write("F-Score: "+str(f_mes)+'\n')
+
 	afile.write("GRU F-Score: "+str(f_mes)+'\n')
+	afile.write('\n')
 
-	f_mes = f1_score(testY_mult,l_mult_prediction,average='weighted')
-	print(f_mes)
-	#lfile.write("F-Score: "+str(f_mes)+'\n')
+
+	####################################################################################
+	
+
+	print("Creating and Training Multi-Classification Model ...")
+	history,lstm_mult_prediction = multi_models.lstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
+
+	f_mes = f1_score(testY_mult,lstm_mult_prediction,average='weighted')
+	a_mes = accuracy_score(testY_mult,lstm_mult_prediction)
+	p_mes = precision_score(testY_mult,lstm_mult_prediction,average='weighted')
+	r_mes = recall_score(testY_mult,lstm_mult_prediction,average='weighted')
+
+	lfile.write("Accuracy: "+str(a_mes)+'\n')
+	lfile.write("Precision: "+str(p_mes)+'\n')
+	lfile.write("Recall: "+str(r_mes)+'\n')
+	lfile.write("F-Score: "+str(f_mes)+'\n')
+
 	afile.write("LSTM F-Score: "+str(f_mes)+'\n')
+	afile.write('\n')
 
-	f_mes = f1_score(testY_mult,b_mult_prediction,average='weighted')
-	#bfile.write("F-Score: "+str(f_mes)+'\n')
-	afile.write("BLSTM F-Score: "+str(f_mes)+'\n')"""
+	####################################################################################
+
+	
+	print("Creating and Training Multi-Classification Model ...")
+	history,bl_mult_prediction = multi_models.blstm_multi(trainX_mult,trainY_mult,valX_mult,valY_mult,testX_mult,testY_mult,e)
+
+	f_mes = f1_score(testY_mult,bl_mult_prediction,average='weighted')
+	a_mes = accuracy_score(testY_mult,bl_mult_prediction)
+	p_mes = precision_score(testY_mult,bl_mult_prediction,average='weighted')
+	r_mes = recall_score(testY_mult,bl_mult_prediction,average='weighted')
+
+	bfile.write("Accuracy: "+str(a_mes)+'\n')
+	bfile.write("Precision: "+str(p_mes)+'\n')
+	bfile.write("Recall: "+str(r_mes)+'\n')
+	bfile.write("F-Score: "+str(f_mes)+'\n')
+
+	afile.write("BLSTM F-Score: "+str(f_mes)+'\n')
+	afile.write('\n')
 
 
-	#### CONSENSUS AGAIN ####
+	############# IMPLEMENTING VOTING ALGORITHM #############
 
-	cons_mult = []
-	for g,l,b in zip(g_mult_prediction,l_mult_prediction,b_mult_prediction):
+	cons_dict = []
+	for g,l,b in zip(gru_mult_prediction,lstm_mult_prediction,bl_mult_prediction):
 		cons = {}
+		cons[0] = 0
 		cons[1] = 0
 		cons[2] = 0
 
@@ -259,30 +249,30 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 			cons[2] += 1
 
 
-		cons_mult.append(cons)
+		cons_dict.append(cons)
 
 	#print(cons_dict)
 
-	cons_pred_mult = []
-	for x in range(len(cons_mult)):
-		d = cons_mult[x]
+	cons_pred = []
+	for x in range(len(cons_dict)):
+		d = cons_dict[x]
 		if d[1]>d[2]:
-			cons_pred_mult.append(1)
+			cons_pred.append(1)
 		else:
-			cons_pred_mult.append(2)
+			cons_pred.append(2)
 
 
-	allpred = cons_pred
+	allpred = bi_prediction
 
 	idx = 0
 	for a in range(len(allpred)):
 		if allpred[a] == 1:
-			allpred[a] = cons_pred_mult[idx]
+			allpred[a] = cons_pred[idx]
 			idx += 1
 
 	print(set(allpred))
 
-
+	
 	f_mes = f1_score(multtestY,array(allpred),average='weighted')
 	a_mes = accuracy_score(multtestY,array(allpred))
 	p_mes = precision_score(multtestY,array(allpred),average='weighted')
@@ -294,8 +284,39 @@ for train_index, test_index in shuffdata.split(padded_docs,labels):
 	afile.write("F-Score: "+str(f_mes)+'\n')
 
 
-	
+	'''history_dict = history.history
+	history_dict.keys()
 
+	# PLOT GRAPHS
+	print("Plotting graphs ...")
+	acc = history.history['acc']
+	val_acc = history.history['val_acc']
+	loss = history.history['loss']
+	val_loss = history.history['val_loss']
+	epochs = range(1, len(acc) + 1)
+
+	plt.plot(epochs, acc, 'bo', label='Training acc')
+	plt.plot(epochs, val_acc, 'b', label='Validation acc')
+	plt.title('Training and validation accuracy')
+	plt.xlabel('Epochs')
+	plt.ylabel('Accuracy')
+	plt.legend()
+	plt.show()
+
+	train_accuracies.append(sum(acc) / len(acc))
+	val_accuracies.append(sum(val_acc) / len(val_acc))'''
+
+
+#OVERALL AVG MODEL ACCURACIES
+'''kfold = range(1, len(train_accuracies) + 1)
+plt.plot(kfold, train_accuracies, 'bo', label='Training acc')
+plt.plot(kfold, val_accuracies, 'b', label='Validation acc')
+plt.title('Training and validation accuracy')
+plt.xlabel('K-Fold')
+plt.ylabel('Accuracy')
+plt.legend()
+
+plt.show()'''
 
 
 

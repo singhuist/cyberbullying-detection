@@ -1,3 +1,5 @@
+# SOURCE: https://jeremykun.com/2012/01/15/word-segmentation/
+
 #!/usr/bin/python
 
 import functools, math

@@ -6,6 +6,7 @@ from sklearn.model_selection import ShuffleSplit
 import math
 import matplotlib.pyplot as plt
 import adversarial as vadv
+import random
 
 import os
 import matplotlib
@@ -18,6 +19,22 @@ data_source = 'data/twitter_data.pkl'
 
 print("preprocessing Data ...")
 data, classification = data_preprocess.pickleData(data_source)
+
+##random oversampling to balance class bias
+
+ostext = []
+oslabel = []
+for l in range(len(classification)):
+	if classification[l] == 1:
+		ostext.append(data[l])
+		oslabel.append(classification[l])
+data = data + ostext
+classification = classification + oslabel
+
+oversampled = list(zip(data, classification))
+random.shuffle(oversampled)
+data, classification = zip(*oversampled)
+
 docs = data
 labels = array(classification)
 sequences, padlength = embeddings.simpleEncode(data)

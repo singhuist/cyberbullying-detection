@@ -1,3 +1,5 @@
+##CODE ADOPTED AND MODIFIED FROM: https://github.com/enry12/adversarial_training_methods 
+
 import tensorflow as tf
 from tensorflow import keras as K
 import numpy as np
@@ -9,28 +11,34 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 class Network:
-    def __init__(self, session, dict_weight, dropout=0.2, lstm_units=1024, dense_units=30):
+    def __init__(self, session, dict_weight, dropout=0.2, gru_units=1024, dense_units=50):
         self.sess = session
         K.backend.set_session(self.sess)
         #defining layers
         dict_shape = dict_weight.shape
         self.emb = K.layers.Embedding(dict_shape[0], dict_shape[1], weights=[dict_weight], trainable=False, name='embedding')
         self.drop = K.layers.Dropout(rate=dropout, seed=91, name='dropout')
-        self.lstm = K.layers.LSTM(lstm_units, stateful=False, return_sequences=False, name='lstm')
+        #self.lstm = K.layers.LSTM(lstm_units, stateful=False, return_sequences=False, name='lstm')
+        self.gru = K.layers.GRU(gru_units, name='gru')
         self.dense = K.layers.Dense(dense_units, activation='relu', name='dense')
         self.p = K.layers.Dense(1, activation='sigmoid', name='p')
         #defining optimizer
         self.optimizer = tf.train.AdamOptimizer(learning_rate=0.0005)
         # self.optimizer = tf.train.RMSPropOptimizer(learning_rate=0.001)
 
+        
+
     def __call__(self, batch, perturbation=None):
         embedding = self.emb(batch) 
         drop = self.drop(embedding)
         if (perturbation is not None):
             drop += perturbation
-        lstm = self.lstm(drop)
-        dense = self.dense(lstm)
+        #lstm = self.lstm(drop)
+        gru = self.gru(drop)
+        #dense = self.dense(lstm)
+        dense = self.dense(gru)
         return self.p(dense), embedding
+        
     
     def get_minibatch(self, x, y, ul, batch_shape=(64, 400)):
         #x = K.preprocessing.sequence.pad_sequences(x, maxlen=batch_shape[1])
@@ -182,18 +190,45 @@ class Network:
         batch = tf.placeholder(tf.float32, shape=(None, batch_shape[1]), name='test_batch')
 
         accuracy = tf.reduce_mean( K.metrics.binary_accuracy(labels, self(batch)[0]) )
+        f_score = tf.reduce_mean( tf.contrib.metrics.f1_score(labels, self(batch)[0], weights=None, num_thresholds=2, metrics_collections=None, updates_collections=None, name=None) )
         
+        #new
+        precision = tf.metrics.precision(labels, self(batch)[0], weights=None, metrics_collections=None, updates_collections=None, name=None)
+        recall = tf.metrics.recall(labels, self(batch)[0], weights=None, metrics_collections=None, updates_collections=None, name=None)
+
         accuracies = list()
-        #bar = ProgressBar(max_value=np.floor(len(ytest)/batch_shape[0]).astype('i'))
+        f_scores = list()
+        
         minibatch = enumerate(self.get_minibatch(xtest, ytest, ul=None, batch_shape=batch_shape))
         for i, test_batch in minibatch:
             fd = {batch: test_batch['x'], labels: test_batch['y'], K.backend.learning_phase(): 0} #test mode
             accuracies.append( self.sess.run(accuracy, feed_dict=fd) )
+            self.sess.run(tf.local_variables_initializer())
+            f_scores.append(self.sess.run(f_score, feed_dict=fd))
+
+            ##new
+            p = self.sess.run(precision, feed_dict=fd)
+            r = self.sess.run(recall, feed_dict=fd)
+            fs = self.sess.run(f_score, feed_dict=fd)
+            a = self.sess.run(accuracy, feed_dict=fd)
+
+            print("Accuracy: ",a)
+            print("Precision: ",p)
+            print("Recall: ",r)
+            print("TF f-score: ",fs)
+            print("xxxxxx")
+
+            f.write("Accuracy: "+str(a)+"\n")
+            f.write("Precision: "+str(p[1])+"\n")
+            f.write("Recall: "+str(r[1])+"\n")
+            f.write("F-Score: "+str(fs)+"\n")
+            f.write("---------"+"\n")
+            f.write("\n")
             
-            #bar.update(i)
         
         print( "\nAverage accuracy is {:.3f}".format(np.asarray(accuracies).mean()) )
         f.write("Average Test Acc: "+str(np.asarray(accuracies).mean())+"\n")
+        f.write("Average F-Score: "+str(np.asarray(f_scores).mean())+"\n")
         f.write("___________________________________________________________"+"\n")
 
 

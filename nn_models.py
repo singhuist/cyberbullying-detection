@@ -23,12 +23,12 @@ def GatedRecurrentUnit(Xtrain,Ytrain,XVal,YVal,testdata,testlabel,embedlayer):
     model.add(keras.layers.Dropout(0.50))
     model.add(keras.layers.Dense(2, activation="softmax"))
     
-    print(model.summary())
+    #print(model.summary())
 
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
     # TRAIN THE MODEL
-    history = model.fit(Xtrain, Ytrain, epochs=10, batch_size=500, validation_data=(XVal,YVal), verbose=1)
+    history = model.fit(Xtrain, Ytrain, epochs=50, batch_size=250, validation_data=(XVal,YVal), verbose=1)
 
     #prediction = model.predict_class(testdata) #output of the model
     prediction = np.argmax(model.predict(testdata),axis=1) #output of the model
