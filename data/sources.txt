@@ -1,5 +1,0 @@
-http://research.cs.wisc.edu/bullying/data.html
-http://chatcoder.com/DataDownload
-https://www.kaggle.com/swetaagrawal/formspring-data-for-cyberbullying-detection/version/4
-https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data
-https://github.com/zeerakw/hatespeech
