@@ -1,170 +1,34 @@
 GRU Model
-F-Score: 0.683969465648855
-Bullying in-category accuracy: 0.6787878787878788
-Non-Bullying in-category accuracy: 0.8640035906642729
+F-Score: 0.7936740210332373
+Bullying in-category accuracy: 0.5727091633466136
+Non-Bullying in-category accuracy: 0.9046973803071364
 
 LSTM Model
-F-Score: 0.6635465418616745
-Bullying in-category accuracy: 0.6444444444444445
-Non-Bullying in-category accuracy: 0.8675942549371634
+F-Score: 0.7973822239693902
+Bullying in-category accuracy: 0.5906374501992032
+Non-Bullying in-category accuracy: 0.9001806684733514
 
 BLSTM Model
-F-Score: 0.6680141485598786
-Bullying in-category accuracy: 0.6676767676767676
-Non-Bullying in-category accuracy: 0.8527827648114902
+F-Score: 0.7989978108551732
+Bullying in-category accuracy: 0.600597609561753
+Non-Bullying in-category accuracy: 0.8970189701897019
 
 ---------------------------------
 
 GRU Model
-F-Score: 0.8314720812182741
-Bullying in-category accuracy: 0.8314720812182741
-Non-Bullying in-category accuracy: 0.9256605463502016
+F-Score: 0.7900488890966757
+Bullying in-category accuracy: 0.5811881188118811
+Non-Bullying in-category accuracy: 0.894927536231884
 
 LSTM Model
-F-Score: 0.8105864037363778
-Bullying in-category accuracy: 0.7928934010152284
-Non-Bullying in-category accuracy: 0.9278996865203761
+F-Score: 0.7938960629596061
+Bullying in-category accuracy: 0.5801980198019802
+Non-Bullying in-category accuracy: 0.9017210144927537
 
 BLSTM Model
-F-Score: 0.7975522692503825
-Bullying in-category accuracy: 0.7939086294416243
-Non-Bullying in-category accuracy: 0.9131213613972234
-
----------------------------------
-
-GRU Model
-F-Score: 0.8892307692307692
-Bullying in-category accuracy: 0.878419452887538
-Non-Bullying in-category accuracy: 0.9569699686239355
-
-LSTM Model
-F-Score: 0.8653745416448402
-Bullying in-category accuracy: 0.8368794326241135
-Non-Bullying in-category accuracy: 0.9569699686239355
-
-BLSTM Model
-F-Score: 0.8547544409613376
-Bullying in-category accuracy: 0.828774062816616
-Non-Bullying in-category accuracy: 0.9511429852084267
-
----------------------------------
-
-GRU Model
-F-Score: 0.9220907297830375
-Bullying in-category accuracy: 0.9220907297830375
-Non-Bullying in-category accuracy: 0.9641560798548094
-
-LSTM Model
-F-Score: 0.9161676646706586
-Bullying in-category accuracy: 0.9053254437869822
-Non-Bullying in-category accuracy: 0.9673321234119783
-
-BLSTM Model
-F-Score: 0.8994082840236687
-Bullying in-category accuracy: 0.8994082840236687
-Non-Bullying in-category accuracy: 0.9537205081669692
-
----------------------------------
-
-GRU Model
-F-Score: 0.9363369245837414
-Bullying in-category accuracy: 0.93359375
-Non-Bullying in-category accuracy: 0.9717411121239745
-
-LSTM Model
-F-Score: 0.9221032132424538
-Bullying in-category accuracy: 0.9248046875
-Non-Bullying in-category accuracy: 0.9621695533272562
-
-BLSTM Model
-F-Score: 0.9095330739299611
-Bullying in-category accuracy: 0.9130859375
-Non-Bullying in-category accuracy: 0.955788514129444
-
----------------------------------
-
-GRU Model
-F-Score: 0.9541832669322708
-Bullying in-category accuracy: 0.9532338308457712
-Non-Bullying in-category accuracy: 0.9796656122910077
-
-LSTM Model
-F-Score: 0.9414141414141414
-Bullying in-category accuracy: 0.9273631840796019
-Non-Bullying in-category accuracy: 0.9805693628558518
-
-BLSTM Model
-F-Score: 0.9338677354709419
-Bullying in-category accuracy: 0.9273631840796019
-Non-Bullying in-category accuracy: 0.973339358337099
-
----------------------------------
-
-GRU Model
-F-Score: 0.9633027522935781
-Bullying in-category accuracy: 0.9535822401614531
-Non-Bullying in-category accuracy: 0.9883251010327795
-
-LSTM Model
-F-Score: 0.9555895865237365
-Bullying in-category accuracy: 0.9445005045408678
-Non-Bullying in-category accuracy: 0.9856308935788056
-
-BLSTM Model
-F-Score: 0.9468798349664777
-Bullying in-category accuracy: 0.9263370332996973
-Non-Bullying in-category accuracy: 0.9865289627301302
-
----------------------------------
-
-GRU Model
-F-Score: 0.9669788072942336
-Bullying in-category accuracy: 0.9646017699115044
-Non-Bullying in-category accuracy: 0.9859154929577465
-
-LSTM Model
-F-Score: 0.958971824023727
-Bullying in-category accuracy: 0.9537856440511308
-Non-Bullying in-category accuracy: 0.983643798273512
-
-BLSTM Model
-F-Score: 0.9560059317844786
-Bullying in-category accuracy: 0.9508357915437562
-Non-Bullying in-category accuracy: 0.9822807814629714
-
----------------------------------
-
-GRU Model
-F-Score: 0.9749877390877881
-Bullying in-category accuracy: 0.9735553379040157
-Non-Bullying in-category accuracy: 0.9890760127446518
-
-LSTM Model
-F-Score: 0.9694581280788178
-Bullying in-category accuracy: 0.9637610186092067
-Non-Bullying in-category accuracy: 0.9886208466090123
-
-BLSTM Model
-F-Score: 0.9605070697220868
-Bullying in-category accuracy: 0.9647404505386875
-Non-Bullying in-category accuracy: 0.9795175238962222
-
----------------------------------
-
-GRU Model
-F-Score: 0.9768518518518519
-Bullying in-category accuracy: 0.9777571825764597
-Non-Bullying in-category accuracy: 0.9878447872837774
-
-LSTM Model
-F-Score: 0.9725708972570897
-Bullying in-category accuracy: 0.969416126042632
-Non-Bullying in-category accuracy: 0.9878447872837774
-
-BLSTM Model
-F-Score: 0.9666975023126735
-Bullying in-category accuracy: 0.9684893419833179
-Non-Bullying in-category accuracy: 0.9822346891070594
+F-Score: 0.7919095662011337
+Bullying in-category accuracy: 0.6207920792079208
+Non-Bullying in-category accuracy: 0.875
 
 ---------------------------------
 
