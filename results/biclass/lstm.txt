@@ -1,6 +1,0 @@
-F-Score: 0.7973822239693902
-Bullying in-category accuracy: 0.5906374501992032
-Non-Bullying in-category accuracy: 0.9001806684733514
-F-Score: 0.7938960629596061
-Bullying in-category accuracy: 0.5801980198019802
-Non-Bullying in-category accuracy: 0.9017210144927537
